@@ -47,15 +47,16 @@
 
 .flexnav li a
 {
+    font-size: 1.25em;
     text-decoration: none;
     position: relative;
     display: block;
-    padding: .96em;
+    padding: 0.5em;
     z-index: 2;
     overflow: hidden;
-    color: #222222;
-    background: #a6a6a2;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    color: #020202;
+    background: #feffbd;
+    border-bottom: 1px solid #020202;
 }
 
 .flexnav li a:hover
@@ -142,13 +143,14 @@
  * Menu Button Styles
  */
 .menu-button {
+    font-size: 1.25em;
     position: relative;
     display: block;
     padding: 1em;
-    background: #a6a6a2;
-    color: #222222;
+    background: #feffbd;
+    color: #020202;
     cursor: pointer;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid #020202;
 }
 
 .menu-button.one-page
@@ -219,7 +221,6 @@
     
     .flexnav li a
     {
-        border-left: 1px solid #acaca1;
         border-bottom: none;
     }
     

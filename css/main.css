@@ -9,8 +9,12 @@ textarea {
 }
 
 html {
+    font-family: "Muli", sans-serif;
     font-size: 1em;
     line-height: 1.4;
+    background-image: url("../img/Knitting Inverted.png");
+    margin: 0;
+    height: 100%;
 }
 
 ::-moz-selection {
@@ -67,24 +71,158 @@ textarea {
 // Yellow:  #feffbd
 // Orange?: #b89223
 
+/********************
+ * Global Styles
+ *******************/
+/* Font and margin colour. */
+html {
+}
+
+/* Content size and colour. */
+body {
+    height: calc(100% - 4em);
+    width: 950px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    //background: #FFF;
+}
 
 
+/*******************
+ * Sticky Footer
+ ******************/
+.wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -5em; 
+}
+
+/* Sticky Footer - Opera Fix */
+body:before {
+    content:"";
+    height:100%;
+    float:left;
+    width:0;
+    margin-top:-32767px;/
+}
 
 
+/********************
+ * Header Styles
+ *******************/
+header {
+    margin-bottom: 2em;
+    background-color: #020202;
+    border: 2px solid #feffbd;
+    border-radius: 5px;
+}
+
+header .header_banner {
+    position: relative; 
+    width: 100%;
+}
+
+header .header_banner img {
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+
+header .header_banner h2 {
+    position: absolute;
+    right: 0;
+    bottom: 20%;
+    
+    margin: 0;
+    padding: 0;
+    margin-right: 1em;
+
+    text-align: right;
+    font-weight: normal;
+    color: #69090a;
+}
 
 
+/********************
+ * Content Styles
+ *******************/
+article {
+    display: inline-block;
+    width: calc(75% - 4px - 0.5em);
+    overflow: auto;
+    margin: 0;
+    margin-right: 0.5em;
+    margin-bottom: 2em;
+    background-color: #fffeee;
+    border: 2px solid #feffbd;
+    border-radius: 10px;
+    float: left;
+}
+
+article h1 {
+    margin: 0;
+    padding: 0.25em;
+    background-color: #020202;
+    color: #b2b133;
+}
+
+article p {
+    margin: 1em;
+}
 
 
+/*******************
+ * Sidebar Styles
+ ******************/
+article.sidebar {
+    width: calc(25% - 4px - 0.5em);
+    min-height: 8em;
+    margin: 0;
+    margin-left: 0.5em;
+    margin-bottom: 2em;
+    float: right;
+    display: block;
+}
 
 
+/*******************
+ * Footer Styles
+ ******************/
+footer {
+    width: calc(100% - 4px);
+    height: calc(3em - 4px);
+
+    margin: 0;
+
+    text-align: center;
+    color: #b2b133;
+    background-color: #020202;
+    border: 2px solid #feffbd;
+    border-radius: 10px;
+}
+
+footer a {
+    color: #b2b133;
+}
 
 
 /* ==========================================================================
    Media Queries
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (max-width: 950px) {
+    body {
+        width: 100%;
+    }
 
+    header {
+        margin-top: 0;
+    }
 }
 
 @media print,
