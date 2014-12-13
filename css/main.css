@@ -99,7 +99,7 @@ body {
     min-height: 100%;
     height: auto !important;
     height: 100%;
-    margin: 0 auto -5em; 
+    margin: 0 auto -5em;
 }
 
 /* Sticky Footer - Opera Fix */
@@ -196,6 +196,7 @@ article.sidebar {
 footer {
     width: calc(100% - 4px);
     height: calc(3em - 4px);
+    clear: both;
 
     margin: 0;
 
