@@ -12,7 +12,8 @@ html {
     font-family: "Muli", sans-serif;
     font-size: 1em;
     line-height: 1.4;
-    background-image: url("../img/knitting_red.png");
+    background: url('../img/yarn_rack.jpg');
+    background-size: cover;
     margin: 0;
     height: 100%;
 }
@@ -65,11 +66,11 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-// Black:   #020202
-// Red:     #69690a
-// Green:   #b2b133
-// Yellow:  #feffbd
-// Orange?: #b89223
+// Black:   #020202 - (2,2,2)
+// Red:     #69090a - (105,9,10)
+// Green:   #b2b133 - (178,177,51)
+// Yellow:  #feffbd - (254,255,189)
+// Orange?: #b89223 - (184,146,35)
 
 /********************
  * Global Styles
@@ -80,15 +81,12 @@ html {
 
 /* Content size and colour. */
 body {
-    height: calc(100% - 4em);
-    width: 950px;
+    height: 100%;
+    width: 1024px;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 2em;
-    padding-bottom: 2em;
-    //background: #FFF;
 }
 
 
@@ -99,7 +97,7 @@ body {
     min-height: 100%;
     height: auto !important;
     height: 100%;
-    margin: 0 auto -5em;
+    margin: 0 auto -4em;
 }
 
 /* Sticky Footer - Opera Fix */
@@ -116,35 +114,42 @@ body:before {
  * Header Styles
  *******************/
 header {
-    margin-bottom: 2em;
-    background-color: #020202;
-    border: 2px solid #feffbd;
-    border-radius: 5px;
+    margin-bottom: 1em;
+    background-color: rgb(2,2,2);
+    background-color: rgba(2,2,2,0.85);
 }
 
-header .header_banner {
-    position: relative; 
-    width: 100%;
+header div.logo {
+    height: 7em;
 }
 
-header .header_banner img {
-    margin: 0;
-    width: 100%;
-    height: auto;
+header img {
+    height: 5em;
+    width: auto;
+    margin: 1em;
+    margin-left: 10%;
+    float: left;
 }
 
-header .header_banner h2 {
-    position: absolute;
-    right: 0;
-    bottom: 20%;
-    
+header h2 {
+    float: right;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
     margin: 0;
     padding: 0;
-    margin-right: 1em;
+    margin-right: 10%;
 
-    text-align: right;
+    text-align: center;
     font-weight: normal;
-    color: #69090a;
+    color: rgb(254,255,189);
+}
+
+header nav {
+    clear: both;
 }
 
 
@@ -153,21 +158,21 @@ header .header_banner h2 {
  *******************/
 article {
     display: inline-block;
-    width: calc(75% - 4px - 0.5em);
+    width: calc(75% - 0.5em);
     overflow: auto;
     margin: 0;
     margin-right: 0.5em;
-    margin-bottom: 2em;
-    background-color: #fffeee;
-    border: 2px solid #feffbd;
-    border-radius: 10px;
+    margin-bottom: 1em;
+    background-color: rgb(255,255,255);
+    background-color: rgba(255,255,255,0.85);
     float: left;
 }
 
 article h1 {
     margin: 0;
     padding: 0.25em;
-    background-color: #020202;
+    background-color: rgb(2,2,2);
+    background-color: rgba(2,2,2,0.85);
     color: #b2b133;
 }
 
@@ -180,7 +185,7 @@ article p {
  * Sidebar Styles
  ******************/
 article.sidebar {
-    width: calc(25% - 4px - 0.5em);
+    width: calc(25% - 0.5em);
     min-height: 8em;
     margin: 0;
     margin-left: 0.5em;
@@ -194,17 +199,16 @@ article.sidebar {
  * Footer Styles
  ******************/
 footer {
-    width: calc(100% - 4px);
-    height: calc(3em - 4px);
+    width: 100%;
+    height: 3em;
     clear: both;
 
     margin: 0;
 
     text-align: center;
     color: #b2b133;
-    background-color: #020202;
-    border: 2px solid #feffbd;
-    border-radius: 10px;
+    background-color: rgb(2,2,2);
+    background-color: rgba(2,2,2,0.85);
 }
 
 footer a {

@@ -55,7 +55,8 @@
     z-index: 2;
     overflow: hidden;
     color: #020202;
-    background: #feffbd;
+    background: rgb(254,255,189);
+    background: rgba(254,255,189,0.85);
     border-bottom: 1px solid #020202;
 }
 
@@ -147,7 +148,8 @@
     position: relative;
     display: block;
     padding: 1em;
-    background: #feffbd;
+    background: rgb(254,255,189);
+    background: rgba(254,255,189,0.85);
     color: #020202;
     cursor: pointer;
     border-bottom: 1px solid #020202;
