@@ -157,15 +157,11 @@ header nav {
  * Content Styles
  *******************/
 article {
-    display: inline-block;
-    width: calc(75% - 0.5em);
     overflow: auto;
     margin: 0;
-    margin-right: 0.5em;
     margin-bottom: 1em;
     background-color: rgb(255,255,255);
     background-color: rgba(255,255,255,0.85);
-    float: left;
 }
 
 article h1 {
@@ -176,22 +172,51 @@ article h1 {
     color: #b2b133;
 }
 
+article h2 {
+    margin: 0.66em;
+}
+
+article h3 {
+    font-size: 1em;
+    margin: 0;
+}
+
+article img {
+    display: block;
+    margin: 1em auto;
+    max-width: 90%;
+    max-width: calc(100% - 2em);
+}
+
 article p {
     margin: 1em;
 }
 
 
-/*******************
- * Sidebar Styles
- ******************/
-article.sidebar {
+/************************
+ * Floated Article Styles
+ ***********************/
+article.left {
+    width: calc(75% - 0.5em);
+    margin-right: 0.5em;
+    float: left;
+}
+
+article.right {
     width: calc(25% - 0.5em);
     min-height: 8em;
-    margin: 0;
     margin-left: 0.5em;
-    margin-bottom: 2em;
     float: right;
-    display: block;
+}
+
+article.right div {
+    margin: 1em;
+    margin-bottom: 0;
+}
+
+article.right p {
+    margin: 0;
+    margin-bottom: 1em;
 }
 
 
@@ -220,13 +245,45 @@ footer a {
    Media Queries
    ========================================================================== */
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 1024px) {
     body {
         width: 100%;
     }
+}
 
+@media only screen and (max-width: 750px) {
     header {
         margin-top: 0;
+    }
+
+    header img {
+        float: none;
+        margin: 1em;
+        width: 80%;
+        width: calc(100% - 2em);
+        height: auto;
+    }
+
+    header h2 {
+        float: none;
+        margin: 0;
+        width: 100%;
+        position: inherit;
+        top: 0;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    header div.logo {
+        height: auto;
+    }
+
+    article.left, article.right {
+        clear: both;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
     }
 }
 

@@ -187,7 +187,7 @@
 /*
  * Media Queries (Desktop Scaling)
  */
-@media all and (min-width: 800px) {
+@media all and (min-width: 750px) {
     body.one-page
     {
         padding-top: 70px;
