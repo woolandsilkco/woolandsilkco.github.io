@@ -116,7 +116,7 @@ body:before {
 header {
     margin-bottom: 1em;
     background-color: rgb(2,2,2);
-    background-color: rgba(2,2,2,0.85);
+    background-color: rgba(2,2,2,0.9);
 }
 
 header div.logo {
@@ -161,14 +161,14 @@ article {
     margin: 0;
     margin-bottom: 1em;
     background-color: rgb(255,255,255);
-    background-color: rgba(255,255,255,0.85);
+    background-color: rgba(255,255,255,0.9);
 }
 
 article h1 {
     margin: 0;
     padding: 0.25em;
     background-color: rgb(2,2,2);
-    background-color: rgba(2,2,2,0.85);
+    background-color: rgba(2,2,2,0.9);
     color: #b2b133;
 }
 
@@ -197,13 +197,13 @@ article p {
  * Floated Article Styles
  ***********************/
 article.left {
-    width: calc(75% - 0.5em);
+    width: calc(66% - 0.5em);
     margin-right: 0.5em;
     float: left;
 }
 
 article.right {
-    width: calc(25% - 0.5em);
+    width: calc(34% - 0.5em);
     min-height: 8em;
     margin-left: 0.5em;
     float: right;
@@ -233,7 +233,7 @@ footer {
     text-align: center;
     color: #b2b133;
     background-color: rgb(2,2,2);
-    background-color: rgba(2,2,2,0.85);
+    background-color: rgba(2,2,2,0.9);
 }
 
 footer a {
