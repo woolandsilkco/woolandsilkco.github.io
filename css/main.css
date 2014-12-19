@@ -23,7 +23,14 @@ html::after {
     background: url('../img/background.jpg');
     background-size: cover;
     background-attachment: fixed;
-    opacity: 0.6;
+    
+    opacity: 0.7;
+    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
+    
     top: 0;
     left: 0;
     bottom: 0;
@@ -269,7 +276,7 @@ footer a {
    ========================================================================== */
 
 @media only screen and (max-width: 1024px) {
-    body {
+    .narrow {
         width: 100%;
     }
 }
