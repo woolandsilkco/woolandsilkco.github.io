@@ -12,10 +12,24 @@ html {
     font-family: "Muli", sans-serif;
     font-size: 1em;
     line-height: 1.4;
-    background: url('../img/yarn_rack.jpg');
-    background-size: cover;
     margin: 0;
     height: 100%;
+    overflow: auto;
+    position: relative;
+}
+
+html::after {
+    content: "";
+    background: url('../img/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
 }
 
 ::-moz-selection {
@@ -82,13 +96,16 @@ html {
 /* Content size and colour. */
 body {
     height: 100%;
-    width: 1024px;
+    overflow: auto;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+.narrow {
+    width: 1024px;
     margin-left: auto;
     margin-right: auto;
 }
-
 
 /*******************
  * Sticky Footer
@@ -116,7 +133,7 @@ body:before {
 header {
     margin-bottom: 1em;
     background-color: rgb(2,2,2);
-    background-color: rgba(2,2,2,0.9);
+    background-color: rgba(2,2,2,0.8);
 }
 
 header div.logo {
@@ -160,20 +177,26 @@ article {
     overflow: auto;
     margin: 0;
     margin-bottom: 1em;
+}
+
+article .content {
     background-color: rgb(255,255,255);
-    background-color: rgba(255,255,255,0.9);
+    background-color: rgba(255,255,255,0.8);
+    height: 100%;
 }
 
 article h1 {
     margin: 0;
     padding: 0.25em;
     background-color: rgb(2,2,2);
-    background-color: rgba(2,2,2,0.9);
+    background-color: rgba(2,2,2,0.8);
     color: #b2b133;
 }
 
 article h2 {
     margin: 0.66em;
+    padding-top: 0.66em;
+    margin-top: 0;
 }
 
 article h3 {
@@ -210,8 +233,8 @@ article.right {
 }
 
 article.right div {
-    margin: 1em;
-    margin-bottom: 0;
+    padding: 1em;
+    padding-bottom: 0;
 }
 
 article.right p {
@@ -233,7 +256,7 @@ footer {
     text-align: center;
     color: #b2b133;
     background-color: rgb(2,2,2);
-    background-color: rgba(2,2,2,0.9);
+    background-color: rgba(2,2,2,0.8);
 }
 
 footer a {
