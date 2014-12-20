@@ -121,7 +121,11 @@ body {
     min-height: 100%;
     height: auto !important;
     height: 100%;
-    margin: 0 auto -4em;
+    margin: 0 auto -3em;
+}
+
+.push {
+    height: 3em;
 }
 
 /* Sticky Footer - Opera Fix */
@@ -250,6 +254,20 @@ article.right p {
 }
 
 
+/*********************
+ * Contact Page Styles
+ ********************/
+article table {
+    width: 50%;
+    float: left;
+}
+
+article iframe {
+    width: 50%;
+    float: right;
+}
+
+
 /*******************
  * Footer Styles
  ******************/
@@ -314,6 +332,12 @@ footer a {
         width: 100%;
         margin-left: 0;
         margin-right: 0;
+    }
+
+    article table, article iframe {
+        width: 100%;
+        float: none;
+        clear: both;
     }
 }
 
