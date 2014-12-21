@@ -67,27 +67,29 @@
       <h1>Contact Us</h1>
       <div class="content clearfix">
         <h2>Get in touch!</h2>
+        
+        <div id="location">
+          <p>The Wool & Silk Co. is located at the intersection of Main Street and Adeline Street on the west side of Shelburne, across from the Service Ontario office in the old location of Wooly's Yarns.</p>
 
-        <table>
-          <tr>
-            <td>Phone:</td>
-            <td>(519)925-6194</td>
-          </tr>
-          <tr>
-            <td>Email:</td>
-            <td>woolandsilkco@gmail.com</td>
-          </tr>
-          <tr>
-            <td>Address:</td>
-            <td>138 Main St. W. Shelburne, ON L9V 3K9</td>
-          </tr>
-        </table>
+          <table>
+            <tr>
+              <td class="type">Phone:</td>
+              <td>(519)925-6194</td>
+            </tr>
+            <tr>
+              <td class="type">Email:</td>
+              <td>woolandsilkco@gmail.com</td>
+            </tr>
+            <tr>
+              <td class="type">Address:</td>
+              <td>138 Main St. W. Shelburne, ON L9V 3K9</td>
+            </tr>
+          </table>
+        </div>
 
-        <iframe
-          class="small_map_left"    height="512px"    width="512px"   frameborder="0"
-          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAY5xKN6T9l-mVYWW5Oce6LnmqpeAtFu30
-          &q=The+Wool+%26+Silk Co.,+138+Main+Street+West,+Shelburne,+ON+L9V+3K9">
-        </iframe>
+        <div id="map">
+          <a href="https://goo.gl/maps/ImgNf">View map to store!</a>
+        </div>
       </div>
     </article>
     <div class="push"></div>
@@ -99,6 +101,14 @@
       <a class="link" href="http://www.frazerseymour.ca">Design by Frazer Seymour</a>
     </footer>
 
+
+    <script>
+      console.log(screen.width);
+      if (screen.width > 750)
+      {
+        document.getElementById("map").innerHTML = "<iframe class=\"small_map_left\" height=\"512px\" width=\"512px\" frameborder=\"0\" src=\"https://www.google.com/maps/embed/v1/place?key=AIzaSyAY5xKN6T9l-mVYWW5Oce6LnmqpeAtFu30&q=The+Wool+%26+Silk Co.,+138+Main+Street+West,+Shelburne,+ON+L9V+3K9\"></iframe>";
+      }
+    </script>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.1.min.js"><\/script>')</script>

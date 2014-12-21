@@ -257,13 +257,30 @@ article.right p {
 /*********************
  * Contact Page Styles
  ********************/
-article table {
-    width: 50%;
+div#location {
+    width: 45%;
+    width: calc(50% - 2em);
     float: left;
 }
 
+article table {
+    margin: 1em;
+}
+
+article table .type {
+    color: rgb(105,9,10);
+    text-align: right;
+    padding-right: 0.5em;
+}
+
+div#map {
+    text-align: center;
+}
+
 article iframe {
-    width: 50%;
+    width: 45%;
+    width: calc(50% - 2em);
+    margin: 1em;
     float: right;
 }
 
