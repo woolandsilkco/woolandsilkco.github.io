@@ -352,9 +352,15 @@ footer a {
     }
 
     article table, article iframe {
-        width: 100%;
+        width: 98%;
+        width: calc(100% - 2em);
         float: none;
         clear: both;
+    }
+
+    div#location {
+        width: 100%;
+        float: none;
     }
 }
 
