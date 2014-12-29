@@ -15,10 +15,13 @@ layout: master
     <article class="right">
       <h1>News</h1>
       <div class="content">
-        <h3>01/01/2015 - News Item Number 1</h3>
-        <p>This is the description for the first news item.</p>
-        <h3>02/02/2015 - News Item Number 2</h3>
-        <p>This is the description for the second, slightly longer than the first news item.</p>
+        {% for post in site.posts limit 2 %}
+          <h3><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+          <p>
+            {{ post.content | strip_html | truncatewords:75}}
+            <a href="{{ post.url }}">Read more...</a>
+          </p>
+        {% endfor %}
       </div>
     </article>
 
