@@ -15,12 +15,9 @@ layout: master
     <article class="right">
       <h1>News</h1>
       <div class="content">
-        {% for post in site.posts limit 2 %}
-          <h3><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-          <p>
-            {{ post.content | strip_html | truncatewords:75}}
-            <a href="{{ post.url }}">Read more...</a>
-          </p>
+        {% for post in site.posts limit:2 %}
+          <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
+          <p>{{ post.excerpt }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></p>
         {% endfor %}
       </div>
     </article>
