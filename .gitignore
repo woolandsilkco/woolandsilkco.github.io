@@ -1,2 +1,4 @@
 serve
-_*/**
+_partials/**
+_resources/**
+_site/**
