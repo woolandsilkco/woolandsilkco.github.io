@@ -302,6 +302,20 @@ article iframe {
 }
 
 
+/********************
+ * News Page Styles *
+ *******************/
+div.recent {
+    display: inline-block;
+    width: 33%;
+}
+
+div.older {
+    display: inline-block;
+    width: 33%;
+}
+
+
 /*******************
  * Footer Styles
  ******************/
