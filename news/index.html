@@ -44,18 +44,18 @@ full_posts: 4
 {% endif %}
   
     <div class="clearfix"></div>
-  </div>
 
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Back</a>
-    {% else %}
-      <a href="{{ paginator.previous_page_path }}" class="previous inactive">Back</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">More</a>
-    {% else %}
-      <a href="{{ paginator.next_page_path }}" class="next inactive">More</a>
-    {% endif %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">Back</a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path }}" class="previous inactive">Back</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">More</a>
+      {% else %}
+        <a href="{{ paginator.next_page_path }}" class="next inactive">More</a>
+      {% endif %}
+    </div>
   </div>
 </article>

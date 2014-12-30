@@ -328,9 +328,10 @@ div.older a:hover {
 }
 
 div.pagination a {
+    display: inline-block;
     color: rgb(105,9,10);
-    width: 49%;
-    width: calc(50% - 2em);
+    width: 45%;
+    width: calc(49.5% - 2em);
     margin: 1em;
 }
 
