@@ -311,7 +311,7 @@ div.recent {
 }
 
 div.older {
-    display: inline-block;
+    float: left;
     width: 31.33%;
     width: calc(33.33% - 2em);
     margin: 1em 1%;

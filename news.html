@@ -22,7 +22,7 @@ full_posts: 4
 
       <article>
         <h1>Older News</h1>
-        <div class="content js-masonry" data-masonry-options='{ "columnWidth": 33.33%, "itemSelector": ".older" }'>
+        <div class="content">
       {% endif %}
       <div class="older">
         <h3>{{post.date | date_to_string}} - {{post.title}}</h3>
@@ -30,7 +30,6 @@ full_posts: 4
       </div>
     {% endif %}
   {% endfor %}
+        <div class="clearfix"></div>
       </div>
     </article>
-
-    <scipt src="http://woolandsilkco.github.io/js/masonry.pkgd.min.js"></script>
