@@ -3,7 +3,7 @@ layout: master
 full_posts: 4
 ---
 
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% if forloop.index < page.full_posts %}
       {% if forloop.index == 1 %}
       <article>
@@ -31,5 +31,14 @@ full_posts: 4
     {% endif %}
   {% endfor %}
         <div class="clearfix"></div>
+      </div>
+
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous">Back</a>
+        {% endif %}
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">More</a>
+        {% endif %}
       </div>
     </article>
