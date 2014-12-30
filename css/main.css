@@ -323,7 +323,7 @@ div.older a {
     text-decoration: none;
 }
 
-div.older a:hover {
+div.older a:hover, div.pagination a:hover {
     text-decoration: underline;
 }
 
@@ -331,8 +331,11 @@ div.pagination a {
     display: inline-block;
     color: rgb(105,9,10);
     width: 45%;
-    width: calc(49.5% - 2em);
-    margin: 1em;
+    width: calc(49.5% - 1.33em);
+    margin: 0.66em;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 div.pagination a.previous {
