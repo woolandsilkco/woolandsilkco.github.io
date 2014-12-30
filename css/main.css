@@ -245,7 +245,6 @@ article.right {
 
 article.right div {
     padding: 1em;
-    padding-bottom: 0;
 }
 
 article.right p {
@@ -262,7 +261,7 @@ article.right a.all {
     font-size: 1em;
     font-weight: bold;
     margin 0;
-    margin-bottom: 1em;
+    text-align: center;
 }
 
 
