@@ -16,12 +16,13 @@ full_posts: 4
       </div>
     {% else %}
       {% if forloop.index == page.full_posts %}
-        </div>
+        <div class="clearfix"></div>  
+      </div>
       </article>
 
       <article>
-        <h1>Older Posts</h1>
-        <div class="content">
+        <h1>Older News</h1>
+        <div class="content js-masonry" data-masonry-options='{ "columnWidth": 33.33%, "itemSelector": ".older" }'>
       {% endif %}
       <div class="older">
         <h3>{{post.date | date_to_string}} - {{post.title}}</h3>
@@ -31,3 +32,5 @@ full_posts: 4
   {% endfor %}
       </div>
     </article>
+
+    <scipt src="http://woolandsilkco.github.io/js/masonry.pkgd.min.js"></script>

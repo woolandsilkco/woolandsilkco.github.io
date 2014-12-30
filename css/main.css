@@ -306,13 +306,16 @@ article iframe {
  * News Page Styles *
  *******************/
 div.recent {
-    display: inline-block;
+    float: left;
     width: 33%;
 }
 
 div.older {
     display: inline-block;
-    width: 33%;
+    width: 31.33%;
+    width: calc(33.33% - 2em);
+    margin: 1em 1%;
+    margin: calc(1em);
 }
 
 
