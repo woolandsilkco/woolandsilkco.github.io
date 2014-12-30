@@ -253,6 +253,18 @@ article.right p {
     margin-bottom: 1em;
 }
 
+article.right a:hover, article.right a:visited,
+article.right a:link, article.right a:active {
+    color: rgb(105,9,10);
+}
+
+article.right a.all {
+    font-size: 1em;
+    font-weight: bold;
+    margin 0;
+    margin-bottom: 1em;
+}
+
 
 /*********************
  * Contact Page Styles
