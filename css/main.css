@@ -249,7 +249,7 @@ article.right div {
 
 article.right p {
     margin: 0;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 article.right a:hover, article.right a:visited,
@@ -258,6 +258,7 @@ article.right a:link, article.right a:active {
 }
 
 article.right a.all {
+    display: block;
     font-size: 1em;
     font-weight: bold;
     margin 0;
