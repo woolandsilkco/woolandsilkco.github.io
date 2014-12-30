@@ -255,6 +255,11 @@ article.right p {
 article.right a:hover, article.right a:visited,
 article.right a:link, article.right a:active {
     color: rgb(105,9,10);
+    text-decoration: none;
+}
+
+article.right a:hover {
+    text-decoration: underline;
 }
 
 article.right a.all {

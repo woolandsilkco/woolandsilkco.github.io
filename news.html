@@ -1,0 +1,32 @@
+---
+layout: master
+---
+
+  {% for post in site.posts %}
+    {% if forloop.index < page.full_posts %}
+      {% if forloop.index == 0 %}
+      <article>
+        <h1>Recent News</h1>
+        <div class="content">
+      {% endif %}
+      <div class="recent">
+        <h2>{{post.date | date_to_string}} {{post.title}}</h2>
+        <div>{{post.content}}</div>
+      </div>
+    {% else %}
+      {% if forloop.index == page.full_posts %}
+        </div>
+      </article>
+
+      <article>
+        <h1>Older Posts</h1>
+        <div class="content">
+      {% endif %}
+      <div class="older">
+        <h2>{{post.date | date_to_string}} {{post.title}}</h2>
+        <div>{{post.content}}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+      </div>
+    </article>
