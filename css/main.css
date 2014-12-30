@@ -331,9 +331,9 @@ div.pagination a {
     display: inline-block;
     color: rgb(105,9,10);
     width: 45%;
-    width: calc(49.5% - 1.33em);
-    margin: 0.66em;
-    font-size: 1.5em;
+    width: calc(49.5% - 2em);
+    margin: 1em;
+    font-size: 1em;
     font-weight: bold;
     text-decoration: none;
 }
