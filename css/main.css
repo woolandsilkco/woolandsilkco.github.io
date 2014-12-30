@@ -318,6 +318,34 @@ div.older {
     margin: calc(1em);
 }
 
+div.older a {
+    color: rgb(105,9,10);
+    text-decoration: none;
+}
+
+div.older a:hover {
+    text-decoration: underline;
+}
+
+div.pagination a {
+    color: rgb(105,9,10);
+    width: 49%;
+    width: calc(50% - 2em);
+    margin: 1em;
+}
+
+div.pagination a.previous {
+    text-align: right;
+}
+
+div.pagination a.next {
+    text-align: left;
+}
+
+div.pagination a.inactive {
+    visibility: hidden;
+}
+
 
 /*******************
  * Footer Styles
