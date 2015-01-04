@@ -109,7 +109,7 @@ body {
 }
 
 .narrow {
-    width: 90%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -354,7 +354,7 @@ footer a {
 
 @media only screen and (min-width: 750px) {
     .narrow {
-        width: 100%;
+        width: 90%;
     }
 
     header img {
@@ -365,6 +365,7 @@ footer a {
     }
 
     header h2 {
+        width: auto;
         float: right;
         position: relative;
         top: 50%;
