@@ -152,7 +152,6 @@ header div.logo {
 }
 
 header img {
-    float: none;
     margin: 1em;
     width: 80%;
     width: calc(100% - 2em);
@@ -160,15 +159,13 @@ header img {
 }
 
 header h2 {
-    float: none;
-    margin: 0;
-    width: 100%;
     position: inherit;
     top: 0;
     -webkit-transform: none;
     -ms-transform: none;
     transform: none;
 
+    margin: 0;
     padding: 0;
 
     text-align: center;
@@ -177,7 +174,6 @@ header h2 {
 }
 
 header nav {
-    clear: both;
     background-color: rgba(254, 255, 189, 0.85);
 }
 
@@ -295,6 +291,11 @@ div.recent, div.older {
     width: 100%;
 }
 
+div.older {
+    margin: 1em 1%;
+    margin: calc(1em);
+}
+
 div.older a {
     color: rgb(105,9,10);
     text-decoration: none;
@@ -315,9 +316,8 @@ div.pagination a {
 }
 
 div.pagination a.inactive {
-    visibility: hidden;
+    display: none;
 }
-
 
 /*******************
  * Footer Styles
@@ -359,6 +359,7 @@ footer a {
     }
 
     header h2 {
+        width: 100%;
         float: right;
         position: relative;
         top: 50%;
@@ -403,8 +404,6 @@ footer a {
     div.older {
         width: 31.33%;
         width: calc(33.33% - 2em);
-        margin: 1em 1%;
-        margin: calc(1em);
     }
 
     div.pagination a {
@@ -419,6 +418,10 @@ footer a {
 
     div.pagination a.next {
         text-align: left;
+    }
+
+    div.pagination a.inactive {
+        visibility: hidden;
     }
 }
 
