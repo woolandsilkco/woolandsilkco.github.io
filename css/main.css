@@ -304,17 +304,9 @@ article iframe {
 /********************
  * News Page Styles *
  *******************/
-div.recent {
+div.recent, div.older {
     float: left;
-    width: 33%;
-}
-
-div.older {
-    float: left;
-    width: 31.33%;
-    width: calc(33.33% - 2em);
-    margin: 1em 1%;
-    margin: calc(1em);
+    width: 100%;
 }
 
 div.older a {
@@ -329,20 +321,11 @@ div.older a:hover, div.pagination a:hover {
 div.pagination a {
     display: inline-block;
     color: rgb(105,9,10);
-    width: 45%;
-    width: calc(49.5% - 2em);
-    margin: 1em;
+    width: 100%;
     font-size: 1em;
     font-weight: bold;
     text-decoration: none;
-}
-
-div.pagination a.previous {
-    text-align: right;
-}
-
-div.pagination a.next {
-    text-align: left;
+    text-align: center;
 }
 
 div.pagination a.inactive {
@@ -426,6 +409,31 @@ footer a {
     div#location {
         width: 100%;
         float: none;
+    }
+
+    div.recent {
+        width: 33%;
+    }
+
+    div.older {
+        width: 31.33%;
+        width: calc(33.33% - 2em);
+        margin: 1em 1%;
+        margin: calc(1em);
+    }
+
+    div.pagination a {
+        width: 45%;
+        width: calc(49.5% - 2em);
+        margin: 1em;
+    }
+
+    div.pagination a.previous {
+        text-align: right;
+    }
+
+    div.pagination a.next {
+        text-align: left;
     }
 }
 
