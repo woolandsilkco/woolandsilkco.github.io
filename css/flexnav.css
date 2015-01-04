@@ -55,8 +55,6 @@
     z-index: 2;
     overflow: hidden;
     color: #020202;
-    background: rgb(254,255,189);
-    background: rgba(254,255,189,0.85);
     border-bottom: 1px solid #020202;
 }
 
@@ -90,7 +88,6 @@
 .flexnav li ul li a
 {
     display: block;
-    background: #b2b2af;
 }
 
 
@@ -99,12 +96,10 @@
  */
 .flexnav ul li ul li a
 {
-    background: #bfbfbc;
 }
 
 .flexnav ul li ul li ul li a
 {
-    background: #cbcbc9;
 }
 
 
@@ -215,7 +210,6 @@
         list-style: none;
         float: left;
         display: block;
-        background-color: #a6a6a2;
         overflow: visible;
         width: 25%;
         text-align: center;
@@ -301,7 +295,6 @@
     list-style: none;
     float: left;
     display: block;
-    background-color: #a6a6a2;
     width: 20%;
     min-height: 50px;
     overflow: visible;
@@ -329,7 +322,6 @@
 
 .oldie .flexnav li > ul
 {
-    background: #acaca1;
     position: absolute;
     top: auto;
     left: 0;
