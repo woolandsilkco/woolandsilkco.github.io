@@ -24,12 +24,12 @@ html::after {
     background-size: cover;
     background-attachment: fixed;
     
-    opacity: 0.65;
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
-    filter: blur(5px);
+    opacity: 0.55;
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
     
     top: 0;
     left: 0;
