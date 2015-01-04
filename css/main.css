@@ -345,13 +345,6 @@ footer a {
 /* ==========================================================================
    Media Queries
    ========================================================================== */
-
-@media only screen and (min-width: 1024px) {
-    .narrow {
-        width: 1024px;
-    }
-}
-
 @media only screen and (min-width: 750px) {
     .narrow {
         width: 90%;
@@ -428,6 +421,12 @@ footer a {
 
     div.pagination a.inactive {
         visibility: hidden;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .narrow {
+        width: 1024px;
     }
 }
 
