@@ -109,7 +109,7 @@ body {
 }
 
 .narrow {
-    width: 1024px;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -148,25 +148,27 @@ header {
 }
 
 header div.logo {
-    height: 7em;
+    height: auto;
 }
 
 header img {
-    height: 5em;
-    width: auto;
+    float: none;
     margin: 1em;
-    float: left;
+    width: 80%;
+    width: calc(100% - 2em);
+    height: auto;
 }
 
 header h2 {
-    float: right;
-    position: relative;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-
+    float: none;
     margin: 0;
+    width: 100%;
+    position: inherit;
+    top: 0;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+
     padding: 0;
 
     text-align: center;
@@ -229,17 +231,8 @@ article p {
 /************************
  * Floated Article Styles
  ***********************/
-article.left {
-    width: calc(66% - 0.5em);
-    margin-right: 0.5em;
-    float: left;
-}
-
-article.right {
-    width: calc(34% - 0.5em);
-    min-height: 8em;
-    margin-left: 0.5em;
-    float: right;
+article.left, article.right {
+    width: 100%;
 }
 
 article.right div {
@@ -274,13 +267,13 @@ article.right a.all {
  * Contact Page Styles
  ********************/
 div#location {
-    width: 45%;
-    width: calc(50% - 2em);
-    float: left;
+    width: 100%;
 }
 
-article table {
+article table, article iframe {
     margin: 1em;
+    width: 98%;
+    width: calc(100% - 2em);
 }
 
 article table .type {
@@ -291,13 +284,6 @@ article table .type {
 
 div#map {
     text-align: center;
-}
-
-article iframe {
-    width: 45%;
-    width: calc(50% - 2em);
-    margin: 1em;
-    float: right;
 }
 
 
@@ -358,57 +344,56 @@ footer a {
    Media Queries
    ========================================================================== */
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (min-width: 1024px) {
     .narrow {
-        width: 100%;
+        width: 1024px;
     }
 }
 
-@media only screen and (max-width: 750px) {
-    header {
-        margin-top: 0;
-    }
-
+@media only screen and (min-width: 750px) {
     header img {
-        float: none;
+        height: 5em;
+        width: auto;
         margin: 1em;
-        width: 80%;
-        width: calc(100% - 2em);
-        height: auto;
+        float: left;
     }
 
     header h2 {
-        float: none;
-        margin: 0;
-        width: 100%;
-        position: inherit;
-        top: 0;
-        -webkit-transform: none;
-        -ms-transform: none;
-        transform: none;
+        float: right;
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
     }
 
     header div.logo {
-        height: auto;
+        height: 7em;
     }
 
-    article.left, article.right {
-        clear: both;
-        width: 100%;
-        margin-left: 0;
-        margin-right: 0;
+    article.left {
+        width: calc(66% - 0.5em);
+        margin-right: 0.5em;
+        float: left;
     }
 
-    article table, article iframe {
-        width: 98%;
-        width: calc(100% - 2em);
-        float: none;
-        clear: both;
+    article.right {
+        width: calc(34% - 0.5em);
+        min-height: 8em;
+        margin-left: 0.5em;
+        float: right;
     }
 
     div#location {
-        width: 100%;
-        float: none;
+        width: 45%;
+        width: calc(50% - 2em);
+        float: left;
+    }
+
+    article iframe {
+        width: 45%;
+        width: calc(50% - 2em);
+        float: right;
     }
 
     div.recent {
