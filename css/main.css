@@ -421,6 +421,7 @@ footer a {
 
     div.pagination a.inactive {
         visibility: hidden;
+        display: inline-block;
     }
 }
 
