@@ -307,7 +307,7 @@ div.older a:hover, div.pagination a:hover {
     text-decoration: underline;
 }
 
-div.pagination a {
+div.pagination a, a.pagination {
     display: inline-block;
     color: rgb(105,9,10);
     width: 100%;
