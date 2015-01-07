@@ -1,2 +1,15 @@
 paginate: 33
 paginate_path: "news/page:num/"
+
+prose:
+    metadata:
+        _posts:
+            - name: "layout"
+            field:
+                element: "hidden"
+                value: "post"
+
+            - name: "title"
+            field:
+                element: "text"
+                label: "title"
