@@ -216,8 +216,8 @@ article h3 {
 article img {
     display: block;
     margin: 1em auto;
-    max-width: 90%;
-    max-width: calc(100% - 2em);
+    max-width: 75%;
+    max-height: 20em;
 }
 
 article p {
@@ -257,6 +257,15 @@ article.right a.all {
     font-weight: bold;
     margin 0;
     text-align: center;
+}
+
+
+/****************************
+ * What We're Knitting Styles
+ ***************************/
+div.wwk {
+    display: inline-block;
+    width: 100%;
 }
 
 
@@ -369,6 +378,10 @@ footer a {
 
     header div.logo {
         height: 7em;
+    }
+
+    div.wwk {
+        width: 50%;
     }
 
     article.left {
