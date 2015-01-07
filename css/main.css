@@ -274,6 +274,9 @@ div.wwk img {
     height: 8em;
     width: auto;
     float: left;
+
+    margin: 0;
+    margin-right: 0.25em;
 }
 
 div.wwk h3 {
