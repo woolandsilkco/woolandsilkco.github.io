@@ -265,7 +265,23 @@ article.right a.all {
  ***************************/
 div.wwk {
     display: inline-block;
-    width: 100%;
+    margin: 1em;
+    width: 95%;
+    width: calc(100% - 2em);
+}
+
+div.wwk img {
+    height: 8em;
+    width: auto;
+    float: left;
+}
+
+div.wwk h3 {
+    margin: 0.5em 0;
+}
+
+div.wwk p {
+    margin: 0;
 }
 
 
@@ -381,7 +397,8 @@ footer a {
     }
 
     div.wwk {
-        width: 50%;
+        width: 45%;
+        width: calc(50% - 2em);
     }
 
     article.left {
