@@ -10,7 +10,7 @@ function loadClasses(onLoad)
 
     request.onload = function()
     {
-        onLoad(atob(request.reponse.content.replace(/\s/g, '')));
+        onLoad(atob(request.response.content.replace(/\s/g, '')));
     }
 
     request.onerror = function()
