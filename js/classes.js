@@ -10,7 +10,7 @@ function loadClasses(onLoad)
 
     request.onload = function()
     {
-        onLoad(request.response);
+        onLoad(atob(request.response.content));
     }
 
     request.onerror = function()
