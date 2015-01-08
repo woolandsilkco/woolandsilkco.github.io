@@ -1,6 +1,6 @@
 function doStuffWithClasses(data)
 {
-    console.log(data.content);
+    console.log(data);
 }
 
 function loadClasses(onLoad)
