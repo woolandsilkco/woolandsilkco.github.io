@@ -12,7 +12,7 @@ function loadClasses(onLoad)
     {
         console.log(request.response);
         console.log(request.response.content);
-        console.log(request.response.content.replace(/\s/g, '')));
+        console.log(request.response.content.replace(/\s/g, ''));
         onLoad(atob(request.response.content.replace(/\s/g, '')));
     }
 
