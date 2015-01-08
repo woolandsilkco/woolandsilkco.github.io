@@ -10,10 +10,10 @@ function loadClasses(onLoad)
 
     request.onload = function()
     {
-        console.log(request.response);
-        console.log(request.response.content);
-        console.log(request.response.content.replace(/\s/g, ''));
-        onLoad(atob(request.response.content.replace(/\s/g, '')));
+        //console.log(request.response);
+        //console.log(request.response.content);
+        //console.log(request.response.content.replace(/\s/g, ''));
+        onLoad(atob(JSON.parse(request.response).content.replace(/\s/g, '')));
     }
 
     request.onerror = function()
