@@ -1,0 +1,147 @@
+{   
+    "classes" : [
+        {
+            "title" : "Learn to Knit",
+            "parts" : 2,
+            "dates" : [ "Thu Jan 08 2015", "Thu Jan 22 2015" ],
+            "times" : [ "7pm - 9pm" ],
+            "cost" : "$35.00",
+            "description" : "This class has already begun in December but you are welcome to join in for the last 2 parts in January. Created for anyone who is new to knitting we cover casting on, basic knit & purl stitches & casting off.  The project will be a sampler scarf.",
+            "note" : null,
+            "prerequisites" : null,
+            "supplies" : null
+        },
+
+        {
+            "title" : "Learn to Crochet",
+            "parts" : 2,
+            "dates" : [ "Thu Jan 15 2015", "Thu Jan 29 2015" ],
+            "times" : [ "7pm - 9pm" ],
+            "cost" : "$35.00",
+            "description" : "For those just wanting to learn how to crochet. Class started in December but 2 lessons offered in January to anyone wanting to join.  Cover beginning chain, foundation row, single, double & treble crochet. Project can be a scarf (2 choices) or a lap blanket.",
+            "note" : null,
+            "prerequisites" : null,
+            "supplies" : null
+        },
+
+        {
+            "title" : "Magic Loop - Unravel the Mystery!!",
+            "parts" : 1,
+            "dates" : [ "Tue Jan 13 2015", "Thu Feb 05 2014"],
+            "times" : [ "2pm-3pm (Jan 13th)", "7pm-8pm (Both days)" ],
+            "cost" : "$20.00",
+            "description" : "An alternative method for knitting in the round, rather than using 4 needles. You can work on any item that you would knit in the round (eg: sock, neck warmer, gauntlet) or just go over the method in class.",
+            "note" : "**this is a pre-requisite for the Two at a Time Toe-Up sock class**",
+            "prerequisites" : "ability to knit & purl, know how to knit in the round on a circular needle & on 4 needles",
+            "supplies" : "a circular needle of 80cm length & the correct yarn to use with it"
+        },
+
+        {
+            "title" : "Basic Sock - Let's Start a Trend!",
+            "parts" : 3,
+            "dates" : [ "Tue Jan 20 2015", "Tue Feb 03 2015", "Tue Feb 17 2015"],
+            "times" : [ "1pm - 3pm", "7pm - 9pm" ],
+            "cost" : "$60.00",
+            "description" : "A great class for knitters who have never tried to make a sock. A 3 part instruction with 1 week in between each for completion of sections. Covers sizing, casting on, ribbing & the leg portion, heel flap & turning the heel, foot construction, toe & finishing. ",
+            "note" : null,
+            "prerequisites" : "ability to knit & purl. Knowing how to knit in the round on 4 double-pointed needles might be a help but not necessary",
+            "supplies" : "sock weight yarn & 5 double-pointed needles of correct size to match (usually 2.75mm-3.0mm)"
+        },
+
+        {
+            "title" : "Basic Sweater - A Good First Garment",
+            "parts" : 3,
+            "dates" : [ "Tue Jan 27 2015", "Tue Feb 10 2015", "Tue Feb 24 2015" ],
+            "times" : [ "1pm - 3pm", "7pm - 9pm" ],
+            "cost" : "$60.00",
+            "description" : "For those who have never made a sweater this is a good starter class. Learn about sweater construction, how to do sleeves 2 at a time, picking up around the neckline, sewing together and finishing.",
+            "note" : null,
+            "prerequisites" : "know how to knit & purl",
+            "supplies" : "pattern will be the Sirdar Child's sweater (can also be the baby or adult sweater if you wish). This is a purchase pattern ($6.35). Sweater is shown in Crofter DK yarn but can be made out of any DK yarn. Needles should be 4.0mm - 3.5mm according to your knitting gauge."
+        },
+
+        {
+            "title" : "Ravelry - Let's Get the Most Out of It!",
+            "parts" : 1,
+            "dates" : [ "Thu Feb 12 2015", "Tue Mar 03 2015" ],
+            "times" : [ "1pm - 3pm (March 3rd)", "7pm - 9pm (Both days)" ],
+            "cost" : "$20.00",
+            "description" : "Lots of us go on Ravelry just to troll patterns to our heart's content but Ravelry has so much more to offer. This class will show you how to store your information & patterns, source yarns & patterns, find stores, look up more than you could imagine!",
+            "note" : null,
+            "prerequisites" : "be able to use a computer on-line",
+            "supplies" : "a laptop or tablet to use in class. Wi-Fi is free"
+        },
+
+        {
+            "title" : "Filet Crochet",
+            "parts" : 1,
+            "dates" : [ "Thu Feb 19 2015" ],
+            "times" : [ "1pm - 3pm", "7pm - 9pm" ],
+            "cost" : "$20.00",
+            "description" : "An introduction into the world of graphs & filet crochet. A fairly easy technique to learn which produces lovely lacy results.",
+            "note" : null,
+            "prerequisites" : "know how to crochet (chain, single, double)",
+            "supplies" : "DK or Sport Weight yarn, appropriate sized crochet hook"
+        },
+
+        {
+            "title" : "Entrelac",
+            "parts" : 1,
+            "dates" : [ "Thu Feb 26 2015", "Tue Mar 17 2015" ],
+            "times" : [ "1pm - 3pm (March 17th)", "7pm - 9pm (Both days)" ],
+            "cost" : "$20.00",
+            "description" : "Many lovely blankets, scarves & cardigans are made using the Entrelac technique. With the finished appearance of a lovely woven garment and subtle colour changes Entrelac can be very striking.",
+            "note" : null,
+            "prerequisites" : "know how to knit, purl & pick-up stitches",
+            "supplies" : "DK or Worsted weight yarn & appropriate sized needles"
+        },
+
+        {
+            "title" : "Fair Isle Sweater - the Anders Sweater",
+            "parts" : 3,
+            "dates" : [ "Tue Mar 10 2015", "Tue Mar 24 2015", "Tue Apr 07 2015" ],
+            "times" : [ "1pm - 3pm", "7pm - 9pm" ],
+            "cost" : "$60.00",
+            "description" : "You may have seen this great little sweater in store, the one with the tiny christmas trees at the bottom and snow falling down. This class will teach this sweater and will help you learn several elements. Top-down sweater knitting, raglan sleeve(top-down), vickle braid, making a button placket, using a graph, correct finishing techniques.",
+            "note" : "** must sign up in advance to obtain pattern & have correct supplies**",
+            "prerequisites" : "know how to knit & purl confidently",
+            "supplies" : "DK weight yarn (the sample was knitted in Vintage DK). This is a purchase pattern ($6.57). 3.75mm & 4.0mm circular needles in 60cm, DPN's in 3.75mm, stitch markers."
+        },
+
+        {
+            "title" : "Cables - They're a Twisty Thing!",
+            "parts" : 1,
+            "dates" : [ "Thu Mar 05 2015" ],
+            "times" : [ "1pm - 3pm", "7pm - 9pm" ],
+            "cost" : "$20.00",
+            "description" : "If you have always been intrigued by cables but been afraid to try then this is the class for you.  You will learn how to manage your stitches, read pattern directions and learn schematics. They're not as hard as you think.",
+            "note" : null,
+            "prerequisites" : "know how to knit & purl",
+            "supplies" : "DK or Worsted weight yarn & appropriate sized needles, cable needle"
+        },
+
+        {
+            "title" : "Duplicate Stitch - For Designs & Repair",
+            "parts" : 1,
+            "dates" : [ "Thu Mar 12 2015" ],
+            "times" : [ "2pm - 3pm", "7pm - 8pm" ],
+            "cost" : "20.00",
+            "description" : "Duplicate stitch is the placement of hand sewn stitches over your knitting to create a design. Used to help prevent the difficulty of trying to carry multiple colours during stranding knitting. Can also be used for knit repairs.",
+            "note" : null,
+            "prerequisites" : "know how to knit & purl",
+            "supplies" : "knitted square in stocking stitch approx 8”x8” (your “practice square”), tapestry needle & contrasting colour of yarn to do duplicate stitch with"
+        },
+
+        {
+            "title" : "Introduction to Lace Knitting",
+            "parts" : 2,
+            "dates" : [ "Tue Mar 31 2015", "Tue Apr 14 2015", "Thu Mar 19 2015", "Thu Mar 26 2015" ],
+            "times" : [ "1pm - 3pm (All days)", "7pm - 9pm (Tuesdays)" ],
+            "cost" : "$40.00",
+            "description" : "For those knitters who have always been intrigued by lace knitting but were worried that it was “too difficult”.  Here is a great beginners class.",
+            "note" : "** must sign up in advance to obtain pattern & have correct supplies**",
+            "prerequisites" : "know how to knit & purl",
+            "supplies" : "pattern will be the Sirdar Child's sweater (can also be the baby or adult sweater if you wish). This is a purchase pattern ($6.35). Sweater is shown in Crofter DK yarn but can be made out of any DK yarn. Needles should be 4.0mm - 3.5mm according to your knitting gauge."
+        }
+    ]
+}
