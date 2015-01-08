@@ -25,11 +25,11 @@ html::after {
     background-attachment: fixed;
     
     opacity: 0.65;
-    -webkit-filter: blur(8px);
-    -moz-filter: blur(8px);
-    -o-filter: blur(8px);
-    -ms-filter: blur(8px);
-    filter: blur(8px);
+    -webkit-filter: blur(6px);
+    -moz-filter: blur(6px);
+    -o-filter: blur(6px);
+    -ms-filter: blur(6px);
+    filter: blur(6px);
     
     top: 0;
     left: 0;
