@@ -1,12 +1,12 @@
 function doStuffWithClasses(data)
 {
-    console.log(data);
+    console.log(data.content);
 }
 
 function loadClasses(onLoad)
 {
     var request = new XMLHttpRequest();
-    request.open("GET", "https://api.github.com/repos/woolandsilkco/woolandsilkco.github.io/classes.json", true);
+    request.open("GET", "https://api.github.com/repos/woolandsilkco/woolandsilkco.github.io/content/classes.json", true);
     request.responseType = "arraybuffer";
 
     request.onload = function()
