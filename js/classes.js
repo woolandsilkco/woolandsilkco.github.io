@@ -4,6 +4,7 @@ function doStuffWithClasses(data)
     var class1 = null;
     var class2 = null;
 
+    console.log(data);
     console.log(data.length);
 
     for (var i = 0; i < data.length; i++)
