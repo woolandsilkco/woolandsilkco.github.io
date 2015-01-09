@@ -4,37 +4,32 @@ function doStuffWithClasses(data)
     var class1 = null;
     var class2 = null;
 
-    console.log(data);
-    console.log(data.length);
-
-    for (var i = 0; i < data.length; i++)
+    for (var i = 0; i < data.classes.length; i++)
     {
-        console.log(data[i]);
-
-        for (var j = 0; j < data[i].dates.length; j++)
+        for (var j = 0; j < data.classes[i].dates.length; j++)
         {
-            console.log(data[i].dates[j]);
+            console.log(data.classes[i].dates[j]);
 
-            var date2 = new Date(data[i].dates[j]);
+            var date2 = new Date(data.classes[i].dates[j]);
             
             var timeDiff = Math.abs(date2.getTime() - today.getTime());
 
             if (!class1)
             {
-                class1 = [data[i], timeDiff];
+                class1 = [data.classes[i], timeDiff];
             }
             else if (!class2)
             {
-                class2 = [data[i], timeDiff];
+                class2 = [data.classes[i], timeDiff];
             }
             else if (timeDiff < class1[1])
             {
                 class2 = class1;
-                class1 = [data[i], timeDiff];
+                class1 = [data.classes[i], timeDiff];
             }
             else if (timeDiff < class2[1])
             {
-                class2 = [data[i], timeDiff];
+                class2 = [data.classes[i], timeDiff];
             }
         }
     }
