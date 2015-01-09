@@ -8,28 +8,29 @@ function doStuffWithClasses(data)
     {
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
-            console.log(data.classes[i].dates[j]);
-
             var date2 = new Date(data.classes[i].dates[j]);
             
             var timeDiff = Math.abs(date2.getTime() - today.getTime());
 
-            if (!class1)
+            if (timeDiff >= 0)
             {
-                class1 = [data.classes[i], timeDiff];
-            }
-            else if (!class2)
-            {
-                class2 = [data.classes[i], timeDiff];
-            }
-            else if (timeDiff < class1[1])
-            {
-                class2 = class1;
-                class1 = [data.classes[i], timeDiff];
-            }
-            else if (timeDiff < class2[1])
-            {
-                class2 = [data.classes[i], timeDiff];
+                if (!class1)
+                {
+                    class1 = [data.classes[i], timeDiff];
+                }
+                else if (!class2)
+                {
+                    class2 = [data.classes[i], timeDiff];
+                }
+                else if (timeDiff < class1[1])
+                {
+                    class2 = class1;
+                    class1 = [data.classes[i], timeDiff];
+                }
+                else if (timeDiff == class1[1] || timeDiff < class2[1])
+                {
+                    class2 = [data.classes[i], timeDiff];
+                }
             }
         }
     }
