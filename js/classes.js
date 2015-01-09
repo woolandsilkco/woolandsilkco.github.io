@@ -6,8 +6,12 @@ function doStuffWithClasses(data)
 
     for (var i = 0; i < data.length; i++)
     {
+        console.log(data[i]);
+
         for (var j = 0; j < data[i].dates.length; j++)
         {
+            data[i].dates[j];
+
             var date2 = new Date(data[i].dates[j]);
             
             var timeDiff = Math.abs(date2.getTime() - today.getTime());
