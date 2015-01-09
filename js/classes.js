@@ -4,13 +4,15 @@ function doStuffWithClasses(data)
     var class1 = null;
     var class2 = null;
 
+    console.log(data.length);
+
     for (var i = 0; i < data.length; i++)
     {
         console.log(data[i]);
 
         for (var j = 0; j < data[i].dates.length; j++)
         {
-            data[i].dates[j];
+            console.log(data[i].dates[j]);
 
             var date2 = new Date(data[i].dates[j]);
             
