@@ -295,6 +295,11 @@ div#location {
     width: 100%;
 }
 
+div#location h3 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
 article table, article iframe {
     margin: 1em;
     width: 98%;
