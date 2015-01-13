@@ -35,8 +35,10 @@ function doStuffWithClasses(data)
         }
     }
     
-    var htmlContent = doTClasses( { "array" : [ class1[0], class2[0] ] } );
-    console.log(htmlContent);
+    var child = document.createElement('span');
+    child.innerHTML = doTClasses( { "array" : [ class1[0], class2[0] ] } );
+    child = child.firstChild;
+    document.getElementById('classes').appendChild(child); 
 }
 
 function loadClasses(onLoad)
