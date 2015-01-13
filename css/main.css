@@ -407,6 +407,7 @@ footer a {
     div.wwk {
         width: 45%;
         width: calc(50% - 2em);
+        float: left;
     }
 
     article.left {
