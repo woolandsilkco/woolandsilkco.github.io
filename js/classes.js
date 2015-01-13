@@ -64,7 +64,7 @@ function loadClasses(onLoad)
  */
 function doTClasses(it) { var out='';var arr1=it.array;if(arr1){var value,index=-1,l1=arr1.length-1;while(index<l1){value=arr1[index+=1];out+='\n<h3>'+(value.date)+' - '+(value.title)+'!</h3>\n<p>'+(value.description)+'</p>';} } return out; }
 
-function doTClassesObject(class, index)
+function doTClassesObject(data, index)
 {
-    return { "title":class.title, "date":class.dates[index], "description":class.description };
+    return { "title":data.title, "date":data.dates[index], "description":data.description };
 }
