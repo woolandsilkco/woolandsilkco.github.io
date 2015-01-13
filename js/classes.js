@@ -35,8 +35,8 @@ function doStuffWithClasses(data)
         }
     }
 
-    var dotObject = [ { "title":class1.title, "date":class1.date, "content":class1.description },
-                      { "title":class2.title, "date":class2.date, "content":class2.despription } ];
+    var dotObject = [ { "title":class1.title, "date":class1.dates[0], "content":class1.description },
+                      { "title":class2.title, "date":class2.dates[0], "content":class2.description } ];
     var htmlContent = doTClasses(dotObject);
     console.log(htmlContent);
 }
