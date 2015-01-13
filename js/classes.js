@@ -38,7 +38,7 @@ function doStuffWithClasses(data)
     var child = document.createElement('div');
     child.innerHTML = doTClasses( { "array" : [ class1[0], class2[0] ] } );
     child = child.firstChild;
-    document.getElementById('classes').appendChild(child); 
+    document.getElementById('insertClasses').appendChild(child); 
 }
 
 function loadClasses(onLoad)
