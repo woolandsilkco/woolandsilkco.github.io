@@ -10,7 +10,7 @@ function doStuffWithClasses(data)
         {
             var date2 = new Date(data.classes[i].dates[j]);
 					
-					if (date2 >= date1)
+					if (date2 >= today)
 					{
             
             	  console.log(date2);
