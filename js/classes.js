@@ -10,7 +10,11 @@ function doStuffWithClasses(data)
         {
             var date2 = new Date(data.classes[i].dates[j]);
             
+            console.log(date2);
+            
             var timeDiff = Math.abs(date2.getTime() - today.getTime());
+
+            console.log(timeDiff);
 
             if (timeDiff >= 0)
             {
@@ -32,6 +36,9 @@ function doStuffWithClasses(data)
                     class2 = [doTClassesObject(data.classes[i], j), timeDiff];
                 }
             }
+            
+            console.log("class1 = " + class1);
+            console.log("class2 = " + class2);
         }
     }
     
