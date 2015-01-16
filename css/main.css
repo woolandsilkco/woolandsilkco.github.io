@@ -288,6 +288,14 @@ div.wwk p {
 }
 
 
+/********************
+ * Classes Page Style
+ *******************/
+div.classbox h4 {
+    margin: 1em 0;
+}
+
+
 /*********************
  * Contact Page Styles
  ********************/
