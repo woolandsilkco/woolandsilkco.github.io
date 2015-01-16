@@ -9,11 +9,11 @@ function doStuffWithClasses(data)
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
             var date2 = new Date(data.classes[i].dates[j]);
-            
-            var timeDiff = Math.abs(date2.getTime() - today.getTime());
+					
+					if (date2 >= today)
+					{            
+            	  var timeDiff = Math.abs(date2.getTime() - today.getTime());
 
-            if (timeDiff >= 0)
-            {
                 if (!class1)
                 {
                     class1 = [doTClassesObject(data.classes[i], j), timeDiff];
