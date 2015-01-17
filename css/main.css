@@ -291,16 +291,20 @@ div.wwk p {
 /********************
  * Classes Page Style
  *******************/
+div.classbox h2 {
+    margin-bottom: 0.33em;
+}
+
+div.classbox h3 {
+    color: rgb(105, 9, 10);
+}
+
 div.classbox h4 {
     margin: 0.5em 1em 0;
 }
 
 div.classbox p, div.classbox ul, div.classbox h3 {
     margin: 0 1em;
-}
-
-div.classbox h3 {
-    color: rgb(105, 9, 10);
 }
 
 
