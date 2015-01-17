@@ -1,4 +1,4 @@
-function doStuffWithClasses(data)
+function displayClassesPreview(data)
 {
     var today = new Date();
     var class1 = null;
