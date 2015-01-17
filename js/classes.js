@@ -9,10 +9,10 @@ function doStuffWithClasses(data)
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
             var date2 = new Date(data.classes[i].dates[j]);
-					
-					if (date2 >= today)
-					{            
-            	  var timeDiff = Math.abs(date2.getTime() - today.getTime());
+                    
+            if (date2 >= today)
+            {            
+                var timeDiff = Math.abs(date2.getTime() - today.getTime());
 
                 if (!class1)
                 {
