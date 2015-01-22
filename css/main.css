@@ -260,6 +260,20 @@ article.right a.all {
 }
 
 
+/*************************
+ * Featured Project Styles
+ ************************/
+div.featured img {
+    padding: 1em;
+    float: left;
+}
+
+div.featured h3, div.featured h4, div.featured p
+{
+    padding: 0.25em 1em;
+}
+
+
 /****************************
  * What We're Knitting Styles
  ***************************/
