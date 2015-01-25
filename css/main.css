@@ -273,6 +273,11 @@ div.featured h3, div.featured h4, div.featured li
     margin: 0.25em 1em;
 }
 
+div.featured li
+{
+    list-style-position: inside;
+}
+
 
 /****************************
  * What We're Knitting Styles
