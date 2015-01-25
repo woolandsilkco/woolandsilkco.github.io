@@ -264,8 +264,7 @@ article.right a.all {
  * Featured Project Styles
  ************************/
 div.featured img {
-    margin: 1em;
-    text-align: center;
+    margin: 1em auto;
 }
 
 div.featured h3, div.featured h4, div.featured li
@@ -451,6 +450,7 @@ footer a {
 
     div.featured img
     {
+        margin: 1em;
         float: left;
     }
 
