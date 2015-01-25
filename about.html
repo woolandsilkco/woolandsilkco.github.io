@@ -1,7 +1,68 @@
-{% include _partials/head.html %}
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Wool & Silk Co.</title>
+    <meta name="description" content="">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="http://woolandsilkco.github.io/css/normalize.min.css">
+    <link rel="stylesheet" href="http://woolandsilkco.github.io/css/flexnav.css">
+    <link rel="stylesheet" href="http://woolandsilkco.github.io/css/main.css">
+
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Muli'>
+
+    <script src="http://woolandsilkco.github.io/js/vendor/modernizr-2.6.2.min.js"></script>
+
+    <link rel="shortcut icon" href="http://woolandsilkco.github.io/favicons/favicon.ico">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="http://woolandsilkco.github.io/favicons/favicon.ico">
+    <link rel="icon" type="image/png" sizes="196x196" href="http://woolandsilkco.github.io/favicons/favicon-192.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="http://woolandsilkco.github.io/favicons/favicon-160.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="http://woolandsilkco.github.io/favicons/favicon-96.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="http://woolandsilkco.github.io/favicons/favicon-64.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://woolandsilkco.github.io/favicons/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://woolandsilkco.github.io/favicons/favicon-16.png">
+    <link rel="apple-touch-icon" href="http://woolandsilkco.github.io/favicons/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://woolandsilkco.github.io/favicons/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://woolandsilkco.github.io/favicons/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://woolandsilkco.github.io/favicons/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://woolandsilkco.github.io/favicons/favicon-60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://woolandsilkco.github.io/favicons/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://woolandsilkco.github.io/favicons/favicon-76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://woolandsilkco.github.io/favicons/favicon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://woolandsilkco.github.io/favicons/favicon-180.png">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="http://woolandsilkco.github.io/favicons/favicon-144.png">
+    <meta name="msapplication-config" content="http://woolandsilkco.github.io/favicons/browserconfig.xml">
+  </head>
+
   <body>
     <div class="wrap">
-    {% include _partials/header.html %}
+    <header>
+      <div class="logo narrow">
+        <img src="http://woolandsilkco.github.io/img/header_logo.png"></img>
+        <h2>where beautiful<br>things begin</h2>
+      </div>
+        
+      <div class="menu-button">Menu</div> 
+      <nav class="clearfix">
+        <ul class="flexnav narrow" data-breakpoint="800">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Yarn &amp Supplies</a></li>
+          <li><a href="#">Classes</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+
 
     <article class="narrow">
       <h1>Contact Us</h1>
@@ -15,7 +76,12 @@
     <div class="push"></div>
     </div>
 
-    {% include _partials/footer.html %}
+    <footer>
+      <a>Copyright © <script>document.write(new Date().getFullYear())</script><noscript>2015</noscript> The Wool and Silk Company</a>
+      <br>
+      <a class="link" href="http://www.frazerseymour.ca">Design by Frazer Seymour</a>
+    </footer>
+
 
     <script>
       console.log(screen.width);
@@ -25,6 +91,15 @@
       }
     </script>
 
-    {% include _partials/javascript.html %}
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="http://woolandsilkco.github.io/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+
+    <script src="http://woolandsilkco.github.io/js/jquery.flexnav.min.js"></script>
+    <script>
+      $(".flexnav").flexNav();
+    </script>
+
+    <script src="http://woolandsilkco.github.io/js/main.js"></script>
+
   </body>
 </html>
