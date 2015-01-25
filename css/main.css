@@ -265,12 +265,17 @@ article.right a.all {
  ************************/
 div.featured img {
     margin: 1em;
-    float: left;
+    text-align: center;
 }
 
 div.featured h3, div.featured h4, div.featured li
 {
     margin: 0.25em 1em;
+}
+
+div.featured ul
+{
+    padding: 0;
 }
 
 div.featured li
@@ -442,6 +447,11 @@ footer a {
 
     header div.logo {
         height: 7em;
+    }
+
+    div.featured img
+    {
+        float: left;
     }
 
     div.wwk {
