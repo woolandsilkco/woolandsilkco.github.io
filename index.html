@@ -5,8 +5,19 @@ layout: master
     <article class="left">
       <h1>Welcome!</h1>
       <div class="content clearfix">
-        <p>We are a new, full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
         <iframe class = "fb-like" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoolinshelburne&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+        <p>We are a new, full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
+      </div>
+    </article>
+
+    <article class="right">
+      <h1>News</h1>
+      <div class="content">
+        {% for post in site.posts limit:2 %}
+          <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
+          <p>{{ post.content | strip_html | truncatewords: 20 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></p>
+        {% endfor %}
+        <a href="http://woolandsilkco.github.io/news/" class="all">Click Here to See All News Items</a>
       </div>
     </article>
 
@@ -25,17 +36,6 @@ layout: master
         </ul>
         <h3>Purchase of kit including pattern &amp; yarns 15% off!</h3>
     </div>
-    </article>
-
-    <article class="right">
-      <h1>News</h1>
-      <div class="content">
-        {% for post in site.posts limit:2 %}
-          <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
-          <p>{{ post.content | strip_html | truncatewords: 20 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></p>
-        {% endfor %}
-        <a href="http://woolandsilkco.github.io/news/" class="all">Click Here to See All News Items</a>
-      </div>
     </article>
 
     <script src="./js/classes.js"></script>

@@ -266,6 +266,7 @@ article.right a.all {
 article iframe.fb-like
 {
     float: right;
+    margin: 1em;
 }
 
 
@@ -488,7 +489,7 @@ footer a {
         float: left;
     }
 
-    article iframe {
+    article div#map iframe {
         width: 45%;
         width: calc(50% - 2em);
         float: right;
