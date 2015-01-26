@@ -260,6 +260,15 @@ article.right a.all {
 }
 
 
+/*************
+ * FB Like Box
+ ************/
+article iframe.fb-like
+{
+    float: right;
+}
+
+
 /*************************
  * Featured Project Styles
  ************************/
@@ -344,7 +353,7 @@ div#location h3 {
     margin-bottom: 1em;
 }
 
-article table, article iframe {
+article table, article div#map iframe {
     margin: 1em;
     width: 98%;
     width: calc(100% - 2em);
