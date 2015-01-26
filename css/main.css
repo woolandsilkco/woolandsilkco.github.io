@@ -260,9 +260,15 @@ article.right a.all {
 }
 
 
-/*************
- * FB Like Box
- ************/
+/****************
+ * Welcome Styles
+ ***************/
+article img.small {
+    margin: 1em auto;
+    height: 4em;
+    width: auto;
+}
+
 article iframe.fb-like
 {
     display: block;
@@ -459,10 +465,17 @@ footer a {
         height: 7em;
     }
 
+    article img.small
+    {
+        margin: 1em;
+        margin-bottom: 0.25em;
+        float: left;
+
     article iframe.fb-like
     {
         margin: 1em;
-        float: right;
+        margin-top: 0.25em;
+        float: left;
     }
 
     div.featured img
