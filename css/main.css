@@ -265,7 +265,7 @@ article.right a.all {
  ***************/
 article .welcome img {
     margin: 1em auto;
-    width: 130px;
+    width: 60%;
     height: auto;
 }
 
@@ -469,7 +469,7 @@ footer a {
     }
 
     article .welcome img {
-        width: 60%;
+        width: 130px;
         margin: 1em;
         margin-bottom: 0.25em;
     }
