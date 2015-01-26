@@ -265,8 +265,9 @@ article.right a.all {
  ************/
 article iframe.fb-like
 {
-    float: right;
-    margin: 1em;
+    display: block;
+    width: 130px;
+    margin: 1em auto;
 }
 
 
@@ -456,6 +457,12 @@ footer a {
 
     header div.logo {
         height: 7em;
+    }
+
+    article iframe.fb-like
+    {
+        margin: 1em;
+        float: right;
     }
 
     div.featured img
