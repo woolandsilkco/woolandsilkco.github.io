@@ -469,6 +469,7 @@ footer a {
     }
 
     article .welcome img {
+        width: 60%;
         margin: 1em;
         margin-bottom: 0.25em;
     }
