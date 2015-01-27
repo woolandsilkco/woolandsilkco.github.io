@@ -166,10 +166,10 @@
             "dates" : [ "Sat Feb 21 2015", "Sat Mar 07 2015" ],
             "times" : [ "10am - 12pm" ],
             "cost" : "$40.00",
-            "description" : null,
+            "description" : "",
             "note" : null,
-            "prerequisites" : null,
-            "supplies" : null
+            "prerequisites" : "",
+            "supplies" : ""
         }
     ]
 }
