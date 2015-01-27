@@ -29,7 +29,7 @@
 
         {
             "title" : "Magic Loop - Unravel the Mystery!!",
-            "parts" : [ 1 ],
+            "parts" : 1,
             "dates" : [ "Tue Jan 13 2015", "Thu Feb 05 2015"],
             "times" : [ "2pm-3pm (Jan 13th)", "7pm-8pm (Both days)" ],
             "cost" : "$20.00",
@@ -43,7 +43,7 @@
 
         {
             "title" : "Basic Sock - Let's Start a Trend!",
-            "parts" : ["casting on & knitting the leg", "turning the heel & instruction on the instep", "clarity on the instep, foot and completion to the toe" ],
+            "parts" : 3,
             "dates" : [ "Tue Jan 20 2015", "Tue Feb 03 2015", "Tue Feb 17 2015"],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$60.00",
@@ -57,7 +57,7 @@
 
         {
             "title" : "Basic Sweater - A Good First Garment",
-            "parts" : [ "casting on & knitting the back", "sleeves", "finishing the front and sweater assembly" ],
+            "parts" : 3,
             "dates" : [ "Tue Jan 27 2015", "Tue Feb 10 2015", "Tue Feb 24 2015" ],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$60.00",
@@ -71,7 +71,7 @@
 
         {
             "title" : "Ravelry - Let's Get the Most Out of It!",
-            "parts" : [ 1 ],
+            "parts" : 1,
             "dates" : [ "Thu Feb 12 2015", "Tue Mar 03 2015" ],
             "times" : [ "1pm - 3pm (March 3rd)", "7pm - 9pm (Both days)" ],
             "cost" : "$20.00",
@@ -141,7 +141,7 @@
             "parts" : 1,
             "dates" : [ "Thu Mar 12 2015" ],
             "times" : [ "2pm - 3pm", "7pm - 8pm" ],
-            "cost" : "20.00",
+            "cost" : "$20.00",
             "description" : "Duplicate stitch is the placement of hand sewn stitches over your knitting to create a design. Used to help prevent the difficulty of trying to carry multiple colours during stranding knitting. Can also be used for knit repairs.",
             "note" : null,
             "prerequisites" : "know how to knit & purl",
@@ -158,6 +158,18 @@
             "note" : "** must sign up in advance to obtain pattern & have correct supplies**",
             "prerequisites" : "know how to knit & purl",
             "supplies" : "pattern will be the Sirdar Child's sweater (can also be the baby or adult sweater if you wish). This is a purchase pattern ($6.35). Sweater is shown in Crofter DK yarn but can be made out of any DK yarn. Needles should be 4.0mm - 3.5mm according to your knitting gauge."
+        },
+
+        {
+            "title" : "2 at a Time Toe Up Socks",
+            "parts" : 2,
+            "dates" : [ "Sat Feb 21 2015", "Sat Mar 07 2015" ],
+            "times" : [ "10am - 12pm" ],
+            "cost" : "$40.00",
+            "description" : null,
+            "note" : null,
+            "prerequisites" : null,
+            "supplies" : null
         }
     ]
 }
