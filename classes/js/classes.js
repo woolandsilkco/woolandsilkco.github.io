@@ -8,7 +8,7 @@ function displayClassesPreview(data)
     {
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
-            for (var k = 0; k < data.class[i].dates[j].length; k++)
+            for (var k = 0; k < data.classes[i].dates[j].length; k++)
             {
                 var date2 = new Date(data.classes[i].dates[j][k]);
                         
@@ -54,7 +54,7 @@ function displayClassesPage(data)
 
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
-            for (var k = 0; k < data.class[i].dates[k].length; k++)
+            for (var k = 0; k < data.classes[i].dates[j].length; k++)
             {
                 var date2 = new Date(data.classes[i].dates[j][k]);
                         
