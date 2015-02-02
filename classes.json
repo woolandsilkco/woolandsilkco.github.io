@@ -3,7 +3,7 @@
         {
             "title" : "Learn to Knit",
             "parts" : 2,
-            "dates" : [ "Thu Jan 08 2015", "Thu Jan 22 2015" ],
+            "dates" : [ ["Thu Jan 08 2015", "Thu Jan 22 2015"] ],
             "times" : [ "7pm - 9pm" ],
             "cost" : "$35.00",
             "description" : "This class has already begun in December but you are welcome to join in for the last 2 parts in January. Created for anyone who is new to knitting we cover casting on, basic knit & purl stitches & casting off.  The project will be a sampler scarf.",
@@ -16,7 +16,7 @@
         {
             "title" : "Learn to Crochet",
             "parts" : 2,
-            "dates" : [ "Thu Jan 15 2015", "Thu Jan 29 2015" ],
+            "dates" : [ ["Thu Jan 15 2015", "Thu Jan 29 2015"] ],
             "times" : [ "7pm - 9pm" ],
             "cost" : "$35.00",
 			"project" : "Scarf or lap blanket or suitable project of your choice",
@@ -30,7 +30,7 @@
         {
             "title" : "Magic Loop - Unravel the Mystery!!",
             "parts" : 1,
-            "dates" : [ "Tue Jan 13 2015", "Thu Feb 05 2015"],
+            "dates" : [ ["Tue Jan 13 2015"], ["Thu Feb 05 2015"]],
             "times" : [ "2pm-3pm (Jan 13th)", "7pm-8pm (Both days)" ],
             "cost" : "$20.00",
 			"project" : "any item that you would knit in the round (eg: sock, small neck warmer, gauntlet)  If you don’t know what to make then we can help you with a pattern & get you started",
@@ -44,7 +44,7 @@
         {
             "title" : "Basic Sock - Let's Start a Trend!",
             "parts" : 3,
-            "dates" : [ "Tue Jan 20 2015", "Tue Feb 03 2015", "Tue Feb 17 2015"],
+            "dates" : [ ["Tue Jan 20 2015", "Tue Feb 03 2015", "Tue Feb 17 2015"] ],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$60.00",
 			"project" : "Plain basic sock - top down",
@@ -58,7 +58,7 @@
         {
             "title" : "Basic Sweater - A Good First Garment",
             "parts" : 3,
-            "dates" : [ "Tue Jan 27 2015", "Tue Feb 10 2015", "Tue Feb 24 2015" ],
+            "dates" : [ ["Tue Jan 27 2015", "Tue Feb 10 2015", "Tue Feb 24 2015"] ],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$60.00",
 			"project" : "Plain basic sweater – Sirdar pattern 4481, 2256 or 9133",
@@ -72,7 +72,7 @@
         {
             "title" : "Ravelry - Let's Get the Most Out of It!",
             "parts" : 1,
-            "dates" : [ "Thu Feb 12 2015", "Tue Mar 03 2015" ],
+            "dates" : [ ["Thu Feb 12 2015"], ["Tue Mar 03 2015"] ],
             "times" : [ "1pm - 3pm (March 3rd)", "7pm - 9pm (Both days)" ],
             "cost" : "$20.00",
 			"project" : "None",
@@ -86,7 +86,7 @@
         {
             "title" : "Filet Crochet",
             "parts" : 1,
-            "dates" : [ "Thu Feb 19 2015" ],
+            "dates" : [ ["Thu Feb 19 2015"] ],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$20.00",
 			"project" : "None",
@@ -100,7 +100,7 @@
         {
             "title" : "Entrelac",
             "parts" : 1,
-            "dates" : [ "Thu Feb 26 2015", "Tue Mar 17 2015" ],
+            "dates" : [ ["Thu Feb 26 2015"], ["Tue Mar 17 2015"] ],
             "times" : [ "1pm - 3pm (March 17th)", "7pm - 9pm (Both days)" ],
             "cost" : "$20.00",
 			"project" : "None",
@@ -114,7 +114,7 @@
         {
             "title" : "Fair Isle Sweater - the Anders Sweater",
             "parts" : 3,
-            "dates" : [ "Tue Mar 10 2015", "Tue Mar 24 2015", "Tue Apr 07 2015" ],
+            "dates" : [ ["Tue Mar 10 2015", "Tue Mar 24 2015", "Tue Apr 07 2015"] ],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$60.00",
             "description" : "You may have seen this great little sweater in store, the one with the tiny christmas trees at the bottom and snow falling down. This class will teach this sweater and will help you learn several elements. Top-down sweater knitting, raglan sleeve(top-down), vickle braid, making a button placket, using a graph, correct finishing techniques.",
@@ -127,7 +127,7 @@
         {
             "title" : "Cables - They're a Twisty Thing!",
             "parts" : 1,
-            "dates" : [ "Thu Mar 05 2015" ],
+            "dates" : [ ["Thu Mar 05 2015"] ],
             "times" : [ "1pm - 3pm", "7pm - 9pm" ],
             "cost" : "$20.00",
             "description" : "If you have always been intrigued by cables but been afraid to try then this is the class for you.  You will learn how to manage your stitches, read pattern directions and learn schematics. They're not as hard as you think.",
@@ -139,7 +139,7 @@
         {
             "title" : "Duplicate Stitch - For Designs & Repair",
             "parts" : 1,
-            "dates" : [ "Thu Mar 12 2015" ],
+            "dates" : [ ["Thu Mar 12 2015"] ],
             "times" : [ "2pm - 3pm", "7pm - 8pm" ],
             "cost" : "$20.00",
             "description" : "Duplicate stitch is the placement of hand sewn stitches over your knitting to create a design. Used to help prevent the difficulty of trying to carry multiple colours during stranding knitting. Can also be used for knit repairs.",
@@ -151,7 +151,7 @@
         {
             "title" : "Introduction to Lace Knitting",
             "parts" : 2,
-            "dates" : [ "Tue Mar 31 2015", "Tue Apr 14 2015", "Thu Mar 19 2015", "Thu Mar 26 2015" ],
+            "dates" : [ ["Tue Mar 31 2015", "Tue Apr 14 2015"], ["Thu Mar 19 2015", "Thu Mar 26 2015"] ],
             "times" : [ "1pm - 3pm (All days)", "7pm - 9pm (Tuesdays)" ],
             "cost" : "$40.00",
             "description" : "For those knitters who have always been intrigued by lace knitting but were worried that it was “too difficult”.  Here is a great beginners class.",
@@ -163,7 +163,7 @@
         {
             "title" : "2 at a Time Toe Up Socks",
             "parts" : 2,
-            "dates" : [ "Sat Feb 21 2015", "Sat Mar 07 2015" ],
+            "dates" : [ ["Sat Feb 21 2015", "Sat Mar 07 2015"] ],
             "times" : [ "10am - 12pm" ],
             "cost" : "$40.00",
             "description" : "",
