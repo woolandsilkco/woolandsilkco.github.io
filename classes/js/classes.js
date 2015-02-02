@@ -74,7 +74,7 @@ function displayClassesPage(data)
 function loadClasses(onLoad)
 {
     var request = new XMLHttpRequest();
-    request.open("GET", "https://api.github.com/repos/woolandsilkco/woolandsilkco.github.io/contents/classesmin.json", true);
+    request.open("GET", "https://api.github.com/repos/woolandsilkco/woolandsilkco.github.io/contents/classes/classesmin.json", true);
 
     request.onload = function()
     {
