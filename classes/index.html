@@ -80,9 +80,24 @@
         loadClasses(displayClassesPage);
       </script>
       <span id="insertClasses">
-          <p id="loading">Loading class information...</p>
-          <p id="error">Couldn't load class information</p>
-          <p id="none">There are currently no upcoming classes.</p>
+        <article id="loading" class="narrow">
+          <h1>Status</h1>
+          <div class="content classbox clearfix">
+            <p>Loading class information...</p>
+          </div>
+        </article>
+        <article id="error" class="narrow">
+          <h1>Status</h1>
+          <div class="content classbox clearfix">
+            <p>Couldn't load class information</p>
+          </div>
+        </article>
+        <article id="noclasses" class="narrow">
+          <h1>Status</h1>
+          <div class="content classbox clearfix">
+            <p>There are currently no upcoming classes.</p>
+          </div>
+        </article>
       </span>
 
       <div class="push"></div>

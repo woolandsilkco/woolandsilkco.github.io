@@ -349,6 +349,14 @@ div.classbox ul {
 }
 
 
+/************************
+ * Classes Loading Styles
+ ***********************/
+#error, #noclasses {
+    display: none;
+}
+
+
 /*********************
  * Contact Page Styles
  ********************/

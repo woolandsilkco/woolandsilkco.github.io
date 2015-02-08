@@ -85,6 +85,7 @@ function loadClasses(onLoad)
     request.onload = function()
     {
         $("#loading").hide();
+        console.log(JSON.parse(atob(JSON.parse(request.response).content.replace(/\s/g, ''))));
         onLoad(JSON.parse(atob(JSON.parse(request.response).content.replace(/\s/g, ''))));
     }
 
