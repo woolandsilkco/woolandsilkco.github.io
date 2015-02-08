@@ -39,14 +39,27 @@ function displayClassesPreview(data)
     }
     
     var child = document.createElement('div');
-    child.innerHTML = doTClasses( { "array" : [ class1[0], class2[0] ] } );
-    child = child.firstChild;
-    document.getElementById('insertClasses').appendChild(child); 
+    if (!class1 && !class2)
+    {
+        $("#noclasses").show();
+    }
+    else
+    {
+        var obj = { "array" : [ class1[0] ] };
+        if (class2)
+        {
+            obj.array.push(class2[0]);
+        }
+        child.innerHTML = doTClasses( obj );
+        child = child.firstChild;
+        document.getElementById('insertClasses').appendChild(child); 
+    }
 }
 
 function displayClassesPage(data)
 {
     var today = new Date();
+    $("#noclasses").show();
 
     for (var i = 0; i < data.classes.length; i++)
     {
@@ -67,6 +80,7 @@ function displayClassesPage(data)
        
         if (valid)
         {
+            $("#noclasses").hide();
             var child = document.createElement('div');
             child.innerHTML = doTSummary(data.classes[i]);
             child = child.firstChild;
@@ -85,7 +99,6 @@ function loadClasses(onLoad)
     request.onload = function()
     {
         $("#loading").hide();
-        console.log(JSON.parse(atob(JSON.parse(request.response).content.replace(/\s/g, ''))));
         onLoad(JSON.parse(atob(JSON.parse(request.response).content.replace(/\s/g, ''))));
     }
 
