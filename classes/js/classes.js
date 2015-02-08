@@ -84,12 +84,14 @@ function loadClasses(onLoad)
 
     request.onload = function()
     {
+        $("#loading").hide();
         onLoad(JSON.parse(atob(JSON.parse(request.response).content.replace(/\s/g, ''))));
     }
 
     request.onerror = function()
     {
-        alert('BufferLoader: XHR error');
+        $("#loading").hide();
+        $("#error").show();
     }
 
     request.send();
