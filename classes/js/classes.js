@@ -1,6 +1,6 @@
 function displayClassesPreview(data)
 {
-    var today = new Date("01/01/2016");
+    var today = new Date();
     var class1 = null;
     var class2 = null;
 
@@ -58,7 +58,7 @@ function displayClassesPreview(data)
 
 function displayClassesPage(data)
 {
-    var today = new Date("01/01/2016");
+    var today = new Date();
     $("#noclasses").show();
 
     for (var i = 0; i < data.classes.length; i++)
