@@ -312,7 +312,7 @@ div.wwk {
 div.wwk img {
     width: calc(50% - 1em);
     height: auto;
-    float: left;
+    display: inline-block;
 
     margin: 0;
     margin-right: 0.25em;
@@ -323,8 +323,12 @@ div.wwk h3 {
     width: calc(100% - 1em);
 }
 
-div.wwk p {
-    margin: 0;
+div.wwk ul {
+    width: calc(100% - 1em);
+}
+
+div.wwk li {
+    padding-left: 20px;
 }
 
 
