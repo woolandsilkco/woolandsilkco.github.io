@@ -8,31 +8,28 @@ function displayClassesPreview(data)
     {
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
-            for (var k = 0; k < data.classes[i].dates[j].length; k++)
-            {
-                var date2 = new Date(data.classes[i].dates[j][k]);
-                        
-                if (date2 >= today)
-                {            
-                    var timeDiff = Math.abs(date2.getTime() - today.getTime());
+            var date2 = new Date(data.classes[i].dates[j][0]);
+                    
+            if (date2 >= today)
+            {            
+                var timeDiff = Math.abs(date2.getTime() - today.getTime());
 
-                    if (!class1)
-                    {
-                        class1 = [doTClassesObject(data.classes[i], date2), timeDiff];
-                    }
-                    else if (!class2)
-                    {
-                        class2 = [doTClassesObject(data.classes[i], date2), timeDiff];
-                    }
-                    else if (timeDiff < class1[1])
-                    {
-                        class2 = class1;
-                        class1 = [doTClassesObject(data.classes[i], date2), timeDiff];
-                    }
-                    else if (timeDiff == class1[1] || timeDiff < class2[1])
-                    {
-                        class2 = [doTClassesObject(data.classes[i], date2), timeDiff];
-                    }
+                if (!class1)
+                {
+                    class1 = [doTClassesObject(data.classes[i], date2), timeDiff];
+                }
+                else if (!class2)
+                {
+                    class2 = [doTClassesObject(data.classes[i], date2), timeDiff];
+                }
+                else if (timeDiff < class1[1])
+                {
+                    class2 = class1;
+                    class1 = [doTClassesObject(data.classes[i], date2), timeDiff];
+                }
+                else if (timeDiff == class1[1] || timeDiff < class2[1])
+                {
+                    class2 = [doTClassesObject(data.classes[i], date2), timeDiff];
                 }
             }
         }
@@ -67,14 +64,11 @@ function displayClassesPage(data)
 
         for (var j = 0; j < data.classes[i].dates.length; j++)
         {
-            for (var k = 0; k < data.classes[i].dates[j].length; k++)
+            var date2 = new Date(data.classes[i].dates[j][0]);
+                    
+            if (date2 >= today)
             {
-                var date2 = new Date(data.classes[i].dates[j][k]);
-                        
-                if (date2 >= today)
-                {
-                    valid = true;
-                }
+                valid = true;
             }
         }
        
