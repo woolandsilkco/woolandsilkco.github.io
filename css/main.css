@@ -325,10 +325,8 @@ div.wwk h3 {
 
 div.wwk ul {
     width: calc(100% - 1em);
-}
-
-div.wwk li {
     padding-left: 20px;
+    margin: 0;
 }
 
 
