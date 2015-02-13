@@ -21,6 +21,24 @@
 
     <script src="http://woolandsilkco.github.io/js/vendor/modernizr-2.6.2.min.js"></script>
 
+    <script src="http://woolandsilkco.github.io/js/masonry.pkgd.min.js"></script>
+    <script>
+      $(document).ready(function() {
+          // with jQuery
+          $('#container').masonry({
+              columnWidth: 512,
+              itemSelector: '.yarn'
+          });
+      });
+      
+      $(window).resize(function() {
+          $("#container").masonry("reload");
+      });
+      
+      $(window).load(function() { $("#container").masonry(); });
+    </script>
+    
+
     <link rel="shortcut icon" href="http://woolandsilkco.github.io/favicons/favicon.ico">
     <link rel="icon" sizes="16x16 32x32 64x64" href="http://woolandsilkco.github.io/favicons/favicon.ico">
     <link rel="icon" type="image/png" sizes="196x196" href="http://woolandsilkco.github.io/favicons/favicon-192.png">
@@ -213,23 +231,6 @@
 
     <script src="http://woolandsilkco.github.io/js/main.js"></script>
 
-
-    <script src="http://woolandsilkco.github.io/js/masonry.pkgd.min.js"></script>
-    <script>
-      $(document).ready(function() {
-          // with jQuery
-          $('#container').masonry({
-              columnWidth: 512,
-              itemSelector: '.yarn'
-          });
-      });
-      
-      $(window).resize(function() {
-          $("#container").masonry("reload");
-      });
-      
-      $(window).load(function() { $("#container").masonry(); });
-    </script>
 
   </body>
 </html>
