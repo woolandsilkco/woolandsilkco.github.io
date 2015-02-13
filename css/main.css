@@ -224,6 +224,14 @@ article p {
     margin: 1em;
 }
 
+article a.all {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin 0;
+    text-align: center;
+}
+
 
 /************************
  * Floated Article Styles
@@ -249,14 +257,6 @@ article.right a:link, article.right a:active {
 
 article.right a:hover {
     text-decoration: underline;
-}
-
-article.right a.all {
-    display: block;
-    font-size: 1em;
-    font-weight: bold;
-    margin 0;
-    text-align: center;
 }
 
 
