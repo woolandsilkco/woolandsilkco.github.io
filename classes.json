@@ -166,7 +166,7 @@
             "dates" : [ ["Sat Feb 21 2015", "Sat Mar 07 2015"] ],
             "times" : [ "10am - 12pm" ],
             "cost" : "$40.00",
-            "description" : "",
+            "description" : "A description goes here.",
             "note" : null,
             "prerequisites" : "",
             "supplies" : ""
