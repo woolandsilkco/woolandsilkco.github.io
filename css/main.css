@@ -224,6 +224,16 @@ article p {
     margin: 1em;
 }
 
+article a:hover, article.right a:visited,
+article a:link, article.right a:active {
+    color: rgb(105,9,10);
+    text-decoration: none;
+}
+
+article a:hover {
+    text-decoration: underline;
+}
+
 article a.all {
     display: block;
     font-size: 1em;
@@ -247,16 +257,6 @@ article.right div {
 article.right p {
     margin: 0;
     margin-bottom: 0.5em;
-}
-
-article.right a:hover, article.right a:visited,
-article.right a:link, article.right a:active {
-    color: rgb(105,9,10);
-    text-decoration: none;
-}
-
-article.right a:hover {
-    text-decoration: underline;
 }
 
 
