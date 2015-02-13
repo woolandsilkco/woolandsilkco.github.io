@@ -223,13 +223,11 @@
       });
       
       $(window).resize(function() {
-          $("#container").masonry("reload");
-      });
-      
-      $(window).load(function() {
-          $("#container").imagesLoaded();
+          $("#container").masonry("reloadItems");
           $("#container").masonry();
       });
+      
+      $(window).load(function() { $("#container").masonry(); });
     </script>
 
   </body>
