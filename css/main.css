@@ -224,8 +224,8 @@ article p {
     margin: 1em;
 }
 
-article a:hover, article.right a:visited,
-article a:link, article.right a:active {
+article a:hover, article a:visited,
+article a:link, article a:active {
     color: rgb(105,9,10);
     text-decoration: none;
 }
