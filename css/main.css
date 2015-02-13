@@ -337,6 +337,10 @@ div.wwk ul {
     margin: auto;
 }
 
+article.yarn {
+    width: 100%;
+}
+
 article.yarn h1>a {
     color: inherit;
 }
