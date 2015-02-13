@@ -242,6 +242,10 @@ article a.all {
     text-align: center;
 }
 
+article>a {
+    margin-bottom: 1em;
+}
+
 
 /************************
  * Floated Article Styles
