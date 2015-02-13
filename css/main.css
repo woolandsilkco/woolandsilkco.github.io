@@ -330,6 +330,14 @@ div.wwk ul {
 }
 
 
+/******************
+ * Yarns Page Style
+ *****************/
+article.yarn h1>a {
+    color: inherit;
+}
+
+
 /********************
  * Classes Page Style
  *******************/
@@ -513,6 +521,11 @@ footer a {
         margin-left: 0.5em;
         float: right;
     }
+
+    article.yarn {
+        width: calc(50% - 1em);
+    }
+
 
     div#location {
         width: 45%;
