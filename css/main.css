@@ -242,7 +242,7 @@ article a.all {
     text-align: center;
 }
 
-article>a {
+article .content>a {
     margin-bottom: 1em;
 }
 
