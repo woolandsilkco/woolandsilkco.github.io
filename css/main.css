@@ -407,7 +407,7 @@ div#map {
 /********************
  * News Page Styles *
  *******************/
-div.recent, div.older {
+div.news {
     float: left;
     width: 100%;
 }
@@ -545,10 +545,6 @@ footer a {
         width: 45%;
         width: calc(50% - 2em);
         float: right;
-    }
-
-    div.recent {
-        width: 33%;
     }
 
     div.older {
