@@ -16,7 +16,7 @@ function displayClassesPreview(data)
             }
         }
     }
-    classes.sort( predicateBy("data") );
+    classes.sort( predicateBy("date") );
     
     var child = document.createElement('div');
     if (classes.length == 0)
