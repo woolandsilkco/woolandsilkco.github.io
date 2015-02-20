@@ -338,12 +338,12 @@ div.wwk ul {
 /**********************
  * Class Preview Styles
  *********************/
-#loadingClasses .title
+#insertClasses .title
 {
     font-weight: bold;
 }
 
-#loadingClasses .time
+#insertClasses .time
 {
     color: rgb(105,9,10);
 }
