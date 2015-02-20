@@ -24,7 +24,7 @@ function displayClassesPreview(data)
     else
     {
         var obj = { "array" : classes };
-        console.log(JSON.stringify(obj));
+        console.log(dotClasses(obj));
         child.innerHTML = doTClasses( obj );
         child = child.firstChild;
         document.getElementById('insertClasses').appendChild(child); 
