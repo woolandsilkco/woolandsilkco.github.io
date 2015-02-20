@@ -335,6 +335,20 @@ div.wwk ul {
 }
 
 
+/**********************
+ * Class Preview Styles
+ *********************/
+#loadingClasses.title
+{
+    font-weight: bold;
+}
+
+#loadingClasses.time
+{
+    color: rgb(105,9,10);
+}
+
+
 /******************
  * Yarns Page Style
  *****************/
