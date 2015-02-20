@@ -1,0 +1,45 @@
+{   
+    "classes" : [
+        {
+            "title" : "Ravelry - Let's Get the Most Out of It!",
+            "dates" : [ ["Thu Feb 12 2015"], ["Tue Mar 03 2015"] ],
+            "times" : [ "7pm - 9pm", "1pm - 3pm OR 7pm - 9pm"  ]
+        },
+
+        {
+            "title" : "Entrelac",
+            "dates" : [ ["Thu Feb 26 2015"], ["Tue Mar 17 2015"] ],
+            "times" : [ "7pm - 9pm", "1pm - 3pm OR 7pm - 9pm" ]
+        },
+
+        {
+            "title" : "Fair Isle Sweater - the Anders Sweater",
+            "dates" : [ ["Tue Mar 10 2015", "Tue Mar 24 2015", "Tue Apr 07 2015"] ],
+            "times" : [ "1pm - 3pm OR 7pm - 9pm" ]
+
+        {
+            "title" : "Cables - They're a Twisty Thing!",
+            "dates" : [ ["Thu Mar 05 2015"] ],
+            "times" : [ "1pm - 3pm OR 7pm - 9pm" ]
+       },
+
+        {
+            "title" : "Duplicate Stitch - For Designs & Repair",
+            "dates" : [ ["Thu Mar 12 2015"] ],
+            "times" : [ "2pm - 3pm OR 7pm - 8pm" ]
+        },
+
+        {
+            "title" : "Introduction to Lace Knitting",
+            "dates" : [ ["Tue Mar 31 2015", "Tue Apr 14 2015"], ["Thu Mar 19 2015", "Thu Mar 26 2015"] ],
+            "times" : [ "1pm - 3pm OR 7pm - 9pm", "1pm - 3pm" ]
+        },
+
+        {
+            "title" : "2 at a Time Toe Up Socks",
+            "dates" : [ ["Sat Feb 21 2015", "Sat Mar 07 2015"] ],
+            "times" : [ "10am - 12pm" ]
+        }
+    ]
+}
+
