@@ -12,13 +12,11 @@ function displayClassesPreview(data)
             if (date2 >= today)
             {
                 var currentClass = data.classes[i];
-                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.times[j], "epoch" : date2.getDate()});
+                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.times[j], "epoch" : date2.getTime()});
             }
         }
     }
-    console.log(classes);
     classes.sort( function(a, b) { return a.epoch - b.epoch; } );
-    console.log(classes);
     
     var child = document.createElement('div');
     if (classes.length == 0)
