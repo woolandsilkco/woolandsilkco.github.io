@@ -268,7 +268,7 @@ article.right p {
 /****************
  * Welcome Styles
  ***************/
-article .welcome img {
+article img#welcome {
     margin: 1em auto;
     width: 60%;
     height: auto;
@@ -513,11 +513,8 @@ footer a {
         height: 7em;
     }
 
-    article .welcome {
+    article img#welcome {
         float: left;
-    }
-
-    article .welcome img {
         width: 130px;
         margin: 1em;
         margin-bottom: 0.25em;
