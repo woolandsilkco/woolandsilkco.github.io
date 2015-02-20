@@ -11,7 +11,7 @@ function displayClassesPreview(data)
                     
             if (date2 >= today)
             {
-                classes.append([data.classes[i], j]);
+                classes.push([data.classes[i], j]);
             }
         }
     }
