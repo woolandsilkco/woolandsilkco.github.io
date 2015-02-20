@@ -274,14 +274,8 @@ article .welcome img {
     height: auto;
 }
 
-Article .welcome img#fb {
-    width: 144px;
-}
-
-article .welcome iframe {
-    display: block;
-    width: 144px;
-    margin: 1em auto;
+article .fb {
+    text-align: center;
 }
 
 
@@ -519,14 +513,17 @@ footer a {
     }
 
     article .welcome img {
-        width: 144px;
+        width: 130px;
         margin: 1em;
         margin-bottom: 0.25em;
     }
 
-    article .welcome iframe {
-        margin: 1em;
-        margin-top: 0.25em;
+    article fb * {
+        display: inline-block;
+    }
+
+    article fb iframe {
+        margin: auto 5px;
     }
 
     div.featured img {
