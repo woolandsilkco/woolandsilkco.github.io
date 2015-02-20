@@ -518,12 +518,12 @@ footer a {
         margin-bottom: 0.25em;
     }
 
-    article fb * {
+    article .fb * {
         display: inline-block;
     }
 
-    article fb iframe {
-        margin: auto 5px;
+    article .fb iframe {
+        margin: calc(1em + 5px) auto;
     }
 
     div.featured img {
