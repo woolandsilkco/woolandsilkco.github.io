@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: Newsletter January 29th 2015
 ---
 
