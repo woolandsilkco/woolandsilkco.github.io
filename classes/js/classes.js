@@ -12,7 +12,7 @@ function displayClassesPreview(data)
             if (date2 >= today)
             {
                 var currentClass = data.classes[i];
-                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.time[j]});
+                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.times[j]});
             }
         }
     }
