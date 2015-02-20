@@ -16,7 +16,7 @@ function displayClassesPreview(data)
             }
         }
     }
-    classes.sort( predicateBy("epoch") );
+    classes.sort( function(a, b) { return a.epoch - b.epoch; } );
     
     var child = document.createElement('div');
     if (classes.length == 0)
