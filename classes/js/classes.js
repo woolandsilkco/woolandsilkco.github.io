@@ -33,7 +33,7 @@ function displayClassesPreview(data)
 }
 
 
-function predicatBy(prop){
+function predicateBy(prop){
    return function(a,b){
       if( a[prop] > b[prop]){
           return 1;
