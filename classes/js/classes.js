@@ -16,7 +16,9 @@ function displayClassesPreview(data)
             }
         }
     }
+    console.log(classes);
     classes.sort( function(a, b) { return a.epoch - b.epoch; } );
+    console.log(classes);
     
     var child = document.createElement('div');
     if (classes.length == 0)
