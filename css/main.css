@@ -518,12 +518,17 @@ footer a {
         margin-bottom: 0.25em;
     }
 
-    article .fb * {
+    article .fb img {
         display: inline-block;
+        margin: 1em;
+        margin-top: 0;
     }
 
     article .fb iframe {
-        margin: calc(1em + 5px) auto;
+        display: inline-block;
+        margin: 1em;
+        margin-top: 5px;
+        margin-bottom: calc(1em + 5px);
     }
 
     div.featured img {
