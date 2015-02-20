@@ -12,11 +12,11 @@ function displayClassesPreview(data)
             if (date2 >= today)
             {
                 var currentClass = data.classes[i];
-                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.times[j]});
+                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.times[j], "epoch" : date2.getDate()});
             }
         }
     }
-    classes.sort( predicateBy("date") );
+    classes.sort( predicateBy("epoch") );
     
     var child = document.createElement('div');
     if (classes.length == 0)
