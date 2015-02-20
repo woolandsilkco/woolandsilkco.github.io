@@ -278,6 +278,11 @@ article .fb {
     text-align: center;
 }
 
+article .fb iframe {
+    margin: 1em auto;
+    margin-top: 0;
+}
+
 
 /*************************
  * Featured Project Styles
@@ -519,6 +524,7 @@ footer a {
     }
 
     article .fb img {
+        vertical-align: baseline;
         display: inline-block;
         margin: 1em;
         margin-top: 0;
@@ -527,8 +533,8 @@ footer a {
     article .fb iframe {
         display: inline-block;
         margin: 1em;
-        margin-top: 5px;
-        margin-bottom: calc(1em + 5px);
+        margin-top: 8px;
+        margin-bottom: calc(1em + 8px);
     }
 
     div.featured img {
