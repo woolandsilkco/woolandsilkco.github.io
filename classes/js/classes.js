@@ -13,6 +13,7 @@ function displayClassesPreview(data)
             {
                 classes.append([data.classes[i], j]);
             }
+        }
     }
     
     var child = document.createElement('div');
