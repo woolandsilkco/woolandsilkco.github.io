@@ -274,9 +274,13 @@ article .welcome img {
     height: auto;
 }
 
+Article .welcome img#fb {
+    width: 144px;
+}
+
 article .welcome iframe {
     display: block;
-    width: 130px;
+    width: 144px;
     margin: 1em auto;
 }
 
@@ -515,7 +519,7 @@ footer a {
     }
 
     article .welcome img {
-        width: 130px;
+        width: 144px;
         margin: 1em;
         margin-bottom: 0.25em;
     }
