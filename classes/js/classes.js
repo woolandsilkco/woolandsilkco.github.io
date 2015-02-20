@@ -11,7 +11,7 @@ function displayClassesPreview(data)
                     
             if (date2 >= today)
             {
-                var currentClass = data.class[i];
+                var currentClass = data.classes[i];
                 classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.time[j]});
             }
         }
