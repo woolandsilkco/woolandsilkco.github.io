@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Testing a Title
+title: "2015-02-20-Newsletter-February-20th-2015"
 ---
 
 - new bags & totes
