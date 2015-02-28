@@ -19,7 +19,7 @@ layout: master
       <div class="content">
         {% for post in site.posts limit:2 %}
           <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
-          <p>{{ post.content | truncatewords: 30 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></p>
+          <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
         {% endfor %}
         <a href="http://woolandsilkco.github.io/news/" class="all">Click Here to See All News Items</a>
       </div>
