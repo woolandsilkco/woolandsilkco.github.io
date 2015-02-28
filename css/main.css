@@ -338,6 +338,18 @@ div.wwk ul {
 }
 
 
+/*********************
+ * News Preview Styles
+ ********************/
+div.preview {
+    padding: 0;
+}
+
+div.preview>:not(ul) {
+    display: none;
+}
+
+
 /**********************
  * Class Preview Styles
  *********************/
