@@ -341,15 +341,15 @@ div.wwk ul {
 /*********************
  * News Preview Styles
  ********************/
-div.preview {
+article.right div.preview {
     padding: 0;
 }
 
-div.preview>:not(ul) {
+article.right div.preview>:not(ul) {
     display: none;
 }
 
-div.preview>ul {
+article.right div.preview>ul {
     padding: 0 0 0 20px;
     margin: 0;
 }
