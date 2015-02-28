@@ -349,6 +349,11 @@ div.preview>:not(ul) {
     display: none;
 }
 
+div.preview>ul {
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+
 
 /**********************
  * Class Preview Styles
