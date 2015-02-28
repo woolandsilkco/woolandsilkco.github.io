@@ -3,6 +3,10 @@ layout: post
 title: Newsletter January 29th 2015
 ---
 
+- MadelineTosh is here!
+- Sock yarn 15% off
+- "Iced" cardigan feature
+
 ## Feature Project:
 **Iced Cardigan** – Warm and cozy for the cold weather it knits up fast in this bulky yarn. Requires 6-8 skeins of Peruvia Quick to complete. This is a free pattern.  Purchase of yarn for this sweater project is 15% off & we will print the pattern for you! This offer will continue until February 28th.
 
