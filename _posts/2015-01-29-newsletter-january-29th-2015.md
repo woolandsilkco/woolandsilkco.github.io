@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Newsletter January 29th 2015
+published: true
 ---
 
 - MadelineTosh is here!
@@ -17,7 +18,7 @@ Here’s a list of items:
 -  New colours of Berroco Sox yarn are here 
 
 ## ON SALE
-**  SOCK YARN LOVERS SALE**
+**SOCK YARN LOVERS SALE**
 All in stock sock yarns will be on sale, 15% off for the month of February! 
  
 All Lantern Moon needles are on sale 40% off.  Straights, DPN’s & crochet hooks. Also Sox Stix and some assorted bamboo & metal DPN’s. Look for the basket with the bright orange sign in-store.
