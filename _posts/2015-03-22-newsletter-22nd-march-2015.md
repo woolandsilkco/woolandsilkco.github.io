@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Newsletter 22nd March 2015
+title: Newsletter March 22nd 2015
 ---
 
 ## A New Post
