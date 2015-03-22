@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter March 22nd 2015
 ---
 
