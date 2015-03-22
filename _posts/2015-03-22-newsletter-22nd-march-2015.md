@@ -23,8 +23,8 @@ Free pattern booklet comes with yarn purchase (4 patterns inside). Project yarn 
 
 **New Stuff!**
 
-Our webpage is finally up & running. You can find us at:
-[woolandsilkco.com](http://www.woolandsilkco.com)
+Our webpage is finally up & running. You can find us at: [The Wool and Silk Company](http://www.woolandsilkco.com)
+
 New colours are here in the Marble Chunky. Some brights for springtime
 Interweave Crochet Spring edition magazine is here
 
