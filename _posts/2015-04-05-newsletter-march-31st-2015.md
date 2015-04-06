@@ -30,7 +30,7 @@ X-stitch supplies: a full line of DMC threads, Q-snap frames & extensions, Aida 
 
 ## **ON SALE**  
    **All Classic Elite Alpaca Sox yarn is 30% off !**  
-                                     &  
+                                     
    All magazines marked with a **yellow dot**  are 20% off list price
 
 
