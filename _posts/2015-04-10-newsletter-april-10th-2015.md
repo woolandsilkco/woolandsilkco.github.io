@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter April 10th 2015
 ---
 
@@ -30,4 +30,3 @@ _**ON SALE**_
    All Classic Elite Alpaca Sox yarn is 30% off !
                                 &  
    All magazines marked with a **_yellow dot_**  are 20% off list price
-
