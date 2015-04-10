@@ -12,7 +12,8 @@ The Wool & Silk Co. Newsletter  (519)925-6194
 
 **Using Rowan’s Purelife Revive!**  
 
-**Peasy Cardigan** – A lovely top down cropped cardigan with a bit of lace detail at the yoke.  3/4 sleeves complete the look. Moderate to easy difficulty.  Takes XS(6) to XL(9) of the Purelife Revive to knit. 
+**Peasy Cardigan** – A lovely top down cropped cardigan with a bit of lace detail at the yoke.  3/4 sleeves complete the look. Moderate to easy difficulty.  Takes XS(6) to XL(9) of the Purelife Revive to knit.  
+
 **Poinsettia Pullover** – If a pullover is more your speed then this sweater is for you!  With a flattering feminine fit and 3/4 sleeves it makes a perfect spring sweater. Requires XS(7) to XL(11) of Purelife Revive to complete.
 Both are purchase patterns. Can be bought & printed in store for same price as on-line. Project yarn is 15% off.  This offer will continue until April 30th. 
  
