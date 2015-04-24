@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Neswletter April 22nd 2015
 ---
 
@@ -33,4 +33,3 @@ Both are purchase patterns. Can be bought & printed in store for same price as o
    All Classic Elite Alpaca Sox yarn is 30% off !   
                                 &  
    All magazines marked with a **yellow dot**  are 20% off list price
-
