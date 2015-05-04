@@ -543,7 +543,7 @@ footer a {
         height: 7em;
     }
 
-    article img#welcome {
+    article#welcome img {
         float: left;
         width: 130px;
         margin: 1em;
