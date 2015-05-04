@@ -268,7 +268,7 @@ article.right p {
 /****************
  * Welcome Styles
  ***************/
-article#welcome img {
+article#welcome img#welcomeimg {
     margin: 1em auto;
     width: 60%;
     height: auto;
