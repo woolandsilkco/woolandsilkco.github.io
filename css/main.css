@@ -268,17 +268,29 @@ article.right p {
 /****************
  * Welcome Styles
  ***************/
-article img#welcome {
+article#welcome img {
     margin: 1em auto;
     width: 60%;
     height: auto;
 }
 
-article .fb {
+article#welcome p.hours {
     text-align: center;
 }
 
-article .fb iframe {
+article#welcome span.title {
+    font-weight: bold;
+}
+
+article#welcome span.hours {
+    color: rgb(105, 9, 10);
+}
+
+article#welcome .fb {
+    text-align: center;
+}
+
+article#welcome .fb iframe {
     margin: 1em auto;
     margin-top: 0;
 }
@@ -435,6 +447,7 @@ article table, article div#map iframe {
 article table .type {
     color: rgb(105,9,10);
     text-align: right;
+    vertical-align: top;
     padding-right: 0.5em;
 }
 
