@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter May 1st 2015
 ---
 
@@ -31,4 +31,4 @@ This is a free pattern & can be printed here for $1.00.  Project yarn is 15% off
 
 30% off   All:   Peter Pan Lustre(for baby afghans), Peruvia Quick, Misti Alpaca Hand Painted Chunky, Alafoss Lopi, Alpaca Sox, Sock yarn in the green bin, 
 
-20% off  All magazines marked with a yellow dot 
+20% off  All magazines marked with a yellow dot
