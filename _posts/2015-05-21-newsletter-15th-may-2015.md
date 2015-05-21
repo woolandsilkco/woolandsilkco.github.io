@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Newsletter 15th May 2015
 ---
 
@@ -25,9 +25,13 @@ New shades in Sirdar Crofter Baby DK Fair Isle Effect & Regia – My First Regia
 This is a free pattern & can be printed here for $1.00.  Project yarn is 15% off.  This offer will continue until May 31st.
  
 **ON SALE**
-**30% off **  Selected colours of Sirdar Snuggly DK, Sirdar Crofter Baby Fair Isle Effect DK, Comfort DK, Snuggly 4-ply
+**30% off **  Selected colours of Sirdar Snuggly DK, Sirdar Crofter Baby Fair Isle Effect DK, Comfort DK, Snuggly 4-ply 
+
 **30% off **  All:   Peter Pan Lustre(for baby afghans), Peruvia Quick, Misti Alpaca Hand Painted Chunky, Alafoss Lopi, Alpaca Sox, Sock yarn in the green bin 
-**50% off**  magazines marked with a **red dot**
-**20% off ** All magazines marked with a **yellow dot**
+
+**50% off**  magazines marked with a **red dot** 
+
+**20% off ** All magazines marked with a **yellow dot** 
+
 
 **Happy Knitting!!**
