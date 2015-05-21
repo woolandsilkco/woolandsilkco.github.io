@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter 15th May 2015
 ---
+
 
 **What’s New !**
 The Wool & Silk Co. Newsletter  (519)925-6194
@@ -30,4 +31,3 @@ This is a free pattern & can be printed here for $1.00.  Project yarn is 15% off
 **20% off ** All magazines marked with a **yellow dot**
 
 **Happy Knitting!!**
-
