@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter May 28th 2015
 ---
+
 
 -  June projects – baby/kids with Marble DK
 -  new magazines & books
@@ -34,6 +35,4 @@ June 20th is Heritage Day – there will be a sidewalk sale of magazines,
  
 **50% off**  magazines marked with a **red dot** 
 
-**20% off** All magazines marked with a **yellow dot** 
-
-
+**20% off** All magazines marked with a **yellow dot**
