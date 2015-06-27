@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter June 26th 2015
 ---
+
 
 It is time to announce our 1st Annual big sale!
 
@@ -13,4 +14,3 @@ Christmas in July !
 - get started on your Christmas knitting now
 
 See you in a couple of weeks!
-
