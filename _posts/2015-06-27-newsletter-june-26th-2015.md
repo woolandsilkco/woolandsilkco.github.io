@@ -1,11 +1,10 @@
 ---
 layout: post
 published: true
-title: Newsletter June 26th 2015
+title: "It is time to announce our 1st Annual big sale!"
 ---
 
 
-It is time to announce our 1st Annual big sale!
 
 July 7 - 11
 Christmas in July !
