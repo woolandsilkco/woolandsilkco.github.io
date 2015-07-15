@@ -319,6 +319,14 @@ div.featured li
 }
 
 
+/******************
+ * What's On Styles
+ *****************/
+div.whatson img {
+    margin: 1em auto;
+}
+
+
 /****************************
  * What We're Knitting Styles
  ***************************/
@@ -567,6 +575,13 @@ footer a {
     div.featured img {
         margin: 1em;
         float: left;
+    }
+
+    div.whatson img {
+        margin: 1em;
+        float: left;
+        width: 30%;
+        height: auto;
     }
 
     div.wwk {

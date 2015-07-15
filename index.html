@@ -43,7 +43,7 @@ layout: master
 
     <article class="left">
       <h1>What's On Right Now</h1>
-      <div class="content featured clearfix">
+      <div class="content whatson clearfix">
         {% for post in site.posts limit:5 %}
           {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
             <h3>{{ post.title }}</h3>
