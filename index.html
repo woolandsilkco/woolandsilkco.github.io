@@ -7,8 +7,8 @@ layout: master
       <div class="content clearfix">
         <img id="welcomeimg" src="http://woolandsilkco.com/img/storefront.png" alt="Wool &amp; Silk Co. Storefront">
         <p>We are a new, full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
-        <p class="hours"><span class="title">Store Hours</span> Tue-Wed, Fri: <span class="hours">10am - 5pm</span> Thurs: <span class="hours">10am - 9pm</span> Sat: <span class="hours">10am - 4pm</span></p>
-        <p class="hours"><span class="title">Sit-&amp;-Knit Hours</span> Wed: <span class="hours">1pm - 3pm</span> Thurs: <span class="hours">7pm - 9pm</span> Sat: <span class="hours">1pm - 3pm</span></p>
+        <p class="hours"><span class="title">Store Hours</span> Tue, Thurs, Fri: <span class="hours">10am - 5pm</span> Wed: <span class="hours">10am - 8:30pm</span> Sat: <span class="hours">10am - 4pm</span></p>
+        <p class="hours"><span class="title">Sit-&amp;-Knit Hours</span> Wed: <span class="hours">1pm - 3pm, 6:30pm - 8:30pm</span> Sat: <span class="hours">1pm - 3pm</span></p>
         <p class="hours"><span class="title">JR. Sit-&amp;-Knit Hours</span> Sat: <span class="hours">10am - 11am</span></p>
         <div class="fb">
           <a href="https://www.facebook.com/woolinshelburne"><img src="http://woolandsilkco.com/img/facebook.png" alt="Link to Wool &amp; Silk Co. on Facebook"></a>
@@ -20,11 +20,52 @@ layout: master
     <article class="right">
       <h1>News</h1>
       <div class="content">
-        {% for post in site.posts limit:2 %}
-          <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
-          <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+        {% assign post1 = true %}
+        {% assign post2 = true %}
+        {% assign display = true %}
+        {% for post in site.posts %}
+          {% if post.type == "news" and display == true %}
+            {% if post1 == true %}
+              {% assign post1 = false %}
+            {% elsif post2 == true %}
+              {% assign post2 = false %}
+            {% endif %}
+            {% if post1 == false and post2 == false %}
+              {% assign display = false %}
+            {% endif%}
+            <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
+            <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+          {% endif %}
         {% endfor %}
         <a href="http://woolandsilkco.com/news/" class="all">Click Here to See All News Items</a>
+      </div>
+    </article>
+
+    <article class="left" style="visibility:hidden">
+      <h1>What's On Right Now</h1>
+      <div class="content featured clearfix">
+        {% for post in site.posts limit:5 %}
+          {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
+            <h3>{{ post.title }}</h3>
+            <div>{{ post.content }}</div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </article>
+
+    <script src="http://woolandsilkco.com/classes/js/classes.js"></script>
+    <script>
+        loadClasses(displayClassesPreview);
+    </script>
+    <article class="right">
+      <h1>Classes</h1>
+      <div class="content">
+        <div id="insertClasses">
+          <p id="loading">Loading class information...</p>
+          <p id="error">Couldn't load class information</p>
+          <p id="noclasses">Classes will resume in the fall. Please watch the webpage for dates and times.</p>
+        </div>
+        <a href="http://woolandsilkco.com/classes/" class="all">Click Here to See All Classes &amp; Info</a>
       </div>
     </article>
 
@@ -42,22 +83,6 @@ layout: master
         <h3>Purchase of yarn for project 15% off!</h3>
         <div class="clearfix"></div>
         <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
-    </div>
-    </article>
-
-    <script src="http://woolandsilkco.com/classes/js/classes.js"></script>
-    <script>
-        loadClasses(displayClassesPreview);
-    </script>
-    <article class="right">
-      <h1>Classes</h1>
-      <div class="content">
-        <div id="insertClasses">
-          <p id="loading">Loading class information...</p>
-          <p id="error">Couldn't load class information</p>
-          <p id="noclasses">Classes will resume in the fall. Please watch the webpage for dates and times.</p>
-        </div>
-        <a href="http://woolandsilkco.com/classes/" class="all">Click Here to See All Classes &amp; Info</a>
       </div>
     </article>
 

@@ -3,36 +3,41 @@ layout: master
 ---
 
 {% if paginator.page == 1 %}
-  <article>
-    <h1>Recent News</h1>
-    <div class="content">
-      <div class="news">
-        <h2>{{paginator.posts.first.date | date_to_string}} - {{paginator.posts.first.title}}</h2>
-        <div>{{paginator.posts.first.content}}</div>
+  {% assign first = false %}
+  {% for post in paginator.posts %}
+    {% if post.type == "news" and first == false %}
+      {% assign first = true %}
+      <article>
+        <h1>Recent News</h1>
+        <div class="content">
+          <div class="news">
+            <h2>{{paginator.posts.first.date | date_to_string}} - {{paginator.posts.first.title}}</h2>
+            <div>{{paginator.posts.first.content}}</div>
+          </div>
+        <div class="clearfix"></div>  
       </div>
-    <div class="clearfix"></div>  
-  </div>
-  </article>
-  <article>
-      <h1>Older News</h1>
-      <div class="content">
-      {% for post in paginator.posts %}
-        {% if forloop.index > 1 %}
-        <div class="news older">
-          <h3>{{post.date | date_to_string}} - {{post.title}}</h3>
-          <div>{{ post.content | strip_html | truncatewords: 20 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></div>
-        </div>
-        {% endif %}
-      {% endfor %}
-{% else %}
-  <article>
-    <h1>Older News - Page {{paginator.page}}</h1>
-    <div class="content">
-    {% for post in paginator.posts %}
+      </article>
+      <article>
+          <h1>Older News</h1>
+          <div class="content">
+    {% elsif post.type == "news" and first == true %}
       <div class="news older">
         <h3>{{post.date | date_to_string}} - {{post.title}}</h3>
         <div>{{ post.content | strip_html | truncatewords: 20 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></div>
       </div>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <article>
+    <h1>Older News - Page {{paginator.page}}</h1>
+    <div class="content">
+    {% for post in paginator.post %}
+      {% if post.type == "news" %}
+        <div class="news older">
+          <h3>{{post.date | date_to_string}} - {{post.title}}</h3>
+          <div>{{ post.content | strip_html | truncatewords: 20 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></div>
+        </div>
+      {% endif %}
     {% endfor %}
 {% endif %}
   
