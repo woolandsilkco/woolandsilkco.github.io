@@ -1,8 +1,8 @@
 paginate: 33
 paginate_path: "news/page:num/"
-media: "news/img"
 
 prose:
+  media: "news/img"
   metadata:
     _posts:
       - name: "type"
