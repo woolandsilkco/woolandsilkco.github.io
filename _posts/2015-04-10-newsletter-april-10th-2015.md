@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Newsletter April 10th 2015
+type: news
 ---
 
 **What’s New !**  

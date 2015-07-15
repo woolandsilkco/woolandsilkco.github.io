@@ -2,6 +2,7 @@
 layout: post
 title: Newsletter January 29th 2015
 published: true
+type: news
 ---
 
 - MadelineTosh is here!

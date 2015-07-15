@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Neswletter April 22nd 2015
+type: news
 ---
 
 -  Peasy Cardigan  & Poinsettia pullover

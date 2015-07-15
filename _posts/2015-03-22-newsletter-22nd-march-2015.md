@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Newsletter March 22nd 2015
+type: news
 ---
 
 ## A New Post

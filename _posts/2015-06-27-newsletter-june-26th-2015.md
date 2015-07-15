@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: "It is time to announce our 1st Annual big sale!"
+type: news
 ---
 
 

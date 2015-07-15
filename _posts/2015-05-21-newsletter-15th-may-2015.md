@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Newsletter 15th May 2015
+type: news
 ---
 
 

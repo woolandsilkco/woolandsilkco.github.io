@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Newsletter May 1st 2015
+type: news
 ---
 
 -  Summer Tee Top

@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Newsletter March 31st 2015
+type: news
 ---
 
 -  Peasy Cardigan  & Poinsettia pullover
