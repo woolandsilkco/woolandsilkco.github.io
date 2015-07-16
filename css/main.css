@@ -326,6 +326,10 @@ div.whatson img {
     margin: 1em auto;
 }
 
+div.whatson h3 {
+    margin: 0.25em 1em;
+}
+
 
 /****************************
  * What We're Knitting Styles
