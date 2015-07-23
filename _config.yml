@@ -9,7 +9,7 @@ prose:
         field:
           element: "select"
           label: "Post type"
-          help: "Select a post type to set if a post should show up in the 'News' section or 'What's On' section."
+          help: "Select a post type to set if a post should show up in the 'News' section or 'What's New' section."
           options:
             - name: "News Post"
               value: "news"

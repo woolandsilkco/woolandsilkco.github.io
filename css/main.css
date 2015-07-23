@@ -320,13 +320,13 @@ div.featured li
 
 
 /******************
- * What's On Styles
+ * What's New Styles
  *****************/
-div.whatson img {
+div.whatsnew img {
     margin: 1em auto;
 }
 
-div.whatson h3 {
+div.whatsnew h3 {
     margin: 0.25em 1em;
 }
 
