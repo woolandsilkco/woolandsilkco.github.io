@@ -7,17 +7,21 @@ type: news
 
 
 Sit & Knit Thurs time/date change
--  the YARNIT ! is in
--  July project – Side Stepping Cowl with Sirdar Baby Bamboo DK
--  new pattern – Charleston Openweave Tee – done in Bella Lino
--  new pattern – Touch & Feel Baby Blanket – ready in kits
--  Selected yarns 30% off until end of day August 31st
--  designated magazines 20% or 50% off !
+-  the YARNIT ! is in  
+-  July project – Side Stepping Cowl with Sirdar Baby Bamboo DK  
 
+-  new pattern – Charleston Openweave Tee – done in Bella Lino  
+
+-  new pattern – Touch & Feel Baby Blanket – ready in kits  
+
+-  Selected yarns 30% off until end of day August 31st  
+
+-  designated magazines 20% or 50% off !  
 
 **What’s New !**
-The Wool & Silk Co. Newsletter  (519)925-6194
-
+The Wool & Silk Co. Newsletter  (519)925-6194  
+  
+  
 **PLEASE NOTE:**  We have made a slight change to our hours.  The Thursday
      evening Sit & Knit has been moved to Wednesdays (6:30pm-8:30pm). We
      will close at 8:30pm on Wednesdays and then at 5pm on Thursdays.
