@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter July 23rd 2015
 type: news
 ---
+
 
 Sit & Knit Thurs time/date change
 -  the YARNIT ! is in
@@ -61,5 +62,4 @@ End of lines & discontinued colours. Wide selection!
 
 
 **50% off**  magazines marked with a **red dot**
-**20% off**  All magazines marked with a **yellow dot** 
-
+**20% off**  All magazines marked with a **yellow dot**
