@@ -14,17 +14,6 @@ type: news
 -  Selected yarns 30% off until end of day August 31st  
 -  designated magazines 20% or 50% off !
 
-
-
-
--  Sit & Knit Thurs time/date change
--  the YARNIT ! is in  
--  July project – Side Stepping Cowl with Sirdar Baby Bamboo DK  
--  new pattern – Charleston Openweave Tee – done in Bella Lino  
--  new pattern – Touch & Feel Baby Blanket – ready in kits  
--  Selected yarns 30% off until end of day August 31st  
--  designated magazines 20% or 50% off !  
-
 **What’s New !**
 The Wool & Silk Co. Newsletter  (519)925-6194  
   
