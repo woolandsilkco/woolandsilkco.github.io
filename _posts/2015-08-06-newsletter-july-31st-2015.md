@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Newsletter July 31st 2015
 type: news
 ---
+
 
 What’s New !
 The Wool & Silk Co. Newsletter  (519)925-6194
@@ -70,4 +71,3 @@ There are patterns, books & magazines on for $1 - $3. Come check it out!
 **PLEASE NOTE:**  We have made a slight change to our hours.  The Thursday
      evening Sit & Knit has been moved to Wednesdays (6:30pm-8:30pm). We
      will close at 8:30pm on Wednesdays and then at 5pm on Thursdays.
-
