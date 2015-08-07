@@ -14,7 +14,7 @@ The Wool & Silk Co. Newsletter  (519)925-6194
 **Feature Project
 Using Filatura di Crossa Charly Print Melange    !**
 
-![]({{site.baseurl}}/news/img/Button%20Down%20Cowl.jpg)  
+![]({{site.baseurl}}/news/img/ButtonDownCowl.jpg) 
 
 **Button-Down Cowl**  By Diane Griffith - Knitted in Filatura di Crossa Charly Print
      Melange – aran weight yarn!  An easy pattern single row repeat. Sample completed on 
@@ -28,9 +28,9 @@ Please note that we are now enjoying the benefits of air conditioning. Come and 
 
 **Fall Knit Along (KAL)**
 
-![]({{site.baseurl}}/news/img/Every%20Last%20Yard.jpg)  
+![]({{site.baseurl}}/news/img/EveryLastYard.jpg)
 
-![]({{site.baseurl}}/news/img/Every%20Last%20Yarda.jpg)
+![]({{site.baseurl}}/news/img/EveryLastYarda.jpg)
 
 **Every Last Yard  Cardigan**.  This will be our first KAL project. A nice knit with a simple 4 row lace pattern to complete the sleeves and bottom edge.  It takes 5-6 hanks of Madeline Tosh DK for most sizes. Pattern is a purchase pattern $6.00US on Ravelry or in-store (we will print for you as well). Project yarn is 15% off when you join for the KAL.
 Come & see the sample sweaters in store starting the first week of August and choose your colour!
@@ -70,4 +70,5 @@ There are patterns, books & magazines on for $1 - $3. Come check it out!
  
 **PLEASE NOTE:**  We have made a slight change to our hours.  The Thursday
      evening Sit & Knit has been moved to Wednesdays (6:30pm-8:30pm). We
-     will close at 8:30pm on Wednesdays and then at 5pm on Thursdays.
+
+
