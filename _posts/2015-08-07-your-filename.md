@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: "What's New August 7th 2015"
 type: current
 ---
 
