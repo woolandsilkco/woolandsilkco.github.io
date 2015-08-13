@@ -6,6 +6,13 @@ type: news
 ---
 
 
+-  August project - Button-Down Cowl kit – new pattern!
+-  the YARNIT ! is in
+-  Fall Knit Along project – Every Last Yard
+-  new yarns coming weekly
+-  air conditioning in the shop!
+-  Selected yarns 30 & 40% off until end of day August 31st
+
 What’s New !
 The Wool & Silk Co. Newsletter  (519)925-6194
 
@@ -70,5 +77,3 @@ There are patterns, books & magazines on for $1 - $3. Come check it out!
  
 **PLEASE NOTE:**  We have made a slight change to our hours.  The Thursday
      evening Sit & Knit has been moved to Wednesdays (6:30pm-8:30pm). We
-
-
