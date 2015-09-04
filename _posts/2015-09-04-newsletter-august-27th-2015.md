@@ -1,9 +1,10 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter August 27th 2015
 ---
+
 
 -  September project – Fishermen’s Rib Scarf – free pattern!
 -  Squishy Baby Bathrobe – in Baby Bunting – new pattern
@@ -96,5 +97,4 @@ Do you have a knitter on your X-mas list?  Or would you just like to give yourse
 9)  Bags are to be picked up Dec 1-11  
 10)  While we will do our best to fill all orders the choices are first come first serve   and this may apply to in-stock colours, etc.  
 11) Orders can be placed for previous weeks – stock pending  
-12) Items will not be wrapped  
-
+12) Items will not be wrapped
