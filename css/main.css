@@ -581,8 +581,15 @@ footer a {
         float: left;
     }
 
+    div.whatsnew h3 {
+        margin: 1em;
+        margin-top: 0;
+    }
+
     div.whatsnew img {
         margin: 1em;
+        margin-top: 0;
+        margin-left: 0;
         float: left;
         width: 30%;
         height: auto;
