@@ -48,10 +48,10 @@ layout: master
           {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
             <h3>{{ post.title }}</h3>
             <div>{{ post.content }}</div>
+            <div class="clearfix"></div>
           {% endif %}
         {% endfor %}
       </div>
-      <div class="clearfix"></div>
     </article>
 
     <script src="http://woolandsilkco.com/classes/js/classes.js"></script>
