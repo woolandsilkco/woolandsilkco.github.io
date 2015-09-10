@@ -581,6 +581,10 @@ footer a {
         float: left;
     }
 
+    div.whatsnew {
+        padding-top: 1em;
+    }
+
     div.whatsnew h3 {
         margin: 1em;
         margin-top: 0;
