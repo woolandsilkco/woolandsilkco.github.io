@@ -43,7 +43,7 @@ layout: master
 
     <article class="left">
       <h1>What's New Right Now</h1>
-      <div class="content whatsnew clearfix">
+      <div class="content whatsnew">
         {% for post in site.posts limit:5 %}
           {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
             <h3>{{ post.title }}</h3>
@@ -51,6 +51,7 @@ layout: master
           {% endif %}
         {% endfor %}
       </div>
+      <div class="clearfix"></div>
     </article>
 
     <script src="http://woolandsilkco.com/classes/js/classes.js"></script>
