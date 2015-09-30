@@ -1,9 +1,10 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: New Products
 ---
+
 
 ![yarn and soul shade card.jpg]({{site.baseurl}}/news/img/yarn and soul shade card.jpg)
 - Yarn and Soul Superfine 400, 10 shades in stock now (you'll find the shade card photo attached)
