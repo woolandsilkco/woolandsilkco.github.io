@@ -12,7 +12,7 @@ title: Newsletter September 29th 2015
 -  10 weeks of Christmas – weekly items
 -  Classes are starting in October - see webpage for list & details  
 
-### **What’s New !** 
+## **What’s New !** 
 
 **The Wool & Silk Co. Newsletter  (519)925-6194**
 
