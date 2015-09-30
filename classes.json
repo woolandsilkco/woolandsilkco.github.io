@@ -3,7 +3,7 @@
         {
             "title": "Learn to Knit",
             "parts" : 2,
-            "dates" : [ ["Oct 13", "Oct 27"], ["Oct 14", "Oct 28"] ],
+            "dates" : [ ["Tue Oct 13 2015", "Tue Oct 27 2015"], ["Wed Oct 14 2015", "Wed Oct 28 2015"] ],
             "times" : [ "1pm - 3pm",  "6:30pm - 8:30pm"],
             "cost" : "$40.00 + supplies",
             "description" : "This class is for anyone who is new to knitting; we will cover casting on, basic knit & purl stitches & casting off.  The project will be a dishcloth.",
@@ -16,7 +16,7 @@
         {
             "title": "Learn to Crochet",
             "parts": 2,
-            "dates" : [ ["Oct 20", "Oct 27"], ["Oct 21", "Oct 28"] ],
+            "dates" : [ ["Tue Oct 20 2015", "Tue Oct 27 2015"], ["Wed Oct 21 2015", "Wed Oct 28 2015"] ],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
             "cost" : "$40.00 + supplies",
             "description": "This class is for those just wanting to learn how to crochet; we will cover beginning chain, foundation row, single, double & treble crochet. Project will be a dishcloth.",
@@ -42,7 +42,7 @@
         {
             "title": "Socks – The Basics",
             "parts": 3,
-            "dates": [ ["Nov 3", "Nov 7", "Dec 1"], ["Nov 4", "Nov 18", "Dec 2"]],
+            "dates": [ ["Tue Nov 3 2015", "Tue Nov 17 2015", "Tue Dec 1 2015"], ["Wed 4 2015", "Wed Nov 18 2015", "Wed Dec 2 2015"]],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
             "cost": "$60 + supplies",
             "description": "A great class for knitters who have never tried to make a sock. A 3 part instruction with 1 week in between each for completion of sections. Covers sizing, casting on, ribbing & the leg portion, heel flap & turning the heel, foot construction, toe & finishing.",
@@ -55,7 +55,7 @@
         {
             "title": "Ravelry - Let's Get the Most Out of It!",
             "parts": 1,
-            "dates": [ ["Dec 8"], ["Dec 9"] ],
+            "dates": [ ["Tue Dec 8 2015"], ["Wed Dec 9 2015"] ],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
             "cost": "$10 + supplies",
             "description": "Lots of us go on Ravelry just to troll patterns to our heart's content but Ravelry has so much more to offer! This class will show you how to store your information & patterns, source yarns & patterns, find stores, look up more than you could imagine!",
@@ -68,7 +68,7 @@
         {
             "title": "Entrelac Scarf",
             "parts": 2,
-            "dates": [ ["Nov 10", "Nov 24"], ["Nov 11", "Nov 25"]],
+            "dates": [ ["Tue Nov 10 2015", "Tue Nov 24 2015"], ["Wed Nov 11 2015", "Wed Nov 25 2015"]],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
             "cost": "$40 +supplies",
             "description": "Many beautiful blankets, scarves & cardigans are made using the entrelac technique. With the finished appearance of a lovely woven garment and subtle colour changes, entrelac can be very striking.",
@@ -81,7 +81,7 @@
         {
             "title": "Two at a Time Toe Up Socks",
             "parts": 2,
-            "dates": [["Oct 31", "Nov 14"]],
+            "dates": [["Fri Oct 31 2015", "Fri Nov 14 2015"]],
             "times": ["10:00am - 12:00pm"],
             "cost": "$50 + supplies",
             "description": "Here is the answer to the Second Sock Syndrome, knit both socks at the same time!  In this class you will learn how to cast on both socks onto the same circular needle, and work them simultaneously from the toe up. When you’re done the first sock, you’re also done the second one, and they will both be exactly the same.",
@@ -94,7 +94,7 @@
         {
             "title": "Two at a Time Toe Up Cast On Refresher",
             "parts": 1,
-            "dates": [["Oct 17"]],
+            "dates": [["Fri Oct 17 2015"]],
             "times": [ "10am-12pm" ],
             "cost": "$20 + supplies",
             "description": "So you took the Two at a Time sock class last year, and you can’t remember how to begin another pair? We have the class for you! The lovely Sheila will be back to help you get started again with your next pair of two at a time socks.",

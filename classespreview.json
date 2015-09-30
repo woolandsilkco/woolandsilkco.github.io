@@ -2,13 +2,13 @@
     "classes" : [
         {
             "title": "Learn to Knit",
-            "dates" : [ ["Oct 13", "Oct 27"], ["Oct 14", "Oct 28"] ],
+            "dates" : [ ["Oct 13 2015", "Oct 27 2015"], ["Oct 14 2015" 2015, "Oct 28"] ],
             "times" : [ "1pm - 3pm",  "6:30pm - 8:30pm"]
         },
 
         {
             "title": "Learn to Crochet",
-            "dates" : [ ["Oct 20", "Oct 27"], ["Oct 21", "Oct 28"] ],
+            "dates" : [ ["Oct 20 2015", "Oct 27 2015"], ["Oct 21 2015", "Oc 2015t 28"] ],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
@@ -20,31 +20,31 @@
 
         {
             "title": "Socks – The Basics",
-            "dates": [ ["Nov 3", "Nov 7", "Dec 1"], ["Nov 4", "Nov 18", "Dec 2"]],
+            "dates": [ ["Nov 3 2015", "Nov 7 2015", "Dec 1 2015"], ["Nov 4 2015" 2015 2015, "Nov 18", "Dec 2"]],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
             "title": "Ravelry - Let's Get the Most Out of It!",
-            "dates": [ ["Dec 8"], ["Dec 9"] ],
+            "dates": [ ["Dec 8 2015"], ["Dec 9 2015"] ],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
             "title": "Entrelac Scarf",
-            "dates": [ ["Nov 10", "Nov 24"], ["Nov 11", "Nov 25"]],
+            "dates": [ ["Nov 10 2015", "Nov 24 2015"], ["Nov 11 2015", "Nov 2015 25"]],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
             "title": "Two at a Time Toe Up Socks",
-            "dates": [["Oct 31", "Nov 14"]],
+            "dates": [["Oct 31 2015", "Nov 14 2015"]],
             "times": ["10:00am - 12:00pm"]
         },
 
         {
             "title": "Two at a Time Toe Up Cast On Refresher",
-            "dates": [["Oct 17"]],
+            "dates": [["Oct 17 2015"]],
             "times": [ "10am-12pm" ]
         }
     ]
