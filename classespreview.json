@@ -1,45 +1,51 @@
 {   
     "classes" : [
         {
-            "title" : "Ravelry - Let's Get the Most Out of It!",
-            "dates" : [ ["Thu Feb 12 2015"], ["Tue Mar 03 2015"] ],
-            "times" : [ "7pm - 9pm", "1pm - 3pm OR 7pm - 9pm"  ]
+            "title": "Learn to Knit",
+            "dates" : [ ["Oct 13", "Oct 27"], ["Oct 14", "Oct 28"] ],
+            "times" : [ "1pm - 3pm",  "6:30pm - 8:30pm"]
         },
 
         {
-            "title" : "Entrelac",
-            "dates" : [ ["Thu Feb 26 2015"], ["Tue Mar 17 2015"] ],
-            "times" : [ "7pm - 9pm", "1pm - 3pm OR 7pm - 9pm" ]
+            "title": "Learn to Crochet",
+            "dates" : [ ["Oct 20", "Oct 27"], ["Oct 21", "Oct 28"] ],
+            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
-            "title" : "Fair Isle Sweater - the Anders Sweater",
-            "dates" : [ ["Tue Mar 10 2015", "Tue Mar 24 2015", "Tue Apr 07 2015"] ],
-            "times" : [ "1pm - 3pm OR 7pm - 9pm" ]
+            "title": "Magic Loop - Unravel the Mystery!!",
+            "dates": [ [""] ],
+            "times": [""]
         },
 
         {
-            "title" : "Cables - They're a Twisty Thing!",
-            "dates" : [ ["Thu Mar 05 2015"] ],
-            "times" : [ "1pm - 3pm OR 7pm - 9pm" ]
+            "title": "Socks – The Basics",
+            "dates": [ ["Nov 3", "Nov 7", "Dec 1"], ["Nov 4", "Nov 18", "Dec 2"]],
+            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
-            "title" : "Duplicate Stitch - For Designs & Repair",
-            "dates" : [ ["Thu Mar 12 2015"] ],
-            "times" : [ "2pm - 3pm OR 7pm - 8pm" ]
+            "title": "Ravelry - Let's Get the Most Out of It!",
+            "dates": [ ["Dec 8"], ["Dec 9"] ],
+            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
-            "title" : "Introduction to Lace Knitting",
-            "dates" : [ ["Tue Mar 31 2015", "Tue Apr 14 2015"], ["Thu Mar 19 2015", "Thu Mar 26 2015"] ],
-            "times" : [ "1pm - 3pm OR 7pm - 9pm", "1pm - 3pm" ]
+            "title": "Entrelac Scarf",
+            "dates": [ ["Nov 10", "Nov 24"], ["Nov 11", "Nov 25"]],
+            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ]
         },
 
         {
-            "title" : "2 at a Time Toe Up Socks",
-            "dates" : [ ["Sat Feb 21 2015", "Sat Mar 07 2015"] ],
-            "times" : [ "10am - 12pm" ]
+            "title": "Two at a Time Toe Up Socks",
+            "dates": [["Oct 31", "Nov 14"]],
+            "times": ["10:00am - 12:00pm"]
+        },
+
+        {
+            "title": "Two at a Time Toe Up Cast On Refresher",
+            "dates": [["Oct 17"]],
+            "times": [ "10am-12pm" ]
         }
     ]
 }
