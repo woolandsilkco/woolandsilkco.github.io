@@ -106,23 +106,11 @@ function doTClasses(it) { var out='<span>';var arr1=it.array;if(arr1){var value,
             <p>{{~value.times :value2:index2}}{{? index2 > 0}} OR {{?}}{{=value2}}{{~}}</p>
             <h4>Description</h4>
             <p>{{=value.description}}</p>
-            {{? value.prerequisites}}
-              <h4>Prerequisites</h4>
-              <p>{{=value.prerequisites}}</p>
-            {{?}}
-            {{? value.supplies}}
-              <h4>Supplies</h4>
-              <p>{{=value.supplies}}</p>
-            {{?}}
-            {{? value.elements}}
-              <h4>Elements to Learn</h4>  
-              <ul>
-                  {{~it.elements :value2:index2}}
-                      <li>{{=value2}}</li>
-                  {{~}}
-              </ul>
-            {{?}}
+            <h4>Prerequisites</h4>
+            <p>{{=value.prerequisites}}</p>
+            <h4>Supplies</h4>
+            <p>{{=value.supplies}}</p>
         </div>
     </article>
 */
-function doTSummary(it /**/) { var out=' <article class="narrow"> <h1>'+(it.title);if(it.parts > 1){out+=' - '+(it.parts)+' Parts';}out+=' <span>'+(it.cost)+'</span></h1> <div class="classbox content clearfix"> ';if(it.note){out+='<h3>Note: '+(it.note)+'</h3>';}out+=' <h4>Dates</h4> <p>';var arr1=it.dates;if(arr1){var value2,index2=-1,l1=arr1.length-1;while(index2<l1){value2=arr1[index2+=1];if(index2 > 0){out+=' OR ';}var arr2=value2;if(arr2){var value3,index3=-1,l2=arr2.length-1;while(index3<l2){value3=arr2[index3+=1];if(index3 > 0){out+=' & ';}out+=''+(value3);} } } } out+='</p> <h4>Times</h4> <p>';var arr3=it.times;if(arr3){var value2,index2=-1,l3=arr3.length-1;while(index2<l3){value2=arr3[index2+=1];if(index2 > 0){out+=' OR ';}out+=''+(value2);} } out+='</p> <h4>Description</h4> <p>'+(it.description)+'</p> ';if(it.prerequisites){out+=' <h4>Prerequisites</h4> <p>'+(it.prerequisites)+'</p> ';}out+=' ';if(it.supplies){out+=' <h4>Supplies</h4> <p>'+(it.supplies)+'</p> ';}out+=' ';if(it.elements){out+=' <h4>Elements to Learn</h4> <ul> ';var arr4=it.elements;if(arr4){var value2,index2=-1,l4=arr4.length-1;while(index2<l4){value2=arr4[index2+=1];out+=' <li>'+(value2)+'</li> ';} } out+=' </ul> ';}out+=' </div> </article>';return out; }
+function doTSummary(it /**/) { var out='<article class="narrow"> <h1>'+(it.title);if(it.parts > 1){out+=' - '+(it.parts)+' Parts';}out+=' <span>'+(it.cost)+'</span></h1> <div class="classbox content clearfix"> ';if(it.note){out+='<h3>Note: '+(it.note)+'</h3>';}out+=' <h4>Dates</h4> <p>';var arr1=it.dates;if(arr1){var it2,index2=-1,l1=arr1.length-1;while(index2<l1){it2=arr1[index2+=1];if(index2 > 0){out+=' OR ';}var arr2=it2;if(arr2){var it3,index3=-1,l2=arr2.length-1;while(index3<l2){it3=arr2[index3+=1];if(index3 > 0){out+=' & ';}out+=''+(it3);} } } } out+='</p> <h4>Times</h4> <p>';var arr3=it.times;if(arr3){var it2,index2=-1,l3=arr3.length-1;while(index2<l3){it2=arr3[index2+=1];if(index2 > 0){out+=' OR ';}out+=''+(it2);} } out+='</p> <h4>Description</h4> <p>'+(it.description)+'</p> <h4>Prerequisites</h4> <p>'+(it.prerequisites)+'</p> <h4>Supplies</h4> <p>'+(it.supplies)+'</p> </div> </article>';return out; }
