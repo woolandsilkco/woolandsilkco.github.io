@@ -1,9 +1,10 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter September 29th 2015
 ---
+
 
 -  October project – Sweetheart Lace Scarf (crochet) – free pattern in kit!
 -  All pink yarns on sale 15% off 
@@ -59,4 +60,3 @@ Come in & we will do our best to inspire you!
 Go to our webpage www.woolandsilkco.com  for the list of classes, times & fees
 
 **Knitting Bingo** – ends October 31.
-
