@@ -37,7 +37,7 @@
         },
 
         {
-            "title": "Socks – The Basics",
+            "title": "Socks - The Basics",
             "parts": 3,
             "dates": [ ["Tue Nov 3 2015", "Tue Nov 17 2015", "Tue Dec 1 2015"], ["Wed 4 2015", "Wed Nov 18 2015", "Wed Dec 2 2015"]],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
@@ -53,7 +53,7 @@
             "parts": 1,
             "dates": [ ["Tue Dec 8 2015"], ["Wed Dec 9 2015"] ],
             "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
-            "cost": "$10 + supplies",
+            "cost": "$10",
             "description": "Lots of us go on Ravelry just to troll patterns to our heart's content but Ravelry has so much more to offer! This class will show you how to store your information & patterns, source yarns & patterns, find stores, look up more than you could imagine!",
             "note": null,
             "prerequisites": "be able to use a computer on-line",
@@ -75,7 +75,7 @@
         {
             "title": "Two at a Time Toe Up Socks",
             "parts": 2,
-            "dates": [["Fri Oct 31 2015", "Fri Nov 14 2015"]],
+            "dates": [["Sat Oct 31 2015", "Sat Nov 14 2015"]],
             "times": ["10:00am - 12:00pm"],
             "cost": "$50 + supplies",
             "description": "Here is the answer to the Second Sock Syndrome, knit both socks at the same time!  In this class you will learn how to cast on both socks onto the same circular needle, and work them simultaneously from the toe up. When you’re done the first sock, you’re also done the second one, and they will both be exactly the same.",
