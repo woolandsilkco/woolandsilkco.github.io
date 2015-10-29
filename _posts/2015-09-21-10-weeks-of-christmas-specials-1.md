@@ -5,19 +5,23 @@ published: true
 title: 10 Weeks of Christmas Specials
 ---
 
+
 Something for the knitters on your Christmas list or something for yourself. Started Sept 14th.
 
 ![7.png]({{site.baseurl}}/news/img/7.png)
 
 **Week 7:** Notions Group Special (15% off total)
 You must select 1 item of each type listed below here, for a total of 6:
+
 - stitch markers (sm or lg)
 - stitch holders (Clover - sm, med, lg, XL or any other brand/size)
 - point protectors (Clover - any size, single or double point)
 - crochet hook (any brand or size)
 - tapestry needle (bent tip or 3 needle combo)
 - measuring tape (round - yellow, green, red, pink, blue, orange)
+
 Special Addition Item
+
 - stitch counter (this item can be added to the group of 6 if you want it)
 - red clicker
 
