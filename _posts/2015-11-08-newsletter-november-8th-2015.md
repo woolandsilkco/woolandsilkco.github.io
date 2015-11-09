@@ -5,6 +5,7 @@ published: false
 title: Newsletter November 8th 2015
 ---
 
+
 - November Project – Bradway Shawl
 - Winter – KAL – Lilja Lopie Jacket
 - Ready Made Knits and Samples on Sale – Starting Nov 17th  
@@ -70,4 +71,3 @@ It’s time to start your Christmas knitting.  Here are a few gift ideas:
 - scarves                  - shawlettes
 - dish cloths             - socks
 Come in & we will do our best to inspire you!
-
