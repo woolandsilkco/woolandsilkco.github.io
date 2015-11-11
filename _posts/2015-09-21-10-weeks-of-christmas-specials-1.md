@@ -6,7 +6,15 @@ title: 10 Weeks of Christmas Specials
 ---
 
 
+
 Something for the knitters on your Christmas list or something for yourself. Started Sept 14th.
+
+![SB1wk8.jpg]({{site.baseurl}}/news/img/SB1wk8.jpg)
+![SB2wk8.jpg]({{site.baseurl}}/news/img/SB2wk8.jpg)
+
+**Week 8:** Shirley Brian Yarn (Reg $24, Special $20.40)
+Shirley Brian is our beautiful 4 strand cotton yarn that creates lovely shawls.  Approximately 8 colour changes that happen, just while you knit!  Each cake of yarn comes with a free pattern.  
+Choose your colour from photo 1 or 2. The colours are well represented here.  Look to the far left hand side for your row number and then across the top for your column letter.  (for example the 3 one down in the first photo would be 3A).  The small number at the bottom of each cup indicates the quantity available.
 
 ![7.png]({{site.baseurl}}/news/img/7.png)
 
