@@ -638,6 +638,7 @@ footer a {
     div.older {
         width: 31.33%;
         width: calc(33.33% - 2em);
+        min-height: 9em;
     }
 
     div.pagination a {
