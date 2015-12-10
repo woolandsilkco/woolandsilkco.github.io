@@ -5,13 +5,16 @@ published: true
 title: 10 Weeks of Christmas Specials
 ---
 
+
 Something for the knitters on your Christmas list or something for yourself. Started Sept 14th.
+
 
 ![Week 10-15 bags 1.jpg]({{site.baseurl}}/news/img/Week 10-15 bags 1.jpg)
 ![Week 10-15 baskets 2.jpg]({{site.baseurl}}/news/img/Week 10-15 baskets 2.jpg)
 
 **Week 10:** Knitting Baskets & Bags.
 Lots of different fabrics & colours. All at 15% off !
+
 
 ![]({{site.baseurl}}/news/img/Yarn%20It.jpg)
 
