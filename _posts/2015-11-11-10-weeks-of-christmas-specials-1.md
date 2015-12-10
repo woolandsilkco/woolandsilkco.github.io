@@ -8,29 +8,37 @@ title: 10 Weeks of Christmas Specials
 
 Something for the knitters on your Christmas list or something for yourself. Started Sept 14th.
 
-
 ![Week 10-15 bags 1.jpg]({{site.baseurl}}/news/img/Week 10-15 bags 1.jpg)
 ![Week 10-15 baskets 2.jpg]({{site.baseurl}}/news/img/Week 10-15 baskets 2.jpg)
 
 **Week 10:** Knitting Baskets & Bags.
+
 Lots of different fabrics & colours. All at 15% off !
 
+<div class="clearfix"></div>
 
 ![]({{site.baseurl}}/news/img/Yarn%20It.jpg)
 
 **Week 9:** The YarnIt! (Reg 34.95,Special $29.70)
+
 The little globe that does it all.  A clean & convenient way to have your yarn contained and yet accessible. Comes in bronze, powder blue, soft pink, red, green, purple & black.
+
+<div class="clearfix"></div>
 
 ![SB1wk8.jpg]({{site.baseurl}}/news/img/SB1wk8.jpg)
 ![SB2wk8.jpg]({{site.baseurl}}/news/img/SB2wk8.jpg)
 
 **Week 8:** Shirley Brian Yarn (Reg $24, Special $20.40)
+
 Shirley Brian is our beautiful 4 strand cotton yarn that creates lovely shawls.  Approximately 8 colour changes that happen, just while you knit!  Each cake of yarn comes with a free pattern.  
 Choose your colour from photo 1 or 2. The colours are well represented here.  Look to the far left hand side for your row number and then across the top for your column letter.  (for example the 3 one down in the first photo would be 3A).  The small number at the bottom of each cup indicates the quantity available.
+
+<div class="clearfix"></div>
 
 ![7.png]({{site.baseurl}}/news/img/7.png)
 
 **Week 7:** Notions Group Special (15% off total)
+
 You must select 1 item of each type listed below here, for a total of 6:
 
 - stitch markers (sm or lg)
