@@ -1,9 +1,10 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter December 8th 2015
 ---
+
 
 
 
@@ -46,4 +47,3 @@ If someone in your family is trying to think of a gift for you or if you have a 
 - a basket or bag in her/his favourite colour
 
 Come in & we will do our best to inspire you!
-
