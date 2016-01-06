@@ -2,7 +2,7 @@
     "classes": [
         {
             "title": "Learn to Knit",
-            "dates": [ ["Tue Jan 26 2016", "Tue Feb 9 2016"], ["Wed Jan 27 2016", "Wed Feb 10 2016"],
+            "dates": [ ["Tue Jan 26 2016", "Tue Feb 9 2016"], ["Wed Jan 27 2016", "Wed Feb 10 2016"] ],
             "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "title": "Selbu Modern Hat",
-            "dates": [ ["Tue Feb 2 2016", "Tue Feb 16 2016"], ["Wed Feb 3 2016", "Wed Feb 17 2016" ],
+            "dates": [ ["Tue Feb 2 2016", "Tue Feb 16 2016"], ["Wed Feb 3 2016", "Wed Feb 17 2016" ] ],
             "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
         },
         {
