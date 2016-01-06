@@ -1,98 +1,81 @@
-{   
-    "classes" : [
+{
+    "classes": [
         {
             "title": "Learn to Knit",
-            "parts" : 2,
-            "dates" : [ ["Tue Oct 13 2015", "Tue Oct 27 2015"], ["Wed Oct 14 2015", "Wed Oct 28 2015"] ],
-            "times" : [ "1pm - 3pm",  "6:30pm - 8:30pm"],
-            "cost" : "$40 + supplies",
-            "description" : "This class is for anyone who is new to knitting; we will cover casting on, basic knit & purl stitches & casting off.  The project will be a dishcloth.",
-            "note" : null,
+            "parts": 2,
+            "dates": [ ["Tue Jan 26 2016", "Tue Feb 9 2016"], ["Wed Jan 27 2016", "Wed Feb 10 2016"],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
+            "cost": "$40 + supplies",
+            "description": "This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.",
+            "note": null,
             "prerequisites": "None.",
             "supplies": "None."
         },
-
         {
             "title": "Learn to Crochet",
             "parts": 2,
-            "dates" : [ ["Tue Oct 20 2015", "Tue Oct 27 2015"], ["Wed Oct 21 2015", "Wed Oct 28 2015"] ],
-            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
-            "cost" : "$40 + supplies",
-            "description": "This class is for those just wanting to learn how to crochet; we will cover beginning chain, foundation row, single, double & treble crochet. Project will be a dishcloth.",
+            "dates": [ ["Tue Feb 23 2016", "Tue Mar 8 2016"], ["Wed Feb 24 2016", "Wed Mar 9 2016"] ],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
+            "cost": "$40 + supplies",
+            "description": "This class is for those just wanting to learn how to crochet; we will cover beginning chain, foundation row, single, double &amp; treble crochet. Project will be a dishcloth.",
             "note": null,
             "prerequisites": "None.",
             "supplies": "None."
         },
-
         {
-            "title": "Magic Loop - Unravel the Mystery!!",
-            "parts": 1,
-            "dates": [ [""] ],
-            "times": [""],
-            "cost": "$10 + supplies",
-            "description": "An alternative method for knitting in the round, rather than using 4 needles. You can work on any item that you would knit in the round (eg: sock, neck warmer, gauntlet) or just go over  the method in class. Please call the store to book your time.",
-            "note": "this is a pre-requisite for the Two at a Time Toe-Up sock class",
-            "prerequisites": "ability to knit & purl, know how to knit in the round on a circular needle &amp; on 4 needles",
-            "supplies": "a circular needle of 80cm length & the correct weight of yarn to use with it"
-        },
-
-        {
-            "title": "Socks - The Basics",
-            "parts": 3,
-            "dates": [ ["Tue Nov 3 2015", "Tue Nov 17 2015", "Tue Dec 1 2015"], ["Wed 4 2015", "Wed Nov 18 2015", "Wed Dec 2 2015"]],
-            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
-            "cost": "$60 + supplies",
-            "description": "A great class for knitters who have never tried to make a sock. A 3 part instruction with 1 week in between each for completion of sections. Covers sizing, casting on, ribbing & the leg portion, heel flap & turning the heel, foot construction, toe & finishing.",
-            "note": null,
-            "prerequisites": "ability to knit & purl. Knowing how to knit in the round on 4 double-pointed needles might be a help but is not necessary",
-            "supplies": "100gm sock weight yarn & a set of double-pointed needles of correct size to match (usually 2.5 – 2.75mm)"
-        },
-
-        {
-            "title": "Two at a Time Toe Up Socks",
+            "title": "Selbu Modern Hat",
             "parts": 2,
-            "dates": [["Sat Oct 31 2015", "Sat Nov 14 2015"]],
-            "times": ["10:00am - 12:00pm"],
-            "cost": "$50 + supplies",
-            "description": "Here is the answer to the Second Sock Syndrome, knit both socks at the same time!  In this class you will learn how to cast on both socks onto the same circular needle, and work them simultaneously from the toe up. When you’re done the first sock, you’re also done the second one, and they will both be exactly the same.",
-            "note": null,
-            "prerequisites": "know how to knit and purl, knit in the round on 4 needles, work using the magic loop method, cast on and cast off.",
-            "supplies": "100gm sock weight yarn, (must be wound into 2 balls-1 for each sock), or 2 X 50gm balls, removable stitch markers, 2.5mm circular needle at least 80cm(32in) long, row counter or paper and pen."
+            "dates": [ ["Tue Feb 2 2016", "Tue Feb 16 2016"], ["Wed Feb 3 2016", "Wed Feb 17 2016" ],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
+            "cost": "$40 + supplies",
+            "description": "A lovely charted hat using 2 contrasting colours.  Worked in Fresco yarn to create a soft hat with a defined colour pattern.",
+            "note": "you must pickup pattern &amp; yarns and have the hat band knitted prior to first class",
+            "prerequisites": "ability to knit &amp; purl, know how to knit in the round on 4 needles. Hat band to be cast on &amp; knitted prior to first class.",
+            "supplies": "2 colours of Fresco yarn, (5)needles - sizes 2.0mm &amp; 2.75mm, pattern is free with class"
         },
-
         {
-            "title": "Ravelry - Let's Get the Most Out of It!",
+            "title": "Beginner Crosstitch",
             "parts": 1,
-            "dates": [ ["Tue Dec 8 2015"], ["Wed Dec 9 2015"] ],
-            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
-            "cost": "$10",
-            "description": "Lots of us go on Ravelry just to troll patterns to our heart's content but Ravelry has so much more to offer! This class will show you how to store your information & patterns, source yarns & patterns, find stores, look up more than you could imagine!",
+            "dates": [ ["Tue Mar 15 2016"], ["Wed Mar 16 2016"] ],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
+            "cost": "$26",
+            "description": "A great class for people who have always wanted to learn cross-stitch.  Covers materials, starting to stitch, floss, outlining &amp; finishing.",
             "note": null,
-            "prerequisites": "be able to use a computer on-line",
-            "supplies": "a laptop or tablet to use in class. Wi-Fi is free!"
+            "prerequisites": "None.",
+            "supplies": "a small kit with aida cloth, needle, floss &amp; hoop is included in class fee"
         },
-
         {
-            "title": "Entrelac Scarf",
-            "parts": 2,
-            "dates": [ ["Tue Nov 10 2015", "Tue Nov 24 2015"], ["Wed Nov 11 2015", "Wed Nov 25 2015"]],
-            "times": [ "1:00pm - 3:00pm", "6:30pm - 8:30pm" ],
-            "cost": "$40 +supplies",
-            "description": "Many beautiful blankets, scarves & cardigans are made using the entrelac technique. With the finished appearance of a lovely woven garment and subtle colour changes, entrelac can be very striking.",
-            "note": null,
-            "prerequisites": "know how to knit, purl & pick-up stitches",
-            "supplies": "4 balls of Noro Silk Garden, 5mm needles, either circular or straight"
-        },
-
-        {
-            "title": "Two at a Time Toe Up Cast On Refresher",
+            "title": "Brioche Stitch",
             "parts": 1,
-            "dates": [["Fri Oct 17 2015"]],
-            "times": [ "10am-12pm" ],
+            "dates": [ ["Tue Mar 22 2016"], ["Wed Mar 23 2016"] ],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
             "cost": "$20 + supplies",
-            "description": "So you took the Two at a Time sock class last year, and you can’t remember how to begin another pair? We have the class for you! The lovely Sheila will be back to help you get started again with your next pair of two at a time socks.",
+            "description": "Come &amp; learn something new for your knitting. An interesting twist to regular knit stitches.",
             "note": null,
-            "prerequisites": "You must have already taken the Two at a Time Toe Up Socks class",
-            "supplies": "As with the original class, 100gm of sock weight yarn, split into two equal balls, or 2 X 50gm balls, removable stitch markers, 2.5mm circular needle at least 80cm(32in) in length, row counter"        }
+            "prerequisites": "be able to knit &amp; purl and cast on",
+            "supplies": "set of needles (or circular) with appropriate yarn or"
+        },
+        {
+            "title": "Repairs, mending &amp; sewing together",
+            "parts": 1,
+            "dates": [ ["Tue Mar 29 2016"], ["Wed Mar 30 2016"] ],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
+            "cost": "$20 + supplies",
+            "description": "Learn how to repair holes in garments, overstitch, and sew a garment together properly.",
+            "note": null,
+            "prerequisites": "4 squares(4\"x4\") knitted in stocking stitch. Use some old yarn that is nothing particular as we will be cutting a hole in one of the pieces and practicing stitching others together.",
+            "supplies": "needles - about 5mm size &amp; corresponding yarn (worsted weight), (4) 4x4 squares need to be knitted before the start of class"
+        },
+        {
+            "title": "Double-sided Knitting",
+            "parts": 1,
+            "dates": [ ["Tue Apr 5 2016"], ["Wed Apr 6 2016"] ],
+            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
+            "cost": "$20 + supplies",
+            "description": "Something new to learn! Make a single garment &amp; have each side be the reverse image of the other.",
+            "note": null,
+            "prerequisites": "know how to cast on, knit and purl, and cast off",
+            "supplies": "1 set of needles(or a circular) 4.0 to 5.0mm in size. Corresponding yarn of 2 different colours"
+        }
     ]
 }
