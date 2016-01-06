@@ -3,7 +3,7 @@
         {
             "title": "Learn to Knit",
             "parts": 2,
-            "dates": [ ["Tue Jan 26 2016", "Tue Feb 9 2016"], ["Wed Jan 27 2016", "Wed Feb 10 2016"],
+            "dates": [ ["Tue Jan 26 2016", "Tue Feb 9 2016"], ["Wed Jan 27 2016", "Wed Feb 10 2016"] ],
             "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
             "cost": "$40 + supplies",
             "description": "This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.",
@@ -25,7 +25,7 @@
         {
             "title": "Selbu Modern Hat",
             "parts": 2,
-            "dates": [ ["Tue Feb 2 2016", "Tue Feb 16 2016"], ["Wed Feb 3 2016", "Wed Feb 17 2016" ],
+            "dates": [ ["Tue Feb 2 2016", "Tue Feb 16 2016"], ["Wed Feb 3 2016", "Wed Feb 17 2016" ] ],
             "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ],
             "cost": "$40 + supplies",
             "description": "A lovely charted hat using 2 contrasting colours.  Worked in Fresco yarn to create a soft hat with a defined colour pattern.",
