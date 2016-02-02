@@ -6,17 +6,18 @@ title: Newsletter January 2nd 2016
 ---
 
 
+
 - January Project - Nimbus sweater or Bella mittens
 - Mid-Winter KAL - "All the Shades of Truth" shawl/wrap
 - Free sock pattern for January
 
 ##Feature Project
-**Nimbus sweater** _pattern by Berroco Design Team (free)_
+**Nimbus sweater** _pattern by Berroco Design Team (free)_ 
 Knitted in Peruvia Quick yarn.  Knitted sample can be viewed in store.  A cozy A-line jacket/sweater knitted in super bulky yarn. Fast to knit & body/sleeves can be made longer if desired. A little something nice to make, just for you!
 
 OR  
 
-**Bella mittens** _pattern by Marielle Henault (free)_
+**Bella mittens** _pattern by Marielle Henault (free)_ 
 Knitted in Peruvia Quick yarn Beautiful part-cable mittens knit up quickly in super bulky yarn.  Inspired by mittens worn by Kristen Stewart as Bella in the movies “Twilight” and “New Moon”. Knit yourself a bit of fantasy!    
 ** Purchase of yarn for projects – 15% off** 
 
