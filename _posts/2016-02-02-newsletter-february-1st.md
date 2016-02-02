@@ -1,9 +1,10 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter February 1st
 ---
+
 
 ##Sock It To 'Em Month
 February is Sock It To 'Em Month.  All sock yarns are 20% off.  Let's keep our collective feet warm!
