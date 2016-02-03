@@ -2,11 +2,9 @@
 layout: post
 type: current
 published: true
-title: Winter Knit Along (KAL)
+title: "Mid-Winter Knit Along (KAL)"
 ---
 
+Our mid-winter knit along is here. The gorgeous “All the Shades of Truth” shawl/wrap. Pattern by Laura Aylor. A dramatic use of colour blocks with dark “leading”. Knitted in the enticing Madeline Tosh - Tosh Light. Oh the colours!
 
-![121516.jpg]({{site.baseurl}}/news/img/121516.jpg)
-
-Our winter knit along has begun.  It is the Icelandic jacket Lilja in the newest Lopi pattern book #34.  Please stop in the store to view this new book & check out the fabulous Lopi colours.  Even if you did not start on December 2nd there is still time to join in the fun. This jacket involves sideways knitting, charts, colourwork, steeking, a bit of everything!
-** Purchase of yarn for project – 15% off**  Pattern book is sold separately
+** Purchase of yarn for project – 15% off** Pattern is $5USD & includes scarf pattern. Can be purchased in-store. This feature continues until the end of February.
