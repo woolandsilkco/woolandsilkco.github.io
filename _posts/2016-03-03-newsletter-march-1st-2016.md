@@ -5,6 +5,8 @@ published: true
 title: Newsletter March 1st 2016
 ---
 
+- New features project - Karen Shawl
+- 20% off green yarns for St. Patrick's Day!
 
 ## Feature Project
 
