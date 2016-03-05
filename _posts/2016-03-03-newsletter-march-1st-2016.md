@@ -5,6 +5,7 @@ published: true
 title: Newsletter March 1st 2016
 ---
 
+
 - New features project - Karen Shawl
 - 20% off green yarns for St. Patrick's Day!
 
@@ -21,6 +22,8 @@ Each month we will be featuring a free pattern for socks that has something a bi
 February:
 - Jaywalker – by Grumperina
 - Kelp – by Cookie A
+
+10 new sock yarns are in! New fiber combinations & new colours!
 
 ## Featured Yarns !!
 
