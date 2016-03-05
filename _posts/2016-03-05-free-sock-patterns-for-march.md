@@ -1,11 +1,9 @@
 ---
 layout: post
-type: news
+type: current
 published: true
 title: Free Sock Patterns for March
 ---
-
-
 
 **Jaywalker** – by Grumperina
 ![jaywalker.jpg]({{site.baseurl}}/news/img/jaywalker.jpg)
