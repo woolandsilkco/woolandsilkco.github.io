@@ -1,9 +1,10 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: "1-Day Super Sell-Down!"
 ---
+
 
 Have you been waiting to purchase that special yarn for that perfect project?  We can help.
 
