@@ -34,6 +34,11 @@
             "title": "Double-sided Knitting",
             "dates": [ ["Tue Apr 5 2016"], ["Wed Apr 6 2016"] ],
             "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
+        },
+        {
+            "title": "1st Spring Knit Along (KAL)",
+            "dates": [ ["Sat April 16", "Sat April 30", "Sat May 14", "Sat May 28"] ],
+            "times": [ "10am - 12pm" ]
         }
     ]
 }
