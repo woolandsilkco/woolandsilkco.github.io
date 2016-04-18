@@ -1,44 +1,58 @@
 {
-    "classes": [
-        {
-            "title": "Learn to Knit",
-            "dates": [ ["Tue Jan 26 2016", "Tue Feb 9 2016"], ["Wed Jan 27 2016", "Wed Feb 10 2016"],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "Learn to Crochet",
-            "dates": [ ["Tue Feb 23 2016", "Tue Mar 8 2016"], ["Wed Feb 24 2016", "Wed Mar 9 2016"] ],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "Selbu Modern Hat",
-            "dates": [ ["Tue Feb 2 2016", "Tue Feb 16 2016"], ["Wed Feb 3 2016", "Wed Feb 17 2016" ],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "Beginner Crosstitch",
-            "dates": [ ["Tue Mar 15 2016"], ["Wed Mar 16 2016"] ],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "Brioche Stitch",
-            "dates": [ ["Tue Mar 22 2016"], ["Wed Mar 23 2016"] ],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "Repairs, mending &amp; sewing together",
-            "dates": [ ["Tue Mar 29 2016"], ["Wed Mar 30 2016"] ],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "Double-sided Knitting",
-            "dates": [ ["Tue Apr 5 2016"], ["Wed Apr 6 2016"] ],
-            "times": [ "1pm - 3pm", "6:30pm - 8:30pm" ]
-        },
-        {
-            "title": "1st Spring Knit Along (KAL)",
-            "dates": [ ["Sat April 16", "Sat April 30", "Sat May 14", "Sat May 28"] ],
-            "times": [ "10am - 12pm" ]
-        }
-    ]
+	"classes": [{
+		"title": "Learn to Knit",
+		"dates": [
+			["Tue Jan 26 2016", "Tue Feb 9 2016"],
+			["Wed Jan 27 2016", "Wed Feb 10 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "Learn to Crochet",
+		"dates": [
+			["Tue Feb 23 2016", "Tue Mar 8 2016"],
+			["Wed Feb 24 2016", "Wed Mar 9 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "Selbu Modern Hat",
+		"dates": [
+			["Tue Feb 2 2016", "Tue Feb 16 2016"],
+			["Wed Feb 3 2016", "Wed Feb 17 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "Beginner Crosstitch",
+		"dates": [
+			["Tue Mar 15 2016"],
+			["Wed Mar 16 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "Brioche Stitch",
+		"dates": [
+			["Tue Mar 22 2016"],
+			["Wed Mar 23 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "Repairs, mending &amp; sewing together",
+		"dates": [
+			["Tue Mar 29 2016"],
+			["Wed Mar 30 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "Double-sided Knitting",
+		"dates": [
+			["Tue Apr 5 2016"],
+			["Wed Apr 6 2016"]
+		],
+		"times": ["1pm - 3pm", "6:30pm - 8:30pm"]
+	}, {
+		"title": "1st Spring Knit Along (KAL)",
+		"dates": [
+			["Sat April 16", "Sat April 30", "Sat May 14", "Sat May 28"]
+		],
+		"times": ["10am - 12pm"]
+	}]
 }
