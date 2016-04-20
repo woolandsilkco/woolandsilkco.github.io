@@ -321,6 +321,11 @@ div.featured li
 /***********************
  * Featured Socks Styles
  **********************/
+div.socks {
+    max-height: 45em;
+    overflow-y: scroll;
+}
+
 div.socks img {
     margin: 0.25em auto;
     max-height: 15em;
