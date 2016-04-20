@@ -7,9 +7,9 @@ layout: master
       <div class="content clearfix">
         <img id="welcomeimg" src="http://woolandsilkco.com/img/storefront.png" alt="Wool &amp; Silk Co. Storefront">
         <p>We are a full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
-        <p class="hours"><span class="title">Store Hours</span> Tue, Thurs, Fri: <span class="hours">10am - 5pm</span> Wed: <span class="hours">10am - 8:30pm</span> Sat: <span class="hours">10am - 4pm</span></p>
-        <p class="hours"><span class="title">Sit-&amp;-Knit Hours</span> Wed: <span class="hours">1pm - 3pm, 6:30pm - 8:30pm</span> Sat: <span class="hours">1pm - 3pm</span></p>
-        <p class="hours"><span class="title">JR. Sit-&amp;-Knit Hours</span> Sat: <span class="hours">10am - 11am</span></p>
+        <p class="hours"><span class="bold">Store Hours</span> Tue, Thurs, Fri: <span class="hours">10am - 5pm</span> Wed: <span class="hours">10am - 8:30pm</span> Sat: <span class="hours">10am - 4pm</span></p>
+        <p class="hours"><span class="bold">Sit-&amp;-Knit Hours</span> Wed: <span class="hours">1pm - 3pm, 6:30pm - 8:30pm</span> Sat: <span class="hours">1pm - 3pm</span></p>
+        <p class="hours"><span class="bold">JR. Sit-&amp;-Knit Hours</span> Sat: <span class="hours">10am - 11am</span></p>
         <div class="fb">
           <a href="https://www.facebook.com/woolinshelburne"><img src="http://woolandsilkco.com/img/facebook.png" alt="Link to Wool &amp; Silk Co. on Facebook"></a>
           <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoolinshelburne&amp;width=144&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="width:144px; height:21px;" allowTransparency="true"></iframe>
@@ -19,7 +19,7 @@ layout: master
 
     <article class="right">
       <h1>News</h1>
-      <div class="content">
+      <div class="content padded">
         {% assign post1 = true %}
         {% assign post2 = true %}
         {% assign display = true %}
@@ -60,7 +60,7 @@ layout: master
     </script>
     <article class="right">
       <h1>Classes</h1>
-      <div class="content">
+      <div class="content padded">
         <div id="insertClasses">
           <p id="loading">Loading class information...</p>
           <p id="error">Couldn't load class information</p>
@@ -72,12 +72,12 @@ layout: master
 
     <article class="right">
       <h1>Featured Socks</h1>
-      <div class="content featured clearfix">
+      <div class="content socks clearfix">
         <h2>March</h2>
-        <h4>Jaywalker – by Grumperina</h4>
         <img src="http://woolandsilkco.com/img/socks/jaywalker.jpg" alt="">
-        <h4>Kelp – by Cookie</h4>
+        <h4 class="clearfix"><span class="bold">Jaywalker</span> – by Grumperina</h4>
         <img src="http://woolandsilkco.com/img/socks/kelp.jpg" alt="">
+        <h4 class="clearfix"><span class="bold">Kelp</span> – by Cookie</h4>
       </div>
     </article>
 

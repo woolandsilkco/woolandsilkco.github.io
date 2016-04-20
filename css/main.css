@@ -224,6 +224,10 @@ article p {
     margin: 1em;
 }
 
+article .bold {
+    font-weight: bold;
+}
+
 article a:hover, article a:visited,
 article a:link, article a:active {
     color: rgb(105,9,10);
@@ -254,7 +258,7 @@ article.left, article.right {
     width: 100%;
 }
 
-article.right div {
+article.right div.padded {
     padding: 1em;
     padding-bottom: 0;
 }
@@ -276,10 +280,6 @@ article#welcome img#welcomeimg {
 
 article#welcome p.hours {
     text-align: center;
-}
-
-article#welcome span.title {
-    font-weight: bold;
 }
 
 article#welcome span.hours {
@@ -318,10 +318,29 @@ div.featured li
     list-style-position: inside;
 }
 
+/***********************
+ * Featured Socks Styles
+ **********************/
+div.socks img {
+    margin: 0.25em auto;
+    max-height: 3em;
+    width: auto;
+}
 
-/******************
+div.socks h3, div.socks h4
+{
+    margin: 0.25em 1em;
+}
+
+div.socks h4
+{
+    font-weight: normal;
+}
+
+
+/*******************
  * What's New Styles
- *****************/
+ ******************/
 div.whatsnew img {
     margin: 1em auto;
 }
