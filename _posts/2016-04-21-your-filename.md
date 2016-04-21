@@ -5,7 +5,7 @@ published: true
 title: Newsletter April 1st 2016
 ---
 - Spring and Summer Yarns are Here
-- 1st Spring Knit Along
+- 1st Spring Knit Along - Foghorn Top
 
 **Spring Has Sprung !!!**
 
