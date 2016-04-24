@@ -1,1 +1,57 @@
-{"classes":[{"title":"Spring Forward Cowl – beaded cowl","parts":2,"dates":[["Sat May 7 2016","Sat Jun 4 2016"]],"times":["10am - 12pm"],"cost":"$20 + supplies","description":"This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.","note":null,"prerequisites":"sign up in advance &amp; place beads on yarn before cast-on","supplies":"1 skein Mykonos and 1 bag/tube of beads, $1.00 pattern"},{"title":"Surry Hills Cardigan – lace cardigan","parts":5,"dates":[["Sat Jun 11 2016","Sat Jun 18 2016","Sat July 16 2016","Sat Aug 13 2016","Sat Aug 20 2016"]],"times":["10am - 12pm"],"cost":"$50 + supplies","description":"This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.","note":null,"prerequisites":"Advance sign-up to purchase yarns/needles to cast-on before classes begin &amp; have ribbing completed.","supplies":"4-5 skeins Cascade Ultra Pima (DK weight)"},{"title":"Mismi Shawl","parts":3,"dates":[["Sat Jun 25 2016","Sat July 9 2016","Sat August 6 2016"]],"times":["10am - 12pm"],"cost":"$30 + supplies","description":"This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.","note":"advance sign-up to purchase yarns/needles","prerequisites":"None","supplies":"2 balls MC &amp; 1 ball edging colour of Downton Abbey Lady Sybil yarn"},{"title":"Dirty Martini","parts":6,"dates":[["Sat Sep 10 2016","Sat Sep 17 2016","Sat Sep 24 2016","Sat Oct 8 2016","Sat Oct 22 2016","Sat Nov 5 2016"]],"times":["10am - 12pm"],"cost":"$60 + supplies","description":"This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.","note":"advance sign-up &amp; yarn purchase to wind","prerequisites":"None","supplies":"Madeline Tosh Vintage – 5 skeins MC, 1 skein CC"}]}
+{
+	"classes": [{
+		"title": "Spring Forward Cowl - beaded cowl",
+		"parts": 2,
+		"dates": [
+			["Sat May 7 2016", "Sat Jun 4 2016"]
+		],
+		"times": ["10am - 12pm"],
+		"cost": "$20 + supplies",
+		"description": "This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.",
+		"note": null,
+		"prerequisites": "sign up in advance &amp; place beads on yarn before cast-on",
+		"supplies": "1 skein Mykonos and 1 bag/tube of beads, $1.00 pattern"
+    },
+
+	{
+		"title": "Surry Hills Cardigan - lace cardigan",
+		"parts": 5,
+		"dates": [
+			["Sat Jun 11 2016", "Sat Jun 18 2016", "Sat July 16 2016", "Sat Aug 13 2016", "Sat Aug 20 2016"]
+		],
+		"times": ["10am - 12pm"],
+		"cost": "$50 + supplies",
+		"description": "This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.",
+		"note": null,
+		"prerequisites": "Advance sign-up to purchase yarns/needles to cast-on before classes begin &amp; have ribbing completed.",
+		"supplies": "4-5 skeins Cascade Ultra Pima (DK weight)"
+    },
+	
+	{
+		"title": "Mismi Shawl",
+		"parts": 3,
+		"dates": [
+			["Sat Jun 25 2016", "Sat July 9 2016", "Sat August 6 2016"]
+		],
+		"times": ["10am - 12pm"],
+		"cost": "$30 + supplies",
+		"description": "This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.",
+		"note": "advance sign-up to purchase yarns/needles",
+		"prerequisites": "None",
+		"supplies": "2 balls MC &amp; 1 ball edging colour of Downton Abbey Lady Sybil yarn"
+    },
+	
+	{
+		"title": "Dirty Martini",
+		"parts": 6,
+		"dates": [
+			["Sat Sep 10 2016", "Sat Sep 17 2016", "Sat Sep 24 2016", "Sat Oct 8 2016", "Sat Oct 22 2016", "Sat Nov 5 2016"]
+		],
+		"times": ["10am - 12pm"],
+		"cost": "$60 + supplies",
+		"description": "This class is for anyone who is new to knitting; we will cover casting on, basic knit &amp; purl stitches &amp; casting off. The project will be a dishcloth.",
+		"note": "advance sign-up &amp; yarn purchase to wind",
+		"prerequisites": "None",
+		"supplies": "Madeline Tosh Vintage – 5 skeins MC, 1 skein CC"
+	}]
+}
