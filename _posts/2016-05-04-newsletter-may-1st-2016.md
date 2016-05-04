@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter May 1st 2016
 ---
 **It's BINGO Time!**
@@ -42,4 +42,4 @@ To join in with our fellow worldwide knitters we will be celebrating _**Internat
 **Lakeside Yarn Crawl**
 
 We will be participating in the Lakeside Yarn Crawl this year. It runs from June to September and features several shops, a passport, a draw, a grand prize and a feature pattern.  Details will follow with the June newsletter and passports will then be available 
-in-store. 
+in-store.
