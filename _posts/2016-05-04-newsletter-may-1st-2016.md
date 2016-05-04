@@ -4,6 +4,10 @@ type: news
 published: true
 title: Newsletter May 1st 2016
 ---
+- Bingo is back!
+- International Knit in Public Day
+- Lakeside Yarn Crawl
+
 **It's BINGO Time!**
 
 So much fun was had last year with our Knitting/Crocheting BINGO we have decided to 
