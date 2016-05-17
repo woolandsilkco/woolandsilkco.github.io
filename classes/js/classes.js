@@ -12,7 +12,8 @@ function displayClassesPreview(data)
             if (date2 >= today)
             {
                 var currentClass = data.classes[i];
-                classes.push({ "title" : currentClass.title, "date" : currentClass.dates[j], "time" : currentClass.times[j], "epoch" : date2.getTime()});
+                var dateString = currentClass.dates[j].toDateString()
+                classes.push({ "title" : currentClass.title, "date" : dateString.substring(0, dateString.length - 5), "time" : currentClass.times[j], "epoch" : date2.getTime()});
             }
         }
     }
