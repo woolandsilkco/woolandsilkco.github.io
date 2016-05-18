@@ -19,7 +19,7 @@
 		"dates": [
 			["Wed Jun 8 2016", "Wed Jun 15 2016", "Wed July 13 2016", "Wed Aug 10 2016", "Wed Aug 17 2016"]
 		],
-		"times": ["6:30pm - 8:00pm"],
+		"times": ["6:30pm - 8:30pm"],
 		"cost": "$50 + supplies",
 		"description": "Lace cardigan.",
 		"note": null,
@@ -33,7 +33,7 @@
 		"dates": [
 			["Wed Jun 22 2016", "Wed July 6 2016", "Wed August 3 2016"]
 		],
-		"times": ["6:30pm - 8:00pm"],
+		"times": ["6:30pm - 8:30pm"],
 		"cost": "$30 + supplies",
 		"description": "None.",
 		"note": "advance sign-up to purchase yarns/needles",
@@ -61,7 +61,7 @@
 		"dates": [
             ["Wed July 20 2016", "Wed July 27 2016", "Wed Aug 24 2016", "Wed Aug 31 2016"]
 		],
-		"times": ["6:30pm - 8:00pm"],
+		"times": ["6:30pm - 8:30pm"],
 		"cost": "$40 + supplies",
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase to wind",
@@ -75,7 +75,7 @@
 		"dates": [
 			["Wed Sep 7 2016", "Wed Sep 14 2016", "Wed Sep 21 2016", "Wed Oct 5 2016", "Wed Oct 19 2016", "Wed Nov 2 2016"]
 		],
-		"times": ["6:30pm - 8:00pm"],
+		"times": ["6:30pm - 8:30pm"],
 		"cost": "$60 + supplies",
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase to wind",
@@ -89,7 +89,7 @@
 		"dates": [
             ["Wed Sep 28 2016", "Wed Oct 12 2016"]
 		],
-		"times": ["6:30pm - 8:00pm"],
+		"times": ["6:30pm - 8:30pm"],
 		"cost": "$40 + supplies",
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase to wind",
@@ -103,7 +103,7 @@
 		"dates": [
             ["Wed Oct 26 2016", "Wed Nov 9 2016", "Wed Nov 23 2016", "Wed Dec 7 2016"]
 		],
-		"times": ["6:30pm - 8:00pm"],
+		"times": ["6:30pm - 8:30pm"],
 		"cost": "$40 + supplies",
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase",
