@@ -10,7 +10,8 @@
 		"description": "Beaded cowl.",
 		"note": null,
 		"prerequisites": "sign up in advance &amp; place beads on yarn before cast-on",
-		"supplies": "1 skein Mykonos and 1 bag/tube of beads, $1.00 pattern"
+		"supplies": "1 skein Mykonos and 1 bag/tube of beads, $1.00 pattern",
+		"image": "/img/kal/kal1.jpg"
     },
 
 	{
@@ -24,7 +25,8 @@
 		"description": "Lace cardigan.",
 		"note": null,
 		"prerequisites": "Advance sign-up to purchase yarns/needles to cast-on before classes begin &amp; have ribbing completed.",
-		"supplies": "4-5 skeins Cascade Ultra Pima (DK weight)"
+		"supplies": "4-5 skeins Cascade Ultra Pima (DK weight)",
+		"image": "/img/kal/kal2.jpg"
     },
 	
 	{
@@ -38,7 +40,8 @@
 		"description": "None.",
 		"note": "advance sign-up to purchase yarns/needles",
 		"prerequisites": "None",
-		"supplies": "2 balls MC &amp; 1 ball edging colour of Downton Abbey Lady Sybil yarn"
+		"supplies": "2 balls MC &amp; 1 ball edging colour of Downton Abbey Lady Sybil yarn",
+		"image": "/img/kal/kal3.jpg"
     },
 
     {
@@ -66,7 +69,8 @@
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase to wind",
 		"prerequisites": "None",
-		"supplies": "Sweet Paprika Minuet DK - 5-6 skein"
+		"supplies": "Sweet Paprika Minuet DK - 5-6 skein",
+		"image": "/img/kal/kal4.jpg"
     },
 	
 	{
@@ -80,7 +84,8 @@
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase to wind",
 		"prerequisites": "None",
-		"supplies": "Madeline Tosh Vintage – 5 skeins MC, 1 skein CC"
+		"supplies": "Madeline Tosh Vintage – 5 skeins MC, 1 skein CC",
+		"image": "/img/kal/kal5.jpg"
 	},
 	
 	{
@@ -94,7 +99,8 @@
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase to wind",
 		"prerequisites": "None",
-		"supplies": "Berroco Vintage DK, 1 skein each of 2 colours"
+		"supplies": "Berroco Vintage DK, 1 skein each of 2 colours",
+		"image": "/img/kal/kal6.jpg"
 	},
 	
 	{
@@ -108,6 +114,7 @@
 		"description": "None",
 		"note": "advance sign-up &amp; yarn purchase",
 		"prerequisites": "None",
-		"supplies": "Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen"
+		"supplies": "Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen",
+		"image": "/img/kal/kal7.jpg"
 	}]
 }
