@@ -247,7 +247,7 @@ article a.all {
 }
 
 article .content>a {
-    margin-bottom: 1em;
+    margin: 0.5em;
 }
 
 
@@ -406,11 +406,6 @@ article.right div.preview>ul {
 /**********************
  * Class Preview Styles
  *********************/
-#insertClasses {
-    max-height: 45em;
-    overflow-y: scroll;
-}
-
 #insertClasses .title
 {
     font-weight: bold;
@@ -687,6 +682,11 @@ footer a {
     div.pagination a.inactive {
         visibility: hidden;
         display: inline-block;
+    }
+
+    .classPreviewWrapper {
+        max-height: 45em;
+        overflow-y: scroll;
     }
 
     div.classbox img {
