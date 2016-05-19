@@ -406,6 +406,11 @@ article.right div.preview>ul {
 /**********************
  * Class Preview Styles
  *********************/
+#insertClasses {
+    max-height: 45em;
+    overflow-y: scroll;
+}
+
 #insertClasses .title
 {
     font-weight: bold;
@@ -682,6 +687,11 @@ footer a {
     div.pagination a.inactive {
         visibility: hidden;
         display: inline-block;
+    }
+
+    div.classbox img {
+        float: right;
+        margin: 1em;
     }
 }
 
