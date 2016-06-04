@@ -83,6 +83,8 @@ Going on sale this month are Filatura di Crossi Charly Print Melange & Madeline 
 
 Chunky/Bulk yarn continues at 25% off until the end of June.
 
+**Featured Socks**
+
 <span style="float:left; margin-right: 2em;">
 <a href="http://www.ravelry.com/patterns/library/verdure-3">
 Verdure by Jenny Richens
