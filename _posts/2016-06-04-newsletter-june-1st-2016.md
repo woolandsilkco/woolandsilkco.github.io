@@ -49,7 +49,6 @@ any time. Lots of fun & great prizes!
  
  **2nd KAL - Surry Hills Cardigan–lace cardigan** - $50.00 (+yarn, supplies & pattern)
 <a href="http://www.ravelry.com/patterns/library/surry-hills">![june1k.jpg]({{site.baseurl}}/news/img/june1k.jpg)
-
 Surry Hills Cardigan  by Maria Magnusson</a>
 
 Let’s try a bit of lace knitting!  A lovely lace cardigan that is just right for summer in cotton yarn.  An excellent project to learn lace knitting skills.  Choose from 10 gorgeous colours of Cascade Ultra Pima.  Pre-register to get your supplies in order as there is homework to do before classes start.  Casting on & ribbing is to be completed in advance.
@@ -59,7 +58,6 @@ Dates (Wed’s): June 8, June 15, July 13, August 10, August 17
  
 **3rd  KAL- Mismi Shawl** - $30.00 (+yarn, supplies & pattern)
 <a href="http://www.ravelry.com/patterns/library/mismi-shawl">![june1g.jpg]({{site.baseurl}}/news/img/june1g.jpg)
-
 Mismi Shawl  by Andrea Rangel</a>
 
 Here is a chance to work an easily constructed shawl in a new yarn!  Knitted out of  Downton Abbey – Lady Sybil, Mismi provides a cosy shawl with a reversed contrast.  Using an oyster (or light) colour for the centre and a deep colour for the border.
