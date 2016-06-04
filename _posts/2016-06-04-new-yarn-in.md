@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: New Yarn In
 ---
 ![june1a.jpg]({{site.baseurl}}/news/img/june1a.jpg)
