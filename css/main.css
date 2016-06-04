@@ -242,12 +242,8 @@ article a.all {
     display: block;
     font-size: 1em;
     font-weight: bold;
-    margin 0;
-    text-align: center;
-}
-
-article .content>a {
     margin: 0.5em;
+    text-align: center;
 }
 
 
