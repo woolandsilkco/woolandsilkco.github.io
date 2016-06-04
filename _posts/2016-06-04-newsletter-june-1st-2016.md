@@ -4,6 +4,10 @@ type: news
 published: false
 title: Newsletter June 1st 2016
 ---
+- A milestone!
+- New yarn in!
+- Lakeside yarn crawl!
+
 **A Milestone!**
 
 Exciting news for The Wool & Silk Co.  We have just recently registered our 1000th customer!   The lovely Eileen P. has been e-mailed a gift certificate for her shopping enjoyment.  Many thanks to all of you who come to see us and enjoy the lovely yarns.
