@@ -21,20 +21,22 @@ A fabulous new yarn has come to The Wool & Silk Co.  It is Sweet Paprika from Mo
 **Feature Projects**
 
 <div class="clearfix"></div>
-<span style="float:left">![june1b.jpg]({{site.baseurl}}/news/img/june1b.jpg)</span>
-<span style="float:left">![june1c.jpg]({{site.baseurl}}/news/img/june1c.jpg)</span>
-<span style="float:left">![june1d.JPG]({{site.baseurl}}/news/img/june1d.JPG)</span>
+<span style="float:left"><a href="">![june1b.jpg]({{site.baseurl}}/news/img/june1b.jpg)</a></span>
+<span style="float:left"><a href="">![june1c.jpg]({{site.baseurl}}/news/img/june1c.jpg)</a></span>
+<span style="float:left"><a href="">![june1d.JPG]({{site.baseurl}}/news/img/june1d.JPG)</a></span>
 <div class="clearfix"></div>
 
 This month we are offering a choice of 3 feature projects. All are summer tops to knit out of cotton or cotton combos for these warm days.  They are: 
-Petrie shell (Misti Alpaca Pima Cotton Silk), Dinah pullover (Avalon cotton) or any of the Beachcomber pullover tops (Sirdar Beachcomber). 
+<a href="">Petrie shell</a> (Misti Alpaca Pima Cotton Silk), <a href="">Dinah pullover</a> (Avalon cotton) or any of the <a href="">Beachcomber</a> pullover tops (Sirdar Beachcomber). 
   
 
 **All yarns for these projects are 15% off** (not including cost of pattern & needles)
 
 
+<a href="http://www.ravelry.com/patterns/library/wurm">
 **THAT HAT!**
 ![june1e.jpg]({{site.baseurl}}/news/img/june1e.jpg)
+</a>
 
 We have discovered a fun and slouchy hat called “Wurm”.  A free pattern on Ravelry which we have rewritten specifically for a two colour format.  This hat
 is set up as a kit done in Debbie Bliss Baby Cashmerino. 2 balls of the Main Colour and 1 ball of the contrasting colour.  All for $23.00 !!!  (a 30% savings). What a great Christmas gift to make!
@@ -45,10 +47,10 @@ Bingo is on until August 31st. You may still pick-up a Bingo card & get started 
 any time. Lots of fun & great prizes!
  
  
-**2nd KAL - Surry Hills Cardigan–lace cardigan** - $50.00 (+yarn, supplies & pattern)
-![june1k.jpg]({{site.baseurl}}/news/img/june1k.jpg)
+ **2nd KAL - Surry Hills Cardigan–lace cardigan** - $50.00 (+yarn, supplies & pattern)
+<a href="http://www.ravelry.com/patterns/library/surry-hills">![june1k.jpg]({{site.baseurl}}/news/img/june1k.jpg)
 
-Surry Hills Cardigan  by Maria Magnusson
+Surry Hills Cardigan  by Maria Magnusson</a>
 
 Let’s try a bit of lace knitting!  A lovely lace cardigan that is just right for summer in cotton yarn.  An excellent project to learn lace knitting skills.  Choose from 10 gorgeous colours of Cascade Ultra Pima.  Pre-register to get your supplies in order as there is homework to do before classes start.  Casting on & ribbing is to be completed in advance.
 
@@ -56,9 +58,9 @@ Let’s try a bit of lace knitting!  A lovely lace cardigan that is just right f
 Dates (Wed’s): June 8, June 15, July 13, August 10, August 17    
  
 **3rd  KAL- Mismi Shawl** - $30.00 (+yarn, supplies & pattern)
-![june1g.jpg]({{site.baseurl}}/news/img/june1g.jpg)
+<a href="http://www.ravelry.com/patterns/library/mismi-shawl">![june1g.jpg]({{site.baseurl}}/news/img/june1g.jpg)
 
-Mismi Shawl  by Andrea Rangel
+Mismi Shawl  by Andrea Rangel</a>
 
 Here is a chance to work an easily constructed shawl in a new yarn!  Knitted out of  Downton Abbey – Lady Sybil, Mismi provides a cosy shawl with a reversed contrast.  Using an oyster (or light) colour for the centre and a deep colour for the border.
 
