@@ -19,6 +19,8 @@ A fabulous new yarn has come to The Wool & Silk Co.  It is Sweet Paprika from Mo
  
  
 **Feature Projects**
+
+<div class="clearfix"></div>
 <span style="float:left">![june1b.jpg]({{site.baseurl}}/news/img/june1b.jpg)</span>
 <span style="float:left">![june1c.jpg]({{site.baseurl}}/news/img/june1c.jpg)</span>
 <span style="float:left">![june1d.JPG]({{site.baseurl}}/news/img/june1d.JPG)</span>
@@ -81,7 +83,7 @@ Going on sale this month are Filatura di Crossi Charly Print Melange & Madeline 
 
 Chunky/Bulk yarn continues at 25% off until the end of June.
 
-<span style="float:left">
+<span style="float:left; margin-right: 2em;">
 <a href="http://www.ravelry.com/patterns/library/verdure-3">
 Verdure by Jenny Richens
 ![june1i.jpg]({{site.baseurl}}/news/img/june1i.jpg)
