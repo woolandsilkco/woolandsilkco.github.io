@@ -67,9 +67,11 @@ Dates (Wed’s): June 22, July 6 & August 3
 **International Knit in Public Day!! – Saturday June 18th**
 
 Don’t forget to join us for International Knit in Public Day. Bring your lawnchair and a current project. We will be knitting outside, weather permitting. This is the same day as the Shelburne Street Festival and classic car show. Sidewalk sale will be on. Hope to see you there!
- 
+
+<a href="http://lakesideyarncrawl.blogspot.ca/">
 **Lakeside Yarn Crawl**
 ![june1h.jpg]({{site.baseurl}}/news/img/june1h.jpg)
+</a>
 
 We will be participating in the Lakeside Yarn Crawl this year. It runs from June 18th to September 5th.  Selected shops, passport, draw & a grand prize.  Featured yarn is the Georgian Bay colourway in Minuet by Sweet Paprika.  Passports & draw tickets available starting June 18th.
  
@@ -80,11 +82,15 @@ Going on sale this month are Filatura di Crossi Charly Print Melange & Madeline 
 Chunky/Bulk yarn continues at 25% off until the end of June.
 
 <span style="float:left">
+<a href="http://www.ravelry.com/patterns/library/verdure-3">
 Verdure by Jenny Richens
 ![june1i.jpg]({{site.baseurl}}/news/img/june1i.jpg)
+</a>
 </span>
 <span style="float:left">
+<a href="http://www.ravelry.com/patterns/library/lacy-summer-socks-2">
 Lacy Summer Socks by Stefanie Goodwin-Ritter    
 ![june1j.jpg]({{site.baseurl}}/news/img/june1j.jpg)
+</a>
 </span>
 <div class="clearfix"></div>
