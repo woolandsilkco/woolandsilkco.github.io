@@ -596,6 +596,10 @@ footer a {
         margin-bottom: calc(1em + 8px);
     }
 
+    article img {
+        margin: 1em 0;
+    }
+
     div.featured img {
         margin: 1em;
         float: left;
