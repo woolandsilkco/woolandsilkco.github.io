@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: Lakeside Yarn Crawl
 ---
 ![june1h.jpg]({{site.baseurl}}/news/img/june1h.jpg)
