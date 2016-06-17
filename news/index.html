@@ -11,8 +11,8 @@ layout: master
         <h1>Recent News</h1>
         <div class="content">
           <div class="news">
-            <h2>{{paginator.posts.first.date | date_to_string}} - {{paginator.posts.first.title}}</h2>
-            <div>{{paginator.posts.first.content}}</div>
+            <h2>{{post.date | date_to_string}} - {{post.title}}</h2>
+            <div>{{post.content}}</div>
           </div>
         <div class="clearfix"></div>  
       </div>
