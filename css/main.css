@@ -220,6 +220,10 @@ article img {
     max-height: 20em;
 }
 
+.article-img--centred {
+    text-align: center;
+}
+
 article p {
     margin: 1em;
 }
