@@ -11,27 +11,42 @@ It is time again for our exciting summer sale.  Truly like Christmas in July as 
 
 _The following are further reduced:_
 
-**25% off **
+**25% off**
 
 Shirley Brian
 
-**30% off **
+**30% off**
 
 Animal scarf kits
+
 Baby Alpaca DK
+
 Bulky yarns in dresser at front of store
+
 Centolavaggi Lace
+
 Charly
+
 Comfort & Comfort Chunky
+
 Debbie Bliss Baby Cashmerino
+
 Debbie Bliss Eco Baby
+
 Firefly by CEY
+
 Misti Alpaca Lace
+
 Naturally Baby Natural
+
 Noro Taiyo Sock
+
 Peruvia Quick
+
 Silky Alpaca Lace by CEY
+
 Soft Mix
+
 Ultra Alpaca & Ultra Alpaca Chunky
  
 Any yarns that are in the reduced bins at the back of the store remain as marked with their current discount.
@@ -69,10 +84,8 @@ Here is a chance to work an easily constructed shawl in a new yarn!  Knitted out
 contrast.  Using an oyster (or light) colour for the centre and a deep colour for the border.
 
 **- a 3 class KAL** (6:30PM-8:30pm)
-
    Dates (Wed’s): June 22, July 6 & August 3
-
-- this KAL has already started but you are welcome to join on July 6th   
+ - this KAL has already started but you are welcome to join on July 6th   
 
 
 **Technique Class – German Short Rows                       $10.00**
@@ -87,10 +100,9 @@ While knitting the Danzig shawl [(Danzig Shawl)](http://www.ravelry.com/patterns
 Vodka Lemonade
 </a>
 
-Vodka Lemonade_  by Thea Coleman_
+Vodka Lemonade _by Thea Coleman_
 
 If you haven’t already seen this gorgeous cardigan in shop please stop by and take a look.!  Knitted in Sweet Paprika Minuet DK it will be the luscious cardigan that you will always want to wear.  One piece construction a bit of lace detail and an open front, all done is gorgeous colour.
 
 **- a 4 class KAL** (6:30PM-8:30pm)
-
    Dates (Wed’s): July 20, July 27, Aug 24 & Aug 31
