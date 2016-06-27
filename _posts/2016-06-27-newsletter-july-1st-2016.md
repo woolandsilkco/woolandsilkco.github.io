@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter July 1st 2016
 ---
 **Christmas in July !!**
@@ -93,4 +93,4 @@ If you haven’t already seen this gorgeous cardigan in shop please stop by and 
 
 **- a 4 class KAL** (6:30PM-8:30pm)
 
-   Dates (Wed’s): July 20, July 27, Aug 24 & Aug 31 
+   Dates (Wed’s): July 20, July 27, Aug 24 & Aug 31
