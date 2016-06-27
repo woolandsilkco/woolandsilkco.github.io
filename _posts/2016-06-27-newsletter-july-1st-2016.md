@@ -4,7 +4,10 @@ type: news
 published: true
 title: Newsletter July 1st 2016
 ---
+- Christmas in July!!
+
 **Christmas in July !!**
+
 It is time again for our exciting summer sale.  Truly like Christmas in July as the savings are so so good.
  
 **All in-stock yarns are 15% off**
@@ -54,7 +57,7 @@ Any yarns that are in the reduced bins at the back of the store remain as marked
 **Feature Projects**
 
 <a href="http://www.ravelry.com/patterns/library/luxe-lace-pullover" alt="">
-
+![luxe lave pullover]({{site.baseurl}}/projects/img/featured_25.jpg)
 Luxe Lace Pullover
 </a>
 
