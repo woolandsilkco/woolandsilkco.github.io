@@ -10,7 +10,7 @@ title: Newsletter July 1st 2016
 
 It is time again for our exciting summer sale.  Truly like Christmas in July as the savings are so so good.
  
-**All in-stock yarns are 15% off**
+**All in-stock yarns are 15% off from July 5th to July 9th!**
 
 _The following are further reduced:_
 
