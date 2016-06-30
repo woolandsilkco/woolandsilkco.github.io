@@ -2,177 +2,182 @@
 layout: master
 ---
 
-    <article class="left" id="welcome">
-      <h1>Welcome!</h1>
-      <div class="content clearfix">
-        <img id="welcomeimg" src="http://woolandsilkco.com/img/storefront.png" alt="Wool &amp; Silk Co. Storefront">
-        <p>We are a full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
-        <p class="hours"><span class="bold">Store Hours</span> Tue, Thurs, Fri: <span class="hours">10am - 5pm</span> Wed: <span class="hours">10am - 8:30pm</span> Sat: <span class="hours">10am - 4pm</span></p>
-        <p class="hours"><span class="bold">Sit-&amp;-Knit Hours</span> Wed: <span class="hours">1pm - 3pm, 6:30pm - 8:30pm</span> Sat: <span class="hours">1pm - 3pm</span></p>
-        <p class="hours"><span class="bold">JR. Sit-&amp;-Knit Hours</span> Sat: <span class="hours">10am - 11am</span></p>
-        <div class="fb">
-          <a href="https://www.facebook.com/woolinshelburne"><img src="http://woolandsilkco.com/img/facebook.png" alt="Link to Wool &amp; Silk Co. on Facebook"></a>
-          <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoolinshelburne&amp;width=144&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="width:144px; height:21px;" allowTransparency="true"></iframe>
-        </div>
-      </div>
-    </article>
+<article class="left" id="welcome">
+  <h1>Welcome!</h1>
+  <div class="content clearfix">
+    <img id="welcomeimg" src="http://woolandsilkco.com/img/storefront.png" alt="Wool &amp; Silk Co. Storefront">
+    <p>We are a full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
+    <p class="hours"><span class="bold">Store Hours</span> Tue, Thurs, Fri: <span class="hours">10am - 5pm</span> Wed: <span class="hours">10am - 8:30pm</span> Sat: <span class="hours">10am - 4pm</span></p>
+    <p class="hours"><span class="bold">Sit-&amp;-Knit Hours</span> Wed: <span class="hours">1pm - 3pm, 6:30pm - 8:30pm</span> Sat: <span class="hours">1pm - 3pm</span></p>
+    <p class="hours"><span class="bold">JR. Sit-&amp;-Knit Hours</span> Sat: <span class="hours">10am - 11am</span></p>
+    <div class="fb">
+      <a href="https://www.facebook.com/woolinshelburne"><img src="http://woolandsilkco.com/img/facebook.png" alt="Link to Wool &amp; Silk Co. on Facebook"></a>
+      <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoolinshelburne&amp;width=144&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="width:144px; height:21px;" allowTransparency="true"></iframe>
+    </div>
+  </div>
+</article>
 
-    <article class="right">
-      <h1>News</h1>
-      <div class="content padded">
-        {% assign post1 = true %}
-        {% assign post2 = true %}
-        {% assign display = true %}
-        {% for post in site.posts %}
-          {% if post.type == "news" and display == true %}
-            {% if post1 == true %}
-              {% assign post1 = false %}
-            {% elsif post2 == true %}
-              {% assign post2 = false %}
-            {% endif %}
-            {% if post1 == false and post2 == false %}
-              {% assign display = false %}
-            {% endif%}
-            <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
-            <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
-          {% endif %}
-        {% endfor %}
-        <a href="http://woolandsilkco.com/news/" class="all">Click Here to See All News Items</a>
-      </div>
-    </article>
+<article class="right">
+  <h1>News</h1>
+  <div class="content padded">
+    {% assign post1 = true %}
+    {% assign post2 = true %}
+    {% assign display = true %}
+    {% for post in site.posts %}
+      {% if post.type == "news" and display == true %}
+        {% if post1 == true %}
+          {% assign post1 = false %}
+        {% elsif post2 == true %}
+          {% assign post2 = false %}
+        {% endif %}
+        {% if post1 == false and post2 == false %}
+          {% assign display = false %}
+        {% endif%}
+        <h3>{{ post.date | date_to_string }} - {{ post.title }}</h3>
+        <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+      {% endif %}
+    {% endfor %}
+    <a href="http://woolandsilkco.com/news/" class="all">Click Here to See All News Items</a>
+  </div>
+</article>
 
-    <article class="left">
-      <h1>What's New Right Now</h1>
-      <div class="content whatsnew">
-        {% for post in site.posts limit:5 %}
-          {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
-            <h3>{{ post.title }}</h3>
-            <div>{{ post.content }}</div>
-            <div class="clearfix"></div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </article>
-
-    <script src="http://woolandsilkco.com/classes/js/classes.js"></script>
-    <script>
-        loadClasses(displayClassesPreview);
-    </script>
-    <article class="right">
-      <h1>Classes</h1>
-      <div class="content padded">
-        <div id="insertClasses" class="classPreviewWrapper">
-          <p id="loading">Loading class information...</p>
-          <p id="error">Couldn't load class information</p>
-          <p id="noclasses">Classes will resume in the fall. Please watch the webpage for dates and times.</p>
-        </div>
-        <a href="http://woolandsilkco.com/classes/" class="all">Click Here to See All Classes &amp; Info</a>
-      </div>
-    </article>
-
-    <article class="left">
-      <h1>Featured Project</h1>
-      <div class="content featured clearfix">
-        <a href="http://www.ravelry.com/patterns/library/pleasant-trip">
-          <img src="http://woolandsilkco.com/projects/img/featured_22.jpg" alt="">
-          <img src="http://woolandsilkco.com/projects/img/featured_23.jpg" alt="">
-          <img src="http://woolandsilkco.com/projects/img/featured_24.jpg" alt="">
-        </a>
-        <p>This month we are offering a choice of 3 feature projects. All are summer tops to knit out of cotton or cotton combos for these warm days. They are: <a href="http://www.ravelry.com/patterns/library/petrie">Petrie shell</a> (Misti Alpaca Pima Cotton Silk), <a href="http://www.ravelry.com/patterns/library/dinah-pullover">Dinah pullover</a> (Avalon cotton) or any of the <a href="http://www.ravelry.com/patterns/library/design-7281">Beachcomber</a> pullover tops (Sirdar Beachcomber).</p>
-        <h3>Purchase of yarn for projects 15% off!</h3>
+<article class="left">
+  <h1>What's New Right Now</h1>
+  <div class="content whatsnew">
+    {% for post in site.posts limit:5 %}
+      {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
+        <h3>{{ post.title }}</h3>
+        <div>{{ post.content }}</div>
         <div class="clearfix"></div>
-        <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
-      </div>
-    </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</article>
 
-    <article class="right">
-      <h1>Featured Socks</h1>
-      <div class="content socks clearfix">
-        <h2>June</h2>
-        <a href="http://www.ravelry.com/patterns/library/verdure-3">
-          <img src="http://woolandsilkco.com/img/socks/june1.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">Verdure</span> – by Jenny Richens</h4>
-        </a>
-        <a href="http://www.ravelry.com/patterns/library/lacy-summer-socks-2">
-          <img src="http://woolandsilkco.com/img/socks/june2.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">Lacy Summer Socks</span> – by Stefanie Goodwin-Ritter</h4>
-        </a>
+<script src="http://woolandsilkco.com/classes/js/classes.js"></script>
+<script>
+    loadClasses(displayClassesPreview);
+</script>
+<article class="right">
+  <h1>Classes</h1>
+  <div class="content padded">
+    <div id="insertClasses" class="classPreviewWrapper">
+      <p id="loading">Loading class information...</p>
+      <p id="error">Couldn't load class information</p>
+      <p id="noclasses">Classes will resume in the fall. Please watch the webpage for dates and times.</p>
+    </div>
+    <a href="http://woolandsilkco.com/classes/" class="all">Click Here to See All Classes &amp; Info</a>
+  </div>
+</article>
 
-        <h2>May</h2>
-        <a href="">
-          <img src="http://woolandsilkco.com/img/socks/may1.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">Willow Socklets</span> – by Tyrneathem (little short summer socks)</h4>
-        </a>
-        <a href="">
-          <img src="http://woolandsilkco.com/img/socks/may2.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">Lazy Lace Socks</span> – by Danielle Romanetti (toe up socks)</h4>
-        </a>
+<article class="left">
+  <h1>Featured Project</h1>
+  <div class="content featured clearfix">
+    <a href="http://www.ravelry.com/patterns/library/luxe-lace-pullover">
+      <img src="http://woolandsilkco.com/projects/img/featured_25.jpg" alt="">
+    </a>
+    <h2>Luxe Lace Pullover</h2>
+    <h4>Lion Brand Yarn</h4>
+    <p>The feature project this month is the Luxe Lace pullover by Lion Brand Yarn. A light as air pullover knitted in Drops Kid-Silk.  The Super Kid Mohair &amp; Silk combination is lovely to work with. A simple lace panel on the lower front adds feminine detail. It has a loose generous fit and is just the thing to slip on over a light top or dress on a cool summer evening.  Takes (4) balls to make the medium size.  Model shown in colour #24 Petrol (a deep teal)  Yarn for this project is 15% off (not including cost of   needles). Pattern is free on Ravelry (we will print in-store for $1)</p>
+    <h3>Purchase of yarn for projects 15% off!</h3>
+    <div class="clearfix"></div>
+    <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
+  </div>
+</article>
 
-        <h2>April</h2>
-        <a href="http://www.ravelry.com/patterns/library/my-cup-of-tea-socks">
-          <img src="http://woolandsilkco.com/img/socks/april1.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">My Cup of Tea</span> – by Robyn Lynn</h4>
-        </a>
-        <a href="http://www.ravelry.com/patterns/library/scatterby-socks">
-          <img src="http://woolandsilkco.com/img/socks/april2.jpeg" alt="">
-          <h4 class="clearfix"><span class="bold">Scatterby</span> – by Amy Stringer (2 at a time - toe up)</h4>
-        </a>
-        <h2>March</h2>
-          <img src="http://woolandsilkco.com/img/socks/jaywalker.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">Jaywalker</span> – by Grumperina</h4>
-        </a>
-        <a href="http://www.ravelry.com/patterns/library/kelp-4">
-          <img src="http://woolandsilkco.com/img/socks/kelp.jpg" alt="">
-          <h4 class="clearfix"><span class="bold">Kelp</span> – by Cookie A</h4>
-        </a>
-      </div>
-    </article>
+<article class="right">
+  <h1>Featured Socks</h1>
+  <div class="content socks clearfix">
+    <h2>July</h2>
+    <a href="http://www.ravelry.com/patterns/library/poledance-toe-up">
+      <img src="http://woolandsilkco.com/img/socks/july1.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Pole Dance Toe-Up Socks</span></h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/library/lingerie">
+      <img src="http://woolandsilkco.com/img/socks/july2.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Lingerie</span></h4>
+    </a>
 
-    <article class="left">
-      <h1>What We're Knitting/Crocheting</h1>
-      <div class="content clearfix">
-        <div class="wwk">
-          <a href="http://www.ravelry.com/patterns/library/danzig">
-            <img src="/projects/img/wwk19a.jpg" alt="">
-            <h3>Danzig Shawl (Leeanne)</h3>
-          </a>
-          <ul>
-            <li>good sized shawl with fun, bright colourwork</li>
-            <li>Diamond Select Footsie #2597 (Grey) Misti Alpaca Tonos Carnaval #TF42 (Maracuya)-lime green</li>
-            <li>can be done with any sock weight/4-ply yarn</li>
-            <li>this will be a knit-a-long later in the year</li>
-            <li>pattern by Justyna Lorkowska</li>
-          </ul>
-        </div>
+    <h2>June</h2>
+    <a href="http://www.ravelry.com/patterns/library/verdure-3">
+      <img src="http://woolandsilkco.com/img/socks/june1.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Verdure</span> – by Jenny Richens</h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/library/lacy-summer-socks-2">
+      <img src="http://woolandsilkco.com/img/socks/june2.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Lacy Summer Socks</span> – by Stefanie Goodwin-Ritter</h4>
+    </a>
 
-        <div class="wwk">
-          <a href="http://www.ravelry.com/patterns/library/luxe-lace-pullover">
-            <img src="/projects/img/wwk21a.jpg" alt="">
-            <h3>Luxe Lace Pullover (Diane)</h3>
-          </a>
-          <ul>
-            <li>Drops Kid-Silk #24 Petrol (deep teal)</li>
-            <li>extremely lightweight top to wear over a tank for style &amp; a bit of warmth</li>
-            <li>easy knitting lace repeat that works up quickly on 4.5mm needles</li> 
-            <li>this will be an upcoming fall project</li>
-            <li>pattern by Lion Brand Yarn Patterns</li>
-          </ul>
-        </div>
-        <div class="clearfix"></div>
+    <h2>May</h2>
+    <a href="">
+      <img src="http://woolandsilkco.com/img/socks/may1.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Willow Socklets</span> – by Tyrneathem (little short summer socks)</h4>
+    </a>
+    <a href="">
+      <img src="http://woolandsilkco.com/img/socks/may2.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Lazy Lace Socks</span> – by Danielle Romanetti (toe up socks)</h4>
+    </a>
 
-        <div class="wwk">
-          <a href="http://www.ravelry.com/patterns/library/emiliana">
-            <img src="/projects/img/wwk18a.jpg" alt="">
-            <h3>Emiliana Shawl (Diane)</h3>
-          </a>
-          <ul>
-            <li>A cozy shawl with the drama of geometric patterning</li>
-            <li>Fingering weight</li>
-            <li>CEY Alpaca Sox: #1817 Brown Maple (rust), Misti-Alpaca Hand Paint Sock, #HS51 Foxtail (multi)</li>
-            <li>Purchase pattern, available on Ravelry.com</li>
-          </ul>
-        </div>
-        <div class="clearfix"></div>
-        <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
-      </div>
-    </article>
+    <h2>April</h2>
+    <a href="http://www.ravelry.com/patterns/library/my-cup-of-tea-socks">
+      <img src="http://woolandsilkco.com/img/socks/april1.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">My Cup of Tea</span> – by Robyn Lynn</h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/library/scatterby-socks">
+      <img src="http://woolandsilkco.com/img/socks/april2.jpeg" alt="">
+      <h4 class="clearfix"><span class="bold">Scatterby</span> – by Amy Stringer (2 at a time - toe up)</h4>
+    </a>
+    <h2>March</h2>
+      <img src="http://woolandsilkco.com/img/socks/jaywalker.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Jaywalker</span> – by Grumperina</h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/library/kelp-4">
+      <img src="http://woolandsilkco.com/img/socks/kelp.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Kelp</span> – by Cookie A</h4>
+    </a>
+  </div>
+</article>
+
+<article class="left">
+  <h1>What We're Knitting/Crocheting</h1>
+  <div class="content clearfix">
+    <div class="wwk">
+      <a href="https://www.amazon.ca/Baby-Knits-Made-Easy-Publishing/dp/1465402063">
+        <img src="/projects/img/wwk22a.jpg" alt="">
+        <h3>Diamond Blanket (Leeanne)</h3>
+      </a>
+      <ul>
+        <li>found in the book Baby Knits Made Easy (on Amazon.ca)</li>
+        <li>a beautiful heirloom baby blanket</li>
+        <li>being knitted in Sirdar Snuggly DK - #303 Cream</li>
+        <li>4.0mm x 80cm circular needle</li>
+      </ul>
+    </div>
+
+    <div class="wwk">
+      <img src="/projects/img/wwk23a.jpg" alt="">
+      <h3>Pretty Panels Cardigan</h3>
+      <ul>
+        <li>a lovely cardigan with just a little bit of interest at the front</li>
+        <li>body of the sweater is in Vintage DK #2189 Charcoal</li>
+        <li>front panels are knitted by holding 1 strand of Misti Alpaca Hand Paint Sock #HS43 Eiffel together with 1 strand of Drops Kid-Silk #04 Medium Pink</li>
+        <li>top-down continuous construction means no seams!</li>
+        <li>finished with a picot edge around neck, down front &amp; edges of sleeves  </li>
+        <li>this pattern is currently under construction and will be published on Ravelry when knitting is completed</li>
+      </ul>
+    </div>
+
+    <div class="wwk">
+      <a href="http://www.ravelry.com/patterns/library/quadri">
+        <h3>Quadri Shawl</h3>
+        <img src="/projects/img/wwk24a.jpg" alt="">
+      </a>
+      <ul>
+        <li>gorgeous lightweight shawl with interesting "square" detail</li>
+        <li>incorporates the technique of Navajo knitting</li>
+        <li>could become an upcoming class (??)</li>
+      </ul>
+    </div>
+    <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
+  </div>
+</article>
