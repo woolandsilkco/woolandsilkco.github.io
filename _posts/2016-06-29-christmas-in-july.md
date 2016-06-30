@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: Christmas in July!
 ---
 It is time again for our exciting summer sale.  Truly like Christmas in July as the savings are so so good.
@@ -49,4 +49,3 @@ Soft Mix
 Ultra Alpaca & Ultra Alpaca Chunky
  
 Any yarns that are in the reduced bins at the back of the store remain as marked with their current discount.
-
