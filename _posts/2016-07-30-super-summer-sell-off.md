@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: Super Summer Sell Off!
 ---
 For the week of August 9 - 13 we will be featuring summer yarns & select others at 30% off.
