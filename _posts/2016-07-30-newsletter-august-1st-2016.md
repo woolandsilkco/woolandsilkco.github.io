@@ -17,7 +17,7 @@ To encompass the Heritage Days festival we will be open for business on Aug 12 &
 
 **Super Summer Sell Off!!**
 
-For the week of August 9 - 13we will be featuring summer yarns & select others at 30% off.
+For the week of August 9 - 13 we will be featuring summer yarns & select others at 30% off.
 
 These include:
 
