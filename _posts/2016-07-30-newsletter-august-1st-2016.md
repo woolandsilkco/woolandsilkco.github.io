@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter August 1st 2016
 ---
 - Heritage Days & Fiddle Fest
