@@ -13,7 +13,7 @@ Bringing you the August Newsletter as the summer is in full force! There is an e
 
 **Heritage Days & Fiddle Fest**
 
-To encompass the Heritage Days festival we will be open for business on Aug 12 & 13 during Fiddle Fest and welcome current & new customers. Sit & Knit will be on as scheduled 1-3pm for Saturday.
+To encompass the Heritage Days festival we will be open for business on Aug 5 & 6 during Fiddle Fest and welcome current & new customers. Sit & Knit will be on as scheduled 1-3pm for Saturday.
 
 **Super Summer Sell Off!!**
 
