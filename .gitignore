@@ -1,6 +1,2 @@
-serve
-env/**
 times.csv
-_partials/**
-_resources/**
-_site/**
+env/*

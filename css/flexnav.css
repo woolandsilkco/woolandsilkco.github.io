@@ -211,7 +211,7 @@
         float: left;
         display: block;
         overflow: visible;
-        width: 16.66%;
+        width: 14.2%;
         text-align: center;
     }
     
@@ -374,5 +374,5 @@
 
 .oldie.ie7 .flexnav li
 {
-    width: 19.9%;
+    width: 14.1%;
 }
