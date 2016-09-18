@@ -60,32 +60,38 @@ Our popular Bingo is over as of August 31st. Prizes will be drawn on September 7
 **Dirty Martini - KAL Project #5**
 
 $60.00 (plus yarn & supplies)
+
 Super interesting cardigan to make! Using 2 complimentary colours of Madeline Tosh Vintage you will create a sweater that has interesting angles and colour blending. Come in & see the new yarn and make your selection. View the pattern on Ravelry at:  http://www.ravelry.com/patterns/library/dirty-martini-2
-A 6 class KAL (6:30PM-8:30pm)
-Dates (Wed’s): Sept 7th, Sept 14th, Sept 21st, Oct 5th, Oct 19th,         Nov 2nd
+
+A 6 class KAL (6:30PM-8:30pm)		Dates (Wed’s): Sept 7th, Sept 14th, Sept 21st, Oct 5th, Oct 19th, Nov 2nd
 
 **Downton Hat - KAL Project #6**
 
 $20.00(+yarn, supplies &pattern)
+
 Downton Hat  by Annie Cholewa
+
 Here is a winter hat with style!
 Completed with 2 colours of Berroco Vintage DK.
 View on Ravelry at:  http://www.ravelry.com/patterns/library/downton
 Advance sign-up is recommended as yarn should be wound ahead of class.
+
 - a 2 class KAL (6:30PM-8:30pm)      Dates (Wed’s):  Sept 28, Oct 12
 
 **Taiga Vest - KAL Project #7**
 
 $40.00(+yarn, supplies &pattern)
+
 What a gorgeous vest this is. Easy wearing and a great fun knit. 4 classes to complete. Knitted in Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen. View on Ravelry at:  http://www.ravelry.com/patterns/library/taiga-4
 Advance sign-up and yarn purchase recommended.
-4 part class.
-Dates (Wed's): Oct 26, Nov 9, Nov 23, Dec 7  (6:30-8:30pm)   
+
+4 part class. Dates (Wed's): Oct 26, Nov 9, Nov 23, Dec 7  (6:30-8:30pm)   
 
 Taiga Vest is our final KAL Project for 2016. We will begin again after
 the new year.                                      
 
 **Labour Day Holiday (Sept 5)**
+
 A Monday which is our regular day to be closed. We will be open on Sat Sept 3rd with regular Sit & Knit.
  
 **Facebook**
@@ -101,4 +107,4 @@ We are now on Twitter!  Please follow us and keep up on the news.
 Bitilasana Yoga Socks by Sybil R – Free pattern on Ravelry http://www.ravelry.com/patterns/library/bitilasana-yoga-socks
   
 Geek Socks.
-Just for fun these wavy stripes!  Free pattern on Ravelry at  http://www.ravelry.com/patterns/library/geek-socks 
+Just for fun these wavy stripes!  Free pattern on Ravelry at  http://www.ravelry.com/patterns/library/geek-socks
