@@ -4,6 +4,11 @@ type: news
 published: true
 title: 'Newsletter September 1st, 2016'
 ---
+- Yarn Tasting Event
+- The 10 Weeks of Christmas
+- Online Shopping Grand Opening!
+- Return Policy
+
 **Yarn Tasting Event!**
 
 We would like to invite you to our first annual Fall/Winter Yarn Tasting Event.  Come and preview all of the new yarns that have come in. Sample knit with them, feel them, squeeze them, enjoy all of the colours.  We are hosting on Wednesday September 21st  from 3pm to 7pm.  Tickets are $8.00 and can be purchased at the store or by e-mail at woolandsilkco@gmail.com. You will have to print off your on-line tickets at home yourself. We would have done mail outs as well, but the post office is a bit unsure right now. 
