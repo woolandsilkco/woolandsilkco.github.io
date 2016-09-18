@@ -59,6 +59,8 @@ Our popular Bingo is over as of August 31st. Prizes will be drawn on September 7
 
 **Dirty Martini - KAL Project #5**
 
+http://www.woolandsilkco.com/img/kal/kal5.jpg
+
 $60.00 (plus yarn & supplies)
 
 Super interesting cardigan to make! Using 2 complimentary colours of Madeline Tosh Vintage you will create a sweater that has interesting angles and colour blending. Come in & see the new yarn and make your selection. View the pattern on Ravelry at:  http://www.ravelry.com/patterns/library/dirty-martini-2
@@ -66,6 +68,8 @@ Super interesting cardigan to make! Using 2 complimentary colours of Madeline To
 A 6 class KAL (6:30PM-8:30pm)		Dates (Wed’s): Sept 7th, Sept 14th, Sept 21st, Oct 5th, Oct 19th, Nov 2nd
 
 **Downton Hat - KAL Project #6**
+
+![]({{site.baseurl}}/http://www.woolandsilkco.com/img/kal/kal6.jpg)
 
 $20.00(+yarn, supplies &pattern)
 
@@ -79,6 +83,8 @@ Advance sign-up is recommended as yarn should be wound ahead of class.
 - a 2 class KAL (6:30PM-8:30pm)      Dates (Wed’s):  Sept 28, Oct 12
 
 **Taiga Vest - KAL Project #7**
+
+![]({{site.baseurl}}/http://www.woolandsilkco.com/img/kal/kal7.jpg)
 
 $40.00(+yarn, supplies &pattern)
 
@@ -104,7 +110,11 @@ We are now on Twitter!  Please follow us and keep up on the news.
 
 **A couple of cool & free sock patterns!**
 
+![]({{site.baseurl}}/http://woolandsilkco.com/img/socks/august1.jpg)
+
 Bitilasana Yoga Socks by Sybil R – Free pattern on Ravelry http://www.ravelry.com/patterns/library/bitilasana-yoga-socks
+  
+![]({{site.baseurl}}/http://woolandsilkco.com/img/socks/august2.jpg)
   
 Geek Socks.
 Just for fun these wavy stripes!  Free pattern on Ravelry at  http://www.ravelry.com/patterns/library/geek-socks
