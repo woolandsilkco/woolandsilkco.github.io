@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter September 1st, 2016'
 ---
 **Yarn Tasting Event!**
