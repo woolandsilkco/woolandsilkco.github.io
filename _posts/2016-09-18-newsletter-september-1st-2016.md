@@ -11,9 +11,13 @@ title: 'Newsletter September 1st, 2016'
 
 **Yarn Tasting Event!**
 
+![sept2016a.jpg]({{site.baseurl}}/news/img/sept2016a.jpg)
+
 We would like to invite you to our first annual Fall/Winter Yarn Tasting Event.  Come and preview all of the new yarns that have come in. Sample knit with them, feel them, squeeze them, enjoy all of the colours.  We are hosting on Wednesday September 21st  from 3pm to 7pm.  Tickets are $8.00 and can be purchased at the store or by e-mail at woolandsilkco@gmail.com. You will have to print off your on-line tickets at home yourself. We would have done mail outs as well, but the post office is a bit unsure right now. 
 
 **Project of the Month - Cascade Topper 2**
+
+![]({{site.baseurl}}/http://www.ravelry.com/patterns/library/cascade-topper-2)
 
 by Brian Smith
 Just what you need for the those cool, early fall evenings. A pop on shoulder covering poncho with a comfortable cowl neckline.  Done in worsted weight superwash wool it knits up quickly with only 3 skeins (1 of each colour). Could also be done in chunky weight with larger needles to make a larger size. All yarns required to make this project are 15% off.
@@ -37,6 +41,8 @@ The 10 Weeks of Christmas
 12. items will not be wrapped
 
 **Grand Opening of On-Line Shopping**
+
+![sept2016b.jpg]({{site.baseurl}}/news/img/sept2016b.jpg)
 
 We are thrilled to announce that our store is now offering on-line sales. You can reach our store at https://www.woolandsilkcoshop.com/ .  Yarn lines are being added slowly so bear with us. We also now have a "shop now" button on our webpage to connect you directly. 
 
