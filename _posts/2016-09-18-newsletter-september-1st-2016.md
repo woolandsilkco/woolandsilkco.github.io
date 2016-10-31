@@ -17,7 +17,7 @@ We would like to invite you to our first annual Fall/Winter Yarn Tasting Event. 
 
 **Project of the Month - Cascade Topper 2**
 
-![]({{site.baseurl}}/http://www.ravelry.com/patterns/library/cascade-topper-2)
+![]({{site.baseurl}}/projects/img/featured_27.jpg)
 
 by Brian Smith
 Just what you need for the those cool, early fall evenings. A pop on shoulder covering poncho with a comfortable cowl neckline.  Done in worsted weight superwash wool it knits up quickly with only 3 skeins (1 of each colour). Could also be done in chunky weight with larger needles to make a larger size. All yarns required to make this project are 15% off.
