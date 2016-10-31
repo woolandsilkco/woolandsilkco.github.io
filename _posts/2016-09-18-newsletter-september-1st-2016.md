@@ -80,7 +80,7 @@ A 6 class KAL (6:30PM-8:30pm)		Dates (Wed’s): Sept 7th, Sept 14th, Sept 21st, 
 
 **Downton Hat - KAL Project #6**
 
-![]({{site.baseurl}}/http://www.woolandsilkco.com/img/kal/kal6.jpg)
+![]({{site.baseurl}}/img/kal/kal6.jpg)
 
 $20.00(+yarn, supplies &pattern)
 
@@ -95,7 +95,7 @@ Advance sign-up is recommended as yarn should be wound ahead of class.
 
 **Taiga Vest - KAL Project #7**
 
-![]({{site.baseurl}}/http://www.woolandsilkco.com/img/kal/kal7.jpg)
+![]({{site.baseurl}}/img/kal/kal7.jpg)
 
 $40.00(+yarn, supplies &pattern)
 
@@ -121,11 +121,11 @@ We are now on Twitter!  Please follow us and keep up on the news.
 
 **A couple of cool & free sock patterns!**
 
-![]({{site.baseurl}}/http://woolandsilkco.com/img/socks/august1.jpg)
+![]({{site.baseurl}}/img/socks/august1.jpg)
 
 Bitilasana Yoga Socks by Sybil R – Free pattern on Ravelry http://www.ravelry.com/patterns/library/bitilasana-yoga-socks
   
-![]({{site.baseurl}}/http://woolandsilkco.com/img/socks/august2.jpg)
+![]({{site.baseurl}}/img/socks/august2.jpg)
   
 Geek Socks.
 Just for fun these wavy stripes!  Free pattern on Ravelry at  http://www.ravelry.com/patterns/library/geek-socks
