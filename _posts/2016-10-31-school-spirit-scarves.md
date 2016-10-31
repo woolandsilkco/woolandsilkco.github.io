@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: School Spirit Scarves
 ---
 We now have yarn kits available to knit scarves in school spirit colours.
