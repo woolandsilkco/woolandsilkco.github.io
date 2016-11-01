@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter October 1st, 2016'
 ---
 - 2nd Anniversary
