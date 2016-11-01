@@ -32,6 +32,8 @@ Pattern is free with purchase of yarns.
 
 **NEW FALL/WINTER YARNS ARE IN !!**
 
+![one.jpg]({{site.baseurl}}/news/img/one.jpg)
+
 fingering/sock
 
 - Diamond Luxury Soxy Lady
@@ -39,21 +41,29 @@ fingering/sock
 - Juniper Moon Herriot Fine
 - Allegro  
  
+![2.jpg]({{site.baseurl}}/news/img/2.jpg)
+ 
 sport weight
 
 - Juniper Moon Stargazer
 - Juniper Moon Tenzing (with Yak !)  
- 
+
+![3.jpg]({{site.baseurl}}/news/img/3.jpg)
+
 double knitting
 
 - Ella Rae Lace Merino DK  
- 
+
+![4.jpg]({{site.baseurl}}/news/img/4.jpg)
+
 worsted weight
 
 - Poems Silk
 - Cascade Melilla
 - Sweet Georgia Superwash Worsted
- 
+
+![5.jpg]({{site.baseurl}}/news/img/5.jpg)
+
 chunky
 
 - KFI Chromatic Chunky
@@ -61,7 +71,10 @@ chunky
 - Ella Rae Cozy Soft Chunky
 - Ella Rae Cozy Alpaca Chunky
 - Sirdar Smudge (kind of super cky)
- 
+
+![6a.jpg]({{site.baseurl}}/news/img/6a.jpg)
+![6b.jpg]({{site.baseurl}}/news/img/6b.jpg)
+
 super bulky
 
 - Drops Cloud (kind of just chunky)
@@ -81,6 +94,9 @@ Please remember to visit us at: https://www.woolandsilkcoshop.com/ for on-line s
    
 **Knitted Knockers!**
 
+![knockers1.jpg]({{site.baseurl}}/news/img/knockers1.jpg)
+![knockers2.jpg]({{site.baseurl}}/news/img/knockers2.jpg)
+
 October is breast cancer awareness month. To support survivors we are now a drop station for knitted knockers. These are soft prosthetics made from Cascade Ultra Pima cotton. Knitted using a free, easy pattern that is available in store.  We will be offering all yarns for these projects at 15% off for the month of October.  They can be made in any colour as you can see in the photos above. October 19th will be Knocker Day.  A demo will be given at each sit & knit session and the pattern will be discussed for new knocker knitters. (No stuffing required. We submit them to Knitted Knockers of Canada for you in a flat format)                              
 Let's make some knockers! 
 
@@ -91,6 +107,8 @@ As an added feature, for the month of October, all pink yarns (of all varieties)
 You will receive your e-mail at the start of each week. Please call in to the store to reserve your items & complete your transaction.  
 
 **Downton Hat - KAL Project #6**
+
+![downtonhat.jpg]({{site.baseurl}}/news/img/downtonhat.jpg)
 
 $20.00(+yarn, supplies &pattern)
 
@@ -107,6 +125,8 @@ Advance sign-up is recommended as yarn should be wound ahead of class.
 - a 2 class KAL (6:30PM-8:30pm)      Dates (Wed’s):  Sept 28, Oct 12
 
 **Taiga Vest - KAL Project # 7**
+
+![taigavest.jpg]({{site.baseurl}}/news/img/taigavest.jpg)
 
 FREE CLASS (+yarn, supplies &pattern)
 
