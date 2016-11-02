@@ -4,6 +4,8 @@ type: current
 published: true
 title: School Spirit Scarves
 ---
+![16-10 school scarves.jpg]({{site.baseurl}}/news/img/16-10 school scarves.jpg)
+
 We now have yarn kits available to knit scarves in school spirit colours.
 
 Centre Dufferin DHS, Orangeville District SS, Westside SS
