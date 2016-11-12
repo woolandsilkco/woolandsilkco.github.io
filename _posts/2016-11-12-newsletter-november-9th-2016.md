@@ -15,7 +15,9 @@ It seems that fall is soon changing to winter. Here is a warm & cozy smaller sha
 **MORE NEW YARNS !!**
 ![nov16b.jpg]({{site.baseurl}}/news/img/nov16b.jpg)
 Drops Big Delight
+
 Universal Deluxe Worsted Tweed
+
 Corona
 ![nov16c.jpg]({{site.baseurl}}/news/img/nov16c.jpg)
 
