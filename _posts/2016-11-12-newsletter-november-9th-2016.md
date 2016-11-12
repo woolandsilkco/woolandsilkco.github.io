@@ -11,10 +11,14 @@ It seems that fall is soon changing to winter. Here is a warm & cozy smaller sha
 
 
 **MORE NEW YARNS !!**
-
+![nov16b.jpg]({{site.baseurl}}/news/img/nov16b.jpg)
 Drops Big Delight
 Universal Deluxe Worsted Tweed
 Corona
+![nov16c.jpg]({{site.baseurl}}/news/img/nov16c.jpg)
+
+
+**Online Shopping**
 
 Please remember to visit us at: https://www.woolandsilkcoshop.com/ .  
 For on-line shopping. Yarn lines are being added slowly so bear with us. We also now have a "shop now" button at the top of our webpage to connect directly and you can use the "shop" feature on our Facebook page as well.
@@ -46,9 +50,8 @@ Free KAL class.  Bella's Mittens are a great way to learn to cable. Knitted usin
 
 
 **Socks It Is!**
-
+![]({{site.baseurl}}/img/socks/nov1.jpg)
 Sockmatician toe-up socks by Nathan Taylor – pattern on Ravelry http://www.ravelry.com/patterns/library/sockmaticians-toe-ups
 
- 
-
-Frostwork   by Lara Smoot     Pattern on Ravelry at http://www.ravelry.com/patterns/library/frostwork
+![]({{site.baseurl}}/img/socks/nov2.jpg)
+Frostwork by Lara Smoot - Pattern on Ravelry at http://www.ravelry.com/patterns/library/frostwork
