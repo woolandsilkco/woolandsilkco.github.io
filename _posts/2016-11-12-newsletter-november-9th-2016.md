@@ -4,8 +4,10 @@ type: news
 published: false
 title: 'Newsletter November 9th, 2016'
 ---
-**Project of the Month - Textured Shawl Recipe**
+- More new yarns!
 
+**Project of the Month - Textured Shawl Recipe**
+![]({{site.baseurl}}/projects/img/featured_29.jpg)
 by Orlane
 It seems that fall is soon changing to winter. Here is a warm & cozy smaller shawl. Just perfect for the evenings or for under a jacket. Knitted using (2) skeins of Ultra Alpaca (by Berroco). Available in 21 gorgeous colours. A very straight forward pattern to do on a 5.5mm x 80cm circular needle. All yarns required to make this project are 15% off. Pattern is free with purchase of yarns.
 
@@ -30,7 +32,7 @@ You will receive your e-mail at the start of each week. Please call in to the st
 
 
 **Taiga Vest - KAL Project # 7**
-
+![nov16c.jpg]({{site.baseurl}}/img/kal/kal7.jpg)
 FREE CLASS (+yarn, supplies &pattern)
 What a gorgeous vest this is. Easy wearing and a great fun knit. 4 classes to complete. Knitted in Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen. View on Ravelry at:  http://www.ravelry.com/patterns/library/taiga-4
 Advance sign-up and yarn purchase recommended.
@@ -45,7 +47,7 @@ We will begin again after the new year.
 
 
 **Bella's Mittens  KAL**
-
+![nov16c.jpg]({{site.baseurl}}/img/kal/kal8.jpg)
 Free KAL class.  Bella's Mittens are a great way to learn to cable. Knitted using 5.0mm DPN's and (2)skeins of Peruvia Quick (now 35% off).  Come to Wednesday evening Sit & Knit (6:30-8:30pm) and begin this pre-Christmas project !
 
 
