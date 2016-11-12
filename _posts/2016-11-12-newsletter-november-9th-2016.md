@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter November 9th, 2016'
 ---
 - More new yarns!
