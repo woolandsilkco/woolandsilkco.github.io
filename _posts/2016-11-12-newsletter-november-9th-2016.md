@@ -24,7 +24,7 @@ Corona
 
 **Online Shopping**
 
-Please remember to visit us at: https://www.woolandsilkcoshop.com/ .  
+Please remember to visit us at: [https://www.woolandsilkcoshop.com/](https://www.woolandsilkcoshop.com/).  
 For on-line shopping. Yarn lines are being added slowly so bear with us. We also now have a "shop now" button at the top of our webpage to connect directly and you can use the "shop" feature on our Facebook page as well.
 
 
@@ -36,7 +36,7 @@ You will receive your e-mail at the start of each week. Please call in to the st
 **Taiga Vest - KAL Project # 7**
 ![nov16c.jpg]({{site.baseurl}}/img/kal/kal7.jpg)
 FREE CLASS (+yarn, supplies &pattern)
-What a gorgeous vest this is. Easy wearing and a great fun knit. 4 classes to complete. Knitted in Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen. View on Ravelry at:  http://www.ravelry.com/patterns/library/taiga-4
+What a gorgeous vest this is. Easy wearing and a great fun knit. 4 classes to complete. Knitted in Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen. View on Ravelry at:  [http://www.ravelry.com/patterns/library/taiga-4](http://www.ravelry.com/patterns/library/taiga-4)
 Advance sign-up and yarn purchase recommended.
 4 part class.
 Dates (Wed's): Oct 26, Nov 9, Nov 23, Dec 7  (6:30-8:30pm)   
@@ -55,7 +55,7 @@ Free KAL class.  Bella's Mittens are a great way to learn to cable. Knitted usin
 
 **Socks It Is!**
 ![]({{site.baseurl}}/img/socks/nov1.jpg)
-Sockmatician toe-up socks by Nathan Taylor – pattern on Ravelry http://www.ravelry.com/patterns/library/sockmaticians-toe-ups
+Sockmatician toe-up socks by Nathan Taylor – pattern on Ravelry [http://www.ravelry.com/patterns/library/sockmaticians-toe-ups](http://www.ravelry.com/patterns/library/sockmaticians-toe-ups)
 
 ![]({{site.baseurl}}/img/socks/nov2.jpg)
-Frostwork by Lara Smoot - Pattern on Ravelry at http://www.ravelry.com/patterns/library/frostwork
+Frostwork by Lara Smoot - Pattern on Ravelry at [http://www.ravelry.com/patterns/library/frostwork](http://www.ravelry.com/patterns/library/frostwork)
