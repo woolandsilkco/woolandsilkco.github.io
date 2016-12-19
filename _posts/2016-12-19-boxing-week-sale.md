@@ -4,9 +4,7 @@ type: current
 published: true
 title: Boxing Week Sale!
 ---
-Christmas shopping time will soon be over.
-
-Let's have some fun for ourselves!
+Christmas shopping time will soon be over. Let's have some fun for ourselves!
 
 December 27 to 31st is our Boxing Week Sale.
 
