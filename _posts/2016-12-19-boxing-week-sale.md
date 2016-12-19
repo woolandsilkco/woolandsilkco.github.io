@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: Boxing Week Sale!
 ---
 Christmas shopping time will soon be over.
