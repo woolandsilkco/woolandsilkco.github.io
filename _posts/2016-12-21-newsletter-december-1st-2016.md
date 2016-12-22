@@ -4,6 +4,12 @@ type: news
 published: true
 title: 'Newsletter December 1st, 2016'
 ---
+- Christmas Gift Giving
+- Christmas Hours
+- Pre-Christmas Specials & Sales
+- Christmas Basket Donations
+- Sit & Knit
+
 **Christmas Gift Giving!!**
 
 Do you have a knitter to shop for?
