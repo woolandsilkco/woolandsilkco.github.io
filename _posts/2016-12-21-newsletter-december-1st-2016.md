@@ -91,7 +91,7 @@ Sweet Georgia Tough Love Sock
 **Sit & Knit**
  
 Just a note to knitters/crocheters who are new to us. We have wonderful Sit & Knit groups on Wed 1-3pm & 6:30-8:30pm, Sat 1-3pm.  Bring your project (or purchase some new yarn!) and work on it while enjoying friends, coffee and a nibble of something good!  
-Please remember to visit us at: https://www.woolandsilkcoshop.com/  
+Please remember to visit us at: [https://www.woolandsilkcoshop.com/](https://www.woolandsilkcoshop.com/)  
 For on-line shopping. Yarn lines are being added slowly so bear with us. We also now have a "shop now" button at the top of our webpage to connect directly and you can use the "shop" feature on our Facebook page as well.
 
 
@@ -100,7 +100,7 @@ Taiga Vest - KAL Project # 7
 ![]({{site.baseurl}}/img/kal/kal7.jpg)
 
 FREE CLASS (+yarn, supplies &pattern)
-What a gorgeous vest this is. Easy wearing and a great fun knit. 4 classes to complete. Knitted in Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen. View on Ravelry at:  http://www.ravelry.com/patterns/library/taiga-4
+What a gorgeous vest this is. Easy wearing and a great fun knit. 4 classes to complete. Knitted in Hayfield Chunky with Wool, 3 balls each of 2 colours, depending on size chosen. View on Ravelry at:  [http://www.ravelry.com/patterns/library/taiga-4](http://www.ravelry.com/patterns/library/taiga-4)
 Advance sign-up and yarn purchase recommended.
 4 part class.
 Dates (Wed's): Oct 26, Nov 9, Nov 23, Dec 7  (6:30-8:30pm)   
@@ -123,14 +123,14 @@ Beau Slouchy
 ![dec3.jpg]({{site.baseurl}}/news/img/dec3.jpg)
 ![dec4.jpg]({{site.baseurl}}/news/img/dec4.jpg)
 
-Because she's so cute and this hat looks like so much fun, we are including it here as a pre-Christmas project idea.  Free pattern on Ravelry:  http://www.ravelry.com/patterns/library/beau-slouchy
+Because she's so cute and this hat looks like so much fun, we are including it here as a pre-Christmas project idea.  Free pattern on Ravelry:  [http://www.ravelry.com/patterns/library/beau-slouchy](http://www.ravelry.com/patterns/library/beau-slouchy)
 
 ![]({{site.baseurl}}/img/socks/dec1.jpg)
 
 Brainless by Yarnissima – pattern on Ravelry
-http://www.ravelry.com/patterns/library/brainless
+[http://www.ravelry.com/patterns/library/brainless](http://www.ravelry.com/patterns/library/brainless)
 
 ![]({{site.baseurl}}/img/socks/dec2.jpg)
  
 Skua   by Clare Devine     Pattern available for purchase on Ravelry at 
-http://www.ravelry.com/patterns/library/skua
+[http://www.ravelry.com/patterns/library/skua](http://www.ravelry.com/patterns/library/skua)
