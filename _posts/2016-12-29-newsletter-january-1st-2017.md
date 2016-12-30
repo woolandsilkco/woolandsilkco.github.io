@@ -116,12 +116,12 @@ Mar 21(aft) or 22(evening)
 
 **A Sock & A Sock!**
 
-[[socks picture 1]]
+![]({{site.baseurl}}/img/socks/jan1.jpg)
 
 Petty Harbour by Rayna Curtis – free pattern on Ravelry
 http://www.ravelry.com/patterns/library/petty-harbour
 
-[[sock picture 2]]
+![]({{site.baseurl}}/img/socks/jan2.jpg)
 
 **Sit & Knit**
  
