@@ -35,7 +35,7 @@ Please refer to the website "Classes" section for specific times
 
 104-18 Jacket knit in different directions
 
-[[ monthly project picture ]]
+![]({{site.baseurl}}/projects/img/featured_31.jpg)
 
 by Drops Design
 
