@@ -1,9 +1,12 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter January 1st, 2017'
 ---
+- Classes are Beginning
+- Knit-A-Longs
+
 Wishing all of our customers & staff the very happiest of New Years. Looking forward to fantastic knitting in 2017
 
 **Classes are Beginning!**
@@ -72,7 +75,7 @@ We are changing up the Knit-A-Longs this Winter/Spring season.  Knit-A-Long clas
 
 **Back East Wrap  KAL - begins Jan 17 & 18th**
 
-[[ kal picture 1 ]]
+![]({{site.baseurl}}/img/kal/kal9.jpg)
 
 The Back East Wrap is a gorgeous asymmetrical triangular shawl worked in two sections. First the center triangular portion is worked from side to side. Stitches are picked up along the edge and combined with the live side stitches to add on a wide border in a top down triangular fashion. This interesting construction allows for the stripes and texture motifs to be worked in different directions, creating a visually appealing, large and cozy wrap to keep you warm through those chilly months.
 
@@ -94,7 +97,7 @@ Mar 14(aft) or 15(evening)
 
 **Cozy Cardi  KAL - begins Jan 24 & 25th**
 
-[[ kal picture 2 ]]
+![]({{site.baseurl}}/img/kal/kal10.jpg)
 
 What a sweet little hooded cardi is this?  Knitted in Univeral yarns Major or James C. Brett's Marble Chunky. Tons of colours to choose from. You can create in sizes anywhere from 3-6mons up to 5-6yrs.
 
