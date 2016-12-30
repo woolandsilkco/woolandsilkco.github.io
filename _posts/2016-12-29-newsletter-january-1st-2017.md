@@ -47,7 +47,7 @@ Ombre gradient sets from Katia - sport weight
 
 - soft soft soft!  100% Extra Fine Merino wool     $39.95 for the set of 6 (92yds each colour)
 
-[[ yarns picture 1 ]]
+![january17a.jpg]({{site.baseurl}}/news/img/january17a.jpg)
 
 King Cole Riot - DK
 
