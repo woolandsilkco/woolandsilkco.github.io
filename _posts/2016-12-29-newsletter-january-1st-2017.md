@@ -53,13 +53,13 @@ King Cole Riot - DK
 
 -  30% Wool, 70% Premium Acrylic with a long colour change $14.40 / 100g, 324yds
 
-[[ yarns picture 2 ]]
+![january17b.jpg]({{site.baseurl}}/news/img/january17b.jpg)
 
 Universal's Bamboo Bloom. A fabulous chunky weight "thick-thin" yarn that makes fantastic hats, scarves & cows.
 
 -  48% Rayon(from bamboo), 44% wool, 8% acrylic $16.00  /100g, 154yds
 
-[[ yarns picture 3 ]]
+![january17c.jpg]({{site.baseurl}}/news/img/january17c.jpg)
 
 **Knit-A-Longs**
 
@@ -119,9 +119,11 @@ Mar 21(aft) or 22(evening)
 ![]({{site.baseurl}}/img/socks/jan1.jpg)
 
 Petty Harbour by Rayna Curtis – free pattern on Ravelry
-http://www.ravelry.com/patterns/library/petty-harbour
+[http://www.ravelry.com/patterns/library/petty-harbour](http://www.ravelry.com/patterns/library/petty-harbour)
 
 ![]({{site.baseurl}}/img/socks/jan2.jpg)
+
+Winter Socks for the Family    by SheepyShenanigans  -  free  pattern available on Ravelry at: [http://www.ravelry.com/patterns/library/winter-socks-for-the-family](http://www.ravelry.com/patterns/library/winter-socks-for-the-family)
 
 **Sit & Knit**
  
