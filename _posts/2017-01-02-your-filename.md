@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: New Yarns
 ---
 Ombre gradient sets from Katia - sport weight
