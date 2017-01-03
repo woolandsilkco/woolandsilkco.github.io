@@ -10,11 +10,15 @@ Ombre gradient sets from Katia - sport weight
 
 ![january17a.jpg]({{site.baseurl}}/news/img/january17a.jpg)
 
+<div class="clearfix"></div>
+
 King Cole Riot - DK
 
 -  30% Wool, 70% Premium Acrylic with a long colour change $14.40 / 100g, 324yds
 
 ![january17b.jpg]({{site.baseurl}}/news/img/january17b.jpg)
+
+<div class="clearfix"></div>
 
 Universal's Bamboo Bloom. A fabulous chunky weight "thick-thin" yarn that makes fantastic hats, scarves & cows.
 
