@@ -10,8 +10,9 @@ Wishing everyone a very Happy Valentines Day !!
 
 Shades of Wicklow shawl
 
-[img 1]
-[img 2]
+![]({{site.baseurl}}/news/img/feb17a.jpg)
+
+![]({{site.baseurl}}/news/img/feb17b.jpg)
 
 [http://www.ravelry.com/patterns/library/shades-of-wicklow](http://www.ravelry.com/patterns/library/shades-of-wicklow)
 
@@ -25,10 +26,10 @@ Pattern is $4.00CAD.
 
 **New Yarns in Store!!**
 
-[img 3]
-[img 4]
-[img 5]
-[img 6]
+![]({{site.baseurl}}/news/img/feb17c.jpg)
+![]({{site.baseurl}}/news/img/feb17d.jpg)
+![]({{site.baseurl}}/news/img/feb17e.jpg)
+![]({{site.baseurl}}/news/img/feb17f.jpg)
  
 Lots of great new yarns in shop!
 
@@ -80,8 +81,8 @@ That Nice Stitch cowl
 
 A lovely cowl that we are knitting at a length to be doubled when worn. Worked using 1 ball of Riot DK on 4.0mm needles. Angled construction with a lovely stitch that enhances the long colour change of the yarn.
  
-[img 7]
-[img 8]
+![]({{site.baseurl}}/news/img/feb17g.jpg)
+![]({{site.baseurl}}/news/img/feb17h.jpg)
 
 **Santa Rosa Plum cardigan**
 
@@ -92,11 +93,11 @@ Wed Feb 29 & Mar 29  6:30-8:30pm)
 
 A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx.) 
 
-[img 9]
+![]({{site.baseurl}}/news/img/feb17i.jpg)
 
 Choose from the following Yarn groups:
 
-[img 10]
+![]({{site.baseurl}}/news/img/feb17j.jpg)
 
 1.  Nautical - White, lt blue, Red & Navy
 2.  Earth  - White, Cream, Yellow, Brown
