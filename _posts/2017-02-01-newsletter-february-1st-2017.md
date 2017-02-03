@@ -5,7 +5,7 @@ published: true
 title: 'Newsletter February 1st, 2017'
 ---
 <ul>
-<li>New Yarns</li>
+	<li>New Yarns</li>
 </ul>
 
 Wishing everyone a very Happy Valentines Day !!
