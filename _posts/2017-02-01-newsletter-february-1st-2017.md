@@ -8,6 +8,7 @@ title: 'Newsletter February 1st, 2017'
 <li>New Yarns</li>
 <li>Winter Classes Are On</li>
 </ul>
+</div>
 
 Wishing everyone a very Happy Valentines Day !!
 
