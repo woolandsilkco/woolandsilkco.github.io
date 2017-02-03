@@ -111,13 +111,13 @@ Choose from the following Yarn groups:
  
 **A Sock & A Sock!**
 
-![]({{site.baseurl}}/news/img/socks/feb1.jpg)
+![]({{site.baseurl}}/img/socks/feb1.jpg)
 
 Jeck by Regina Satta – free pattern on Ravelry
 
 [http://www.ravelry.com/patterns/library/jeck](http://www.ravelry.com/patterns/library/jeck)
 
-![]({{site.baseurl}}/news/img/socks/feb2.jpg)
+![]({{site.baseurl}}/img/socks/feb2.jpg)
 
 Hearts Afire Socks by Babs Ausherman  -  free  pattern available on Ravelry at:
 
