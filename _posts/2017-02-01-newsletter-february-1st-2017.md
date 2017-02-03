@@ -4,6 +4,9 @@ type: news
 published: false
 title: 'Newsletter February 1st, 2017'
 ---
+- New yarns!
+- Winter classes are on!
+
 Wishing everyone a very Happy Valentines Day !!
 
 **Project of the Month:**
