@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter February 1st, 2017'
 ---
 - New yarns!
