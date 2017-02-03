@@ -107,13 +107,13 @@ Choose from the following Yarn groups:
  
 **A Sock & A Sock!**
 
-[img 11]
+![]({{site.baseurl}}/news/img/socks/feb1.jpg)
 
 Jeck by Regina Satta – free pattern on Ravelry
 
 [http://www.ravelry.com/patterns/library/jeck](http://www.ravelry.com/patterns/library/jeck)
 
-[img 12]
+![]({{site.baseurl}}/news/img/socks/feb2.jpg)
 
 Hearts Afire Socks by Babs Ausherman  -  free  pattern available on Ravelry at:
 
@@ -123,4 +123,3 @@ Hearts Afire Socks by Babs Ausherman  -  free  pattern available on Ravelry at:
 **Sit & Knit**
  
 Just a note to knitters/crocheters who are new to us. We have wonderful Sit & Knit groups on Wed 1-3pm & 6:30-8:30pm, Sat 1-3pm.  Bring your project (or purchase some new yarn!) and work on it while enjoying friends, coffee and a nibble of something good!  ($6.00 HST included)
-
