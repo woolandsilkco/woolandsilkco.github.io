@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: New Yarns in Store!
 ---
 ![]({{site.baseurl}}/news/img/feb17c.jpg)
