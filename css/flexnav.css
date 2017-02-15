@@ -211,7 +211,7 @@
         float: left;
         display: block;
         overflow: visible;
-        width: 14.53%;
+        width: 14%;
         text-align: center;
     }
 
@@ -223,7 +223,13 @@
     .flexnav li.shop
     {
         background: #69090a;
+    }
+
+    .flexnav li.shop a
+    {
         color: #feffbd;
+        opacity: 0.9;
+        font-weight: bold;
     }
     
     .flexnav li a
