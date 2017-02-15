@@ -178,6 +178,15 @@ header nav {
     background-color: rgba(254, 255, 189, 0.85);
 }
 
+.shopButton {
+    background: #69090A;
+    border-radius: 0.25em;
+    border: #000 solid 0.15em;
+    color: #feffbd;
+    margin: 0.5em;
+    padding: 0.1em;
+}
+
 
 /********************
  * Content Styles
