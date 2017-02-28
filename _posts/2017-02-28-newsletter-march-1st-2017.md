@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter March 1st, 2017'
 ---
 - Big Chunky/Bulky Sale
