@@ -32,9 +32,9 @@ Pattern is Free on Ravelry
 
 **New Yarns in Store!!**
  
-IMG 3
+![mar17a.jpg]({{site.baseurl}}/news/img/mar17a.jpg)
 
-IMG 4
+![mar17b.jpg]({{site.baseurl}}/news/img/mar17b.jpg)
 
 Introducing Ella Rae Cozy Soft & Cozy Soft Chunky!  
 
@@ -43,11 +43,13 @@ Introducing Ella Rae Cozy Soft & Cozy Soft Chunky!
 - beautiful spring colours
 - so easy to knit with on 3.75mm-4.0mm needles
 
-IMG 5
+![mar17c.jpg]({{site.baseurl}}/news/img/mar17c.jpg)
 
-IMG 6
+![mar17d2.jpg]({{site.baseurl}}/news/img/mar17d2.jpg)
 
-IMG 7
+![mar17e2.jpg]({{site.baseurl}}/news/img/mar17e2.jpg)
+
+![mar17f.jpg]({{site.baseurl}}/news/img/mar17f.jpg)
 
 
 **Winter Classes are On!**
@@ -83,11 +85,11 @@ Instruction is on Tuesday afternoon or Wednesday evening.
 
 A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx.) 
 
-IMG 8
+![mar17g.jpg]({{site.baseurl}}/news/img/mar17g.jpg)
 
 Choose from the following Yarn groups:
 
-IMG 9
+![mar17h1.jpg]({{site.baseurl}}/news/img/mar17h1.jpg)
 
 1. Nautical - White, lt blue, Red & Navy
 2. Earth  - White, Cream, Yellow, Brown
@@ -104,20 +106,22 @@ Beautifully cabled fingerless gloves keep your hands & wrists warm while you are
 
 Takes 1 skein of Ultra Alpaca, using 4.5mm DPN needles & a cable needle. You should be able to knit in the round to start this project. Pattern is Free.
 
+![mar17i.jpg]({{site.baseurl}}/news/img/mar17i.jpg)
+
 
 **A Sock & A Sock!**
- 
+
 Galloway by Dana Gervais – pattern available on Ravelry ($5.00US)
 
 [http://www.ravelry.com/patterns/library/galloway-2](http://www.ravelry.com/patterns/library/galloway-2)
 
-SOCK 1
+![]({{site.baseurl}}/img/socks/march1.jpg)
 
 Wraptor Socks by Jeny Staiman  -  free  pattern available on Ravelry at:
 
 [http://www.ravelry.com/patterns/library/wraptor-2](http://www.ravelry.com/patterns/library/wraptor-2)
 
-SOCK 2
+![]({{site.baseurl}}/img/socks/march2.jpg)
 
 
 **Sit & Knit**
