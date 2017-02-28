@@ -10,7 +10,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"Using 1 ball of dishcloth cotton and either 4.5mm or 5mm needles (circular or straights), this class will teach you the basics of knitting, while making a dishcloth.",
@@ -126,7 +126,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn different cast-offs, such as Jenny's super stretchy bind-off, and the uses for each of them.  You will need to bring 3 pieces of knitting on the needles, approximately 25sts each, 8-10 rows of stocking stitch already completed.",
@@ -142,7 +142,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn how to work wrap and turn short rows, and where these are helpful in a garment.  You will need to bring a piece of knitting on the needles to class, c/o 30 sts, knit 6 rows stocking stitch already completed, in a medium weight yarn on appropriate needles.",
@@ -174,7 +174,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn two more advanced cast on techniques, you will need to bring yarn and appropriate needles, and a crochet hook of the same size.",
@@ -206,7 +206,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn how to do the Tubular Cast-On, which makes a very nice edge on ribbing.  You will need to bring worsted weight yarn and 4.5mm or 5mm needles with you to class.",
@@ -238,7 +238,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn how to construct a short row heel, using DK weight yarn and 3.25mm double point needles. You will need to cast on 48 stitches, join to work in the round, and knit approximately 1 inch, and bring this to class.",
@@ -270,7 +270,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn how to make a sock heel using the Eye of Partridge pattern, which makes a very nicely textured heel, using DK weight yarn and 3.25mm double point needles.  You will need to  cast on 48 stitches, join to work in the round, and knit approximately 1 inch, and bring this to class.",
@@ -303,7 +303,7 @@
          ],
          "times":[  
             "2pm - 3pm",
-            "6:30pm - 7:30pm"
+            "6pm - 7pm"
          ],
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn how to do the heels that are often worked when making socks in a two at a time pattern, using DK weight yarn and 3.25mm X 80cm circular needles. You will need to cast on 48 stitches, join to work in the round, and knit approximately 1 inch, and bring this to class.  *You must already know how to knit in a Magic Loop.*",
@@ -323,6 +323,76 @@
          ],
          "cost":"$15",
          "description":"In this 1 hour class you will learn how to knit with 2 colours, holding one in each hand.  This will make your stranded knitting go much faster, and produces a smooth, even colourwork project.  This class will use 1 ball each of 2 colours of Debbie Bliss Baby Cashmerino, and a 3.5mm X 40cm circular needle.  *You must already know how to knit in the round.*",
+         "note":null,
+         "prerequisites":"Must know how to knit and purl."
+      },
+      {  
+         "title":"Knit-A-Long Class: Santa Rosa Plum",
+         "parts":3,
+         "dates":[  
+            [  
+               "Tues Feb 28 2017", 
+               "Tues Mar 28 2017",
+               "Tues Apr 25 2017"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm"
+         ],
+         "cost":"N/A",
+         "description":"A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx)",
+         "note":null,
+         "prerequisites":"Must know how to knit and purl."
+      },
+      {  
+         "title":"Knit-A-Long Class: Santa Rosa Plum",
+         "parts":3,
+         "dates":[  
+            [  
+                "Wed Feb 29 2017",
+                "Wed Mar 29 2017",
+                "Wed Apr 26 2017"
+            ]
+         ],
+         "times":[  
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+         "description":"A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx)",
+         "note":null,
+         "prerequisites":"Must know how to knit and purl."
+      },
+      {  
+         "title":"Knit-A-Long Class: Vancouver Fog Fingerless Mitts",
+         "parts":1,
+         "dates":[  
+            [  
+                "Tue Mar 7 2017",
+                "Tue Mar 21 2017"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+         "description":"Beautifully cabled fingerless gloves keep your hands & wrists warm while you are doing tasks. Knitted in Berroco's Ultra Alpaca they are cozy with just a hint of haze. Takes 1 skein of Ultra Alpaca, using 4.5mm DPN needles & a cable needle. You should be able to knit in the round to start this project. Pattern is Free on Ravelry",
+         "note":null,
+         "prerequisites":"Must know how to knit and purl."
+      },
+      {  
+         "title":"Knit-A-Long Class: Vancouver Fog Fingerless Mitts",
+         "parts":1,
+         "dates":[  
+            [  
+                "Wed Mar 8 2017",
+                "Wed Mar 22 2017"
+            ]
+         ],
+         "times":[  
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+         "description":"Beautifully cabled fingerless gloves keep your hands & wrists warm while you are doing tasks. Knitted in Berroco's Ultra Alpaca they are cozy with just a hint of haze. Takes 1 skein of Ultra Alpaca, using 4.5mm DPN needles & a cable needle. You should be able to knit in the round to start this project. Pattern is Free on Ravelry",
          "note":null,
          "prerequisites":"Must know how to knit and purl."
       }
