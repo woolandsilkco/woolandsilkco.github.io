@@ -4,6 +4,10 @@ type: news
 published: false
 title: 'Newsletter March 1st, 2017'
 ---
+- Big Chunky/Bulky Sale
+- New Yarns in Store
+- Winter Classes are On
+
 **BIG CHUNKY/BULKY SALE !!**
 
 All in-stock Chunky, Bulky & Super Chunky weight yarns are 30% off for the month of March! Come early for the best selection !
