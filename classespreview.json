@@ -251,15 +251,7 @@
                "Tues Feb 28 2017", 
                "Tues Mar 28 2017",
                "Tues Apr 25 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm"
-         ]
-      },
-      {  
-         "title":"Knit-A-Long Class: Santa Rosa Plum",
-         "dates":[  
+            ],
             [  
                 "Wed Feb 29 2017",
                 "Wed Mar 29 2017",
@@ -267,6 +259,7 @@
             ]
          ],
          "times":[  
+            "1pm - 3pm",
             "6:30pm - 8:30pm"
          ]
       },
@@ -276,21 +269,14 @@
             [  
                 "Tue Mar 7 2017",
                 "Tue Mar 21 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm"
-         ]
-      },
-      {  
-         "title":"Knit-A-Long Class: Vancouver Fog Fingerless Mitts",
-         "dates":[  
+            ],
             [  
                 "Wed Mar 8 2017",
                 "Wed Mar 22 2017"
             ]
          ],
          "times":[  
+            "1pm - 3pm",
             "6:30pm - 8:30pm"
          ]
       }
