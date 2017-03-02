@@ -133,6 +133,28 @@
          "note":null
       },
       {  
+         "title":"Knit-A-Long Class: Vancouver Fog Fingerless Mitts",
+         "parts":1,
+         "dates":[  
+            [  
+                "Tue Mar 7 2017",
+                "Tue Mar 21 2017"
+            ],
+            [  
+                "Wed Mar 8 2017",
+                "Wed Mar 22 2017"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+         "description":"Beautifully cabled fingerless gloves keep your hands & wrists warm while you are doing tasks. Knitted in Berroco's Ultra Alpaca they are cozy with just a hint of haze. Takes 1 skein of Ultra Alpaca, using 4.5mm DPN needles & a cable needle. You should be able to knit in the round to start this project. Pattern is Free on Ravelry",
+         "note":null,
+         "prerequisites":"Must know how to knit and purl."
+      },
+      {  
          "title":"Technique Class: Short-rows",
          "parts":1,
          "dates":[  
@@ -281,28 +303,6 @@
          ],
          "cost":"N/A",
          "description":"A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx)",
-         "note":null,
-         "prerequisites":"Must know how to knit and purl."
-      },
-      {  
-         "title":"Knit-A-Long Class: Vancouver Fog Fingerless Mitts",
-         "parts":1,
-         "dates":[  
-            [  
-                "Tue Mar 7 2017",
-                "Tue Mar 21 2017"
-            ],
-            [  
-                "Wed Mar 8 2017",
-                "Wed Mar 22 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm",
-            "6:30pm - 8:30pm"
-         ],
-         "cost":"Free with Yarn Purchase",
-         "description":"Beautifully cabled fingerless gloves keep your hands & wrists warm while you are doing tasks. Knitted in Berroco's Ultra Alpaca they are cozy with just a hint of haze. Takes 1 skein of Ultra Alpaca, using 4.5mm DPN needles & a cable needle. You should be able to knit in the round to start this project. Pattern is Free on Ravelry",
          "note":null,
          "prerequisites":"Must know how to knit and purl."
       },
