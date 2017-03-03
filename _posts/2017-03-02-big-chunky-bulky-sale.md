@@ -2,7 +2,7 @@
 layout: post
 type: current
 published: true
-title: Untitled
+title: ''
 ---
 <div style="background-color:#7AE774">
 <h3 style="font-size:3em; margin:0.25em">BIG CHUNKY/BULKY SALE!!</h3>
