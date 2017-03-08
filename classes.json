@@ -1,138 +1,6 @@
 {  
    "classes":[  
       {  
-         "title":"Learn to Knit",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Jan 26 2017"
-            ]
-         ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
-         ],
-         "cost":"$15",
-         "description":"Using 1 ball of dishcloth cotton and either 4.5mm or 5mm needles (circular or straights), this class will teach you the basics of knitting, while making a dishcloth.",
-         "note":null
-      },
-      {  
-         "title":"Mitten Class - Warmest Mittens",
-         "parts":2,
-         "dates":[  
-            [  
-               "Thu Jan 26 2017",
-               "Thu Feb 9 2017"
-            ]
-         ],
-         "times":[  
-            "3pm - 4pm",
-            "7:30pm - 8:30pm"
-         ],
-         "cost":"$25",
-         "description":"This is a 2-part class, in which you will learn how to make mittens, using 1 skein of Vintage Worsted Weight and a set each of 3.5mm and 3.75mm double point needles",
-         "note":null
-      },
-      {  
-         "title":"Sock Class - Deb's super Simple dk Socks",
-         "parts":4,
-         "dates":[  
-            [  
-               "Thu Feb 2 2017",
-               "Thu Feb 16 2017",
-               "Thu Feb 23 2017",
-               "Thu Mar 2 2017"
-            ]
-         ],
-         "times":[  
-            "3pm - 4pm",
-            "7:30pm - 8:30pm"
-         ],
-         "cost":"$45",
-         "description":"This is a 4-part class, in which you will learn the basics of sock construction, using 1 skein of Vintage DK and a set of 3.25mm double point needles.  *You must already be able to knit in the round.*",
-         "note":null
-      },
-      {  
-         "title":"Learn to Crochet",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Feb 2 2017"
-            ]
-         ],
-         "times":[  
-            "2pm - 3pm",
-            "6:30pm - 7:30pm"
-         ],
-         "cost":"$15",
-         "description":"Using 1 ball of dishcloth cotton and a 4mm crochet hook, this class will teach you the basics of crochet, while making a dishcloth.",
-         "note":null
-      },
-      {  
-         "title":"Technique Class: Buttonholes",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Feb 9 2017"
-            ]
-         ],
-         "times":[  
-            "2pm - 3pm",
-            "6:30pm - 7:30pm"
-         ],
-         "cost":"$15",
-         "description":"This is a 1 hour tech class, using medium weight yarn and appropriate needles. You will bring a small swatch to class, already knit, ready to practice making buttonholes.",
-         "note":null
-      },
-      {  
-         "title":"Technique Class: Increases",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Feb 16 2017"
-            ]
-         ],
-         "times":[  
-            "2pm - 3pm",
-            "6:30pm - 7:30pm"
-         ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn a variety of increases, and their uses. You will bring a small swatch to class, already knit, ready to practice these increases.  (Requires medium weight yarn and appropriate needles)",
-         "note":null
-      },
-      {  
-         "title":"Technique Class: Cast-ons",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Feb 23 2017"
-            ]
-         ],
-         "times":[  
-            "2pm - 3pm",
-            "6:30pm - 7:30pm"
-         ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn basic cast-ons, and when to use each of them.  You will bring medium weight yarn and appropriate needles to class to try out these cast-ons.",
-         "note":null
-      },
-      {  
-         "title":"Technique Class: Cast-offs",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Mar 2 2017"
-            ]
-         ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
-         ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn different cast-offs, such as Jenny's super stretchy bind-off, and the uses for each of them.  You will need to bring 3 pieces of knitting on the needles, approximately 25sts each, 8-10 rows of stocking stitch already completed.",
-         "note":null
-      },
-      {  
          "title":"Knit-A-Long Class: Vancouver Fog Fingerless Mitts",
          "parts":1,
          "dates":[  
@@ -251,6 +119,30 @@
          "note":null
       },
       {  
+         "title":"Knit-A-Long Class: Santa Rosa Plum",
+         "parts":3,
+         "dates":[  
+            [  
+               "Tues Feb 28 2017", 
+               "Tues Mar 28 2017",
+               "Tues Apr 25 2017"
+            ],
+            [
+                "Wed Feb 29 2017",
+                "Wed Mar 29 2017",
+                "Wed Apr 26 2017"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"N/A",
+         "description":"A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx)",
+         "note":null,
+         "prerequisites":"Must know how to knit and purl."
+      },
+      {  
          "title":"Technique Class: Sock heel - short row",
          "parts":1,
          "dates":[  
@@ -281,30 +173,6 @@
          "cost":"$15",
          "description":"In this 1 hour tech class you will learn further lace increases and decreases, including the centered double decrease.  You will need to bring light weight yarn and appropriate needles to class.",
          "note":null
-      },
-      {  
-         "title":"Knit-A-Long Class: Santa Rosa Plum",
-         "parts":3,
-         "dates":[  
-            [  
-               "Tues Feb 28 2017", 
-               "Tues Mar 28 2017",
-               "Tues Apr 25 2017"
-            ],
-            [
-                "Wed Feb 29 2017",
-                "Wed Mar 29 2017",
-                "Wed Apr 26 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm",
-            "6:30pm - 8:30pm"
-         ],
-         "cost":"N/A",
-         "description":"A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx)",
-         "note":null,
-         "prerequisites":"Must know how to knit and purl."
       },
       {  
          "title":"Technique Class: Sock Heel - eye of partridge",
