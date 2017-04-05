@@ -16,8 +16,9 @@ All In-Stock sock yarns are 20% off for the month of April
 
 **Dragon Cowl**
 
-[pic 1]
-[pic 2]
+![april5a.jpg]({{site.baseurl}}/news/img/april5a.jpg)
+
+![april5b.jpg]({{site.baseurl}}/news/img/april5b.jpg)
 
 Dragon Cowl  
  
@@ -34,7 +35,7 @@ Let's Think Summer !
 
 Introducing
 
-[pic 3]
+![april5c.jpg]({{site.baseurl}}/news/img/april5c.jpg)
 
 Juniper Moon Farm's
 
@@ -46,7 +47,7 @@ Neve
 - beautiful spring colours
 - knits on 4.0-4.5mm needle
 
-[pic 4]
+![april5d.jpg]({{site.baseurl}}/news/img/april5d.jpg)
 
 Ella Rae's
 
@@ -58,7 +59,7 @@ Phoenix dk Prints
 - great for kids items or a top for yourself
 - knits on 3.5-3.75mm needle
 
-[pic 5]
+![april5e.jpg]({{site.baseurl}}/news/img/april5e.jpg)
 
 Juniper Moon Farm's
 
@@ -141,7 +142,7 @@ Knit-a-Long:   Hidden Gem Scarf     (1 class)   $15.00
 - 3.25mm(up to 3.75mm straight or circulars) 
 - 10% off purchase of yarn for project
 
-[pic 6]
+![april5f.jpg]({{site.baseurl}}/news/img/april5f.jpg)
 
 _April 11 (1-3pm)  OR April 12 (6:30-8:30pm)_
 
@@ -151,7 +152,7 @@ Knit-a-Long:   Ginseng Cowl  (1 class)   $15.00
 - 4.0mm needles for light and airy lace
 - 10% off purchase of yarn for project
 
-[pic 7]
+![april5g.jpg]({{site.baseurl}}/news/img/april5g.jpg)
 
 _April 18, May 9 & June 21 (1-3pm) OR April 19, May 10 & June 21 (6:30-8:30pm)_
 
@@ -162,17 +163,17 @@ Knit-a-Long:   Inez top        (3 classes)   $35.00
 - 60% cotton, 40% linen
 - 10% off purchase of yarn for project 
 
-[pic 8]
+![april5h.jpg]({{site.baseurl}}/news/img/april5h.jpg)
 
 **A Sock & A Sock!**
 
-[sock 1]
+![april5i.jpg]({{site.baseurl}}/news/img/april5i.jpg)
 
 Y? by Bridgett Landry – pattern available on Ravelry - Free
 
 This sock is knitted from the heel up and from the toe down, allowing you to mirror the pattern using only one chart.
 
-[sock 2]
+![april5j.jpg]({{site.baseurl}}/news/img/april5j.jpg)
 
 Flying Geese Socks by Yarn & Tacos  -  free  pattern available on Ravelry. 
 
