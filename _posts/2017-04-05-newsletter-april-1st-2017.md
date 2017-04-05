@@ -21,7 +21,6 @@ All In-Stock sock yarns are 20% off for the month of April
 **Dragon Cowl**
 
 ![april5a.jpg]({{site.baseurl}}/news/img/april5a.jpg)
-
 ![april5b.jpg]({{site.baseurl}}/news/img/april5b.jpg)
 
 Dragon Cowl  
