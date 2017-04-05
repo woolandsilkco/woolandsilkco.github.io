@@ -4,6 +4,10 @@ type: news
 published: false
 title: Newsletter April 1st 2017
 ---
+- Sock it to 'em sale
+- New yarns in store!
+- Spring classes are on!
+
 **Happy Easter !!**
 
 
