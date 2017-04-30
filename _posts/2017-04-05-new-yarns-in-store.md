@@ -9,6 +9,7 @@ Let’s Think Summer!
 Introducing
 
 ![april5c.jpg]({{site.baseurl}}/news/img/april5c.jpg)
+<div class="clearfix"></div>
 
 Juniper Moon Farm’s
 
@@ -21,6 +22,7 @@ Juniper Moon Farm’s
 - knits on 4.0-4.5mm needle
 
 ![april5d.jpg]({{site.baseurl}}/news/img/april5d.jpg)
+<div class="clearfix"></div>
 
 Ella Rae’s
 
@@ -33,6 +35,7 @@ Ella Rae’s
 - knits on 3.5-3.75mm needle
 
 ![april5e.jpg]({{site.baseurl}}/news/img/april5e.jpg)
+<div class="clearfix"></div>
 
 Juniper Moon Farm’s
 
