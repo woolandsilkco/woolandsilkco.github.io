@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: Newsletter May 1st 2017
 ---
 - Yarn Tasting Event
