@@ -4,6 +4,9 @@ type: news
 published: false
 title: Newsletter May 1st 2017
 ---
+- Yarn Tasting Event
+- Spring into summer classes!
+
 **Yarn Tasting Event!**
 
 Come and check out the new yarns for Spring/Summer 2017
@@ -13,10 +16,12 @@ May 3rd, 1-3pm or 6:30-8:30pm
 Sample knitting on new Spring/Summer yarns & a draw for a free skein of yarn! 10% off all yarn purchases for attendees. Pre-Registration is preferred - Event is free There will not be a regular Sit & Knit on this day 
 
  
-**Projects of the Month:**
+**Projects of the Month:*
 
 1) Stripezoid Shawl
- 
+
+![apr30a.jpg]({{site.baseurl}}/news/img/apr30a.jpg)
+
 Stripezoid Shawl  
  
 Time to start thinking about being outside again!  
@@ -27,6 +32,10 @@ Knitted in Cascade Yarns Avalon with a 4.5mm needle. A worsted weight 50/50 Cott
 
 2) Pivot Cowl
 
+![apr30b.jpg]({{site.baseurl}}/news/img/apr30b.jpg)
+
+Pivot Cowl
+
 Here is a simple but uniquely shaped cowl. Updated for springtime by using KFI's Luxury 100% Silk Sport yarn.  Takes only 1 skein of the eight shades offered to complete! Pattern is Free on Ravelry 15% off yarn required
  
 
@@ -36,11 +45,15 @@ Summer is Just Around the Corner!
 
 Introducing
 
+![apr30c.jpg]({{site.baseurl}}/news/img/apr30c.jpg)
+
 Summertime Shawl Kit
  
 This Gift Pack contains the popular Summertime Shawl pattern, and three balls of Summertime yarn in an attractive clear plastic box. Knits up fast with 5.0mm needles. Suitable for a beginner who is familiar with simple increases and decreases or any knitter who wants to enjoy these gorgeous colours!  Four different kits to choose from.
 $43.95
- 
+
+![apr30d.jpg]({{site.baseurl}}/news/img/apr30d.jpg)
+
 Katia Belice
  
 - 55% cotton, 45% acrylic
@@ -50,7 +63,9 @@ Katia Belice
 - 165m
 - knits on 3.5-4.0 needle
 - $7.95
- 
+
+![apr30e.jpg]({{site.baseurl}}/news/img/apr30e.jpg)
+
 Nuna Fina by Mirasol
  
 - 40% merino, 40% silk, 20% bamboo sourced viscose (rayon)
@@ -59,7 +74,9 @@ Nuna Fina by Mirasol
 - perfect for that light summer cardigan
 - knits on 2.75mm needle
 - $12.95
- 
+
+![apr30f.jpg]({{site.baseurl}}/news/img/apr30f.jpg)
+
 Reinvent sock yarn by Ancient Arts
  
 - 49% wool, 34% mohair, 11% nylon, 4% acrylic, 2% silk
@@ -68,7 +85,9 @@ Reinvent sock yarn by Ancient Arts
 - treat your feet to something luscious
 - knits on 2.25mm needle
 - $31.95
- 
+
+![apr30g.jpg]({{site.baseurl}}/news/img/apr30g.jpg)
+
 Cardiff Small by Diamond Luxury Collection
  
 - 100% Cashmere
@@ -77,7 +96,9 @@ Cardiff Small by Diamond Luxury Collection
 - 170m per ball 
 - knits on 2.25mm needle
 - $26.95
- 
+
+![apr30h.jpg]({{site.baseurl}}/news/img/apr30h.jpg)
+
 Lace Merino by Ella Rae
 
 - 100% superwash, extrafine, merino
@@ -141,6 +162,8 @@ Knit-a-Long:   Notched Hem Tank  (3-4 classes)
 - 3.5mm & 4.5mm (straight & circulars) 
 - 10% off purchase of yarn for project
 
+![apr30i.jpg]({{site.baseurl}}/news/img/apr30i.jpg)
+
 May 23 (1-3pm)  OR  May 24 (6:30-8:30pm)
 
 Knit-a-Long:   Lorinda Cardi  (3 classes) 
@@ -148,6 +171,8 @@ Knit-a-Long:   Lorinda Cardi  (3 classes)
 - Cascade Ultra Pima (9 beautiful colours to choose from)
 - 4.0(80cm) & 3.5mm(60cm) circular needles, & 4.0mm DPN's
 - 10% off purchase of yarn for project
+
+![apr30j.jpeg]({{site.baseurl}}/news/img/apr30j.jpeg)
 
 2nd option(same date)
 
@@ -160,14 +185,19 @@ Knit-a-Long:  Laurelei (3 classes)
 - 3.5mm(80cm)  & 3.75(80cm) circular needles
 - 10% off purchase of yarn for project
 
+![apr30k.jpg]({{site.baseurl}}/news/img/apr30k.jpg)
+
 
 **A Sock & A Sock!**
- 
+
+![apr30l.jpg]({{site.baseurl}}/news/img/apr30l.jpg)
+
 Ceres by Letipanda – pattern available on Ravelry - Free
 
 This sock is knitted toe up & offered in a pattern from infant to  adult
- 
- 
+
+![apr30m.jpg]({{site.baseurl}}/news/img/apr30m.jpg)
+
 Winter of Rememberance by Annette Derksen
 
 free  pattern available on Ravelry 
