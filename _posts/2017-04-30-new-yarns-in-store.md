@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: New yarns in Store!
 ---
 Summer is Just Around the Corner!
