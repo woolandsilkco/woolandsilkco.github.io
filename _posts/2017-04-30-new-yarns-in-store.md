@@ -15,7 +15,6 @@ Summertime Shawl Kit
 This Gift Pack contains the popular Summertime Shawl pattern, and three balls of Summertime yarn in an attractive clear plastic box. Knits up fast with 5.0mm needles. Suitable for a beginner who is familiar with simple increases and decreases or any knitter who wants to enjoy these gorgeous colours!  Four different kits to choose from.
 $43.95
 
-<div class="clearfix"></div>
 
 ![apr30d.jpg]({{site.baseurl}}/news/img/apr30d.jpg)
 
@@ -29,7 +28,6 @@ Katia Belice
 - knits on 3.5-4.0 needle
 - $7.95
 
-<div class="clearfix"></div>
 
 ![apr30e.jpg]({{site.baseurl}}/news/img/apr30e.jpg)
 
@@ -41,8 +39,6 @@ Nuna Fina by Mirasol
 - perfect for that light summer cardigan
 - knits on 2.75mm needle
 - $12.95
-
-<div class="clearfix"></div>
 
 
 ![apr30f.jpg]({{site.baseurl}}/news/img/apr30f.jpg)
@@ -56,7 +52,6 @@ Reinvent sock yarn by Ancient Arts
 - knits on 2.25mm needle
 - $31.95
 
-<div class="clearfix"></div>
 
 ![apr30g.jpg]({{site.baseurl}}/news/img/apr30g.jpg)
 
@@ -69,7 +64,6 @@ Cardiff Small by Diamond Luxury Collection
 - knits on 2.25mm needle
 - $26.95
 
-<div class="clearfix"></div>
 
 ![apr30h.jpg]({{site.baseurl}}/news/img/apr30h.jpg)
 
