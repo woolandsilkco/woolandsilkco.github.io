@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: 1 - A - Week Sale Items
 ---
 Each week features a different item at 20% off
