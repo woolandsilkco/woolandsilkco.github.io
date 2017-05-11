@@ -1,6 +1,6 @@
 ---
 layout: post
-type: news
+type: current
 published: false
 title: 2017 Lakeside Yarn Crawl
 ---
