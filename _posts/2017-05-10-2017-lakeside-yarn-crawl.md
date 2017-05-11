@@ -1,7 +1,7 @@
 ---
 layout: post
 type: current
-published: false
+published: true
 title: 2017 Lakeside Yarn Crawl
 ---
 *It is time for the 2017 Lakeside Yarn Crawl!*
@@ -23,4 +23,3 @@ Pick up your passport at the first shop you go to and try to visit as many shops
 - The Wool & Silk Co. - Shelburne
 - The Knitting Basket - Rosemont
 - Purrsonally Yours Fabric & Wool Shop - Meaford
-
