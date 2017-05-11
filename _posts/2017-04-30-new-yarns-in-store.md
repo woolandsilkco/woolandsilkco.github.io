@@ -29,6 +29,7 @@ Katia Belice
 - knits on 3.5-4.0 needle
 - $7.95
 
+
 <div class="clearfix"></div>
 
 ![apr30e.jpg]({{site.baseurl}}/news/img/apr30e.jpg)
@@ -41,6 +42,7 @@ Nuna Fina by Mirasol
 - perfect for that light summer cardigan
 - knits on 2.75mm needle
 - $12.95
+
 
 <div class="clearfix"></div>
 
@@ -55,6 +57,7 @@ Reinvent sock yarn by Ancient Arts
 - knits on 2.25mm needle
 - $31.95
 
+
 <div class="clearfix"></div>
 
 ![apr30g.jpg]({{site.baseurl}}/news/img/apr30g.jpg)
@@ -67,6 +70,7 @@ Cardiff Small by Diamond Luxury Collection
 - 170m per ball 
 - knits on 2.25mm needle
 - $26.95
+
 
 <div class="clearfix"></div>
 
