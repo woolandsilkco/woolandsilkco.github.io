@@ -10,9 +10,9 @@ title: 'Newsletter June 1st, 2017'
 - 2017 Lakeside Yarn Crawl
 - Bingo!
 
-IMAGE 1
-
 **Pittura by Louisa Harding is here !!**
+
+![jun11a.jpg]({{site.baseurl}}/news/img/jun11a.jpg)
  
 - 75% Wool, 25% Viscose
 - 100g
@@ -23,7 +23,7 @@ IMAGE 1
 
 Translate it into the Shimmer Shawl !  A free pattern that we will print with yarn purchase.
 
-IMAGE 2
+![jun11b.jpg]({{site.baseurl}}/news/img/jun11b.jpg)
 
 **June 10th is International Knit in Public Day !!**
 
@@ -33,7 +33,8 @@ Discontinued colours of CEY Fresco are on sale 40% while stock lasts. Come in & 
 
 **The Canadian Sock**
 
-IMAGE 3
+![jun11c.jpg]({{site.baseurl}}/news/img/jun11c.jpg)
+
 
 Check out these cool lounging socks to help celebrate Canada's 150th !!  Taken from a Candian Living pattern we have revamped it and turned it into a kit. You can choose from charcoal or cream for the stripe & toe. Each kit comes with enough yarn to complete a pair, and the pattern.  Available in store or on-line for $24.95
 
@@ -52,13 +53,13 @@ _This is our special project kit for the 2017 Lakeside Yarn Crawl!_
  
 Featuring Sweet Paprika's Pizzicato yarn, exclusively dyed for the crawl in Canadian Maple colourway.  This is our feature yarn and will only be available this year.
 
-IMAGE 4
+![jun11d.jpg]({{site.baseurl}}/news/img/jun11d.jpg)
 
 **BINGO  !!**
  
 Has started. Come in to the store and pick up your playing card (it's free). There are projects to do, donated items to make, WIP's to finish, yarns to try.  Working just like a regular Bingo you will complete lines and full cards. There will be a draw at the end for a grand prize.
 
-IMAGE 5
+![jun11e.jpg]({{site.baseurl}}/news/img/jun11e.jpg)
 
 **Diamond Luxury Impression**
  
