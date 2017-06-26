@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-published: false
+published: true
 title: 'Newsletter July 1st, 2017'
 ---
 - X-mas in July Sale
