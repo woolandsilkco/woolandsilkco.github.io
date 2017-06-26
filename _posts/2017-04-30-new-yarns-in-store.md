@@ -21,6 +21,8 @@ Pittura by Louisa Harding
  
 Translate it into the Shimmer Shawl !  A free pattern that we will print with yarn purchase.
 
+<div class="clearfix"></div>
+
 ![jun11e.jpg]({{site.baseurl}}/news/img/jun11e.jpg)
 
 Diamond Luxury Impression
@@ -31,6 +33,8 @@ Diamond Luxury Impression
 - 25% Rayon
 
 Softness, warmth and beautiful drape.  There is a project just waiting for it!
+
+<div class="clearfix"></div>
 
 ![apr30c.jpg]({{site.baseurl}}/news/img/apr30c.jpg)
 
