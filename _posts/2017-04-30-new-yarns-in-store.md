@@ -4,9 +4,33 @@ type: current
 published: true
 title: New yarns in Store!
 ---
-Summer is Just Around the Corner!
-
 Introducing
+
+![jun25b.jpg]({{site.baseurl}}/news/img/jun25b.jpg)
+
+Pittura by Louisa Harding
+
+- 75% Wool, 25% Viscose
+- 100g
+- 400m/437yds  (Wow!!)
+- light sport/fingering
+- 6 gorgeous colours
+- $22.95
+
+![jun25c.jpg]({{site.baseurl}}/news/img/jun25c.jpg)
+ 
+Translate it into the Shimmer Shawl !  A free pattern that we will print with yarn purchase.
+
+![jun11e.jpg]({{site.baseurl}}/news/img/jun11e.jpg)
+
+Diamond Luxury Impression
+ 
+- A beautiful DK tweed yarn.
+- 50% Wool
+- 25% Alpaca
+- 25% Rayon
+
+Softness, warmth and beautiful drape.  There is a project just waiting for it!
 
 ![apr30c.jpg]({{site.baseurl}}/news/img/apr30c.jpg)
 
