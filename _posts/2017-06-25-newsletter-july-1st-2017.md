@@ -71,11 +71,15 @@ Featuring Sweet Paprika's Pizzicato yarn, exclusively dyed for the crawl in Cana
 Kit is $65.00
 (includes pattern and all yarns to complete)
 
+![jun25a.jpg]({{site.baseurl}}/news/img/jun25a.jpg)
+
 **Canada Day Holiday**
  
 Please note that we will be closed on Saturday July 1st for Canada Day.  We will open again on July 4th with regular hours.
  
 **Pittura by Louisa Harding**
+
+![jun25b.jpg]({{site.baseurl}}/news/img/jun25b.jpg)
 
 - 75% Wool, 25% Viscose
 - 100g
@@ -87,14 +91,17 @@ $22.95
  
 Translate it into the Shimmer Shawl !  A free pattern that we will print with yarn purchase.
 
+![jun25c.jpg]({{site.baseurl}}/news/img/jun25c.jpg)
+
 **Discontinued colours of CEY Fresco are on sale 40% while stock lasts.**
 
 Come in & get it now before it's all gone!
 
 **The Canadian Sock**
 
-Check out these cool lounging socks to help celebrate Canada's 150th !!  Taken from a Candian Living pattern we have revamped it and turned it into a kit. You can choose from charcoal or cream for the stripe & toe. Each kit comes with enough yarn to complete a pair, and the pattern.  Available in store or on-line for $24.95
+![jun25d.jpg]({{site.baseurl}}/news/img/jun25d.jpg)
 
+Check out these cool lounging socks to help celebrate Canada's 150th !!  Taken from a Candian Living pattern we have revamped it and turned it into a kit. You can choose from charcoal or cream for the stripe & toe. Each kit comes with enough yarn to complete a pair, and the pattern.  Available in store or on-line for $24.95
 
 **The 2017 Lakeside Yarn Crawl continues!**
 
