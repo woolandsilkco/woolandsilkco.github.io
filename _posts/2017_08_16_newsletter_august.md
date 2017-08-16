@@ -1,4 +1,11 @@
 
+---
+layout: post
+type: news
+published: true
+title: 'Newsletter August 1st, 2017'
+---
+
 Super Summer Sell-Down !!!
  
 To celebrate the heat of summer we are having our Super Summer Sell down sale!
