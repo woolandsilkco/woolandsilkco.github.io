@@ -52,14 +52,6 @@ Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squ
 
 ![aug16_yarn.jpg]({{site.baseurl}}/news/img/aug16_yarn.jpg)
 
-
-
-
-
-
-
-
-
 Cumulus
  
 - 94% Cotton, 6% Nylon
