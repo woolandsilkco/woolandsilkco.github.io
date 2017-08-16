@@ -47,7 +47,7 @@ Some of you may have noticed that I said the sale begins on August 14th. That is
 ![faros_cardigan.jpg]({{site.baseurl}}/news/img/faros_cardigan.jpg)
 
 
-Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squishy Cumulus. Like wearing a cozy warm cloud. With an easy to achieve simple lace pattern and 8 gorgeous colours to choose from (see below).  The yarn & pattern for this sweater will be offered during the summer sale at 15% off.
+**Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squishy Cumulus. Like wearing a cozy warm cloud. With an easy to achieve simple lace pattern and 8 gorgeous colours to choose from (see below).  The yarn & pattern for this sweater will be offered during the summer sale at 15% off.**
 
 ![aug16_yarn.jpg]({{site.baseurl}}/news/img/aug16_yarn.jpg)
 
