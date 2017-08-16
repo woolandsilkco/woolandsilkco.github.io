@@ -63,6 +63,12 @@ Cumulus
 - 16-20sts = 4ins
 - Lilac, Snowy White, Med Blue, Purple, Grey, Sky Blue, Wheat yellow & Navy
 
+Special Deal !!!
+ 
+Lakeside Yarn Crawl bags can be purchased in store for 20% off during the month of August. You don't have to be on the crawl to get one. Great heavyweight twill with strong handles and lots of space to hold that special project. Cream with Navy handles.
+
+$19.95  (Reg $24.95)
+
 *It is time for the 2017 Lakeside Yarn Crawl!*
 
 Beginning on Saturday June 3rd & finishing on Monday September 4th
