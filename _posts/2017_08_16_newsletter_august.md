@@ -67,9 +67,7 @@ A reminder that passports are due in to one of the crawl stores by Sept 4th whic
 
 Golden Apples of the Sun
 
-This is our special project kit for the
-
-2017  Lakeside Yarn Crawl
+This is our special project kit for the 2017  Lakeside Yarn Crawl
  
 Featuring Sweet Paprika's Pizzicato yarn,
 exclusively dyed for the crawl in Canadian Maple
