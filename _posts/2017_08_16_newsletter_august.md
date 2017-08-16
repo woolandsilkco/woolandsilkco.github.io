@@ -40,11 +40,11 @@ Mondays !!!
 
 Some of you may have noticed that I said the sale begins on August 14th. That is a Monday. And yes, we will now be open on Mondays beginning that day!  Come in & say "Hi" ! 
 
-![jun25b.jpg]({{site.baseurl}}/news/img/faros_cardigan.jpg)
+![faros_cardigan.jpg]({{site.baseurl}}/news/img/faros_cardigan.jpg)
 
 Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squishy Cumulus. Like wearing a cozy warm cloud. With an easy to achieve simple lace pattern and 8 gorgeous colours to choose from (see below).  The yarn & pattern for this sweater will be offered during the summer sale at 15% off.
 
-![jun25b.jpg]({{site.baseurl}}/news/img/aug16_yarn.jpg)
+![aug16_yarn.jpg]({{site.baseurl}}/news/img/aug16_yarn.jpg)
 
 Cumulus
  
@@ -73,4 +73,20 @@ be available this year.
 Kit is $65.00
 (includes pattern and all yarns to complete)
 
-![jun25b.jpg]({{site.baseurl}}/news/img/sweet_paprika.jpg)
+![sweet_paprika.jpg]({{site.baseurl}}/news/img/sweet_paprika.jpg)
+
+Featured Crawl Yarn
+                    
+Please note that the Sweet Paprika Pizzicato is also our featured yarn for the crawl. It can be purchased independently of the kit shown above here. Pizzicato is the red Canadian Maple colourway in fingering weight.
+Discontinued colours of CEY Fresco are still available at 40% off.
+Stock is dwindling so come & get it before it's all gone!
+
+BINGO  !!
+ 
+Will be ending on August 31st. Work on completing your projects and Bingo lines. There is a prize for each completed line. Anyone who has completed a full card of squares will be entered into the Grand Prize draw. Please have those cards handed in to the store by Sept 1st.
+ 
+Special Deal !!!
+ 
+Lakeside Yarn Crawl bags can be purchased in store for 20% off during the month of August. You don't have to be on the crawl to get one. Great heavyweight twill with strong handles and lots of space to hold that special project. Cream with Navy handles.
+
+$19.95  (Reg $24.95)
