@@ -4,7 +4,6 @@ type: current
 published: true
 title: Super Summer Sell-Down !!!
 ---
-Super Summer Sell-Down !!!
  
 To celebrate the heat of summer we are having our Super Summer Sell down sale!
 (Say that three times fast! )
