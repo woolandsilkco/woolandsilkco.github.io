@@ -5,7 +5,7 @@ published: true
 title: Super Summer Sell-Down !!!
 ---
  
-To celebrate the heat of summer we are having our Super Summer Sell down sale!
+**To celebrate the heat of summer we are having our Super Summer Sell down sale!**
 (Say that three times fast! )
 
 All in-store stock of summer yarns are a minimum 25% off
@@ -14,7 +14,7 @@ Several yarns are featured at up to 40% off
 
 Sale will be on from August 14th-26th
 
-25% off
+**25% off**
 - Avalon
 - Baby Bamboo DK
 - Belice
@@ -32,7 +32,7 @@ Sale will be on from August 14th-26th
 - Sunkissed
 - Zooey
  
-40% off
+**40% off**
 - Amalfi
 - Beachcomber
 - Eco Baby
@@ -40,14 +40,14 @@ Sale will be on from August 14th-26th
 
 Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
 
-Mondays !!!
+**Mondays !!!**
 
 Some of you may have noticed that I said the sale begins on August 14th. That is a Monday. And yes, we will now be open on Mondays beginning that day!  Come in & say "Hi" ! 
 
 ![faros_cardigan.jpg]({{site.baseurl}}/news/img/faros_cardigan.jpg)
 
 
-**Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squishy Cumulus. Like wearing a cozy warm cloud. With an easy to achieve simple lace pattern and 8 gorgeous colours to choose from (see below).  The yarn & pattern for this sweater will be offered during the summer sale at 15% off.**
+Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squishy Cumulus. Like wearing a cozy warm cloud. With an easy to achieve simple lace pattern and 8 gorgeous colours to choose from (see below).  The yarn & pattern for this sweater will be offered during the summer sale at 15% off.
 
 ![aug16_yarn.jpg]({{site.baseurl}}/news/img/aug16_yarn.jpg)
 
