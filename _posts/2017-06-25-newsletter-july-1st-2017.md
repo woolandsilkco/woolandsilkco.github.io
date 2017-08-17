@@ -4,14 +4,14 @@ type: news
 published: true
 title: 'Newsletter July 1st, 2017'
 ---
-- X-mas in July Sale
-- Golden Apples of the Sun
-- Canada Day Holiday
-- Discontinued Yarn Sale
-- Canadian Sock
-- 2017 Lakeside Yarn Crawl Continues
-- BINGO
-- Special Deal
+X-mas in July Sale
+Golden Apples of the Sun
+Canada Day Holiday
+Discontinued Yarn Sale
+Canadian Sock
+2017 Lakeside Yarn Crawl Continues
+BINGO
+Special Deal
 
 (Read all the way to the bottom for a special deal !)
 
