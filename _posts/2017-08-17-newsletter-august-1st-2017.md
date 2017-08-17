@@ -4,7 +4,6 @@ type: news
 published: true
 title: 'Newsletter August 1st, 2017'
 ---
-
 - Super Summer Sell-Down !!!
  
 - To celebrate the heat of summer we are having our Super Summer Sell down sale!
@@ -14,7 +13,7 @@ title: 'Newsletter August 1st, 2017'
 
 - Several yarns are featured at up to 40% off 
 
-Sale will be on from August 14th-26th
+- Sale will be on from August 14th-26th
 
 25% off
 - Avalon
