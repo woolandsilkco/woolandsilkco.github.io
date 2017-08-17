@@ -1,6 +1,6 @@
 ---
 layout: post
-type: news
+type: current
 published: true
 title: 'Newsletter August 1st, 2017'
 ---
