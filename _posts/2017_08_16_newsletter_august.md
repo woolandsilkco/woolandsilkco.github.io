@@ -4,7 +4,7 @@ type: news
 published: true
 title: 'Newsletter August 1st, 2017'
 ---
-
+<!--
 Super Summer Sell-Down !!!
  
 To celebrate the heat of summer we are having our Super Summer Sell down sale!
@@ -94,3 +94,4 @@ Special Deal !!!
 Lakeside Yarn Crawl bags can be purchased in store for 20% off during the month of August. You don't have to be on the crawl to get one. Great heavyweight twill with strong handles and lots of space to hold that special project. Cream with Navy handles.
 
 $19.95 (Reg $24.95)
+-->
