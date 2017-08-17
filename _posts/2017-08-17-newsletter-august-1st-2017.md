@@ -4,6 +4,7 @@ type: news
 published: true
 title: 'Newsletter August 1st, 2017'
 ---
+<ul>
 Super Summer Sell-Down !!!
  
 To celebrate the heat of summer we are having our Super Summer Sell down sale!
@@ -38,7 +39,7 @@ Sale will be on from August 14th-26th
 - Beachcomber
 - Eco Baby
 - Little Bird
-
+</ul>
 Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
 
 Mondays !!!
