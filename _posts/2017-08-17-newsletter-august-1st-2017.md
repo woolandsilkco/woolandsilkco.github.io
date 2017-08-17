@@ -39,7 +39,7 @@ title: 'Newsletter August 1st, 2017'
 - Beachcomber
 - Eco Baby
 - Little Bird
-</div>
+
 Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
 
 Mondays !!!
