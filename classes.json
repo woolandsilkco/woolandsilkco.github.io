@@ -42,6 +42,7 @@
       "dates": [
         [
           "Thu Sept 21 2017"
+		]
         ],
         "times" [
      [
@@ -95,6 +96,7 @@
       "dates": [
         [
           "Wed Sept 27 2017"
+		]
         ],
       "times": [
 	      [
@@ -115,9 +117,11 @@
         ]
       ],
       "times": [
+	      [
         "2pm - 3pm",
         "6pm - 7pm"
-      ],
+      ]
+	      ],
       "cost": "$20",
       "description": "5 mm hook and 1 ball of cotton",
       "note": null
@@ -131,8 +135,11 @@
         ]
       ],
       "times": [
+	      [
         "3pm - 4:30pm",
         "7pm - 8:30pm"
+      
+	      ]
       ],
       "cost": "$40",
       "description": "3mm needles and 2 balls of DK Sock Yarn",
@@ -144,10 +151,13 @@
       "dates": [
         [
           "Mon Oct 2 2017"
+		]
         ],
       "times": [
+	      [
         "1pm - 3pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "Sound Intriguing?  Come and figure out your secret code and then see the colours pool magically before your eyes.  Easy to do,  just 2 classes . Materials needed - 4mm x 32in circular needle & 1 skein Sweet Georgia Tough Love Sock yarn
 ",
@@ -159,10 +169,13 @@
       "dates": [
         [
           "Wed Oct 4 2017"
+		]
         ],
       "times": [
+	      [
         "6:30pm - 8:30pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "Sound Intriguing?  Come and figure out your secret code and then see the colours pool magically before your eyes.  Easy to do,  just 2 classes . Materials needed - 4mm x 32in circular needle & 1 skein Sweet Georgia Tough Love Sock yarn
 ",
@@ -177,8 +190,10 @@
         ]
       ],
       "times": [
+	      [
         "2pm - 3pm",
         "6pm - 7pm"
+		      ]
       ],
       "cost": "$20",
       "description": "4mm needles Berocco Vintage & rovings",
@@ -193,8 +208,10 @@
         ]
       ],
       "times": [
-        "3pm - 4:30pm",
+       [
+	      "3pm - 4:30pm",
         "7pm - 8:30pm"
+	       ]
       ],
     },
 	{
@@ -203,10 +220,13 @@
       "dates": [
         [
           "Wed Oct 11 2017"
+		]
         ],
       "times": [
+	      [
         "6:30pm - 8:30pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "A great cowl to tuck into your jacket on those cold mornings that are coming. If you’ve wanted to learn simple lace and increases & working in the round then this is the cowl KAL for you. Materials needed - 4.5mm x 24in circular needle & 1 skein Ultra Alpaca
 ",
@@ -221,9 +241,11 @@
         ]
       ],
       "times": [
+	      [
         "2pm - 3pm",
         "6pm - 7pm"
-      ],
+      ]
+	      ],
       "cost": "$20",
       "description": "4.5mm needles & 1 ball of cotton",
       "note": null
@@ -237,19 +259,25 @@
         ],
       ],
       "times": [
-        "3pm - 4:30pm",
+[
+	"3pm - 4:30pm",
         "7pm - 8:30pm"
-    },
+    ]
+	      ],
+	},
 	{
       "title": "Diamond Kerchief Cowl - Session 1 - 2nd class of 2",
       "parts": 1,
       "dates": [
         [
           "Mon Oct 16 2017"
+		]
         ],
       "times": [
+	      [
         "10:30am - 12:30pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "A great cowl to tuck into your jacket on those cold mornings that are coming. If you’ve wanted to learn simple lace and increases & working in the round then this is the cowl KAL for you. Materials needed - 4.5mm x 24in circular needle & 1 skein Ultra Alpaca
 ",
@@ -261,9 +289,12 @@
       "dates": [
         [
           "Mon Oct 16 2017"
-        ],
+       ]
+	],
       "times": [
+	      [
         "1pm - 3pm",
+		      ]
       ],
       "cost": "Free - yarns to be purchased in store",
       "description": "Let’s get ready for winter! Do you have a special someone that you want to keep warm? Here is an easy way to make thrummed mittens, on just 2 needles. Materials needed - 3.25mm & 4mm needles, 1 skein Berocco Vintage & Rovings
@@ -276,10 +307,13 @@
       "dates": [
         [
           "Wed Oct 18 2017"
+		]
         ],
       "times": [
+	      [
         "6:30pm - 8:30pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "Let’s get ready for winter! Do you have a special someone that you want to keep warm? Here is an easy way to make thrummed mittens, on just 2 needles. Materials needed - 3.25mm & 4mm needles, 1 skein Berocco Vintage & Rovings
 ",
@@ -294,9 +328,11 @@
         ]
       ],
       "times": [
-        "2pm - 3pm",
+       [
+	"2pm - 3pm",
         "6pm - 7pm"
-      ],
+      ]
+       ],
       "cost": "$20",
       "description": "4mm needles and any dk yarn",
       "note": null
@@ -310,9 +346,11 @@
         ]
       ],
       "times": [
+	      [
         "3pm - 4:30pm",
         "7pm - 8:30pm"
-      ],
+      ]
+	      ],
       "cost": "$40",
       "description": "5mm needles & 1 skein Misti Alpaca Sox",
       "note": null
@@ -323,10 +361,13 @@
       "dates": [
         [
           "Mon Oct 23 2017"
+		]
         ],
       "times": [
+	      [
         "1pm - 3pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "Here is a cute little hat for a special someone.  It incorporates short rows, and picking up stitches.  Very easy, yarn does all the colour changing for you. Materials needed - 4mm x 40cm circular needle and 1 ball of Riot
 ",
@@ -338,10 +379,13 @@
       "dates": [
         [
           "Wed Oct 25 2017"
+		]
         ],
       "times": [
+	      [
         "6:30pm - 8:30pm",
-      ],
+      ]
+	      ],
       "cost": "Free - yarns to be purchased in store",
       "description": "Here is a cute little hat for a special someone.  It incorporates short rows, and picking up stitches.  Very easy, yarn does all the colour changing for you. Materials needed - 4mm x 40cm circular needle and 1 ball of Riot
 ",
@@ -356,9 +400,11 @@
         ]
       ],
       "times": [
-        "2pm - 3pm",
+       [
+	      "2pm - 3pm",
         "6pm - 7pm"
-      ],
+      ]
+       ],
       "cost": "$20",
       "description": "2.5mm or 2.75mm needle & sock yarn",
       "note": null
@@ -372,9 +418,11 @@
         ]
       ],
       "times": [
-        "3pm - 4:30pm",
+       [
+	      "3pm - 4:30pm",
         "7pm - 8:30pm"
-      ],
+      ]
+       ],
       "cost": "$20",
       "description": "4.5mm needles & 1 ball of cotton",
       "note": null,
@@ -385,10 +433,13 @@
       "dates": [
         [
           "Mon Oct 30 2017"
-        ],
+       ]
+	],
       "times": [
-        "1pm - 3pm",
-      ],
+[
+	"1pm - 3pm",
+]      
+],
       "cost": "Free - yarns to be purchased in store",
       "description": "Let’s get ready for winter! Do you have a special someone that you want to keep warm? Here is an easy way to make thrummed mittens, on just 2 needles. Materials needed - 3.25mm & 4mm needles, 1 skein Berocco Vintage & Rovings
 ",
@@ -400,10 +451,13 @@
       "dates": [
         [
           "Wed Nov 1 2017"
-        ],
+ ]
+	],
       "times": [
-        "6:30pm - 8:30pm",
-      ],
+        [
+	      "6:30pm - 8:30pm",
+      ]
+	],
       "cost": "Free - yarns to be purchased in store",
       "description": "Let’s get ready for winter! Do you have a special someone that you want to keep warm?  Here is an easy way to make thrummed mittens, on just 2 needles. Materials needed - 3.25mm & 4mm needles, 1 skein Berocco Vintage & Rovings
 ",
@@ -413,14 +467,16 @@
       "title": "Technique Increases & Decreases - 1 class",
       "parts": 1,
       "dates": [
-        [
+       [	
           "Thu Nov 2 2017"
         ]
       ],
       "times": [
+	      [
         "2pm - 3pm",
         "6pm - 7pm"
-      ],
+      ]
+	      ],
       "cost": "$20",
       "description": "4mm needles and any dk yarn",
       "note": null
@@ -434,9 +490,11 @@
         ]
       ],
       "times": [
-        "3pm - 4:30pm",
+        [
+	      "3pm - 4:30pm",
         "7pm - 8:30pm"
-      ],
+      ]
+	],
     },
 	{
       "title": "Ruby’s Hat - Session 1 - 2nd class of 2",
@@ -444,10 +502,13 @@
       "dates": [
         [
           "Mon Nov 6 2017"
-        ],
+       ]
+	],
       "times": [
-        "1pm - 3pm",
-      ],
+        [
+		"1pm - 3pm",
+      ]
+	],
       "cost": "Free - yarns to be purchased in store",
       "description": "Here is a cute little hat for a special someone.  It incorporates short rows, and picking up stitches.  Very easy, yarn does all the colour changing for you. Materials needed - 4mm x 40cm circular needle and 1 ball of Riot
 ",
@@ -459,10 +520,13 @@
       "dates": [
         [
           "Wed Nov 8 2017"
-        ],
+       ]
+	],
       "times": [
-        "6:30pm - 8:30pm",
-      ],
+        [
+		"6:30pm - 8:30pm",
+      ]
+	],
       "cost": "Free - yarns to be purchased in store",
       "description": "Here is a cute little hat for a special someone.  It incorporates short rows, and picking up stitches.  Very easy, yarn does all the colour changing for you. Materials needed - 4mm x 40cm circular needle and 1 ball of Riot
 ",
@@ -470,4 +534,3 @@
     },
   ]
 }
-
