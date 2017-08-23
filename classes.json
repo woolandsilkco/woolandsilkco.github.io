@@ -27,7 +27,8 @@
         ]
 	],
       "times": [
-        "6:30pm - 8:30pm",
+       [
+	      "6:30pm - 8:30pm",
       ]
       ],
       "cost": "Free - yarns to be purchased in store",
@@ -43,9 +44,11 @@
           "Thu Sept 21 2017"
         ],
         "times" [
-        "2pm - 3pm",
+     [
+		"2pm - 3pm",
         "6pm - 7pm"
-      ],
+     ] 
+     ],
       "cost": "$20",
       "description": "4.5 mm needles and 1 ball of cotton",
       "note": null,
@@ -59,8 +62,10 @@
         ]
       ],
       "times": [
-        "3pm - 4:30pm",
+       [
+	    "3pm - 4:30pm",
         "7pm - 8:30pm"
+	    ]
       ],
       "cost": "$40",
       "description": "3.5mm & 3.75 needles & Berocco Vintage",
@@ -72,10 +77,13 @@
       "dates": [
         [
           "Mon Sept 25 2017"
-        ],
+        ]
+	],
       "times": [
-        "1pm - 3pm",
-      ],
+        [
+	      "1pm - 3pm",
+      ]
+	],
       "cost": "Free - yarns to be purchased in store",
       "description": "A great cowl to tuck into your jacket on those cold mornings that are coming. If you’ve wanted to learn simple lace and increases & working in the round then this is the cowl KAL for you. Materials needed - 4.5mm x 24in circular needle & 1 skein Ultra Alpaca
 ",
@@ -89,7 +97,9 @@
           "Wed Sept 27 2017"
         ],
       "times": [
+	      [
         "6:30pm - 8:30pm",
+      ]
       ],
       "cost": "Free - yarns to be purchased in store",
       "description": "A great cowl to tuck into your jacket on those cold mornings that are coming. If you’ve wanted to learn simple lace and increases & working in the round then this is the cowl KAL for you. Materials needed - 4.5mm x 24in circular needle & 1 skein Ultra Alpaca
