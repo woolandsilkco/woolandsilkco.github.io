@@ -1,36 +1,19 @@
 {  
    "classes":[  
-      {  
-         "title":"Learn to Knit – Dishcloth",
+          {  
+         "title":"Learn to Knit - Dishcloth",
          "parts":1,
          "dates":[  
             [  
-                "Thu Sep 21 2017"
-            ],
-                    ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
-         ],
-         "cost":"$20.00 - All yarns to be purchased in store",
-         "description":"4.5mm needles and 1 ball of cotton",
-         "note":null,
-         "prerequisites":null
-      },
-      {  
-         "title":"Technique Class: Short-rows",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Mar 9 2017"
+               "Thu Sep 21 2017"
             ]
          ],
          "times":[  
             "2pm - 3pm",
             "6pm - 7pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn how to work wrap and turn short rows, and where these are helpful in a garment.  You will need to bring a piece of knitting on the needles to class, c/o 30 sts, knit 6 rows stocking stitch already completed, in a medium weight yarn on appropriate needles.",
+         "cost":"$20",
+         "description":"4.5mm needles and 1 ball of cotton",
          "note":null
       },
       {  
