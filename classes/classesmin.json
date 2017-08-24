@@ -13,7 +13,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"4.5mm needles and 1 ball of cotton",
+         "supplies":"Materials needed - 4.5mm needles and 1 ball of cotton",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -30,7 +30,7 @@
             "7pm - 8:30pm"
          ],
          "cost":"$40",
-         "description":"3.5mm & 3.75 needles & Berocco Vintage",
+         "supplies":"Materials needed - 3.5mm & 3.75 needles & Berocco Vintage",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -46,7 +46,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"5 mm hook and 1 ball of cotton",
+         "supplies":"Materials needed - 5 mm hook and 1 ball of cotton",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -63,7 +63,7 @@
             "7pm - 8:30pm"
          ],
          "cost":"$40",
-         "description":"3mm needles and 2 balls of DK Sock Yarn",
+         "supplies":"Materials needed - 3mm needles and 2 balls of DK Sock Yarn",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -79,7 +79,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"4mm needles Berocco Vintage & rovings",
+         "supplies":"Materials needed - 4mm needles Berocco Vintage & rovings",
           "note":"All yarn to be purchased in store"
       },
       {  
@@ -95,7 +95,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"4.5mm needles & 1 ball of cotton",
+         "supplies":"Materials needed - 4.5mm needles & 1 ball of cotton",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -111,7 +111,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"4mm needles and any dk yarn",
+         "supplies":"Materials needed - 4mm needles and any dk yarn",
          "note":"All yarn to be purchased in store"
        
       },
@@ -129,7 +129,7 @@
             "7pm - 8:30pm"
          ],
          "cost":"$40",
-         "description":"5mm needles & 1 skein Misti Alpaca Sox",
+         "supplies":"Materials needed - 5mm needles & 1 skein Misti Alpaca Sox",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -145,7 +145,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"2.5mm or 2.75mm needle & sock yarn",
+         "supplies":"Materials needed - 2.5mm or 2.75mm needle & sock yarn",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -161,7 +161,7 @@
             "7pm - 8:30pm"
          ],
          "cost":"$20",
-         "description":"4.5mm needles & 1 ball of cotton",
+         "supplies":"Materials needed - 4.5mm needles & 1 ball of cotton",
          "note":"All yarn to be purchased in store"
       },
       {  
@@ -177,7 +177,7 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"4mm needles and any dk yarn",
+         "supplies":"Materials needed - 4mm needles and any dk yarn",
          "note":"All yarn to be purchased in store",
          "prerequisites":"Must know how to knit and purl."
       },
