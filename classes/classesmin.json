@@ -116,68 +116,69 @@
        
       },
       {  
-         "title":"Technique Class: Sock heel - short row",
+         "title":"Mitred Square Scarf",
+         "parts":2,
+         "dates":[  
+            [  
+               "Thu Oct 19 2017",
+               "Thu Nov 2 2017"
+            ]
+         ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"5mm needles & 1 skein Misti Alpaca Sox",
+         "note":"All yarn to be purchased in store"
+      },
+      {  
+         "title":"Learn Magic Loop & Cast on",
          "parts":1,
          "dates":[  
             [  
-               "Thu Mar 30 2017"
+               "Thu Oct 26 2017"
             ]
          ],
          "times":[  
             "2pm - 3pm",
             "6pm - 7pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn how to construct a short row heel, using DK weight yarn and 3.25mm double point needles. You will need to cast on 48 stitches, join to work in the round, and knit approximately 1 inch, and bring this to class.",
-         "note":null
+         "cost":"$20",
+         "description":"2.5mm or 2.75mm needle & sock yarn",
+         "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Technique Class: Intermediate Lace",
+         "title":"Fern Lace Dishcloth beginner lace",
          "parts":1,
          "dates":[  
             [  
-               "Thu Mar 30 2017"
+               "Thu Oct 26 2017"
             ]
          ],
          "times":[  
-            "3pm - 4pm",
-            "7:30pm - 8:30pm"
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn further lace increases and decreases, including the centered double decrease.  You will need to bring light weight yarn and appropriate needles to class.",
-         "note":null
+         "cost":"$20",
+         "description":"4.5mm needles & 1 ball of cotton",
+         "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Technique Class: Sock Heel - eye of partridge",
+         "title":"Technique Class: Increases and Decreases",
          "parts":1,
          "dates":[  
             [  
-               "Thu Apr 6 2017"
+               "Thu Nov 2 2017"
             ]
          ],
          "times":[  
             "2pm - 3pm",
             "6pm - 7pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn how to make a sock heel using the Eye of Partridge pattern, which makes a very nicely textured heel, using DK weight yarn and 3.25mm double point needles.  You will need to  cast on 48 stitches, join to work in the round, and knit approximately 1 inch, and bring this to class.",
-         "note":null
-      },
-      {  
-         "title":"Technique Class: Entrelac- dishcloth",
-         "parts":1,
-         "dates":[  
-            [  
-               "Thu Apr 6 2017"
-            ]
-         ],
-         "times":[  
-            "3pm - 4pm",
-            "7:30pm - 8:30pm"
-         ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn the entrelac technique on a dishcloth.  You will need to bring 1 ball of dishcloth cotton and 4.5mm needles to class.  *You must know how to knit and purl.*",
-         "note":null,
+         "cost":"$20",
+         "description":"4mm needles and any dk yarn",
+         "note":"All yarn to be purchased in store"
          "prerequisites":"Must know how to knit and purl."
       },
       {  
