@@ -205,23 +205,31 @@
          "image": "http://woolandsilkco.github.io/img/kal/kaldavinci.jpg"
       },
       {  
-         "title":"Knit-A-Long Class: Ginseng Cowl",
-         "parts":1,
+         "title":"Knit-A-Long Class: Diamond Kerchief Cowl",
+         "parts":2,
          "dates":[  
             [  
-               "Tue Apr 11 2017"
+               "Mon Sep 25 2017",
+               "Mon Oct 16 2017"
             ],
             [  
-               "Wed Apr 12 2017"
+               "Wed Sep 27 2017",
+               "Wed Oct 11 2017"
             ]
          ],
          "times":[  
             "1pm - 3pm",
-            "6:30pm - 8:30pm"
+            "10:30pm - 12:30pm"
          ],
+         [  
+               "6:30pm - 8:30pm"
+            ]         
+         
          "cost":"Free with yarn purchase",
-         "description":"We will be using CEY Vail in gorgeous natural colours to create this lacy, lightweight cowl, and features wave lace sampler motifs and a functional taper to help keep you warm.",
-         "link":"http://www.ravelry.com/patterns/library/ginseng"
+         "description":"A great cowl to tuck into your jacket on those cold mornings that are coming.If you’ve wanted to learn simple lace and increases & working in the round then this is the cowl KAL for you.",
+         "supplies":"Materials needed - 4.5mm x 24in circular needle & 1 skein Ultra Alpaca",
+         "link": "http://www.ravelry.com/patterns/library/diamond-kerchief-cowl",
+         "image": "http://woolandsilkco.github.io/img/kal/kaldiamond.jpg"
       },
       {  
          "title":"Knit-A-Long Class: Inez Tank",
