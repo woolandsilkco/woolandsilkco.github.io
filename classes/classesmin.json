@@ -34,36 +34,37 @@
          "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Technique Class: cast-ons; provisional and Judy's Magic Cast-On",
+         "title":"Learn to Crochet Granny Squares",
          "parts":1,
          "dates":[  
             [  
-               "Thu Mar 16 2017"
+               "Thu Sep 28 2017"
             ]
          ],
          "times":[  
             "2pm - 3pm",
             "6pm - 7pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn two more advanced cast on techniques, you will need to bring yarn and appropriate needles, and a crochet hook of the same size.",
-         "note":null
+         "cost":"$20",
+         "description":"5 mm hook and 1 ball of cotton",
+         "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Technique Class: Beginner Lace",
-         "parts":1,
+         "title":"Learn Basic Socks",
+         "parts":2,
          "dates":[  
             [  
-               "Thu Mar 16 2017"
+               "Thu Sep 28 2017",
+               "Thu Oct 12 2017"
             ]
          ],
          "times":[  
-            "3pm - 4pm",
-            "7:30pm - 8:30pm"
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn the basics of lace, using DK weight yarn and 4mm needles.  You will need to cast on 40 stitches and work 8-10 rows of stocking stitch, and bring this to class on the needles. *You must already know how to knit and purl*",
-         "note":null
+         "cost":"$40",
+         "description":"3mm needles and 2 balls of DK Sock Yarn",
+         "note":"All yarn to be purchased in store"
       },
       {  
          "title":"Technique Class: Cast-on; Tubular",
