@@ -67,60 +67,53 @@
          "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Technique Class: Cast-on; Tubular",
+         "title":"Learn to Thrum",
          "parts":1,
          "dates":[  
             [  
-               "Thu Mar 23 2017"
+               "Thu Oct 5 2017"
             ]
          ],
          "times":[  
             "2pm - 3pm",
             "6pm - 7pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn how to do the Tubular Cast-On, which makes a very nice edge on ribbing.  You will need to bring worsted weight yarn and 4.5mm or 5mm needles with you to class.",
-         "note":null
+         "cost":"$20",
+         "description":"4mm needles Berocco Vintage & rovings",
+          "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Technique Class: Beginner cables and bobbles",
+         "title":"Learn Mitred Square dishcloth",
          "parts":1,
          "dates":[  
             [  
-               "Thu Mar 23 2017"
+               "Thu Oct 12 2017"
             ]
          ],
          "times":[  
-            "3pm - 4pm",
-            "7:30pm - 8:30pm"
+            "2pm - 3pm",
+            "6pm - 7pm"
          ],
-         "cost":"$15",
-         "description":"In this 1 hour tech class you will learn how easy it is to work a cable, and how to make a bobble.  You will need to cast on 35 stitches and work 8-10 rows of stocking stitch, and bring this to class on the needles.  You will also need to bring along or purchase a cable needle.",
-         "note":null
+         "cost":"$20",
+         "description":"4.5mm needles & 1 ball of cotton",
+         "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Knit-A-Long Class: Santa Rosa Plum",
-         "parts":3,
+         "title":"Learn Short Row Techniques",
+         "parts":1,
          "dates":[  
             [  
-               "Tues Feb 28 2017", 
-               "Tues Mar 28 2017",
-               "Tues Apr 25 2017"
-            ],
-            [
-                "Wed Feb 29 2017",
-                "Wed Mar 29 2017",
-                "Wed Apr 26 2017"
-            ]
+               "Thu Oct 19 2017"
+         ]
          ],
          "times":[  
-            "1pm - 3pm",
-            "6:30pm - 8:30pm"
+            "2pm - 3pm",
+            "6pm - 7pm"
          ],
-         "cost":"N/A",
-         "description":"A beautiful light weight cardigan for spring. Knitted in 4 shades of Drops Baby Alpaca Silk. So soft, so light. Sizes range from extra small to medium require 2 balls of each colour, large to 2XL require 3 balls of each colour. Choose from one of our 5 selected groupings. Also requires 3.5mmx80cm circulars, and 3.5mm dpns. Pattern is $8.45 CAD (approx)",
-         "note":null,
-         "prerequisites":"Must know how to knit and purl."
+         "cost":"$20",
+         "description":"4mm needles and any dk yarn",
+         "note":"All yarn to be purchased in store"
+       
       },
       {  
          "title":"Technique Class: Sock heel - short row",
