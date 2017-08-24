@@ -1,5 +1,57 @@
 {  
-   "classes":[   
+   "classes":[ 
+      {  
+         "title":"KAL - DaVinci Cowl - Session 1",
+         "dates":[  
+            [  
+               "Mon Sep 18 2017",
+               "Mon Oct 2 2017",
+                           ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "1pm - 3pm"
+         ]
+},
+       {  
+         "title":"KAL - DaVinci Cowl - Session 2",
+         "dates":[  
+            [  
+               "Wed Sep 20 2017",
+               "Wed Oct 4 2017",
+                           ]
+         ],
+         "times":[  
+            "6:30pm - 8:30pm",
+            "6:30pm - 8:30pm"
+         ]
+},
+       {  
+         "title":"KAL - Diamond Kerchief Cowl - Session 1",
+         "dates":[  
+            [  
+               "Mon Sep 25 2017",
+               "Mon Oct 16 2017",
+                           ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "10:30am - 12:30pm"
+         ]
+},
+       {  
+         "title":"KAL - Diamond Kerchief Cowl - Session 2",
+         "dates":[  
+            [  
+               "Wed Sep 27 2017",
+               "Wed Oct 11 2017",
+                           ]
+         ],
+         "times":[  
+            "6:30pm - 8:30pm",
+            "6:30pm - 8:30pm"
+         ]
+},
       {  
          "title":"Learn to Knit - Dishcloth",
          "dates":[  
@@ -71,6 +123,59 @@
             "2pm - 3pm",
             "6pm - 7pm"
          ]      },
+       {  
+         "title":"KAL - Thrummed Mittens - Session 1",
+         "dates":[  
+            [  
+               "Mon Oct 16 2017",
+               "Mon Oct 30 2017",
+                           ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "1pm - 3pm"
+         ]
+},
+       {  
+         "title":"KAL - Thrummed Mittens - Session 2",
+         "dates":[  
+            [  
+               "Wed Oct 18 2017",
+               "Wed Nov 1 2017",
+                           ]
+         ],
+         "times":[  
+            "6:30pm - 8:30pm",
+            "6:30pm - 8:30pm"
+         ]
+},
+            {  
+         "title":"KAL - Ruby's Hat - Session 1",
+         "dates":[  
+            [  
+               "Mon Oct 23 2017",
+               "Mon Nov 6 2017",
+                           ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "1pm - 3pm"
+         ]
+},
+       {  
+         "title":"KAL - Ruby's Hat - Session 2",
+         "dates":[  
+            [  
+               "Wed Oct 25 2017",
+               "Wed Nov 8 2017",
+                           ]
+         ],
+         "times":[  
+            "6:30pm - 8:30pm",
+            "6:30pm - 8:30pm"
+         ]
+},
+      
       {  
          "title":"Learn Short Row Techniques",
          "dates":[  
