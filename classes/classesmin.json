@@ -210,20 +210,20 @@
          "dates":[  
             [  
                "Mon Sep 25 2017",
-               "Mon Oct 16 2017"
+               "Mon Oct 16 2017 Session 1"
             ],
             [  
-               "Wed Sep 27 2017",
+               "Wed Sep 27 2017 Session 2",
                "Wed Oct 11 2017"
             ]
          ],
          "times":[
          [  
             "1pm - 3pm",
-            "10:30pm - 12:30pm"
+            "10:30pm - 12:30pm Session 1"
          ],
          [  
-               "6:30pm - 8:30pm"
+               "6:30pm - 8:30pm Session 2"
             ]
             ] ,        
          
