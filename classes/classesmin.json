@@ -210,20 +210,20 @@
          "dates":[  
             [  
                "Mon Sep 25 2017",
-               "Mon Oct 16 2017 Session 1"
+               "Mon Oct 16 2017 (Session 1)"
             ],
             [  
-               "Wed Sep 27 2017 Session 2",
-               "Wed Oct 11 2017"
+               "Wed Sep 27 2017",
+               "Wed Oct 11 2017 (Session 2)"
             ]
          ],
          "times":[
          [  
             "1pm - 3pm",
-            "10:30pm - 12:30pm Session 1"
+            "10:30pm - 12:30pm (Session 1)"
          ],
          [  
-               "6:30pm - 8:30pm Session 2"
+               "6:30pm - 8:30pm (Session 2)"
             ]
             ] ,        
          
@@ -234,26 +234,28 @@
          "image": "http://woolandsilkco.github.io/img/kal/kaldiamond.jpg"
       },
       {  
-         "title":"Knit-A-Long Class: Inez Tank",
-         "parts":3,
+         "title":"Knit-A-Long Class: Thrummed Mittens",
+         "parts":2,
          "dates":[  
             [  
-               "Tue Apr 18 2017",
-               "Tue May 9 2017",
-               "Wed Jun 21 2017"
+               "Mon Oct 16 2017",
+               "Mon Oct 30 2017 (Session 1)"
             ],
             [  
-               "Wed Apr 18 2017",
-               "Wed May 10 2017",
-               "Thu Jun 22 2017"
+               "Wed Oct 18 2017",
+               "Wed Nov 1 2017 (Session 2)"
             ]
          ],
          "times":[  
-            "6:30pm - 8:30pm"
+            "1pm - 3pm (Session 1)",
+            "6:30pm - 8:30pm (Session 2)"
          ],
          "cost":"Free with yarn purchase",
-         "description":"Creating a summer tank using Juniper Moon's Zooey. Starting at the bottom with a lovely lace edge, enjoy the blend of cotton and linen.",
-         "link":"http://www.ravelry.com/patterns/library/inez-6"
+         "description":"Let’s get ready for winter! Do you have a special someone that you want to keep warm? Here is an easy way to make thrummed mittens, on just 2 needles.
+",
+         "link":"http://www.ravelry.com/patterns/library/thrummed-mittens-on-2-needles"
+          "supplies":"Materials needed - 3.25mm & 4mm needles, 1 skein Berocco Vintage & Rovings",
+         "image": "http://woolandsilkco.github.io/img/kal/kalmittens.jpg"
       },
       {  
          "title":"Technique Class: Magic Loop",
