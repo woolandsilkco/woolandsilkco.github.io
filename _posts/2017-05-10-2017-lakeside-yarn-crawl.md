@@ -2,89 +2,60 @@
 layout: post
 type: current
 published: true
-title: Super Summer Sell-Down !!!
+title: 10 Weeks of X-mas is back!! !!!
 ---
  
-**To celebrate the heat of summer we are having our Super Summer Sell down sale!**
-(Say that three times fast! )
+ (Read all the way to the bottom for a special deal !)
 
-All in-store stock of summer yarns are a minimum 25% off
+![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
 
-Several yarns are featured at up to 40% off 
+- 10 Weeks of X-mas is back!!
 
-Sale will be on from August 14th-26th
+- It's time to enjoy some pre-Christmas savings & fun.
+- Beginning on Monday September 11th we will be e-mailing you a feature product each week.
+- You can decide whether or not you would like that product and how many you want (some quantities are limited by stock amounts).
+- Everything is featured at 15% off. 
+- Get gifts for the knitters on your list or treat yourself to a few things at a good savings! 
 
-**25% off**
-- Avalon
-- Baby Bamboo DK
-- Belice
-- Cascade Ultra Pima
-- Evolution
-- Fibra Natura Flax
-- Misti Alpaca Pima Silk
-- Montoya Beach
-- Neve
-- Phoenix DK
-- Pima Lino Colori
-- Pima Lino Lace
-- Shirley Brian
-- Summertime Shawl Kit
-- Sunkissed
-- Zooey
+How it Works:
+A simple phone call to the store will reserve your purchase. All items must be paid for in full at that time. We prefer that you do not send an e-mail as credit card info by that method may not be very secure.
+You can continue to order from previous weeks as the program goes along. (example: if it is week 4 you can still order from weeks 1, 2 & 3).
+All items will be bagged & held at the store until the start of pickup on November 27th. Items are not available to you before this date.  
+
+Mondays Reminder
+
+Just reminding you that we are now open on Mondays to help you with your after weekend knitting & crocheting needs.
+
+Come in & see what's new!
+
+Kit of the Month
+
+HBCesque Cowl
  
-**40% off**
-- Amalfi
-- Beachcomber
-- Eco Baby
-- Little Bird
+It is almost fall and time to start knitting something cozy to wear with your jackets.  Here is the perfect project. Featuring the classic colours of the Hudson's Bay Co.  We have kitted it up with miniaturized quantities of the colours required for the stripes. Pattern is included to make either the large or the small size. Enjoy the beauty of Drops Baby Merino yarn.
 
-Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
+$25.00 (needle not included)
 
-**Mondays !!!**
+![hbcesque_cowl.jpg]({{site.baseurl}}/news/img/hbcesque_cowl.jpg)
 
-Some of you may have noticed that I said the sale begins on August 14th. That is a Monday. And yes, we will now be open on Mondays beginning that day!  Come in & say "Hi" ! 
-
-
-![faros_cardigan.jpg]({{site.baseurl}}/news/img/faros_cardigan.jpg)
-<div class="clearfix"></div>
-
-Look at the gorgeous Faros cardigan!!  Beautifully knitted in Juniper Moon's squishy Cumulus. Like wearing a cozy warm cloud. With an easy to achieve simple lace pattern and 8 gorgeous colours to choose from (see below).  The yarn & pattern for this sweater will be offered during the summer sale at 15% off.
-
-
-![aug16_yarn.jpg]({{site.baseurl}}/news/img/aug16_yarn.jpg)
-
-<div class="clearfix"></div>
-Cumulus
+New Yarn In  !!
  
-- 94% Cotton, 6% Nylon
-- 100g 
-- 251yds
-- needle: 4.5-5.5mm
-- 16-20sts = 4ins
-- Lilac, Snowy White, Med Blue, Purple, Grey, Sky Blue, Wheat yellow & Navy
+Ella Rae Seasons is here.  A beautiful colour changing yarn. Works wonderfully with the Linen Stitch hat pattern.
+
+$9.95 /ball  (hat takes 1 ball)
+
+![ella_rae.jpg]({{site.baseurl}}/news/img/ella_rae.jpg)
 
 Special Deal !!!
  
-Lakeside Yarn Crawl bags can be purchased in store for 20% off during the month of August. You don't have to be on the crawl to get one. Great heavyweight twill with strong handles and lots of space to hold that special project. Cream with Navy handles.
+Sugar Bush yarns Bold is on sale for 20% off during the month of September. Lovely worsted weight 100% merino yarn. Absolutely gorgeous to knit with.  
+100g ball
+190yds
+8 fabulous colours
+needles: 4.5-5.5mm
+gauge: 16-20sts = 4ins
+Great for a 1 or 2 ball project (think hat or scarf) or for that beautiful sweater. It would certainly do patterning or cabling.
 
-$19.95  (Reg $24.95)
 
-*It is time for the 2017 Lakeside Yarn Crawl!*
+$13.56  (Reg $16.95)
 
-Beginning on Saturday June 3rd & finishing on Monday September 4th
-
-11 beautiful yarn shops to enjoy on lovely drives through the countryside! (please check websites or call for hours of business) 
-
-Pick up your passport at the first shop you go to and try to visit as many shops as possible. Each shop will stamp your passport. There are draws, featured yarns & patterns and a Grand Prize drawing at the end of the crawl for the passports with the most stamps.
-
-- The Purple Sock - Coldwater
-- Purl 3 - Orillia
-- Eliza's Buttons & Yarn - Barrie
-- True North Yarn Co. - Barrie
-- Alliston Yarns - Alliston
-- Creemore House of Stitches - Creemore
-- Riverside Yarns - Owen Sound
-- Docknits - Port Elgin
-- The Wool & Silk Co. - Shelburne
-- The Knitting Basket - Rosemont
-- Purrsonally Yours Fabric & Wool Shop - Meaford
