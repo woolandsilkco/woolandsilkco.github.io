@@ -5,7 +5,7 @@ published: true
 title: 10 Weeks of X-mas is back!! !!!
 ---
  
- (Read all the way to the bottom for a special deal !)
+ - (Read all the way to the bottom for a special deal !)
 
 ![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
 
