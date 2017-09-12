@@ -5,11 +5,10 @@ published: true
 title: 10 Weeks of X-mas is back!! !!!
 ---
  
- - (Read all the way to the bottom for a special deal !)
+<ul> - (Read all the way to the bottom for a special deal !)
+ - 10 Weeks of X-mas is back!!</ul>
 
 ![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
-
-- 10 Weeks of X-mas is back!!
 
 - It's time to enjoy some pre-Christmas savings & fun.
 - Beginning on Monday September 11th we will be e-mailing you a feature product each week.
