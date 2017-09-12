@@ -4,6 +4,7 @@ type: news
 published: true
 title: 'Newsletter September 1st, 2017'
 ---
+![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
 10 Weeks of X-mas is back!!
 
 It's time to enjoy some pre-Christmas savings & fun.
