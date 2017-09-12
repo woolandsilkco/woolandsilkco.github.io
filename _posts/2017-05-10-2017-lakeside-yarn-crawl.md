@@ -28,12 +28,11 @@ Just reminding you that we are now open on Mondays to help you with your after w
 Come in & see what's new!
 
 New Yarn In  !!
- 
+![ella_rae.jpg]({{site.baseurl}}/news/img/ella_rae.jpg)
+
 Ella Rae Seasons is here.  A beautiful colour changing yarn. Works wonderfully with the Linen Stitch hat pattern.
 
 $9.95 /ball  (hat takes 1 ball)
-
-![ella_rae.jpg]({{site.baseurl}}/news/img/ella_rae.jpg)
 
 Special Deal !!!
  
