@@ -28,16 +28,6 @@ Just reminding you that we are now open on Mondays to help you with your after w
 
 Come in & see what's new!
 
-Kit of the Month
-
-HBCesque Cowl
- 
-It is almost fall and time to start knitting something cozy to wear with your jackets.  Here is the perfect project. Featuring the classic colours of the Hudson's Bay Co.  We have kitted it up with miniaturized quantities of the colours required for the stripes. Pattern is included to make either the large or the small size. Enjoy the beauty of Drops Baby Merino yarn.
-
-$25.00 (needle not included)
-
-![hbcesque_cowl.jpg]({{site.baseurl}}/news/img/hbcesque_cowl.jpg)
-
 New Yarn In  !!
  
 Ella Rae Seasons is here.  A beautiful colour changing yarn. Works wonderfully with the Linen Stitch hat pattern.
