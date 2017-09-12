@@ -55,7 +55,7 @@ Ella Rae Seasons is here.  A beautiful colour changing yarn. Works wonderfully w
 
 $9.95 /ball  (hat takes 1 ball)
 
-![ella_ray.jpg]({{site.baseurl}}/news/img/ella_ray.jpg)
+![ella_rae.jpg]({{site.baseurl}}/news/img/ella_rae.jpg)
 
 BINGO has ended
  
