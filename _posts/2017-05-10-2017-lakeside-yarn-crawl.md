@@ -35,6 +35,7 @@ Ella Rae Seasons is here.  A beautiful colour changing yarn. Works wonderfully w
 $9.95 /ball  (hat takes 1 ball)
 
 
+
 Special Deal !!!
  
 Sugar Bush yarns Bold is on sale for 20% off during the month of September. Lovely worsted weight 100% merino yarn. Absolutely gorgeous to knit with.  
