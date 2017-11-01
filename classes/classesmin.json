@@ -441,6 +441,20 @@
          ],
          "cost":"$10 per 1/2 hour",
          "supplies":"PLEASE CALL TO RESERVE A TIME SLOT"
+    },
+      { 
+         "title":"Knitting 911",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Dec 21 2017"
+            ]
+         ],
+         "times":[  
+            "2pm - 8:30pm"
+         ],
+         "cost":"$10 per 1/2 hour",
+         "supplies":"PLEASE CALL TO RESERVE A TIME SLOT"
     }
      ]
 }
