@@ -427,6 +427,20 @@
          "supplies":"Materials needed -  2.25mm-2.5mm x 100cm circular needle, 2 x 50gm balls of sock yarn ",
          "note":"All yarn to be purchased in store",
             "prerequisites":"MAGIC LOOP"
+    },
+      { 
+         "title":"Knitting 911",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Dec 14 2017"
+            ]
+         ],
+         "times":[  
+            "2pm - 8:30pm",
+         ],
+         "cost":"$10 per 1/2 hour",
+         "supplies":"PLEASE CALL TO RESERVE A TIME SLOT",
     }
      ]
 }
