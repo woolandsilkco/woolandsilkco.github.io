@@ -247,9 +247,11 @@
             ]
          ],
          "times":[  
+            [
             "1pm - 3pm (Session 1)",
             "6:30pm - 8:30pm (Session 2)"
-         ],
+         ]
+            ],
          "cost":"Free with yarn purchase",
          "description":"Let's get ready for winter! Do you have a special someone that you want to keep warm? Here is an easy way to make thrummed mittens, on just 2 needles.",
          "link":"http://www.ravelry.com/patterns/library/thrummed-mittens-on-2-needles",
