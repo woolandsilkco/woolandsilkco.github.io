@@ -345,6 +345,22 @@
          "cost":"$20",
          "supplies":"Materials needed -    Make 4 x 4 inch squares to sew together, yarn for sewing, and a darning needle    ",
          "note":"All yarn to be purchased in store"
+    },
+       { 
+         "title":"Lacy Winter Cowl-2 of 2 classes",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Nov 16 2017"
+            ]
+         ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "supplies":"Materials needed -  4mm & 4.5mm X 60cm circular needles and 1 skein of Sweet Paprika Minuet",
+         "note":"All yarn to be purchased in store"
     }
      ]
 }
