@@ -361,6 +361,22 @@
            "cost":"$40",
          "supplies":"Materials needed -  4mm & 4.5mm X 60cm circular needles and 1 skein of Sweet Paprika Minuet",
          "note":"All yarn to be purchased in store"
+    },
+       { 
+         "title":"Crochet Hat-1 of 2 classes",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Nov 23 2017"
+            ]
+         ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+           "cost":"$20",
+         "supplies":"Materials needed -  44.25mm and 5mm crochet hooks and 100gms of sport weight yarn",
+         "note":"All yarn to be purchased in store"
     }
      ]
 }
