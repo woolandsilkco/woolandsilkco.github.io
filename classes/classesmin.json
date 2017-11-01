@@ -394,6 +394,22 @@
          "supplies":"Materials needed -  2.25mm-2.5mm x 100cm circular needle, 2 x 50gm balls of sock yarn ",
          "note":"All yarn to be purchased in store",
             "prerequisites":"MAGIC LOOP"
+    },
+       { 
+         "title":"Crochet Hat-2 of 2 classes",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Dec 7 2017"
+            ]
+         ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+           "cost":"$20",
+         "supplies":"Materials needed -  44.25mm and 5mm crochet hooks and 100gms of sport weight yarn",
+         "note":"All yarn to be purchased in store"
     }
      ]
 }
