@@ -329,6 +329,22 @@
          "supplies":"Materials needed -  2.25mm-2.5mm x 100cm circular needle, 2 x 50gm balls of sock yarn ",
          "note":"All yarn to be purchased in store",
             "prerequisites":"MAGIC LOOP"
+    },
+      { 
+         "title":"Technique-Sewing Together-1 class",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Nov 16 2017"
+            ]
+         ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "supplies":"Materials needed -    Make 4 x 4 inch squares to sew together, yarn for sewing, and a darning needle    ",
+         "note":"All yarn to be purchased in store"
     }
      ]
 }
