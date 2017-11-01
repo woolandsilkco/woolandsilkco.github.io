@@ -377,6 +377,23 @@
            "cost":"$20",
          "supplies":"Materials needed -  44.25mm and 5mm crochet hooks and 100gms of sport weight yarn",
          "note":"All yarn to be purchased in store"
-    }
+    },
+      { 
+         "title":"Two at a Time Toe-Up Socks-2of 3 classes",
+         "parts":1,
+         "dates":[  
+            [  
+               "Thu Nov 23 2017"
+            ]
+         ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$60",
+         "supplies":"Materials needed -  2.25mm-2.5mm x 100cm circular needle, 2 x 50gm balls of sock yarn ",
+         "note":"All yarn to be purchased in store",
+            "prerequisites":"MAGIC LOOP"
+    }, 
      ]
 }
