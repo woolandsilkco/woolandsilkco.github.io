@@ -456,22 +456,28 @@
          "cost":"$10 per 1/2 hour",
          "supplies":"PLEASE CALL TO RESERVE A TIME SLOT"
     },
-       { 
-         "title":"KAL'S - I’ll Pack A Cowl for Rhinebeck  (2 classes)",
+      {  
+         "title":"Knit-A-Long Class: I’ll Pack A Cowl for Rhinebeck  (2 classes)",
          "parts":1,
          "dates":[  
             [  
-               "Nov 13 & Dec 4 2017",
-               "Nov 15 & Dec 6 2017"
-                           ]
+                "Nov 13 2017",
+                "Dec 4 2017"
+            ],
+            [  
+                "Nov 15 2017",
+                "Dec 6 2017"
+            ]
          ],
          "times":[  
             "1pm - 3pm",
-            "6pm - 8:30p"
+            "6pm - 8:30pm"
          ],
-          "supplies":"Materials needed -Berroco Vintage: 1 skein main colour, 1 skein contrast colour, 50 yards of white, and 25 yards of black, 4.5mm x 60cm circular needle",
-         "note":"KAL classes are free - yarns are to be purchased in store",
-         "prerequisites":"You will need to know how to do two handed fair isle to make this cowl. We are offering a Technique Class to teach this on November 9, 2:00-3:00pm or 6:00-7:00pm, cost is $20."
-       }
-          ]
+         "cost":"Free with Yarn Purchase",
+         "description":"Let’s have some fun with this cowl, and do some colourwork. It will be as soft and cushy as the sheep that are on it.",
+         "note":null,
+       "supplies":"Materials needed -Berroco Vintage: 1 skein main colour, 1 skein contrast colour, 50 yards of white, and 25 yards of black, 4.5mm x 60cm circular needle"
+         "prerequisites":"You will need to know how to do two handed fair isle to make this cowl. We are offering a Technique Class to teach this on November 9, 2:00-3:00pm or 6:00-7:00pm, cost is $2."
+      }
+             ]
 }
