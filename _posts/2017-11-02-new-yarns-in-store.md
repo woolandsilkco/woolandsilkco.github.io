@@ -6,7 +6,7 @@ title: New yarns in Store!
 ---
 Introducing
 
-![newyarns_nov_sm.jpg]({{site.baseurl}}/news/img/newyarns_nov_sm.jpg)
+![newyarns_nov_sm.png]({{site.baseurl}}/news/img/newyarns_nov_sm.png)
 
 Colourwheel by Sirdar - a double knitting, colour changing yarn with scads of yardage (568yds/520m). Comes with a pattern for a scarf & a shawl. An acrylic/wool blend that is oh so soft.
 
