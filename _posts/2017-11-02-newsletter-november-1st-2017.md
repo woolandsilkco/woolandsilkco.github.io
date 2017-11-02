@@ -38,6 +38,8 @@ KAL's are free classes but yarns are to be purchased in store and are not at a d
 Project of the Month
 
 GHOSTWOOD MITTENS
+
+![ghostwood_mittens.jpg]({{site.baseurl}}/news/img/ghostwood_mittens.jpg)
  
 Have you seen/felt these gorgeous mittens yet?
 
@@ -53,11 +55,9 @@ $29.95 (with pattern. Needle not included)
 
 Several luscious shade pairings to choose from.
 
-![ghostwood_mittens.jpg]({{site.baseurl}}/news/img/ghostwood_mittens.jpg)
-
 New Yarn In  !!
 
-![newyarns_nov.jpg]({{site.baseurl}}/news/img/newyarns_nov.jpg)
+
  
 Colourwheel by Sirdar - a double knitting, colour changing yarn with scads of yardage (568yds/520m). Comes with a pattern for a scarf & a shawl. An acrylic/wool blend that is oh so soft.
 
@@ -71,3 +71,4 @@ Ilusion by Hayfield - Double knitting weight. A spectacular yarn to make a scarf
 
 Several new shades of Madeline Tosh Merino Light have joined us as well. Mad. Tosh. What more can we say?? 
 
+![newyarns_nov.jpg]({{site.baseurl}}/news/img/newyarns_nov.jpg)
