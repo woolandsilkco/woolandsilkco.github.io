@@ -23,8 +23,6 @@ While we do our best to fill all orders the choices are first come first serve
 and this may apply to in-stock colours, etc.
 Items will not be wrapped.
 
-Project of the Month
-
 Week #9
 Ball Winder & Swift set
 
