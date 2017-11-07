@@ -4,7 +4,7 @@ type: news
 published: true
 title: 'Newsletter October 1st, 2017'
 ---
-10 Weeks of Christmas is back!!
+- 10 Weeks of Christmas is back!!
 
 ![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
 
