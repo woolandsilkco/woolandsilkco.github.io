@@ -4,11 +4,10 @@ type: news
 published: true
 title: 'Newsletter December 1st, 2017'
 ---
-<strong>Christmas is Coming!</strong>
 
 ![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
 
-- If you haven't already started your X-mas knitting or if you need a few more items to add to gifts we have lots of choices for you.
+- Christmas is Coming! If you haven't already started your X-mas knitting or if you need a few more items to add to gifts we have lots of choices for you.
 
 - cowls
 - hats
