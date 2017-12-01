@@ -18,6 +18,8 @@ If you haven't already started your X-mas knitting or if you need a few more ite
 
 These projects are quick to knit and fun to wear. Lots of chunky/bulkys to choose from with kits ready and available to start.
 
+<hr>
+
 Ghostwood Mittens
 
 ![ghostwood_mittens.jpg]({{site.baseurl}}/news/img/ghostwood_mittens.jpg)
@@ -34,6 +36,8 @@ $29.95 (with pattern. Needle not included)
 
 Several luscious shade pairings to choose from. 
 
+<hr>
+
 Holiday Hours
 
 Regular Hours are:
@@ -48,10 +52,13 @@ Dec 26 - Boxing Day - Closed
 Dec 27-30 Regular Hours
 Jan 1, 2018 - New Year's Day - Closed
 
+<hr>
+
 Closed for Inventory
 
 An advance notice that we will be closed on Monday December 11th for inventory. Our apologies for any inconvenience that this may cause. 
 
+<hr>
 
 Classes & KAL's 
 
@@ -64,6 +71,7 @@ Classes have a set fee & offer 10% off the price of the yarns purchased for the 
 
 KAL's are free classes but yarns are to be purchased in store and are not at a discount.
 
+<hr>
 
 Thank you!
 
