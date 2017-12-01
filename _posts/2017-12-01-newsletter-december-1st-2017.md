@@ -4,7 +4,7 @@ type: news
 published: true
 title: 'Newsletter December 1st, 2017'
 ---
-Christmas is Coming!
+<strong>Christmas is Coming!</strong>
 
 ![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
 
@@ -20,7 +20,7 @@ These projects are quick to knit and fun to wear. Lots of chunky/bulkys to choos
 
 <hr>
 
-Ghostwood Mittens
+<strong>Ghostwood Mittens</strong>
 
 ![ghostwood_mittens.jpg]({{site.baseurl}}/news/img/ghostwood_mittens.jpg)
 
@@ -38,7 +38,7 @@ Several luscious shade pairings to choose from.
 
 <hr>
 
-Holiday Hours
+<strong>Holiday Hours</strong>
 
 Regular Hours are:
 Mon, Tues, Thurs & Fri  10am-5pm
@@ -54,13 +54,13 @@ Jan 1, 2018 - New Year's Day - Closed
 
 <hr>
 
-Closed for Inventory
+<strong>Closed for Inventory</strong>
 
 An advance notice that we will be closed on Monday December 11th for inventory. Our apologies for any inconvenience that this may cause. 
 
 <hr>
 
-Classes & KAL's 
+<strong>Classes & KAL's </strong>
 
 (Knit-a-Longs)
 
@@ -73,7 +73,7 @@ KAL's are free classes but yarns are to be purchased in store and are not at a d
 
 <hr>
 
-Thank you!
+<strong>Thank you!</strong>
 
 Thank you to the senior art students of Center Dufferin DHS for creating our Christmas window display.  
 Please come out and appreciate their hard work!
