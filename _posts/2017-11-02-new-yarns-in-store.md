@@ -4,7 +4,6 @@ type: current
 published: true
 title: NEW LYKKE SETS NOW AVAILABLE !!!
 ---
-<strong>NEW LYKKE SETS NOW AVAILABLE !!!</strong>
 
 ![lykke.jpg]({{site.baseurl}}/news/img/lykke.jpg)
 
