@@ -28,31 +28,29 @@ Saturday December 23rd 12-2pm
     sanity you get!!  **
 
 Holiday Hours Reminder
-Dec 23 - 10am-2pm
-Dec 25 - Christmas Day - Closed
-Dec 26 - Boxing Day - Closed
-Dec 27-30 Regular Hours
-Jan 1, 2018 - New Year's Day - Closed
+- Dec 23 - 10am-2pm
+- Dec 25 - Christmas Day - Closed
+- Dec 26 - Boxing Day - Closed
+- Dec 27-30 Regular Hours
+- Jan 1, 2018 - New Year's Day - Closed
 
 Regular Hours are:
-Mon, Tues, Thurs & Fri  10am-5pm
-Wednesdays 10am-8:30pm
-Saturdays 10am-4pm
-December 27th to 30th
+- Mon, Tues, Thurs & Fri  10am-5pm
+- Wednesdays 10am-8:30pm
+- Saturdays 10am-4pm
+- December 27th to 30th
 <hr />
 Boxing Week Sale !!
  
 Come & join us for some yarn indulgence after the Christmas festivities are over! 
   
-- All yarns will be 20% off store wide with selected yarns
-           to 40% off  & pop-up surprises in store !!
+- All yarns will be 20% off store wide with selected yarns to 40% off  & pop-up surprises in store !!
 - January discount envelope with be given out with
     each purchase.  Your chosen sealed envelope will be 
     kept here at the store with your name on it. When you 
     make a purchase in January the discount will be
     revealed!
     (surprise of 15% - 40% off in the month of January)
-
 
 **Note**   :  Sale does not apply to needles, notions, pattern
                     purchases or already discounted items
