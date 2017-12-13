@@ -11,7 +11,6 @@ title: 'Newsletter Boxing Week, 2017'
 - Boxing Week Sale
 - Pom Poms &
 - a surprise new item in stock!!
-- scarves
 
 (Scroll to the bottom..........you won't want to miss this one)
 <hr>
