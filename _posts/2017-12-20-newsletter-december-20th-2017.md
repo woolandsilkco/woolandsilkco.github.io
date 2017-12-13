@@ -5,8 +5,6 @@ published: true
 title: 'Newsletter Boxing Week, 2017'
 ---
 
-![xmas_tree.jpg]({{site.baseurl}}/news/img/xmas_tree.jpg)
-
 - Christmas Cheer
 - Boxing Week Sale
 - Pom Poms &
@@ -52,8 +50,9 @@ Come & join us for some yarn indulgence after the Christmas festivities are over
     revealed!
     (surprise of 15% - 40% off in the month of January)
 
-**Note**   :  Sale does not apply to needles, notions, pattern
-                    purchases or already discounted items
+**Note**   :  Sale does not apply to needles, notions, pattern purchases or already discounted items
+                    
+                    
 <strong>Faux Fur Pom Poms are here !!</strong>
 
 ![pompoms.jpg]({{site.baseurl}}/news/img/pompoms.jpg)
