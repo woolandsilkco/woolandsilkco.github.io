@@ -23,15 +23,12 @@ Come & join us for some yarn indulgence after the Christmas festivities are over
 **Note** Sale does not apply to needles, notions, pattern purchases or already discounted items
 
 Hours:   
-Wed Dec 27: 10am-8:30pm
-
-Thurs Dec 28: 10am-5pm
-
-Fri Dec 29: 10am-5pm
-
-Sat Dec 30: 10am-4pm
+<p>Wed Dec 27: 10am-8:30pm<br />
+Thurs Dec 28: 10am-5pm<br />
+Fri Dec 29: 10am-5pm<br />
+Sat Dec 30: 10am-4pm<br /></p>
               
-NEW LYKKE SETS NOW AVAILABLE !!!
+<strong>NEW LYKKE SETS NOW AVAILABLE !!!</strong>
 
 ![lykke.jpg]({{site.baseurl}}/news/img/lykke.jpg)
 
