@@ -608,6 +608,25 @@
          "supplies":"Materials needed -  3.75mm and 4.5mm double point needles, and any worsted weight yarn",
          "image": "http://woolandsilkco.github.io/img/simplest_mittens.jpg",
          "link" : "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens"
+      },
+        {  
+         "title":"Reading Mitts- cause it’s cold when you read - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Jan 25 2018",
+                "Feb 8 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":"Reading Mitts",
+         "supplies":"Materials needed - 3.75mm double point needles and Herriott DK 1 skein",
+         "image": "http://woolandsilkco.github.io/img/reading_mittens.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/susie-rogers-reading-mitts"
       }
          ]
 }
