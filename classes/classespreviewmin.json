@@ -520,5 +520,20 @@
          "description":"Need some help with your project?  Come in and we can help you out!",
          "note":null
       }
+      {  
+         "title":"Learn to Knit – Dishcloth (1 class)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Jan 4 2018"
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "description":"4.5mm needles and 1 ball of cotton",
+        "note":"All yarn to be purchased in store"
+      }
          ]
 }
