@@ -726,6 +726,25 @@
          "cost":"$20",
          "description":"4mm double point needles  approx. 20 yards each of 2 colours worsted weight yarn",
         "note":"All yarn to be purchased in store"
+      },
+      {  
+         "title":"Ribbed Granny Stitch Cowl – Intermediate Crochet - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 8 2018",
+                "Mar 22 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Jacob's Ladder Dishcloth - I Cord cast on and off",
+         "supplies":"Materials needed - 5.5mm hook and 1 skein Berroco Vintage",
+         "image": "http://woolandsilkco.github.io/img/granny_cowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/ribbed-granny-stitch-cowl"
       }
        ]
 }
