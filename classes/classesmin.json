@@ -798,6 +798,25 @@
          "supplies":"Materials needed - 4mm needles and 2 balls of cotton yarn contrasting colours",
          "image": "http://woolandsilkco.github.io/img/mitred_square.jpg",
          "link" : "https://www.ravelry.com/patterns/library/kas-mitred-square"
+      },
+       {  
+         "title":" Easy Lace Cowl - Karna - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 29 2018",
+                "Apr 12 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":" Easy Lace Cowl - Karna",
+         "supplies":"Materials needed - 5mm circular needles 16” & 2-90 yard skeins of worsted weight yarn",
+         "image": "http://woolandsilkco.github.io/img/lace_cowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/karna"
       }
        ]
 }
