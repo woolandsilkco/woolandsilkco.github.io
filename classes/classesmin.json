@@ -570,6 +570,25 @@
          "cost":"$20",
          "description":"4.5mm needles and 1 ball of cotton",
         "note":"All yarn to be purchased in store"
-      }
+      },
+      {  
+         "title":"Knit in Round and Cables-1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Jan 11 2018",
+                "Jan 25 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Molly Hat",
+         "supplies":"Materials needed -  3.25mm and 4mm circular needles 40cm, 4mm DPN’s, cable needle, worsted weight yarn",
+         "image": "http://woolandsilkco.github.io/img/molly_hat.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/molly-9"
+      },
          ]
 }
