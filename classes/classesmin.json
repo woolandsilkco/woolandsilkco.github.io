@@ -863,6 +863,28 @@
         "supplies":"Materials needed - 3 skeins of Ella Rae worsted weight yarn and 4mm x 80cm circular needles",
            "image": "http://woolandsilkco.github.io/img/high_woods_shawl.jpg",
          "link" : "https://www.ravelry.com/patterns/library/high-woods-shawl"
+      },
+        {  
+         "title":"Knit-A-Long Class:DaVinci Cowl II Tuscany (2 classes)",
+         "parts":2,
+         "dates":[  
+            [  
+                "Feb 5 2018",
+                "Feb 26 2018"
+            ],
+            [  
+                "Feb 7 2018",
+                "Feb 21 2018"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed -2 skeins of Sweet Georgia Tough Love Sock Yarn contrasting colours 3.5mm & 7mm  x 60cm circular needles",
+           "image": "http://woolandsilkco.github.io/img/tuscany_cowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/davinci-cowl-ii-tuscany"
       }
        ]
 }
