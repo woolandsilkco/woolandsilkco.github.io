@@ -779,6 +779,25 @@
          "cost":"$60",
          "description":"2 At a Time Socks - must know Magic Loop",
          "supplies":"Materials needed - 2.5mm circular needle 40”  and 2 balls of sock yarn "
+      },
+       {  
+         "title":"Let's Learn Mitred Squares - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 22 2018",
+                "Apr 5 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":"RLet's Learn Mitred Squares",
+         "supplies":"Materials needed - 4mm needles and 2 balls of cotton yarn contrasting colours",
+         "image": "http://woolandsilkco.github.io/img/mitred_square.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/kas-mitred-square"
       }
        ]
 }
