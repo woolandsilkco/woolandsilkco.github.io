@@ -685,6 +685,33 @@
          "supplies":"Materials needed - 3.5mm & 4.5mm needles & 2 balls of cotton yarn",
          "image": "http://woolandsilkco.github.io/img/dishcloth.jpg",
          "link" : "https://www.ravelry.com/patterns/library/jacobs-ladder-dishcloth"
+      },
+        {  
+         "title":"Braided Scarf - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Feb 22 2018",
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+            "dates":[  
+            [  
+               "Apr 5 2018",
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Braided Scarf",
+         "supplies":"Materials needed - 4.5mm circular needle and 1 ball of Painted Mist",
+         "image": "http://woolandsilkco.github.io/img/braided_scarf.png",
+         "link" : "https://www.ravelry.com/patterns/library/braided-scarf-16"
       }
        ]
 }
