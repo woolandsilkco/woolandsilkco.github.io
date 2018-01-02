@@ -909,6 +909,31 @@
         "supplies":"Materials needed - 1 ball of variegated sock yarn, 3mm double pointed needles and 3mm circular needle 24",
            "image": "http://woolandsilkco.github.io/img/eight_mitts.jpg",
          "link" : "https://www.ravelry.com/patterns/library/pieces-of-eight-mitts"
+      },
+      {  
+         "title":"Knit-A-Long Class: Freyja (3 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Mar 12 2018",
+                "Mar 26 2018",
+               "Apr 9 2018"
+            ],
+            [  
+                "Mar 14 2018",
+                "Mar 28 2018",
+               "Apr 11 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - minimum of 5 balls of Lett Lopi – grey and 1 ball of Lett Lopi – white 4.5mm x 80cm circulars & 4.5mm double point needles
+",
+           "image": "http://woolandsilkco.github.io/img/freyja.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/freyja-english-islenska"
       }
        ]
 }
