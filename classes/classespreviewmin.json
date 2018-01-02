@@ -520,12 +520,47 @@
          "description":"Need some help with your project?  Come in and we can help you out!",
          "note":null
       },
-      {  
-         "title":"Learn to Knit – Dishcloth - 1 class",
+     {  
+         "title":"Learn to Knit a Dishcloth - 1 class",
          "parts":1,
          "dates":[  
             [
                 "Jan 4 2018"
+            ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "description":"4.5mm needles and 1 ball of cotton",
+        "note":"All yarn to be purchased in store"
+      },
+      {  
+         "title":"Something Just for you  1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Jan 4 2018",
+                "Jan 8 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Winter Frost Socks",
+         "supplies":"Materials needed -  Knit on 2 circulars  2.5mm needles 12 inches and 1 ball of solid colour sock yarn",
+         "link" : "http://www.ravelry.com/patterns/library/winters-frost",
+         "image": "http://woolandsilkco.github.io/img/winter_fros_socks.jpg"
+      },
+       {  
+         "title":"Learn to Crochet a Dishcloth - 1 class",
+         "parts":1,
+         "dates":[  
+            [
+                "Jan 11 2018"
             ]
             ],
          "times":[  
