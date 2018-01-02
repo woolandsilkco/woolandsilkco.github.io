@@ -635,7 +635,7 @@
             [  
                "Feb 1 2018",
                 "Feb 15 2018",
-               "Mar 2018"
+               "Mar 1 2018"
                ]
             ],
          "times":[  
@@ -761,6 +761,24 @@
          "cost":"$20",
          "description":"2.5mm circular needles 40” and any sock yarn for practice",
         "note":"All yarn to be purchased in store"
+      },
+      {  
+         "title":"2 At a Time Socks - must know Magic Loop - 1 of 3 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 15 2018",
+                "Mar 29 2018",
+               "Apr 12 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$60",
+         "description":"2 At a Time Socks - must know Magic Loop",
+         "supplies":"Materials needed - 2.5mm circular needle 40”  and 2 balls of sock yarn "
       }
        ]
 }
