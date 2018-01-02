@@ -728,7 +728,7 @@
         "note":"All yarn to be purchased in store"
       },
       {  
-         "title":"Ribbed Granny Stitch Cowl – Intermediate Crochet - 1 of 2 classes",
+         "title":"Ribbed Granny Stitch Cowl - Intermediate Crochet - 1 of 2 classes",
          "parts":1,
         "dates":[  
             [  
@@ -741,10 +741,26 @@
             "7pm - 8:30pm"
          ],
          "cost":"$40",
-         "description":"Jacob's Ladder Dishcloth - I Cord cast on and off",
+         "description":"Ribbed Granny Stitch Cowl - Intermediate Crochet",
          "supplies":"Materials needed - 5.5mm hook and 1 skein Berroco Vintage",
          "image": "http://woolandsilkco.github.io/img/granny_cowl.jpg",
          "link" : "https://www.ravelry.com/patterns/library/ribbed-granny-stitch-cowl"
+      },
+       {  
+         "title":"Learn Magic Loop & Judy's Magic Cast On",
+         "parts":1,
+         "dates":[  
+            [
+                "Mar 15 2018"
+            ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "description":"2.5mm circular needles 40” and any sock yarn for practice",
+        "note":"All yarn to be purchased in store"
       }
        ]
 }
