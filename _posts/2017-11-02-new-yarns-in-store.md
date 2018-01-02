@@ -2,31 +2,10 @@
 layout: post
 type: current
 published: true
-title: BOXING WEEK SALE !!
+title: NEW WINTER 2018 CLASSES !!
 ---
-December 27th to 30th
-Boxing Week Sale !!
- 
-Come & join us for some yarn indulgence after the Christmas festivities are over! 
-  
-- All yarns will be 20% off store wide with selected
-    yarns to 60% off !!
-    
-- January discount envelope with be given out with
-    each purchase.  Your chosen sealed envelope will be 
-    kept here at the store with your name on it. When you 
-    make a purchase in January the discount will be
-    revealed!
-    
-    (surprise of 15% - 40% off in the month of January)
-    
-**Note** Sale does not apply to needles, notions, pattern purchases or already discounted items
-
-Hours:   
-<p>Wed Dec 27: 10am-8:30pm<br />
-Thurs Dec 28: 10am-5pm<br />
-Fri Dec 29: 10am-5pm<br />
-Sat Dec 30: 10am-4pm<br /></p>
+New Winter 2018 classes & KAL's are now up. Please see the 
+classes section for full listing and information.
               
 <strong>NEW LYKKE SETS NOW AVAILABLE !!!</strong>
 
