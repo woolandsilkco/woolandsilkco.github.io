@@ -29,8 +29,8 @@ The first Learn to Knit & lace Sock classes start on January 4th (sorry for such
     evenings (6:30-8:30pm)
     <hr>
     
-![class_items.jpg]({{site.baseurl}}/news/img/class_items.jpg)
-              <hr>         
+![class_items2.jpg]({{site.baseurl}}/news/img/class_items2.jpg)
+                  
 <strong>NEW STOCK IN !!</strong>
 A brand new grouping of Madelinetosh Light is here!  New Colours, New Choices, New Year!
 
