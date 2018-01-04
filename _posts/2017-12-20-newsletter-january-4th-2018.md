@@ -40,11 +40,10 @@ A brand new grouping of Madelinetosh Light is here!  New Colours, New Choices, N
 ![new_stock.jpg]({{site.baseurl}}/news/img/new_stock.jpg)
   <hr>
 <strong>Lykke interchangeable needle sets</strong>
-![lykke.jpg]({{site.baseurl}}/news/img/lykke.jpg)
-
 are here in 2 new colours. Indigo (blue) and Umber (brown). We still carry the grey denim sets as well. Complete with 12 needle sizes (3.5mm - 12mm) & all accessories (cables, stoppers, joiners & keys)
 
 Such a great value at $139.99
+![lykke.jpg]({{site.baseurl}}/news/img/lykke.jpg)
 <hr>
 6 colours of Hudson are available to create the fabulous Gradation Sensation cardigan 
 
