@@ -520,29 +520,13 @@
          "description":"Need some help with your project?  Come in and we can help you out!",
          "note":null
       },
-     {  
-         "title":"Learn to Knit - Dishcloth - 1 class",
-         "parts":1,
-         "dates":[  
-            [
-                "Jan 4 2018"
-            ]
-            ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
-         ],
-         "cost":"$20",
-         "description":"4.5mm needles and 1 ball of cotton",
-        "note":"All yarn to be purchased in store"
-      },
-      {  
-         "title":"Something Just for you  1 of 2 classes",
+    {  
+         "title":"Something Just for you - 1 of 2 classes",
          "parts":1,
         "dates":[  
             [  
                "Jan 4 2018",
-                "Jan 8 2018"
+                "Jan 18 2018"
                ]
             ],
          "times":[  
@@ -552,8 +536,8 @@
          "cost":"$40",
          "description":"Winter Frost Socks",
          "supplies":"Materials needed -  Knit on 2 circulars  2.5mm needles 12 inches and 1 ball of solid colour sock yarn",
-         "link" : "http://www.ravelry.com/patterns/library/winters-frost",
-         "image": "http://woolandsilkco.github.io/img/winter_fros_socks.jpg"
+         "image": "http://woolandsilkco.github.io/img/winter_fros_socks.jpg",
+         "link" : "http://www.ravelry.com/patterns/library/winters-frost"
       },
        {  
          "title":"Learn to Crochet - Dishcloth - 1 class",
@@ -568,8 +552,372 @@
             "6pm - 7pm"
          ],
          "cost":"$20",
-         "description":"4.5mm needles and 1 ball of cotton",
+         "description":"4.5mm crochet hook and 1 ball of cotton",
         "note":"All yarn to be purchased in store"
-      }
-         ]
+      },
+      {  
+         "title":"Knit in Round and Cables-1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Jan 11 2018",
+                "Jan 25 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Molly Hat",
+         "supplies":"Materials needed -  3.25mm and 4mm circular needles 40cm, 4mm DPN’s, cable needle, worsted weight yarn",
+         "image": "http://woolandsilkco.github.io/img/mollly_hat.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/molly-9"
+      },
+       {  
+         "title":"The World's Simplest Mitten - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Jan 18 2018",
+                "Feb 1 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":"The World's Simplest Mitten",
+         "supplies":"Materials needed -  3.75mm and 4.5mm double point needles, and any worsted weight yarn",
+         "image": "http://woolandsilkco.github.io/img/simplest_mittens.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/the-worlds-simplest-mittens"
+      },
+        {  
+         "title":"Reading Mitts - cause it's cold when you read - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Jan 25 2018",
+                "Feb 8 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":"Reading Mitts",
+         "supplies":"Materials needed - 3.75mm double point needles and Herriott DK 1 skein",
+         "image": "http://woolandsilkco.github.io/img/reading_mittens.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/susie-rogers-reading-mitts"
+      },
+       {  
+         "title":"Easiest Sock - Rye by TinCan Knits - 1 of 3 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Feb 1 2018",
+                "Feb 15 2018",
+               "Mar 1 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$60",
+         "description":"Easiest Sock - Rye by TinCan Knits ",
+         "supplies":"Materials needed - 3.25mm and 3.75mm double point needles, 2 skeins of Berocco Vintage",
+         "image": "http://woolandsilkco.github.io/img/easiest_sock.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/rye-4"
+      },
+       {  
+         "title":"Provisional Cast On -  Copy Cat Beanie - Twisted Rib - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Feb 8 2018",
+                "Feb 22 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Provisional Cast On - Copy Cat Beanie - Twisted Rib",
+         "supplies":"Materials needed - 1 ball of Uptown Worsted, 4.5mm x 40cm circular & 4.5mm DPN’s",
+         "image": "http://woolandsilkco.github.io/img/beanie.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/copycat-cc-beanie"
+      },
+      {  
+         "title":"Jacob's Ladder Dishcloth - I Cord cast on and off - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Feb 15 2018",
+                "Mar 1 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":"Jacob's Ladder Dishcloth - I Cord cast on and off",
+         "supplies":"Materials needed - 3.5mm & 4.5mm needles & 2 balls of cotton yarn",
+         "image": "http://woolandsilkco.github.io/img/dishcloth.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/jacobs-ladder-dishcloth"
+      },
+        {  
+         "title":"Braided Scarf - 1 of 2 classes",
+         "parts":1,
+           "dates":[  
+            [  
+               "Feb 22 2018",
+               "Apr 5 2018"
+               ]
+            ],
+         "times":[
+         [  
+            "2pm - 3pm or",
+            "6pm - 7pm (Session 1)"
+         ],
+         [  
+               "3pm -4:30pm or",
+           "7pm - 8:30pm (Session 2)"
+            ]
+            ] ,        
+           "cost":"$40",
+         "description":"Braided Scarf",
+         "supplies":"Materials needed - 4.5mm circular needle and 1 ball of Painted Mist",
+         "image": "http://woolandsilkco.github.io/img/braided_scarf.png",
+         "link" : "https://www.ravelry.com/patterns/library/braided-scarf-16"
+      },
+      {  
+         "title":"Learn 2 handed Knitting for Colour work",
+         "parts":1,
+         "dates":[  
+            [
+                "Mar 8 2018"
+            ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "description":"4mm double point needles  approx. 20 yards each of 2 colours worsted weight yarn",
+        "note":"All yarn to be purchased in store"
+      },
+      {  
+         "title":"Ribbed Granny Stitch Cowl - Intermediate Crochet - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 8 2018",
+                "Mar 22 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$40",
+         "description":"Ribbed Granny Stitch Cowl - Intermediate Crochet",
+         "supplies":"Materials needed - 5.5mm hook and 1 skein Berroco Vintage",
+         "image": "http://woolandsilkco.github.io/img/granny_cowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/ribbed-granny-stitch-cowl"
+      },
+       {  
+         "title":"Learn Magic Loop & Judy's Magic Cast On",
+         "parts":1,
+         "dates":[  
+            [
+                "Mar 15 2018"
+            ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "description":"2.5mm circular needles 40” and any sock yarn for practice",
+        "note":"All yarn to be purchased in store"
+      },
+      {  
+         "title":"2 At a Time Socks - must know Magic Loop - 1 of 3 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 15 2018",
+                "Mar 29 2018",
+               "Apr 12 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$60",
+         "description":"2 At a Time Socks - must know Magic Loop",
+         "supplies":"Materials needed - 2.5mm circular needle 40”  and 2 balls of sock yarn "
+      },
+       {  
+         "title":"Let's Learn Mitred Squares - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 22 2018",
+                "Apr 5 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":"Let's Learn Mitred Squares",
+         "supplies":"Materials needed - 4mm needles and 2 balls of cotton yarn contrasting colours",
+         "image": "http://woolandsilkco.github.io/img/mitred_square.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/kas-mitred-square"
+      },
+       {  
+         "title":" Easy Lace Cowl - Karna - 1 of 2 classes",
+         "parts":1,
+        "dates":[  
+            [  
+               "Mar 29 2018",
+                "Apr 12 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$40",
+         "description":" Easy Lace Cowl - Karna",
+         "supplies":"Materials needed - 5mm circular needles 16” & 2-90 yard skeins of worsted weight yarn",
+         "image": "http://woolandsilkco.github.io/img/lace_cowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/karna"
+      },
+      {  
+         "title":"Knit-A-Long Class: TYK Cardigan (2 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Jan 8 2018",
+                "Jan 22 2018"
+            ],
+            [  
+                "Jan 10 2018",
+                "Jan 24 2018"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed -5 skeins of Andes and 2 skeins of Ultra Alpaca in matching colour, and 9mm x 80cm circular needle and 5.5mm x 30cm(or 5.5 DPNs) needle for sleeves",
+           "image": "http://woolandsilkco.github.io/img/tyk_cardigan.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/tyk-cardigan"
+      },
+      {  
+         "title":"Knit-A-Long Class: High Woods Shawl (3 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Jan 15 2018",
+                "Jan 29 2018",
+               "Feb 12 2018"
+            ],
+            [  
+                "Jan 17 2018",
+                "Jan 31 2018",
+               "Feb 14 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - 3 skeins of Ella Rae worsted weight yarn and 4mm x 80cm circular needles",
+           "image": "http://woolandsilkco.github.io/img/high_woods_shawl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/high-woods-shawl"
+      },
+        {  
+         "title":"Knit-A-Long Class:DaVinci Cowl II Tuscany (2 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Feb 5 2018",
+                "Feb 26 2018"
+            ],
+            [  
+                "Feb 7 2018",
+                "Feb 21 2018"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed -2 skeins of Sweet Georgia Tough Love Sock Yarn contrasting colours 3.5mm & 7mm  x 60cm circular needles",
+           "image": "http://woolandsilkco.github.io/img/tuscany_cowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/davinci-cowl-ii-tuscany"
+      },
+       {  
+         "title":"Knit-A-Long Class: Pieces of Eight Mitts (3 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Mar 5 2018",
+                "Mar 19 2018",
+               "Apr 2 2018"
+            ],
+            [  
+                "Mar 7 2018",
+                "Mar 21 2018",
+               "Apr 4 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - 1 ball of variegated sock yarn, 3mm double pointed needles and 3mm circular needle 24",
+           "image": "http://woolandsilkco.github.io/img/eight_mitts.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/pieces-of-eight-mitts"
+      },
+      {  
+         "title":"Knit-A-Long Class: Freyja (3 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Mar 12 2018",
+                "Mar 26 2018",
+               "Apr 9 2018"
+            ],
+            [  
+                "Mar 14 2018",
+                "Mar 28 2018",
+               "Apr 11 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - minimum of 5 balls of Lett Lopi – grey and 1 ball of Lett Lopi – white 4.5mm x 80cm circulars & 4.5mm double point needles",
+           "image": "http://woolandsilkco.github.io/img/freyja.JPG",
+         "link" : "https://www.ravelry.com/patterns/library/freyja-english-islenska",
+         "note" : "**NOTE:  You must register for this class before the middle of February as the yarn will be ordered in and time needs to be allowed **"
+         }
+       ]
 }
