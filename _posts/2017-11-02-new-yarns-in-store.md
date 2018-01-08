@@ -2,8 +2,30 @@
 layout: post
 type: current
 published: true
-title: NEW WINTER 2018 CLASSES !!
+title: ON-LINE only - January Super sell off
 ---
+
+On-Line Sales (on-line shopping only) Spectacular!
+
+Giant January Sell-Off !! 
+
+All items 15% off
+
+==============
+Additionally, there are over 50 selected products discounted from 25% up to 60% off
+(These are already marked down in the on-line store & are not eligible for an additional 15%)
+
+On-Line Shopping Only
+
+Use this link to have your discount automatically applied at the payment screen:
+
+https://www.woolandsilkcoshop.com/discount/JANUARY15OFF
+
+Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
+
+==============
+NEW WINTER 2018 CLASSES !!
+
 New Winter 2018 classes & KAL's are now up. Please see the 
 classes section for full listing and information.
               
