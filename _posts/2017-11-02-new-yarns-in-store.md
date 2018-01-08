@@ -11,7 +11,6 @@ Giant January Sell-Off !!
 
 All items 15% off
 
-==============
 Additionally, there are over 50 selected products discounted from 25% up to 60% off
 (These are already marked down in the on-line store & are not eligible for an additional 15%)
 
@@ -19,11 +18,12 @@ On-Line Shopping Only
 
 Use this link to have your discount automatically applied at the payment screen:
 
-https://www.woolandsilkcoshop.com/discount/JANUARY15OFF
+<a href="https://www.woolandsilkcoshop.com/discount/JANUARY15OFF">https://www.woolandsilkcoshop.com/discount/JANUARY15OFF</a>
 
 Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
 
-==============
+<hr width="100%">
+
 NEW WINTER 2018 CLASSES !!
 
 New Winter 2018 classes & KAL's are now up. Please see the 
