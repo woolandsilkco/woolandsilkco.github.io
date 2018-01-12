@@ -839,6 +839,23 @@
          ],
          "cost":"$10 per 1/2 hour",
          "supplies":"PLEASE CALL TO RESERVE A TIME SLOT",
+         "link" : "https://www.ravelry.com/patterns/library/high-woods-shawl"
+    },
+       { 
+         "title":"Knit-A-Long Class: High Woods Shawl (3 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Jan 17 2018",
+                "Jan 31 2018",
+               "Feb 14 2018"
+            ]
+         ],
+         "times":[  
+             "6:30pm - 8:30pm"
+         ],
+         "cost":"$10 per 1/2 hour",
+         "supplies":"PLEASE CALL TO RESERVE A TIME SLOT",
             "image": "http://woolandsilkco.github.io/img/high_woods_shawl.jpg",
          "link" : "https://www.ravelry.com/patterns/library/high-woods-shawl"
     },
