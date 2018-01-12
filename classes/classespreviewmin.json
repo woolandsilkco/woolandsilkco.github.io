@@ -530,8 +530,7 @@
                ]
             ],
          "times":[  
-            "3pm - 4:30pm",
-            "7pm - 8:30pm"
+               "3pm - 4:30pm OR 7pm - 8:30pm"
          ],
          "cost":"$40",
          "description":"Winter Frost Socks",
@@ -547,10 +546,9 @@
                 "Jan 11 2018"
             ]
             ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
-         ],
+         "times":[ 
+               "2pm - 3pm OR 6pm - 7pm"
+          ],
          "cost":"$20",
          "description":"4.5mm crochet hook and 1 ball of cotton",
         "note":"All yarn to be purchased in store"
@@ -565,9 +563,8 @@
                ]
             ],
          "times":[  
-            "3pm - 4:30pm",
-            "7pm - 8:30pm"
-         ],
+               "3pm - 4:30pm OR 7pm - 8:30pm"
+          ],
          "cost":"$40",
          "description":"Molly Hat",
          "supplies":"Materials needed -  3.25mm and 4mm circular needles 40cm, 4mm DPN’s, cable needle, worsted weight yarn",
@@ -583,9 +580,8 @@
                 "Feb 1 2018"
                ]
             ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
+         "times":[ 
+               "2pm - 3pm OR 6pm - 7pm"
          ],
          "cost":"$40",
          "description":"The World's Simplest Mitten",
@@ -603,9 +599,8 @@
                ]
             ],
          "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
-         ],
+               "2pm - 3pm OR 6pm - 7pm"
+           ],
          "cost":"$40",
          "description":"Reading Mitts",
          "supplies":"Materials needed - 3.75mm double point needles and Herriott DK 1 skein",
@@ -622,9 +617,8 @@
                "Mar 1 2018"
                ]
             ],
-         "times":[  
-            "3pm - 4:30pm",
-            "7pm - 8:30pm"
+         "times":[ 
+               "3pm - 4:30pm OR 7pm - 8:30pm"
          ],
          "cost":"$60",
          "description":"Easiest Sock - Rye by TinCan Knits ",
@@ -641,9 +635,8 @@
                 "Feb 22 2018"
                ]
             ],
-         "times":[  
-            "3pm - 4:30pm",
-            "7pm - 8:30pm"
+         "times":[ 
+               "3pm - 4:30pm OR 7pm - 8:30pm"
          ],
          "cost":"$40",
          "description":"Provisional Cast On - Copy Cat Beanie - Twisted Rib",
@@ -660,9 +653,8 @@
                 "Mar 1 2018"
                ]
             ],
-         "times":[  
-            "2pm - 3pm",
-            "6pm - 7pm"
+         "times":[ 
+               "2pm - 3pm OR 6pm - 7pm"
          ],
          "cost":"$40",
          "description":"Jacob's Ladder Dishcloth - I Cord cast on and off",
@@ -681,13 +673,11 @@
             ],
          "times":[
          [  
-            "2pm - 3pm or",
-            "6pm - 7pm (Session 1)"
+               "2pm - 3pm OR 6pm - 7pm (Session 1)"
          ],
          [  
-               "3pm -4:30pm or",
-           "7pm - 8:30pm (Session 2)"
-            ]
+               "3pm - 4:30pm OR 7pm - 8:30pm (Session 2)"
+              ]
             ] ,        
            "cost":"$40",
          "description":"Braided Scarf",
