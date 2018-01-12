@@ -612,26 +612,26 @@
          "image": "http://woolandsilkco.github.io/img/reading_mittens.jpg",
          "link" : "https://www.ravelry.com/patterns/library/susie-rogers-reading-mitts"
       }, 
-      { 
-          "title":"Easiest Sock - Rye by TinCan Knits - 1 of 3 classes",
+       {  
+         "title":"Easiest Sock - Rye by TinCan Knits - 1 of 3 classes",
          "parts":1,
-         "dates":[  
+        "dates":[  
             [  
-              "Feb 1 2018",
+               "Feb 1 2018",
                 "Feb 15 2018",
                "Mar 1 2018"
-            ]
-         ],
+               ]
+            ],
          "times":[  
             "3pm - 4:30pm",
-             "7pm - 8:30pm"
+            "7pm - 8:30pm"
          ],
          "cost":"$60",
          "description":"Easiest Sock - Rye by TinCan Knits ",
          "supplies":"Materials needed - 3.25mm and 3.75mm double point needles, 2 skeins of Berocco Vintage",
-                "image": "http://woolandsilkco.github.io/img/easiest_sock.jpg",
+         "image": "http://woolandsilkco.github.io/img/easiest_sock.jpg",
          "link" : "https://www.ravelry.com/patterns/library/rye-4"
-    },
+      },
        {  
          "title":"Provisional Cast On -  Copy Cat Beanie - Twisted Rib - 1 of 2 classes",
          "parts":1,
