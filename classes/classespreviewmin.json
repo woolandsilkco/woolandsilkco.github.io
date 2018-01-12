@@ -835,7 +835,8 @@
             ]
          ],
          "times":[  
-            "1pm - 3pm"
+             "1pm - 3pm",
+            "6:30pm - 8:30pm"
          ],
          "cost":"$10 per 1/2 hour",
          "supplies":"PLEASE CALL TO RESERVE A TIME SLOT",
@@ -852,7 +853,8 @@
             ]
          ],
          "times":[  
-             "6:30pm - 8:30pm"
+              "1pm - 3pm",
+            "6:30pm - 8:30pm"
          ],
          "cost":"$10 per 1/2 hour",
          "supplies":"PLEASE CALL TO RESERVE A TIME SLOT",
@@ -869,7 +871,8 @@
             ]
          ],
          "times":[  
-            "1pm - 3pm"
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
          ],
          "cost":"Free with Yarn Purchase",
         "supplies":"Materials needed -2 skeins of Sweet Georgia Tough Love Sock Yarn contrasting colours 3.5mm & 7mm  x 60cm circular needles",
@@ -885,14 +888,15 @@
             ]
          ],
          "times":[  
-           "6:30pm - 8:30pm"
+           "1pm - 3pm",
+            "6:30pm - 8:30pm"
          ],
          "cost":"Free with Yarn Purchase",
         "supplies":"Materials needed -2 skeins of Sweet Georgia Tough Love Sock Yarn contrasting colours 3.5mm & 7mm  x 60cm circular needles",
            "image": "http://woolandsilkco.github.io/img/tuscany_cowl.jpg",
          "link" : "https://www.ravelry.com/patterns/library/davinci-cowl-ii-tuscany"
     },
-     {  
+       { 
          "title":"Knit-A-Long Class: Pieces of Eight Mitts (3 classes)",
          "parts":1,
          "dates":[  
@@ -900,22 +904,36 @@
                 "Mar 5 2018",
                 "Mar 19 2018",
                "Apr 2 2018"
-            ],
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm"
+             "6:30pm - 8:30pm"
+         ],
+               "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - 1 ball of variegated sock yarn, 3mm double pointed needles and 3mm circular needle 24",
+        "link" : "https://www.ravelry.com/patterns/library/pieces-of-eight-mitts"
+    },
+        { 
+         "title":"Knit-A-Long Class: Pieces of Eight Mitts (3 classes)",
+         "parts":1,
+         "dates":[  
             [  
-                "Mar 7 2018",
+                 "Mar 7 2018",
                 "Mar 21 2018",
                "Apr 4 2018"
-               ]
+            ]
          ],
          "times":[  
             "1pm - 3pm",
             "6:30pm - 8:30pm"
          ],
-         "cost":"Free with Yarn Purchase",
+               "cost":"Free with Yarn Purchase",
         "supplies":"Materials needed - 1 ball of variegated sock yarn, 3mm double pointed needles and 3mm circular needle 24",
            "image": "http://woolandsilkco.github.io/img/eight_mitts.jpg",
          "link" : "https://www.ravelry.com/patterns/library/pieces-of-eight-mitts"
-      },
+    },
+    
       {  
          "title":"Knit-A-Long Class: Freyja (3 classes)",
          "parts":1,
