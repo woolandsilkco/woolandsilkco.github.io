@@ -824,7 +824,7 @@
            "image": "http://woolandsilkco.github.io/img/tyk_cardigan.jpg",
          "link" : "https://www.ravelry.com/patterns/library/tyk-cardigan"
       },
-      {  
+       { 
          "title":"Knit-A-Long Class: High Woods Shawl (3 classes)",
          "parts":1,
          "dates":[  
@@ -832,23 +832,17 @@
                 "Jan 15 2018",
                 "Jan 29 2018",
                "Feb 12 2018"
-            ],
-            [  
-                "Jan 17 2018",
-                "Jan 31 2018",
-               "Feb 14 2018"
-               ]
+            ]
          ],
          "times":[  
-            "1pm - 3pm",
-            "6:30pm - 8:30pm"
+            "1pm - 3pm"
          ],
-         "cost":"Free with Yarn Purchase",
-        "supplies":"Materials needed - 3 skeins of Ella Rae worsted weight yarn and 4mm x 80cm circular needles",
-           "image": "http://woolandsilkco.github.io/img/high_woods_shawl.jpg",
+         "cost":"$10 per 1/2 hour",
+         "supplies":"PLEASE CALL TO RESERVE A TIME SLOT",
+            "image": "http://woolandsilkco.github.io/img/high_woods_shawl.jpg",
          "link" : "https://www.ravelry.com/patterns/library/high-woods-shawl"
-      },
-        {  
+    },
+             {  
          "title":"Knit-A-Long Class:DaVinci Cowl II Tuscany (2 classes)",
          "parts":1,
          "dates":[  
