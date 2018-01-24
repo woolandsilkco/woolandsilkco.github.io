@@ -8,8 +8,7 @@ title: 'Newsletter February, 2018'
 - We are being Renovated !!
  
 - From Feb 1st - Feb 12th we will be under renovations for our unit ceiling.  The store will remain open during this construction but our space will be limited.
-Because of this we will have to cancel Sit & Knits on
-Feb 3, 7 & 10.    
+<strong>Because of this we will have to cancel Sit & Knits on Feb 3, 7 & 10.</strong>
 
 <strong>Store Hours will be: 
 Mon-Fri 10am-5pm & Sat 10am-4pm</strong>
@@ -22,7 +21,7 @@ and then click on the "Shop Now" button at the top right hand corner of the home
 
 We are hoping for this work to be done in a timely manner and will let you know if there is any extension.
  <hr>
-<strong>January Surprise Envelopes !!</stromg>
+<strong>January Surprise Envelopes !!</strong>
 
  If you purchased during our Boxing Week sale then you should have received a discount envelope. It is to be opened when you make a purchase in January 2018. 
 
