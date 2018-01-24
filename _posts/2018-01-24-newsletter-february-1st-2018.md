@@ -33,7 +33,7 @@ Don't miss out.
 <strong>NEW YARNS IN!!</strong>
 
 ![feb_newyarns.jpg]({{site.baseurl}}/news/img/feb_newyarns.jpg)
-  <hr>
+ 
   
 <strong>Non-Wool Sock Yarn</strong>
 
