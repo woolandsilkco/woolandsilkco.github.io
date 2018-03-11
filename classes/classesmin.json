@@ -966,7 +966,24 @@
          "supplies":"Materials needed - chunky weight variegated or solid yarn, needles:  5.5 x 40cm circular",
          "image": "http://woolandsilkco.github.io/img/linenstitchhat.jpg",
          "link" : "https://www.ravelry.com/patterns/library/linen-stitch-hat-5"
+      },
+      "title":"Let's Knit Socks (Basic Socks), Rye by TinCan Knits - 3 classes",
+         "parts":3,
+        "dates":[  
+            [  
+               "Apr 26 2018",
+               "May 3 2018",
+               "May 24 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4:30pm",
+            "7pm - 8:30pm"
+         ],
+         "cost":"$60",
+         "supplies":"Materials needed - (2)skeins Berroco Vintage, needles:  3.25mm & 3.75mm DPN's",
+         "image": "http://woolandsilkco.github.io/img/ryesocks.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/rye-4"
       }
-      
-       ]
+        ]
 }
