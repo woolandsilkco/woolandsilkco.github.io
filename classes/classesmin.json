@@ -1065,6 +1065,36 @@
          ],
          "cost":"$20",
          "supplies":"Materials needed - dk or worsted weight, DPN needles appropriate to yarn **Homework:  cast on 40sts & knit 2-3 inches high in stocking stitch"
+              },
+       {
+      "title":"Cast Ons - 1 class",
+         "parts":1,
+        "dates":[  
+            [  
+               "May 31 2018"
+               ]
+            ],
+         "times":[  
+            "2pm - 3pm",
+            "6pm - 7pm"
+         ],
+         "cost":"$20",
+         "supplies":"Materials needed - dk or worsted weight, needles appropriate to yarn"
+              },
+           {
+      "title":"Cast Offs - 1 class",
+         "parts":1,
+        "dates":[  
+            [  
+               "June 7 2018"
+               ]
+            ],
+         "times":[  
+            "3pm - 4pm",
+            "7pm - 8pm"
+         ],
+         "cost":"$20",
+         "supplies":"**Homework: cast on 40sts & knit 2-3 inches high in stocking stitch. You need to do 4 of these little samples. Keep one on your needles & leave the other 3 on waste yarn."
               }
         ]
 }
