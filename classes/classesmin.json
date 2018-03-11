@@ -1176,6 +1176,29 @@
          "cost":"$20",
          "supplies":"Materials needed - dk or worsted weight, needles appropriate to yarn"
               },
+       {  
+         "title":"Knit-A-Long Class: Mad Mix Socks - by Virpi Tarvo (2 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Jun 4 2018",
+                "Jun 18 2018"
+            ],
+            [  
+                "Jun 6 2018",
+                "Jun 20 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+           "note" : "NOTE: Must know how to knit a sock, **You will be using the dk yarn & 4.0mm needles to practice your patterning before knitting it on sock",
+        "supplies":"Materials needed -  1 skein/ball of 400yds fingering/sock weight yarn, in a solid colour. Some dk yarn for pattern practice, needles: 2.5mm (9in circular or DPN’s or 2 circulars),  4.0mm needles (straight pair  or a circular), stitch markers",
+           "image": "http://woolandsilkco.github.io/img/kal/madmixsocks.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/mad-mix-socks"
+         },
       {  
          "title":"Knit-A-Long Class: Derecho - top down one piece construction - by Alison Green (2 classes)",
          "parts":1,
