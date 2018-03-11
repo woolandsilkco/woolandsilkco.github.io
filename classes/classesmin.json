@@ -1064,6 +1064,30 @@
          "cost":"$20",
          "supplies":"Materials needed - 1 ball of dishcloth cotton, needles: 4.5mm crochet hook"
       },
+       {  
+         "title":"Knit-A-Long Class: Staring at Stars - top down one piece construction - Alicia Plummer (3 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "May 14 2018",
+                "May 28 2018",
+               "Jun 11 2018"
+            ],
+            [  
+                "May 16 2018",
+                "May 30 2018",
+               "Jun 13 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - choice of either Juniper Moon Zooey OR Berroco Summer Silk (approx 1200-1500 yds - size dependant), needles:  4.0mm x 100cm, 4.5mm x 80cm, 4.5mm DPN's, stitch markers",
+           "image": "http://woolandsilkco.github.io/img/kal/stars.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/staring-at-stars"
+         },
        {
       "title":"Brioche Technique - 1 class",
          "parts":1,
