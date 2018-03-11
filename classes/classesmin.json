@@ -1176,6 +1176,28 @@
          "cost":"$20",
          "supplies":"Materials needed - dk or worsted weight, needles appropriate to yarn"
               },
+      {  
+         "title":"Knit-A-Long Class: Derecho - top down one piece construction - by Alison Green (2 classes)",
+         "parts":1,
+         "dates":[  
+            [  
+                "Jun 5 2018",
+                "Jun 26 2018"
+            ],
+            [  
+                "Jun 6 2018",
+                "Jun 27 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm",
+            "6:30pm - 8:30pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - Berroco Remix Light (3-4 balls), needles:  3.25mm x 40cm, 3.25mm x 80cm, 3.75mm x 40cm, 3.75mm x 80cm, 3.25mm DPN's, stitch markers",
+           "image": "http://woolandsilkco.github.io/img/kal/derecho.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/derecho-2"
+         },
            {
       "title":"Cast Offs - 1 class",
          "parts":1,
