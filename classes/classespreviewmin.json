@@ -1030,14 +1030,26 @@
             [  
                 "Apr 23 2018",
                 "May 7 2018"         
-            ],
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm"
+         ],
+         "cost":"Free with Yarn Purchase",
+        "supplies":"Materials needed - Drops Andes (3 balls), needles:  10.0mm x 80cm circular, cable needle, 12mm needle for cast-off",
+         "link" : "https://www.ravelry.com/patterns/library/medhel-an-gwyns"
+         },
+      {  
+         "title":"Knit-A-Long Class: Medhel an Gwyns by - Kalurah Hudson (2 classes)",
+         "parts":1,
+         "dates":[  
+            
             [  
                 "Apr 25 2018",
                 "May 9 2018"
                ]
          ],
          "times":[  
-            "1pm - 3pm",
             "6:30pm - 8:30pm"
          ],
          "cost":"Free with Yarn Purchase",
