@@ -950,7 +950,7 @@
          },
               {  
          "title":"Knit-A-Long Class: Pucker Socks by General Hogbuffer (3 classes)",
-                    "image": "http://woolandsilkco.github.io/img/kal/puckersocks.jpg",
+                   
          "parts":1,
          "dates":[  
             [  
@@ -963,6 +963,7 @@
          "times":[  
             "1pm - 3pm OR 6:30pm - 8:30pm"
          ],
+                  "image": "http://woolandsilkco.github.io/img/kal/puckersocks.jpg",
          "cost":"Free with Yarn Purchase",
         "supplies":"Materials needed - Fabel Sock - 2 balls main colour, 1 ball variegated  needles: 2.5mm (your choice DPN’s or 2 circular needles) & stitch markers",
         "link" : "https://www.ravelry.com/patterns/library/pucker-2",
