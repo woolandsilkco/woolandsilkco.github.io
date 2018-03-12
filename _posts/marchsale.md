@@ -1,6 +1,6 @@
 ---
 layout: post
-type: current
+type: news
 published: true
 title: Chunky/Bulky Sale !!! Month of March
 ---
