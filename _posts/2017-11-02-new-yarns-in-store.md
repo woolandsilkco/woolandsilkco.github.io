@@ -5,29 +5,54 @@ published: true
 title: ON-LINE only - January Super sell off
 ---
 
-On-Line Sales (on-line shopping only) Spectacular!
+ Chunky/Bulky Sale !!! Month of March
+ 
 
-Giant January Sell-Off !! 
+All Chunky/Bulky/Super Bulky yarns will be 20% to 40% off for the month of March. As well, all styles of needles 6.0mm and larger will be 15% off.
+ 
+  <p><strong>20% off</strong></p>
+  <ul>
+<li>Alafoss Lopi</li>
+<li>Andes</li>
+<li>Aura</li>
+<li>Bella Chenille</li>
+<li>Cherub Chunky</li>
+<li>Cozy Alpaca Chunky</li>
+<li>Cumulus</li>
+<li>Imagination</li>
+<li>Major</li>
+<li>Marble</li>
+<li>Olivia</li>
+<li>Ultra Alpaca Chunky</li>
+<li>Vintage Chunky</li>
+  </ul>
+<p><strong>30% off</strong></p>
 
-All items 15% off
+ <ul>
+   <li>Hayfield Chunky with Wool</li>
+  </ul>
+ 
 
-Additionally, there are over 50 selected products discounted from 25% up to 60% off
-(These are already marked down in the on-line store & are not eligible for an additional 15%)
+  <p><strong>40% off</strong></p>
+<ul>
+<li>Big Delight</li>
+<li>Chromatic Chunky</li>
+<li>Comfort Chunky</li>
+<li>Cozy Soft Chunky</li>
+<li>Hudson</li>
+<li>Huenique</li>
+<li>Smudge</li>
+  </ul>
+ 
 
-On-Line Shopping Only
+  <p>An excellent opportunity to purchase for that big project you have been thinking of doing.</p>
 
-Use this link to have your discount automatically applied at the payment screen:
-
-<a href="https://www.woolandsilkcoshop.com/discount/JANUARY15OFF">https://www.woolandsilkcoshop.com/discount/JANUARY15OFF</a>
-
-Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
-
-<hr width="100%">
-
-NEW WINTER 2018 CLASSES !!
-
-New Winter 2018 classes & KAL's are now up. Please see the 
-classes section for full listing and information.
+<p>Hats, sweaters, cowls, shawls, afghans, blankets
+Lots of ideas.</p>
+  <p><strong>Sit & Knit is now back on! </strong></p>
+  <p>Come on Wednesdays 1-3pm or 6:30-8:30pm, OR Saturdays 1-3pm. </p>
+<p>Bring your current project and enjoy some fun time with like minded knitters & crocheters. There is light refreshments and always someone to help you if you have a little problem.</p>
+  </div>
               
 <strong>NEW LYKKE SETS NOW AVAILABLE !!!</strong>
 
