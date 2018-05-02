@@ -33,5 +33,6 @@ Notions Boxes are back! Get yours before they are all gone.
 
 Painting: Summer Breeze - Georgian Bay   by Paul Gauthier
 Join us beginning June 1st for the Lakeside Yarn Crawl.  This year's custom dyed yarn comes from Fleece Artist and was inspired by the painting above. 
-12 shops to visit. Draws. Prizes. Kits.
+
+<strong>12 shops to visit. Draws. Prizes. Kits.</strong>
 So much Fun !! Can't wait to see you
