@@ -17,7 +17,7 @@ go to :
 <a hef="http://www.woolandsilkco.com/classes/">www.woolandsilkco.com
 
 and click on the "Classes" tab at the top of the page for the full list and photos.
-    <hr>
+<hr>
 <strong>New Spring/Summer Yarns are in stock now</strong>
  
 Berroco Folio
