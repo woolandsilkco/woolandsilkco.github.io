@@ -14,7 +14,7 @@ Last day for the Sock Yarn super sell-off is Monday April 30th. Get in & get you
 <strong>Classes & KAL's are On!</strong>
 Our newest class & KAL lists are up on the website.
 go to : 
-<a hef="http://www.woolandsilkco.com/classes/">www.woolandsilkco.com
+<a href="http://www.woolandsilkco.com/classes/">www.woolandsilkco.com
 
 and click on the "Classes" tab at the top of the page for the full list and photos.
 <hr>
