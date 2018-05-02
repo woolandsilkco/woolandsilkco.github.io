@@ -7,7 +7,7 @@ title: 'Newsletter May, 2018'
 
 - May News - (Special Announcement at the bottom of this newsletter)
 - Berroco Comfort - Super Sell-Off !!! Month of May, Buy 2 balls get 1 Free  !
-    <hr>
+
 <strong>Reminder !!</strong>
 Last day for the Sock Yarn super sell-off is Monday April 30th. Get in & get your deal now!  20% off all sock yarns for the Month of April.
    <hr>
