@@ -377,7 +377,7 @@ div.wwk {
 }
 
 div.wwk img {
-    width: calc(50% - 1em);
+    width: calc(95% - 1em);
     height: auto;
     display: inline-block;
 
