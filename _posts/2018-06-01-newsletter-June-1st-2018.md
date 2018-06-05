@@ -7,9 +7,9 @@ title: 'Newsletter June, 2018'
 
 - June is here! - Lakeside Crawl has begun!!!
 - Prizes, draws, 12 shops to visit
-- This year's custom dyed yarn comes from Fleece Artist 
+- This year's custom dyed yarn comes from Fleece Artist <br />
 <strong>Get Your Yarn On  !!!</strong>
-![lakesidecrawl_yarn.jpg]({{site.baseurl}}/news/img/lakesidecrawl)yarn.jpg)
+![lakesidecrawl_yarn.jpg]({{site.baseurl}}/news/img/lakesidecrawl_yarn.jpg)
 <hr>
 <strong>Classes & KAL's are On!</strong>
 Our newest class & KAL lists are up on the website.
