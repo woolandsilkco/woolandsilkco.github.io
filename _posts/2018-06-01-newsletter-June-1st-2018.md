@@ -12,8 +12,8 @@ title: 'Newsletter June, 2018'
 ![lakesidecrawl_yarn.jpg]({{site.baseurl}}/news/img/lakesidecrawl_yarn.jpg)
 <hr>
 <strong>Classes & KAL's are On!</strong>
-Our newest class & KAL lists are up on the website.
-go to the "Classes" tab at the top of the page for the full list and photos.
+There are still some classes & KAL's left on the Spring schedule. Please check the website to get your spot now!
+Go to the "Classes" tab at the top of the page for the full list and photos.
 <hr>
 
 <strong>Sat June 9th is International Knit in Public Day.</strong>
@@ -28,7 +28,7 @@ Berroco Comfort - Super Sell-Off !!! to the end of June! Buy 2 balls get 1 Free 
 Join us for the Lakeside Yarn Crawl.  This year's custom dyed yarn comes from Fleece Artist and was inspired by the painting above.  
 12 shops to visit. Draws. Prizes. Kits.<br/>
 So much Fun !! Can't wait to see you 
-
+<hr />
 <strong>New Spring/Summer Yarns are in stock now</strong>
  
 Berroco Folio <br />
