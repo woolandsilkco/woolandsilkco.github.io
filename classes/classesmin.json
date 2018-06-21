@@ -1355,6 +1355,65 @@
          "cost":"$60 + HST ",
  "image": "http://woolandsilkco.github.io/img/shawl_studyhall.jpg",
          "description":"  working 2 colour patterning, 1 skein of Ella Rae Lace Merino in fingering weight, 1 skein of Alpaca Merino Fine"
-              }
+              },
+{
+ "title":"Shawl Builders - Echo Wood",
+         "parts":1,
+         "dates":[  
+            [  
+               "July 23 2018",
+               "Jul 26 2018"
+            ]
+         ],
+         "times":[  
+            "1pm - 3pm (1st session)",
+            "6pm - 8pm (2nd session)"
+],
+         "cost":"$60 + HST ",
+"image": "http://woolandsilkco.github.io/img/shawl_echowood.jpg",
+         "description":"   a 2 colour shawl with a cabled lace border, 1 skein of Ella Rae Lace Merino fingering, Huasco sock or Ancient Arts, A light speckle is the idea, 1 skein of Alpaca Merino Fine, you may want to have a cable needle, this shawl needs to be worked down through the striped rows to the , start of the cable/lace border, Please begin a couple of weeks ahead to be up to speed for the class"
+              },
+      {
+ "title":"Shawl Builders - Happy Place",
+         "parts":1,
+         "dates":[  
+            [  
+                "Aug 7 2018",
+                "Aug 27 2018"
+            ],
+            [  
+                "Aug 9 2018",
+                "Aug 30 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (1st session)",
+            "6:00pm - 8:00pm (2nd session)"
+         ],
+         "cost":"$85 + HST ",
+"image": "http://woolandsilkco.github.io/img/shawl_happyplace.jpg",
+         "description":"  - convergent striping pattern, 1 skein of Hedgehog fibres Sock Yarn in a speckle or soft gradient, 1 skein of Alpaca Merino Fine"
+              },
+      {
+ "title":"Shawl Builders - Papillon",
+         "parts":1,
+         "dates":[  
+            [  
+                "Sept 17 2018",
+                "Sept 20 2018"
+            ],
+            [  
+                "Oct 1 2018",
+                "Oct 4 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (1st session)",
+            "6:00pm - 8:00pm (2nd session)"
+         ],
+         "cost":"$75 + HST ",
+"image": "http://woolandsilkco.github.io/img/shawl_papillon.jpg",
+         "description":"  - glorious short rows with long colour change yard, 1 skein Alpaca Merino fine, 2 balls of KFI Painted Desert"
+              },
            ]
 }
