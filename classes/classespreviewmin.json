@@ -1320,6 +1320,30 @@
          ],
          "cost":"$25 + HST ",
          "description":"a non-wool option for summer, knitted out of Berroco's Comfort Sock (3 colours to choose from), takes 1 ball to complete"
+              },
+  {
+      "title":"Habiliments - 2 part class",
+         "parts":1,
+        "dates":[  
+            [  
+                "Jul 16 2018",
+                "Jul 30 2018"
+            ],
+            [  
+                "Jul 19 2018",
+                "Aug 7 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (1st session)",
+            "6:00pm - 8:00pm (2nd session)"
+         ],
+         "times":[  
+            "1pm - 3pm OR 6:00pm - 8:00pm"
+         ],
+         "cost":"$65 + HST ",
+          "image": "http://woolandsilkco.github.io/img/habiliments.jpg",
+         "description":" a toe-up sock, features a reverse Dutch heel & upper leg bead work, knitted from Sweet Georgia's Tough Love Sock in their semi-solids,(over 10 colours to choose from), takes 1 skein, crochet hook for beading may be purchased if required"
               }
            ]
 }
