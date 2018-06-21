@@ -1389,7 +1389,7 @@
          "cost":"$45 + HST ",
          "description":"   - a new sock yarn ...... Lang Super Soxx Colour Cashmere in soft colourways, features lace knitting & cabling with a moss stitch toe"
               },
-{
+      {
  "title":"Shawl Builders - Study Hall",
          "parts":1,
          "dates":[  
@@ -1420,6 +1420,46 @@
 ],
          "cost":"$60 + HST ",
          "description":"   a 2 colour shawl with a cabled lace border, 1 skein of Ella Rae Lace Merino fingering, Huasco sock or Ancient Arts, A light speckle is the idea, 1 skein of Alpaca Merino Fine, you may want to have a cable needle, this shawl needs to be worked down through the striped rows to the , start of the cable/lace border, Please begin a couple of weeks ahead to be up to speed for the class"
+              },
+      {
+ "title":"Shawl Builders - Happy Place",
+         "parts":1,
+         "dates":[  
+            [  
+                "Aug 7 2018",
+                "Aug 27 2018"
+            ],
+            [  
+                "Aug 9 2018",
+                "Aug 30 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (1st session)",
+            "6:00pm - 8:00pm (2nd session)"
+         ],
+         "cost":"$85 + HST ",
+         "description":"  - convergent striping pattern, 1 skein of Hedgehog fibres Sock Yarn in a speckle or soft gradient, 1 skein of Alpaca Merino Fine"
+              },
+      {
+ "title":"Shawl Builders - Papillon",
+         "parts":1,
+         "dates":[  
+            [  
+                "Sept 17 2018",
+                "Sept 20 2018"
+            ],
+            [  
+                "Oct 1 2018",
+                "Oct 4 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (1st session)",
+            "6:00pm - 8:00pm (2nd session)"
+         ],
+         "cost":"$75 + HST ",
+         "description":"  - glorious short rows with long colour change yard, 1 skein Alpaca Merino fine, 2 balls of KFI Painted Desert"
               },
            ]
 }
