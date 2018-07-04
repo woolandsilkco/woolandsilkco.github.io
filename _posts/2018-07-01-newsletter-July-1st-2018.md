@@ -30,7 +30,7 @@ July 9(1-3pm)(this coming Monday)  OR  July 12(6-8pm)
 - knitted out of Berroco's Comfort Sock (3 colours to choose from)
 - takes 1 ball to complete
 $ 25.00 (+HST)
-<a ref="https://www.ravelry.com/patterns/library/strawberry-sparkle-shortie-socks?utm_source=Newsletter&utm_campaign=c74da39187-EMAIL_CAMPAIGN_2018_06_29_07_48&utm_medium=email&utm_term=0_ac1bab3c4e-c74da39187-328893825&mc_cid=c74da39187&mc_eid=5dbcc3b01d"> ![socks_strawberry.jpg]({{site.baseurl}}/img/socks_strawberry.jpg)</a>
+<a ref="https://www.ravelry.com/patterns/library/strawberry-sparkle-shortie-socks?utm_source=Newsletter&amp;utm_campaign=c74da39187-EMAIL_CAMPAIGN_2018_06_29_07_48&amp;utm_medium=email&amp;utm_term=0_ac1bab3c4e-c74da39187-328893825&amp;mc_cid=c74da39187&amp;mc_eid=5dbcc3b01d"> <img src="/img/socks_strawberry.jpg" alt="socks_strawberry.jpg" /></a>
  
 <strong>Habiliments - 2 part class</strong>
 July 16 (1-3pm)  &  July 30th     
