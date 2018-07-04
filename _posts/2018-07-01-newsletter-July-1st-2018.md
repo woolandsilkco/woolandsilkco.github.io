@@ -53,7 +53,7 @@ Aug 13(1-3pm)    OR    Aug 16 (6-8pm)
 - you will need to register for your class in July as sock needs to be
     worked down to near the heel area in advance
 $ 35.00 (+HST)
- 
+<a href="https://www.ravelry.com/patterns/library/camping-sock-with-fleegle-heel"><img src="/img/socks_camping.jpg"></a>
 <strong>Shawl Builders</strong>
  
 <strong>Study Hall</strong>
@@ -62,7 +62,7 @@ July 9(1-3pm)    OR    July 12(6-8pm)
 - 1 skein of Ella Rae Lace Merino in fingering weight
 - 1 skein of Alpaca Merino Fine
 $ 60.00 (+HST)
- 
+<a href="https://www.ravelry.com/patterns/library/study-hall-shawl"><img src="/img/shawl_studyhall.jpg"></a>
  
 <strong>Echo Wood</strong>
 July 23(1-3pm)    OR    July 26(6-8pm)
@@ -76,7 +76,7 @@ July 23(1-3pm)    OR    July 26(6-8pm)
   start of the cable/lace border. Please begin a couple of weeks ahead 
   to be up to speed for the class
 $ 60.00 (+HST)
- 
+<a href="https://www.ravelry.com/patterns/library/echo-wood"><img src="/img/shawl_echowood.jpg"></a>
 <strong>Mid-July we will be introducing the "Ready 4 Christmas Kit"</strong>
 
 A group of four kits to help you get your X-mas knitting ready
