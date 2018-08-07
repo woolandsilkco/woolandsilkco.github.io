@@ -92,3 +92,21 @@ lovely drives through the countryside!
 
 Pick up your passport at the first shop you go to and try to visit as many shops as possible. Each shop will stamp your passport. There are draws, featured yarns & patterns and a Grand Prize drawing at the end of the crawl for the passports with the most stamps. 
 On till Monday September 3rd. 
+<hr />
+<stromg> 
+Special Event Reminder !!! - Dine & Knit</strong>
+
+We are offering an alternative to our Sit & Knit night. On Wed August 22nd at 6pm we will be having a dine & knit at Beyond the Gate. This is the lovely creperie restaurant located just behind the Wool & Silk Co.
+  
+There will be a set menu with 3 choices for your main. Started with soup/salad, then main, the a dessert platter. All accompanied by tea/coffee.
+(If you wish another beverage that will be your choice)
+Bring your knitting and enjoy an evening of excellent dining a good fun.
+
+$40.00 per person 
+
+If you are wanting to attend please call soon. Only 5 spots left! (We will take a short waiting list with phone numbers in case of cancellations.)
+
+All Knit & Dine attendees are eligible for a 20% discount on yarns on the evening of the event.
+We will meet at the store from 5:30pm to 6:20pm for your discount shopping opportunity.
+
+Wool & Silk will be closed at 5pm on Aug 22nd for this evening event.
