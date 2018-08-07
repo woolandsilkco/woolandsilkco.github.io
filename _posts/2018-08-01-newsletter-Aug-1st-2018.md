@@ -95,7 +95,7 @@ On till Monday September 3rd.
 <hr />
 <stromg> 
 Special Event Reminder !!! - Dine & Knit</strong>
-
+<img src="/img/beyondthegate.jpg"></a>
 We are offering an alternative to our Sit & Knit night. On Wed August 22nd at 6pm we will be having a dine & knit at Beyond the Gate. This is the lovely creperie restaurant located just behind the Wool & Silk Co.
   
 There will be a set menu with 3 choices for your main. Started with soup/salad, then main, the a dessert platter. All accompanied by tea/coffee.
