@@ -9,8 +9,7 @@ title: 'Newsletter August, 2018'
 - Time once again for the Christmas in July sale. Except we're doing it in August this year! 
 - All in-store stock of yarn is 15%off 
 
-<strong>Several yarns are featured at up to 40% off.  <br /><br />
-
+<strong>Several yarns are featured at up to 40% off.  
 Sale will be August 13th - 18th</strong>
 
 <strong>20% off</strong>
@@ -20,67 +19,63 @@ KFI Painted Sky
  
 <strong>25% off</strong>
 
-Aida cloth - for X-stitching
-Diamond Highlander
-Drops Belle
-Estelle Lumiere
-Hayfield Illusion
-Misti Alpaca Hand Paint Sock
+Aida cloth - for X-stitching<br />
+Diamond Highlander<br />
+Drops Belle<br />
+Estelle Lumiere<br />
+Hayfield Illusion<br />
+Misti Alpaca Hand Paint Sock<br />
 
 <strong>30% off</strong>
 
-Berroco Cirrus
-Cascade Avalon
-Chromatic Chunky
-Ella Rae Seasons
-Diamond Soxy Lady
-Harrap Tweed DK
-Juniper Moon Tenzing
-KFI Painted Mist
-Madeline Tosh Vintage
-Sirdar Baby Bamboo
-Sirdar Dapple
-Sirdar Imagination
-Sweet Georgia Worsted
-Sweet Paprika Minuet DK
-Sugar Bush Bold
+Berroco Cirrus<br />
+Cascade Avalon<br />
+Chromatic Chunky<br />
+Ella Rae Seasons<br />
+Diamond Soxy Lady<br />
+Harrap Tweed DK<br />
+Juniper Moon Tenzing<br />
+KFI Painted Mist<br />
+Madeline Tosh Vintage<br />
+Sirdar Baby Bamboo<br />
+Sirdar Dapple<br />
+Sirdar Imagination<br />
+Sweet Georgia Worsted<br />
+Sweet Paprika Minuet DK<br />
+Sugar Bush Bold<br />
  
 <strong>40% off</strong>
 
-Berroco Comfort & Comfort Chunky
-CEY Firefly
-CEY Fresco
-CEY Silky Alpaca Lace
-CEY Mountain Top Vail
-Diamond Jewel Metallic
-Ella Rae Cozy Soft & Cozy Soft Chunky
-Ella Rae Phoenix DK
-Estelle Big Alpaca Bulky
-Fibra Natura Flax
-Hayfield Chunky with Wool
-Juniper Moon Dromedary
-Juniper Moon Neve
-Katia Belice
-Montoya Beach
-Naturally Baby Natural
-Poems Silk
-Rowan Pure Wool
-Rowan Purelife Revive
-Shirley Brian
-Sirdar Amalfi
-Sirdar Aura
-Sirdar Smudge
-Soft Mix
+Berroco Comfort & Comfort Chunky<br />
+CEY Firefly<br />
+CEY Fresco<br />
+CEY Silky Alpaca Lace<br />
+CEY Mountain Top Vail<br />
+Diamond Jewel Metallic<br />
+Ella Rae Cozy Soft & Cozy Soft Chunky<br />
+Ella Rae Phoenix DK<br />
+Estelle Big Alpaca Bulky<br />
+Fibra Natura Flax<br />
+Hayfield Chunky with Wool<br />
+Juniper Moon Dromedary<br />
+Juniper Moon Neve<br />
+Katia Belice<br />
+Montoya Beach<br />
+Naturally Baby Natural<br />
+Poems Silk<br />
+Rowan Pure Wool<br />
+Rowan Purelife Revive<br />
+Shirley Brian<br />
+Sirdar Amalfi<br />
+Sirdar Aura<br />
+Sirdar Smudge<br />
+Soft Mix<br />
 
 <strong>60% off</strong>
 
-Filatura di Crosa Cincilla
+Filatura di Crosa Cincilla<br />
 
-Discounts do not apply to already discounted or
-
-on-sale yarns.  This sale does not include needles,
-
-notions, bags, buttons or patterns.
+Discounts do not apply to already discounted or on-sale yarns.  This sale does not include needles, notions, bags, buttons or patterns.
 <hr />
 <strong>Civic Holiday</strong>
  
