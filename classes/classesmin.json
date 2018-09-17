@@ -1428,11 +1428,16 @@
        {
  "title":"Okinawa cowl",
          "parts":1,
-         "dates":  
+        "dates":[  
             [  
-                "Oct 10 2018",
-                "Oct 11 2018"
+                "Sept 17 2018",
+                "Oct 1 2018"
             ],
+            [  
+                "Sept 20 2018",
+                "Oct 4 2018"
+               ]
+         ],
          "times":[  
             "1pm - 3pm (Wed)",
             "6:00pm - 8:00pm (Thurs)"
