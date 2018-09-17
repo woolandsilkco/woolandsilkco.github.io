@@ -1461,7 +1461,7 @@
                ]
          ],
          "times":[  
-            "1pm - 3pm (Wed)",
+            "1pm - 3pm (Mon)",
             "6:30pm - 8:30pm (Thurs)"
          ],
          "cost":"$36 + HST ",
@@ -1492,6 +1492,28 @@
          "supplies":"You need to bring: needles: 5.0mm x 40cm circular, 6.0mm x 40cm circular, 6.0mm DPN's",
          "note":"Yarn must be picked up and wound in advance. Brim is to be knitted prior to class starting",
          "description":"Here’s a toque with a different look!  A quick and fun knit combining garter stitch and stockinette textures with some yarn over holes for further decoration (and a little ventilation)! As always the pom pom is optional! Includes: pattern, materials: (1)skein Vintage Chunky, class"
+              },
+       {
+ "title":"Pretty Thing",
+         "parts":1,
+        "dates":[  
+            [  
+               "Nov 5 2018"
+            ],
+            [  
+              "Nov 8 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (Wed)",
+            "6:30pm - 8:30pm (Thurs)"
+         ],
+         "cost":"$30 + HST ",
+"image": "http://woolandsilkco.github.io/img/prettything.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/pretty-thing",
+         "supplies":"You need to bring: needles: 3.5mm x 40cm circular, stitch markers",
+         "note":"Yarn must be picked up in advance and wound if required. if you want to be very indulgent you can knit this in Cashmere! +  $ 14.25",
+         "description":"Gorgeous cowl for a gorgeous yarn!  Just enough lacy detail to keep it feminine & interesting. Learn to read a chart & knit lace in the round. Includes: pattern, materials: 1 skein of Fresco or Drops Alpaca, class"
               },
        {
  "title":"Okinawa cowl",
