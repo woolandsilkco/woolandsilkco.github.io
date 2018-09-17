@@ -1425,6 +1425,28 @@
           "link" : "https://www.ravelry.com/patterns/library/butterfly---papillon",
          "description":"  - glorious short rows with long colour change yard, 1 skein Alpaca Merino fine, 2 balls of KFI Painted Desert"
               },
+       {
+ "title":"Okinawa cowl",
+         "parts":1,
+        "dates":[  
+            [  
+               "Oct 10 2018"
+            ],
+            [  
+              "Oct 11 2018"
+               ]
+         ],
+         "times":[  
+            "1pm - 3pm (Wed)",
+            "6:00pm - 8:00pm (Thurs)"
+         ],
+         "cost":"$43 + HST ",
+"image": "http://woolandsilkco.github.io/img/okinawacowl.jpg",
+         "link" : "https://www.ravelry.com/patterns/library/okinawa-cowl",
+         "supplies":"You need to bring: needle: 2.75mm x 60cm circular, stitch markers (1 for start of round)",
+         "note":"Yarn must be picked up in advance & hand wound into a ball at home",
+         "description":"A beautiful lightweight 100% silk cowl. Can be worn all seasons. Focusing on the cast-on for small knits. Includes: pattern, materials: 1 skein of Aine (12 colours to choose from), class"
+              },
         {
  "title":"Antler Hat by tin can knits",
          "parts":2,
@@ -1558,28 +1580,7 @@
          "supplies":"You need to bring: needle: 3.25mm x 40cm circular, stitch markers",
          "note":"Yarn must be picked up in advance and wound. Brim is to be knitted prior to class starting",
          "description":"A cool hat for your favourite boarder or maybe just for you. Knitted in a semi-solid with a double stripe of Madeline Tosh winding up the side. That will make heads turn. Includes: pattern, materials: 1 skein of Sweet Georgia Tough Love Sock OR  Ancient Arts Socknado and 1 Madelinetosh Unicorn Tail, class"
-              },
-       {
- "title":"Okinawa cowl",
-         "parts":1,
-        "dates":[  
-            [  
-               "Oct 10 2018"
-            ],
-            [  
-              "Oct 11 2018"
-               ]
-         ],
-         "times":[  
-            "1pm - 3pm (Wed)",
-            "6:00pm - 8:00pm (Thurs)"
-         ],
-         "cost":"$43 + HST ",
-"image": "http://woolandsilkco.github.io/img/okinawacowl.jpg",
-         "link" : "https://www.ravelry.com/patterns/library/okinawa-cowl",
-         "supplies":"You need to bring: needle: 2.75mm x 60cm circular, stitch markers (1 for start of round)",
-         "note":"Yarn must be picked up in advance & hand wound into a ball at home",
-         "description":"A beautiful lightweight 100% silk cowl. Can be worn all seasons. Focusing on the cast-on for small knits. Includes: pattern, materials: 1 skein of Aine (12 colours to choose from), class"
               }
+      
            ]
 }
