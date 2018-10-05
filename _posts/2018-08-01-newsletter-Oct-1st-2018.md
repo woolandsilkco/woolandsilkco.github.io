@@ -5,6 +5,10 @@ published: true
 title: 'Newsletter October, 2018'
 ---
 
+- Yarn Tasting
+- Knit - A - Boob !!
+- Up & Down Sale
+
 Happy Thanksgiving!!
 Hoping that everyone is going to have a great holiday weekend. Lots of family, friends, fairs & food.
 
