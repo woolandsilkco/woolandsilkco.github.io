@@ -31,13 +31,13 @@ Menu:
           OR
  - mixed greens with maple roasted pumpkin, cucumber, goats
          cheese, sunflower seeds, dried cranberries
-         & honey dijon vinagrette
+         & honey dijon vinagrette<br />
 <strong>Mains(choose between):</strong>
 Vegetarian chili with garlic toast
                OR
 Country style chicken pot pie
                OR
-Mushroom & leek quiche with sweet potato crusts (lighter option & gluten free)
+Mushroom & leek quiche with sweet potato crusts (lighter option & gluten free)<br />
 <strong>Dessert</strong>
 Apple crisp with vanilla ice cream (also gluten free)
 
