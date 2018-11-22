@@ -104,3 +104,10 @@ Click on each photo to see the Ravelry pattern page
 or go to http://www.woolandsilkco.com 
 (click on "Classes" at the top of the page)
 for full listing of class dates & times 
+
+<strong>**Every Wed 1-3pm or 6:30-8:30pm you can learn to knit/crochet**</strong>
+
+$15.00, dedicated instructor
+(supplies are additional)
+
+participants must call & book ahead of time
