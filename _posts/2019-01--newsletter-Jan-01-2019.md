@@ -30,6 +30,7 @@ Just today, tomorrow & Saturday are left for you to take advantage of some fanta
 
 **Note** : Sale does not apply to notions, pattern purchases or already discounted items
 <hr />
+<img src="/img/indie.jpg">
 <strong>Guest Indie(Independent) Dyer is coming! - January 19th, 2019 - 10am-3pm</strong>
 
 So excited to welcome our first Indie Dyer to the Wool & Silk Co.
@@ -38,3 +39,16 @@ Come in & say hi to Jesika Hughes from Many Hues Fiber Studios
  
 Jesika comes to us from Orangeville, Ontario. Who knew?   Many-Hues yarns are hand-painted in small batch runs; no two skeins are the same!
 Her primary yarn focus is fingering-weight, with a spotlight on self striping sock yarns. Currently dyeing with a 80/20 superwash merino with nylon blend.  She is looking to expand into worsted weight yarns, and has a single ply superwash merino that should be ready for January 19th. 
+<img src="/img/indie2.jpg">
+<img src="/img/indie3.jpg"><hr />
+<strong>January Classes</strong>
+
+Please head on over to our website at http://www.woolandsilkco.com to sign up for classes. They begin in January and there are so many choices of great projects. More classes will follow in the February announcements.
+
+<strong>January Envelopes</strong>
+
+- envelope received when you purchase during the Boxing Week sales days
+- 15% - 50% off 
+- 1 envelope per customer
+- 1 single use of the discount on a purchase in January 2019 (after the boxing week sale is over)
+- discount cannot be applied to purchases from our guest Indie dyer
