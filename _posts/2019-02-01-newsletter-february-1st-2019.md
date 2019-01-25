@@ -83,7 +83,8 @@ Don't miss out on a great savings! Stop in soon
 
 <hr>
 
-<strong>More Winter Classes!!<strong>
+<strong>More Winter Classes!!</strong>
+
 New Class Projects
 
 Sweaters, Socks, Shawls & Cowls
