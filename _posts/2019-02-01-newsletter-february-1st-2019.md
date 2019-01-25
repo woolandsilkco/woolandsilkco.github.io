@@ -113,3 +113,9 @@ Click on each photo to see the Ravelry pattern page or go to http://www.woolands
 
 <hr>
 
+**Every Wed 1-3pm or 6:30-8:30pm you can learn to knit/crochet**
+
+$15.00, dedicated instructor (supplies are additional)
+
+participants must call & book ahead of time
+
