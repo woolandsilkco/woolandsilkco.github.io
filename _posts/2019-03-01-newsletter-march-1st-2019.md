@@ -10,7 +10,7 @@ title: 'March Newsletter'
 - Chunky Bulky Sale
 
 - Spring Classes
-<img src="/img/loving_path.gif">
+<img src="/img/loving_path.gif"><br />
 <strong>the Loving Path Yarn</strong>
  
 please join us
