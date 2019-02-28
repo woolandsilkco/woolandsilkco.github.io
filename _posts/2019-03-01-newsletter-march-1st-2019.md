@@ -10,9 +10,9 @@ title: 'March Newsletter'
 - Chunky Bulky Sale
 
 - Spring Classes
-<img src="/img/loving_path.gif"><br />
+
 <strong>the Loving Path Yarn</strong>
- 
+<img src="/img/loving_path.gif"><br />
 please join us
 Saturday March 9th, 10am - 3pm
 come & welcome
