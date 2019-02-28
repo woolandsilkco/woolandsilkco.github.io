@@ -24,10 +24,10 @@ Fabulous colours !!
 
 <hr />
 <strong>Chunky Bulky SALE !! - 20% - 40% off March 1 - 30</strong>
-
+<img src="/img/chunky_sale.jpg">
 <strong>20% off</strong>
-Alafoss Lopi
-Alpine
+Alafoss Lopi <br />
+Alpine<br />
 Andes
 Big Value Chunky
 Brisbane
