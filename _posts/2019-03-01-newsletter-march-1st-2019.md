@@ -10,7 +10,7 @@ title: 'March Newsletter'
 - Chunky Bulky Sale
 
 - Spring Classes
-
+<img src="/img/loving_path.gif">
 <strong>the Loving Path Yarn</strong>
  
 please join us
@@ -20,39 +20,38 @@ come & welcome
 Debbie is visiting us from London Ontario with a trunk show of gorgeous yarns. She has been producing small batch, hand dyed yarns since 2012. 
  
 Fabulous colours !!
-<img src="/img/loving_path.gif">
 
 <hr />
 <strong>Chunky Bulky SALE !! - 20% - 40% off March 1 - 30</strong>
 <img src="/img/chunky_sale.jpg">
-<strong>20% off</strong>
+<strong>20% off</strong><br />
 Alafoss Lopi <br />
 Alpine<br />
-Andes
-Big Value Chunky
-Brisbane
-Cherub Chunky
-Comfort Chunky
-Cozy Alpaca Chunky
-Enorme
-Fourteen
-Furreal
-Hudson
-Major
-Merino Alpaca Chunky 
-Noro Ito
-Olivia
-Russka Hat Kit
-Ultra Alpaca Chunky
-Uptown Bulky
-Vintage Chunky
+Andes<br />
+Big Value Chunky<br />
+Brisbane<br />
+Cherub Chunky<br />
+Comfort Chunky<br />
+Cozy Alpaca Chunky<br />
+Enorme<br />
+Fourteen<br />
+Furreal<br />
+Hudson<br />
+Major<br />
+Merino Alpaca Chunky <br />
+Noro Ito<br />
+Olivia<br />
+Russka Hat Kit<br />
+Ultra Alpaca Chunky<br />
+Uptown Bulky<br />
+Vintage Chunky<br />
 
-<strong>40% off</strong>
-Chromatic Chunky
-Chunky with Wool
-Cozy Soft Chunky
-Cumulus
-Seasons
+<strong>40% off</strong><br />
+Chromatic Chunky<br />
+Chunky with Wool<br />
+Cozy Soft Chunky<br />
+Cumulus<br />
+Seasons<br />
 <hr />
 <strong>Get Signed Up for Classes Now!</strong>  
 
