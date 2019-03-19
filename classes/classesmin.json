@@ -1911,9 +1911,9 @@
             "1pm - 3pm (Thurs - 3 classes)"
          ],
          "cost":"$60 + HST ",
-         "supplies":"You need to bring: needles:  4.0mm x 80cm, stitch markers. Includes:pattern, class, materials: 1 Spirit DK for baby size",
-          "description":"need to be able to knit in the round - 100g of dk(double knitting) yarn (to be purchased from W&S Co.) - 3.0mm & 3.5mm DPN's."
-              },
+         "prerequisites":"need to be able to knit in the round",
+         "supplies":"100g of dk(double knitting) yarn (to be purchased from W&S Co.)- 3.0mm & 3.5mm DPN's"  
+       },
        {
        "title":"2-at-a-Time Toe Up Socks",
           "parts":1,
