@@ -1891,6 +1891,40 @@
              "link" : "https://www.ravelry.com/patterns/library/baby-surprise-jacket",
             "supplies":"You need to bring: needles:  4.0mm x 80cm, stitch markers. Includes:pattern, class, materials: 1 Spirit DK for baby size",
            "description":"An iconic knit. Elizabeth Zimmermann's Baby Surprise Jacket has become near legendary since its conception in 1968. The jacket is knitted back and forth in Garter stitch, then cleverly folded and completed by weaving the shoulder seams. This updated pattern includes Elizabeth’s original Baby Surprise Jacket instructions, original Adult Surprise instructions (with added sizing help), and instructions for a Child’s Surprise jacket. A more than interesting knit that you will make again & again."
+              },
+      {
+       "title":"Learn to Kit Socks",
+          "parts":1,
+          "dates":[  
+             [
+                "Apr 4 2019",
+                "Apr 18 2019",
+                "May 2 2019"
+                ]
+           ],
+         "times":[  
+            "1pm - 3pm (Thurs - 3 classes)"
+         ],
+         "cost":"$60 + HST ",
+         "prerequisites":"need to be able to knit in the round",
+         "supplies":"100g of dk(double knitting) yarn (to be purchased from W&S Co.)- 3.0mm & 3.5mm DPN's"  
+       },
+       {
+       "title":"2-at-a-Time Toe Up Socks",
+          "parts":1,
+            "dates":[
+               [
+                "Apr 8 2019",
+                "Apr 22 2019",
+                "May 13 2019"
+          ]
+               ],
+         "times":[  
+            "1pm - 3pm (Monday - 3 classes)"
+         ],
+         "cost":"$60 + HST ",
+         "prerequisites":"need to be able to knit in the round using magic loop",
+         "supplies":"100g of sock yarn (to be purchased from W&S Co.), 2.5mm x 80cm circular needle"
               }
       
            ]
