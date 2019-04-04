@@ -2095,6 +2095,41 @@
           "link" : "https://www.ravelry.com/patterns/library/sunday-cardigan-4",
             "supplies":" 6.0mm & 7.0mm x 80cm circulars, you must be able to knit in the round",
          "description":" (7)Vintage/Tradition chunky (makes L/XL), (4) Drops Kid-Silk, knitted holding 1 strand of each together"
+},
+      {
+       "title":"Knit-a-long - Nighshift Shawl",
+         "parts":8,
+         "dates":[  
+          [
+                "June 3 2019",
+                "June 10 2019",
+                "June 17 2019",
+                "June 24 2019",
+                "July 8 2019",
+                "June 15 2019",
+                "June 22 2019",
+                "June 29 2019"
+          ],
+            [  
+                 "June 6 2019",
+                "June 13 2019",
+                "June 20 2019",
+                "June 27 2019",
+                "July 4 2019",
+                "July 11 2019",
+                "July 18 2019",
+                "July 25 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Tues)"
+         ],
+         "cost":"Free with yarn purchase ",
+          "image": "http://woolandsilkco.github.io/img/nighshift_crawl.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/nightshift",
+            "supplies":" Needles:  5.0mm x 80cm circular",
+         "description":"(6)colours of Universal Worsted Tweed - 3 light & 3 dark"
 }
      ]
 }
