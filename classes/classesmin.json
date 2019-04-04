@@ -2130,6 +2130,41 @@
           "link" : "https://www.ravelry.com/patterns/library/nightshift",
             "supplies":" Needles:  5.0mm x 80cm circular",
          "description":"(6)colours of Universal Worsted Tweed - 3 light & 3 dark"
+},
+      {
+       "title":"Knit-a-long - Sunset Highway",
+         "parts":8,
+         "dates":[  
+          [
+                "June 6 2019",
+                "June 13 2019",
+                "June 20 2019",
+                "June 27 2019",
+                "July 4 2019",
+                "June 11 2019",
+                "June 18 2019",
+                "June 25 2019"
+          ],
+            [  
+                 "June 8 2019",
+                "June 15 2019",
+                "June 22 2019",
+                "June 29 2019",
+                "July 6 2019",
+                "July 13 2019",
+                "July 20 2019",
+                "July 27 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Tues)"
+         ],
+         "cost":"Free with yarn purchase ",
+          "image": "http://woolandsilkco.github.io/img/sunset_highway.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/sunset-highway",
+            "supplies":" Needles:  2.75mm x 40cm circular & DPN’s 3.5mm x 40, 60 & 80cm & DPN’s",
+         "description":"Madeline Tosh or Mid-Knit Cravings (2)MC  &  (1 each) 3 contrasting colours"
 }
      ]
 }
