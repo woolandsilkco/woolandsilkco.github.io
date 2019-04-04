@@ -1894,7 +1894,7 @@
          "cost":"$64 + HST ",
          "image": "http://woolandsilkco.github.io/img/babysurprise.jpg",
           "link" : "https://www.ravelry.com/patterns/library/baby-surprise-jacket",
-            "supplies":"You need to bring: needles:  4.0mm x 80cm, stitch markers. Includes:pattern, class, materials: 1 Spirit DK for baby size",
+            "supplies":"You need to bring: needles:  4.0mm x 80cm, stitch markers and (1)ball of Hayfield Spirit. Includes:pattern, class, materials: 1 Spirit DK for baby size",
            "description":"An iconic knit. Elizabeth Zimmermann's Baby Surprise Jacket has become near legendary since its conception in 1968. The jacket is knitted back and forth in Garter stitch, then cleverly folded and completed by weaving the shoulder seams. This updated pattern includes Elizabeth’s original Baby Surprise Jacket instructions, original Adult Surprise instructions (with added sizing help), and instructions for a Child’s Surprise jacket. A more than interesting knit that you will make again & again."
               },
        {
@@ -1930,6 +1930,24 @@
          "cost":"$60 + HST ",
          "prerequisites":"need to be able to knit in the round using magic loop and yarn needs to wound, in advance, into 2 equal balls",
          "supplies":"100g of sock yarn (to be purchased from W&S Co.), 2.5mm x 80cm circular needle"
+              },
+        {
+       "title":"Tech - Reading a lace chart",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 6 2019"
+            ],
+            [  
+                "May 9 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Thurs)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 40sts & knit 4 rows in stocking stitch"
               }
      ]
 }
