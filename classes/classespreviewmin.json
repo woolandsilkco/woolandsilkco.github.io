@@ -1925,7 +1925,264 @@
          "cost":"$60 + HST ",
          "prerequisites":"need to be able to knit in the round using magic loop",
          "supplies":"100g of sock yarn (to be purchased from W&S Co.), 2.5mm x 80cm circular needle"
-              }
+              },
+        {
+       "title":"Tech - Reading a lace chart",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 6 2019"
+            ],
+            [  
+                "May 9 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Thurs)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 40sts & knit 4 rows in stocking stitch"
+              },
+       {
+       "title":"Tech - Intro to Cables",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 9 2019"
+            ],
+            [  
+                "May 11 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 40sts & knit 4 rows in stocking stitch"
+              },
+       {
+       "title":"Tech - Intro to Brioche",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 16 2019"
+            ],
+            [  
+                "May 18 2019"
+               ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 40sts & knit 4 rows in stocking stitch"
+              },
+       {
+       "title":"Tech - Finishing Your Knitted Garment",
+         "parts":3,
+         "dates":[  
+           [  
+                "May 23 2019"
+            ],
+            [  
+                "May 23 2019"
+               ],
+             [  
+                "May 25 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Thurs)",
+            "6:30pm - 8:30pm (Thurs)",
+               "10:00pm - 1:00pm (Sat)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, sewing up needles before class homework - cast on 15sts & knit 30 rows in stocking stitch, then 30 rows in garter stitch, cast-off   (make 2 identical pieces)"
+              },
+       {
+       "title":"Tech - 3 Kinds of Buttonholes",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 27 2019"
+            ],
+            [  
+                "May 30 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Thurs)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 25sts & knit 4 rows in stocking stitch"
+              },
+      {
+       "title":"Tech - 2 colour Fair Isle",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 30 2019"
+            ],
+            [  
+                "June 1 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 30sts & knit 4 rows in stocking stitch"
+              },
+      {
+       "title":"Tech - 3 Kinds of Buttonholes",
+         "parts":1,
+         "dates":[  
+           [  
+                "May 27 2019"
+            ],
+            [  
+                "May 30 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Thurs)"
+         ],
+         "cost":"$20 + HST ",
+            "supplies":" 4.0mm needles, dk yarn, before class homework - cast on 25sts & knit 4 rows in stocking stitch"
+              },
+      {
+       "title":"Knit-a-long - Sunday Cardigan",
+         "parts":8,
+         "dates":[  
+          [
+                "June 3 2019",
+                "June 10 2019",
+                "June 17 2019",
+                "June 24 2019",
+                "July 8 2019",
+                "June 15 2019",
+                "June 22 2019",
+                "June 29 2019"
+          ],
+            [  
+                 "June 4 2019",
+                "June 11 2019",
+                "June 18 2019",
+                "June 25 2019",
+                "July 9 2019",
+                "July 16 2019",
+                "July 23 2019",
+                "July 30 2019"
+               ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm (Mon)",
+            "6:30pm - 8:30pm (Tues)"
+         ],
+         "cost":"Free with yarn purchase from Wool & Silk Co. ",
+          "image": "http://woolandsilkco.github.io/img/sunday_cardigan.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/sunday-cardigan-4",
+            "supplies":" 6.0mm & 7.0mm x 80cm circulars, you must be able to knit in the round",
+         "description":" (7)Vintage/Tradition chunky (makes L/XL), (4) Drops Kid-Silk, knitted holding 1 strand of each together"
+},
+      {
+       "title":"Knit-a-long - Nighshift Shawl",
+         "parts":8,
+         "dates":[  
+          [
+                "June 3 2019",
+                "June 10 2019",
+                "June 17 2019",
+                "June 24 2019",
+                "July 8 2019",
+                "June 15 2019",
+                "June 22 2019",
+                "June 29 2019"
+          ],
+            [  
+                 "June 6 2019",
+                "June 13 2019",
+                "June 20 2019",
+                "June 27 2019",
+                "July 4 2019",
+                "July 11 2019",
+                "July 18 2019",
+                "July 25 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "6:30pm - 8:30pm (Thurs)"
+         ],
+         "cost":"Free with yarn purchase from Wool & Silk Co. ",
+          "image": "http://woolandsilkco.github.io/img/nightshift_crawl.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/nightshift",
+            "supplies":" Needles:  5.0mm x 80cm circular",
+         "description":"(6)colours of Universal Worsted Tweed - 3 light & 3 dark"
+},
+      {
+       "title":"Knit-a-long - Sunset Highway",
+         "parts":8,
+         "dates":[  
+          [
+                "June 6 2019",
+                "June 13 2019",
+                "June 20 2019",
+                "June 27 2019",
+                "July 4 2019",
+                "June 11 2019",
+                "June 18 2019",
+                "June 25 2019"
+          ],
+            [  
+                 "June 8 2019",
+                "June 15 2019",
+                "June 22 2019",
+                "June 29 2019",
+                "July 6 2019",
+                "July 13 2019",
+                "July 20 2019",
+                "July 27 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"Free with yarn purchase from Wool & Silk Co. ",
+          "image": "http://woolandsilkco.github.io/img/sunset_highway.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/sunset-highway",
+            "supplies":" Needles:  2.75mm x 40cm circular & DPN’s 3.5mm x 40, 60 & 80cm & DPN’s",
+         "description":"Madeline Tosh or Mid-Knit Cravings (2)MC  &  (1 each) 3 contrasting colours"
+},
+       {
+       "title":"Papillon Shawl (includes yarn)",
+         "parts":2,
+         "dates":[  
+          [
+                "Aug 6 2019",
+                "Aug 20 2019"
+          ],
+            [  
+                 "Aug 8 2019",
+                "Aug 22 2019"
+               ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm (Tues)",
+            "1:00pm - 3:00pm (Thurs)"
+         ],
+         "cost":"$75 + HST ",
+          "image": "http://woolandsilkco.github.io/img/papillon_shawl.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/butterfly---papillon",
+            "supplies":" (2)balls Painted Desert,  (1) skein Alpaca Merino Fine, Needles:  3.5mm x 80cm circular"
+}
       
            ]
 }
