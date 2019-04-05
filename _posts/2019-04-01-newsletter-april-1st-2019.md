@@ -13,8 +13,6 @@ title: 'April Newsletter'
  
 <img src="/img/ewe1.jpg"><br />
 <strong>The Date is Coming son!</strong>
-
-The Date is Coming Soon!
  
 Saturday April 6th, 10am - 3pm
 please join
@@ -57,7 +55,7 @@ Please go to our webpage & click on the Classes tab for more details.
 Call or come in to register. 519-925-6194 
 <hr />
 <strong>Lightweight Yarns are in!!</strong>
- <img src="/img/lightweight_yarns2.jpg"><br />
+ <img src="/img/lightweight_yarn2.jpg"><br />
   <img src="/img/lightweight_yarns3.jpg"><br />
 Juniper Moon Pollock <br />                              
 Ella Rae Denim DK <br />
