@@ -30,7 +30,7 @@ Fabulous colours !!
 
 We have put together an interesting array of technique classes and KAL's to take us right through the summer months
  
-<strong>Classes</strong>
+<strong>Classes</strong> <br />
 2 at a time socks (3 classes)<br />
 Elizabeth Zimmerman Baby Surprise Jacket<br />
 (2 classes)      $64.00<br />
@@ -47,7 +47,7 @@ KAL classes are free. The idea of KAL's is for everyone to knit the same garment
 Sunday Cardigan     <br />         
 Nightshift Shawl<br />
 Sunset Highway<br />
-<strong>Class</strong>
+<strong>Class</strong> <br />
 Papillon shawl (includes yarn)    $75.00<br />
 
 It is understood that yarns for all classes & KAL's are to be purchased from W&S Co.
@@ -59,12 +59,12 @@ Call or come in to register. 519-925-6194
 <strong>Lightweight Yarns are in!!</strong>
  <img src="/img/lightweight_yarns2.jpg"><br />
   <img src="/img/lightweight_yarns3.jpg"><br />
-Juniper Moon Pollock                               Ella Rae Denim DK
-
-Louisa Harding Giardino                          Sirdar 100% cotton
-
-Hayfield Baby Blossom DK                      King Cole Cotton Top
-
-Gedifra - Lana Mia Cottone                      Noro Akari
-
-                         Indulgence Mini DK skeins
+Juniper Moon Pollock <br />                              
+Ella Rae Denim DK <br />
+Louisa Harding Giardino      <br />                     
+Sirdar 100% cotton <br />
+Hayfield Baby Blossom DK      <br />                 
+King Cole Cotton Top <br />
+Gedifra - Lana Mia Cottone      <br />                 
+Noro Akari <br />
+Indulgence Mini DK skeins
