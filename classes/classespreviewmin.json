@@ -2137,6 +2137,41 @@
             "supplies":" Needles:  2.75mm x 40cm circular & DPN’s 3.5mm x 40, 60 & 80cm & DPN’s",
          "description":"Madeline Tosh or Mid-Knit Cravings (2)MC  &  (1 each) 3 contrasting colours"
 },
+        {
+       "title":"Knit-a-long - Zweig (by Caitlin Hunter)",
+         "parts":8,
+         "dates":[  
+          [
+                "June 5 2019",
+                "June 12 2019",
+                "June 19 2019",
+                "June 26 2019",
+                "July 3 2019",
+                "July 10 2019",
+                "July 17 2019",
+                "July 24 2019"
+          ],
+            [  
+                 "June 6 2019",
+                "June 13 2019",
+                "June 20 2019",
+                "June 27 2019",
+                "July 4 2019",
+                "July 11 2019",
+                "July 18 2019",
+                "July 25 2019"
+               ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm (Wed)",
+            "10:00am - 12:00pm (Thurs)"
+         ],
+         "cost":"Free with yarn purchase from Wool & Silk Co. ",
+          "image": "http://woolandsilkco.github.io/img/zweig.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/zweig",
+         "description":"Caitlin Hunter outdid herself here. Such a beautiful sweater. It is the one you will wear over & over again. Will be knitted using Estelle's Alpaca Merino Fine and either Louisa Harding Luci or Berroco's Millefiori Light (you can also use Mad Tosh, Hedgehog or Mid Knit Cravings) for the contrasting colour. This is one where you let the yarn do the work and you reap the gorgeous benefits. Already over 3900 projects on Ravelry! 8 weekly classes",
+            "supplies":""
+},
        {
        "title":"Papillon Shawl (includes yarn)",
          "parts":2,
