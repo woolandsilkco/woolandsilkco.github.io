@@ -104,9 +104,9 @@ function doTClasses(it) { var out='<span>';var arr1=it.array;if(arr1){var value,
             {{? it.link}}<a href="{{=it.link}}">{{?}}{{? it.image}}<img src={{=it.image}} alt="">{{?}}{{? it.link}}</a>{{?}}
             {{? it.note}}<h3>Note: {{=it.note}}</h3>{{?}}
             <h4>Dates</h4>
-            <p>{{~it.dates :value:index2}}{{? index2 > 0}}  OR  {{?}}{{~value :value:index3}}{{? index3 > 0}} & {{?}}{{=value}}{{~}}{{~}}</p>
+            <p>{{~it.dates :value:index2}}{{? index2 > 0}}  <strong>OR</strong>  {{?}}{{~value :value:index3}}{{? index3 > 0}} & {{?}}{{=value}}{{~}}{{~}}</p>
             <h4>Times</h4>
-            <p>{{~it.times :value:index2}}{{? index2 > 0}} OR {{?}}{{=value}}{{~}}</p>
+            <p>{{~it.times :value:index2}}{{? index2 > 0}} <strong>OR</strong> {{?}}{{=value}}{{~}}</p>
             {{? it.description}}
               <h4>Description</h4>
               <p>{{=it.description}}</p>
