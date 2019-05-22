@@ -63,3 +63,11 @@ Universal Yarns Bella Cash
 Click on any of the underlined yarn names to view feature pages. 
 
 Not all colours viewed are available in store
+
+<hr>
+
+<strong>Grocery Girl Socks</strong>
+
+<img src="/img/grocerygirl.jpg"><br />
+
+Do you watch Podcats?  Then you have most likely heard of the Grocery Girls. Here is a new pattern from them!  Lots of exciting sock yarns in stock to make these!
