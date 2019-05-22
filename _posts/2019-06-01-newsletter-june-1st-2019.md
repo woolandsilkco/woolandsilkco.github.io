@@ -5,9 +5,10 @@ published: true
 title: 'June Newsletter'
 ---
 
-- Almost time for the Lakeside Yarn Crawl
+- Lakeside Yarn Crawl
 - Classes & KAL's are On
 - New Spring/Summer Yarns are in stock now
+- Grocery Girl Socks
  
 <img src="/img/lakeside.jpg"><br />
 <strong>Almost time for the Lakeside Yarn Crawl!!</strong>
@@ -31,14 +32,17 @@ NOTE:
 KAL's are Knit-A-Long events. Instructor support is provided but they are not specific instructional/ technique classes. The class is free with the in-store purchase of the yarn we indicate for the project. Substitutions are not allowed. Please call in to find out about yarn, quantities, and to sign up for the KAL's (519) 942-0264  
  
 <strong>Sunday Cardigan</strong> <br />
+<img src="/img/sunday_cardigan.jpg"><br />
 KAL - Starts June 3   1-3pm (8weeks) OR June 6   6:30-8:30pm (8 weeks)
 - still a few spots left!<br />
 
 <strong>Zweig</strong> <br />
+<img src="/img/zwieg.jpg"><br />
 Offered June 3    10am-12noon  (8 weeks) OR June 4     6:30pm - 8:30pm (8 weeks)
 - fingering weight sweater <br />
 
 <strong>Sunset Highway</strong> <br />
+<img src="/img/sunset_highway.jpg"><br />
 June 6  1-3pm (8 weeks) OR June 8     10am-12noon (8 weeks)<br />
 
 <hr />
