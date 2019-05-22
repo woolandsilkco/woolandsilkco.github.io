@@ -46,23 +46,23 @@ Offered June 3    10am-12noon  (8 weeks) OR June 4     6:30pm - 8:30pm (8 weeks)
 June 6  1-3pm (8 weeks) OR June 8     10am-12noon (8 weeks)<br />
 
 <hr />
-<strong>New Spring/Summer Yarns are in stock now</strong>
-<a href="http://www.berroco.com/yarns/berroco-remix-light">Berroco Remix Light</a>
-<a href="http://www.berroco.com/yarns/berroco-summer-silk">Berroco Summer Silk</a>
-<a href="https://knittingfever.com/ella-rae/yarn/K-DDK">Ella Rae Denim DK</a>
-Fibra Natura Java (100% Hemp)
-<a href="https://knittingfever.com/gedifra/yarn/K-LAMCGedifra">Lana Mia Cotone (cotton sock yarn)</a>
-<a href="https://knittingfever.com/juniper-moon-farm/yarn/K-POLJuniper">Moon Pollock</a>
-<a href="https://knittingfever.com/kfi-luxury-collection/yarn/K-INMKFI">Indulgence mini skeins (with free pattern)</a>
-<a href="https://www.estelleyarns.com/item.php?index=2765">King Cole Cotton Top DK</a>
-<a href="https://knittingfever.com/louisa-harding/yarn/K-GIA">Louisa Harding Giardino (colourful cotton blend)</a>
-<a href="https://knittingfever.com/noro/yarn/K-AKA">Noro Akari</a>
-<a href="https://knittingfever.com/noro/yarn/K-SONNoro">Sonata</a>
-Universal Yarns Bella Cash
+<strong>New Spring/Summer Yarns are in stock now</strong> <br />
+<a href="http://www.berroco.com/yarns/berroco-remix-light">Berroco Remix Light</a> <br />
+<a href="http://www.berroco.com/yarns/berroco-summer-silk">Berroco Summer Silk</a> <br />
+<a href="https://knittingfever.com/ella-rae/yarn/K-DDK">Ella Rae Denim DK</a> <br />
+Fibra Natura Java (100% Hemp) <br />
+<a href="https://knittingfever.com/gedifra/yarn/K-LAMCGedifra">Lana Mia Cotone (cotton sock yarn)</a> <br />
+<a href="https://knittingfever.com/juniper-moon-farm/yarn/K-POLJuniper">Moon Pollock</a> <br />
+<a href="https://knittingfever.com/kfi-luxury-collection/yarn/K-INMKFI">Indulgence mini skeins (with free pattern)</a> <br />
+<a href="https://www.estelleyarns.com/item.php?index=2765">King Cole Cotton Top DK</a> <br />
+<a href="https://knittingfever.com/louisa-harding/yarn/K-GIA">Louisa Harding Giardino (colourful cotton blend)</a> <br />
+<a href="https://knittingfever.com/noro/yarn/K-AKA">Noro Akari</a> <br />
+<a href="https://knittingfever.com/noro/yarn/K-SONNoro">Sonata</a> <br />
+Universal Yarns Bella Cash <br /> <br />
 
-Click on any of the underlined yarn names to view feature pages. 
+Click on any of the underlined yarn names to view feature pages.  <br /> <br />
 
-Not all colours viewed are available in store
+Not all colours viewed are available in store <br />
 
 <hr>
 
