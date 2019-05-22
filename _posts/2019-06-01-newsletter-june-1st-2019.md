@@ -53,11 +53,11 @@ June 6  1-3pm (8 weeks) OR June 8     10am-12noon (8 weeks)<br />
 Fibra Natura Java (100% Hemp)
 <a href="https://knittingfever.com/gedifra/yarn/K-LAMCGedifra">Lana Mia Cotone (cotton sock yarn)</a>
 <a href="https://knittingfever.com/juniper-moon-farm/yarn/K-POLJuniper">Moon Pollock</a>
-KFI Indulgence mini skeins (with free pattern)
-King Cole Cotton Top DK
-Louisa Harding Giardino (colourful cotton blend)
-Noro Akari
-Noro Sonata
+<a href="https://knittingfever.com/kfi-luxury-collection/yarn/K-INMKFI">Indulgence mini skeins (with free pattern)</a>
+<a href="https://www.estelleyarns.com/item.php?index=2765">King Cole Cotton Top DK</a>
+<a href="https://knittingfever.com/louisa-harding/yarn/K-GIA">Louisa Harding Giardino (colourful cotton blend)</a>
+<a href="https://knittingfever.com/noro/yarn/K-AKA">Noro Akari</a>
+<a href="https://knittingfever.com/noro/yarn/K-SONNoro">Sonata</a>
 Universal Yarns Bella Cash
 
 Click on any of the underlined yarn names to view feature pages. 
