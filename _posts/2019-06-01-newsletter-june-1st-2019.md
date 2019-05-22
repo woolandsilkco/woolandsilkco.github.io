@@ -68,6 +68,6 @@ Not all colours viewed are available in store <br />
 
 <strong>Grocery Girl Socks</strong>
 
-<img src="/img/grocerygirl.jpg"><br />
+<a href="https://www.ravelry.com/patterns/library/the-grocery-girls-sock"><img src="/img/grocerygirl.jpg"></a><br />
 
 Do you watch Podcats?  Then you have most likely heard of the Grocery Girls. Here is a new pattern from them!  Lots of exciting sock yarns in stock to make these!
