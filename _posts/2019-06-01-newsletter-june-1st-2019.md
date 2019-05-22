@@ -7,7 +7,7 @@ title: 'June Newsletter'
 
 - Lakeside Yarn Crawl
 - Classes & KAL's are On
-- New Spring/Summer Yarns are in stock now
+- New Spring/Summer Yarns
 - Grocery Girl Socks
  
 <img src="/img/lakeside.jpg"><br />
