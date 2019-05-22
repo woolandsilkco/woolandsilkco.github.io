@@ -2,67 +2,64 @@
 layout: post
 type: news
 published: true
-title: 'April Newsletter'
+title: 'June Newsletter'
 ---
 
-- Indie Dyer Coming
+- Almost time for the Lakeside Yarn Crawl
 
-- New Spring/Summer Classes Added
+- Classes & KAL's are On
 
-- Lightweight Yarns Have Arrived
+- New Spring/Summer Yarns are in stock now
+
+- Grocery Girls Socks
  
-<img src="/img/ewe1.jpg"><br />
-<strong>The Date is Coming son!</strong>
+<img src="/img/lakeside.jpg"><br />
+<strong>Almost time for the Lakeside Yarn Crawl!!</strong>
  
-Saturday April 6th, 10am - 3pm
-please join
+June 1st to September 3rd
 
-<strong>Natural Ewe</strong>
+Fifteen gorgeous shops to visit, plus Fibre Spirit Festival in Barrie (Aug 24th). In-store draws & giveaways, bags, specialty yarns. Oh the fun of it all! Get your passport in-store and crawl on!
 
-Andrea is visiting us from Bracebridge Ontario with a trunk show of gorgeous naturally dyed yarns. Come in and see her yarns and chat with her about her dyeing process.
+Featuring an exclusive colourway developed for us by Fergus Yarn Co.
  
-Fabulous colours !!
- <img src="/img/ewe_yarns.jpg"><br />
+Our colourway is based on the lovely sunset photo above here. Lisa Taylor (Fergus Yarn Co.) will be visiting us July 20th for a trunk show of her new & exciting colours! 
+
 <hr />
-<strong>New Classes & KAL's are starting soon!</strong>  
+<strong>Classes & KAL's are On!</strong>  
 
-We have put together an interesting array of technique classes and KAL's to take us right through the summer months
+Our newest class & KAL lists are up on the website.
+go to: www.woolandsilkco.com
+and click on the "Classes" tab at the top of the page for the full list and photos.
+
+NOTE: 
+KAL's are Knit-A-Long events. Instructor support is provided but they are not specific instructional/ technique classes. The class is free with the in-store purchase of the yarn we indicate for the project. Substitutions are not allowed. Please call in to find out about yarn, quantities, and to sign up for the KAL's (519) 942-0264  
  
-<strong>Classes</strong> <br />
-2 at a time socks (3 classes)<br />
-Elizabeth Zimmerman Baby Surprise Jacket<br />
-(2 classes)      $64.00<br />
-<strong>Techniques (free part balls) </strong>           $20.00 each<br />
-Tech - Reading a lace chart<br />
-Tech - Intro to Cables<br />
-Tech - Intro to Brioche<br />
-Tech - Finishing Your Knitted Garment<br />
-Tech - 3 Kinds of Buttonholes<br />
-Tech - 2 colour Fair Isle
-(tech classes are single classes)
-<strong>KAL's</strong>  <br />
-KAL classes are free. The idea of KAL's is for everyone to knit the same garment, come weekly for 8 weeks, and complete their item. An instructor will be present to aid with any knitting difficulties. While the 3 garments are different, this is not a specific technique learning class. <br />
-Sunday Cardigan     <br />         
-Nightshift Shawl<br />
-Sunset Highway<br />
-<strong>Class</strong> <br />
-Papillon shawl (includes yarn)    $75.00<br />
+<strong>Sunday Cardigan</strong> <br />
+KAL - Starts June 3   1-3pm (8weeks) OR June 6   6:30-8:30pm (8 weeks)
+- still a few spots left!<br />
 
-It is understood that yarns for all classes & KAL's are to be purchased from W&S Co.
+<strong>Zweig</strong> <br />
+Offered June 3    10am-12noon  (8 weeks) OR June 4     6:30pm - 8:30pm (8 weeks)
+- fingering weight sweater <br />
 
-Please go to our webpage & click on the Classes tab for more details.
+<strong>Sunset Highway</strong> <br />
+June 6  1-3pm (8 weeks) OR June 8     10am-12noon (8 weeks)<br />
 
-Call or come in to register. 519-925-6194 
 <hr />
-<strong>Lightweight Yarns are in!!</strong>
- <img src="/img/lightweight_yarn2.jpg"><br />
-  <img src="/img/lightweight_yarns3.jpg"><br />
-Juniper Moon Pollock <br />                              
-Ella Rae Denim DK <br />
-Louisa Harding Giardino      <br />                     
-Sirdar 100% cotton <br />
-Hayfield Baby Blossom DK      <br />                 
-King Cole Cotton Top <br />
-Gedifra - Lana Mia Cottone      <br />                 
-Noro Akari <br />
-Indulgence Mini DK skeins
+<strong>New Spring/Summer Yarns are in stock now</strong>
+<a href="http://www.berroco.com/yarns/berroco-remix-light">Berroco Remix Light</a>
+<a href="http://www.berroco.com/yarns/berroco-summer-silk">Berroco Summer Silk</a>
+<a href="https://knittingfever.com/ella-rae/yarn/K-DDK">Ella Rae Denim DK</a>
+Fibra Natura Java (100% Hemp)
+<a href="https://knittingfever.com/gedifra/yarn/K-LAMCGedifra">Lana Mia Cotone (cotton sock yarn)</a>
+<a href="https://knittingfever.com/juniper-moon-farm/yarn/K-POLJuniper">Moon Pollock</a>
+KFI Indulgence mini skeins (with free pattern)
+King Cole Cotton Top DK
+Louisa Harding Giardino (colourful cotton blend)
+Noro Akari
+Noro Sonata
+Universal Yarns Bella Cash
+
+Click on any of the underlined yarn names to view feature pages. 
+
+Not all colours viewed are available in store
