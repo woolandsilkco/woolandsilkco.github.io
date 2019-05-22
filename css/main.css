@@ -333,7 +333,7 @@ div.featured li
  * Featured Socks Styles
  **********************/
 div.socks {
-    max-height: 45em;
+    max-height: 95em;
     overflow-y: scroll;
 }
 
