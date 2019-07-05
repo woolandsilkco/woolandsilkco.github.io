@@ -6,8 +6,8 @@ title: 'July Newsletter'
 ---
 
 - Lakeside Yarn Crawl
-- Classes & KAL's are On
-- Fergus Yarn Co.
+- Classes & KAL's
+- Fergus Yarn Co. Trunk Show
  
 <img src="/img/lakeside.jpg"><br />
 <strong>Lakeside Yarn Crawl!! It's on Right Now</strong>
@@ -63,6 +63,6 @@ Call the store to register  519-925-6194
 Fabulous project
 
 <hr />
-<strong>Fergus Yarn Co. - July 20th 10am - 4pm</strong> <br />
+<strong>Trunk Show! Fergus Yarn Co. - July 20th 10am - 4pm</strong> <br />
 <img src="/img/fergusyarn.jpg"><br />
 Please join us in welcoming Lisa Taylor from Fergus Yarn Co.  Lisa designed our Sunset on the Bay colourway for the Lakeside Yarn Crawl this year. She will be bringing a fabulous selection of exciting yarns for you to see at her trunk show on July 20th.
