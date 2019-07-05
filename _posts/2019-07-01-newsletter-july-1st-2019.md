@@ -21,7 +21,7 @@ Featuring an exclusive colourway developed for us by Fergus Yarn Co.
 Our colourway is based on the lovely sunset photo above here. Lisa Taylor (Fergus Yarn Co.) will be visiting us July 20th for a trunk show of her new & exciting colours! 
 
 <hr />
-<strong>Classes & KAL's are On!</strong>  
+<strong>Classes & KAL's</strong>  
 
 Our newest class & KAL lists are up on the website.
 go to: www.woolandsilkco.com
