@@ -51,7 +51,7 @@ This project will be done as a KAL with the first session being a teaching sessi
 Fee:   $20.00 
 start Aug 12  1pm-3pm  (8 weeks) Monday afternoons
 OR
-start Aug 9  6:30pm-8:30pm (8 weeks) Thursday evenings
+start Aug 8  6:30pm-8:30pm (8 weeks) Thursday evenings
 
 Requires:
 (3) skeins of coordinating Mid-Knit Cravings Sweet Sock yarn ($32ea)
