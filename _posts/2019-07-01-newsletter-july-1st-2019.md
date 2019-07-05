@@ -7,7 +7,7 @@ title: 'July Newsletter'
 
 - Lakeside Yarn Crawl
 - Classes & KAL's are On
-- New Spring/Summer Yarns
+- Fergus Yarn Co.
  
 <img src="/img/lakeside.jpg"><br />
 <strong>Lakeside Yarn Crawl!! It's on Right Now</strong>
