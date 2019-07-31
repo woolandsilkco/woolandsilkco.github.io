@@ -6,7 +6,7 @@ title: 'August Newsletter'
 ---
 
 - It's the X-mas in (July) In August Sale !!!
-- August 12th - 17th <strong>All in-stock yarn is 15%off  !!</strong>
+- August 12th - 17th <strong>All in-stock yarn is 15 %off  !!</strong>
 
 In addition there are over 60 selected yarns at discounts of 20%-60% off
 
