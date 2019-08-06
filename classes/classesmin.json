@@ -2429,7 +2429,7 @@
           "description":"Elizabeth Zimmerman's timeless pattern creates a beautiful child's jacket. The knitting seems odd. The pattern is kind of strange. But in the end, all of a sudden, you have made a little jacket. Join in & unravel the mystery. We make the child size for this class to get you oriented with the pattern. You can go on from there and make an adult size and use a heavier yarn."
 } ,
       {
-       "title":"2 at a Time Toe up Sock",
+       "title":"Techniques - 2 at a Time Toe up Sock",
          "parts":1,
         "dates":[  
           [
@@ -2446,7 +2446,7 @@
           "description":"Hate making 2 individual socks?  Suffering from Single Sock Syndrome ?  Then perhaps 2 at a Time Socks is for you. Learn the special cast-on and a new way to get a pair finished all at one time."
 },
       {
-       "title":"How to Knit Socks",
+       "title":"Techniques - How to Knit Socks",
          "parts":1,
         "dates":[  
           [
@@ -2461,6 +2461,29 @@
          "cost":"$69.00+ HST ",
           "supplies":"(1)Vintage DK. Fee includes pattern, yarn & 2 classes",
           "description":"Always wanted to knit socks but mystified by the process? Join us and be demystified.  You will be amazed at how a sock is knitted & shaped. They fit like nothing else!"
+},
+       {
+       "title":"Techniques - Learn to Knit Mitts",
+         "parts":1,
+         "dates":[  
+          [
+                "Sept 13 2019",
+                "Sept 20 2019",
+                "Sept 27 2019"
+            ],
+            [  
+                 "Oct 15 2019",
+                "Oct 29 2019",
+                 "Nov 5"
+               ]
+         ],
+          "times":[  
+           "1:00pm - 3:00pm (Fri)",
+            "6:30pm - 8:30pm (Tues)"
+         ],
+         "cost":"$74.00+ HST ",
+          "supplies":"(1) skein of Alpaca Merino Worsted or Berroco Ultra Alpaca World's Simplest Mittens by Tin Can Knits. Fee includes pattern, yarn & 2 classes",
+          "description":"Mittens are curious things!  You can do the after-thought thumb but it isn't really the shape of your hand. Instead come and find out how to do a gusset thumb. So much better. You will learn all of the steps to making a beautiful pair of mittens."
 }    
     ]
 }
