@@ -2356,7 +2356,8 @@
           "image": "http://woolandsilkco.github.io/img/heart_warmer_cowl.jpg",
           "supplies":"Fee includes pattern, yarn & 3 classes",
           "description":"Interested in different stitches but unsure of how to approach them on your own? Come in & create a cowl using some new techniques. A total of 6 variations (2 types at each class) will be taught , using some spare yarn & needles. Then you will be able to knit those patterns on your sampler cowl in Mid-Knit Cravings."
-}, {
+}, 
+      {
        "title":"Scrapbook Cardi",
          "parts":1,
         "dates":[  
@@ -2380,7 +2381,30 @@
           "image": "http://woolandsilkco.github.io/img/scrapbook_cardi.jpg",
           "supplies":"Fee includes pattern, yarn & 3 classes",
           "description":"Love the look of a cardigan but tired of doing the endless stocking stitch?  This sweater combines multiple stitch patterns to make an interestingly textured fabric. Keeps your fingers & mind busy with beautiful results. We have chosen the Queensland United for this project. It has excellent stitch definition and good yardage."
-}   
+},
+      {
+       "title":"Grrlfriend Market Bag (by Laura Spradlin)",
+         "parts":1,
+        "dates":[  
+          [
+                "Oct 17 2019",
+                "Oct 31 2019"
+            ],
+            [  
+                 "Nov 16 2019",
+                "Nov 30 2019"
+               ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$50.00+ HST ",
+      "link" : "https://www.ravelry.com/patterns/library/grrlfriend-market-bag?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d",
+          "image": "http://woolandsilkco.github.io/img/market_bag.jpg",
+          "supplies":"Fee includes pattern, yarn & 2 classes",
+          "description":"Have you been wanting to improve your reusables at home? We have some fantastic Java Hemp to make a market bag with. 2 classes help you to construct the bottom and then the mesh of the bag. Lots of great colours to choose from."
+}    
       
  
     ]
