@@ -14,7 +14,7 @@ There is only 1 KAL for the fall series. We have changed the format of the Knit-
 Designed to help you get your garment finished. These classes do not provide specific techniques but support you with an experienced teacher to work through any difficulties.
 <hr />
 
-<img src="/img/lovage_cardian.jpg"><br />
+<img src="/img/lovage_cardigan.jpg"><br />
 <strong>Lovage Cardigan/Jacket (by Amy Christoffers)</strong> 
 $20.00
 Who wouldn't like a cozy, squishy comfy jacket/sweater to add to their wardrobe?  Knitted in Berroco's new Sesame it is a dream.  Needle size is a 4.5mm so your work will progress relatively quickly. The perfect thing to wear while walking the dog! This KAL starts in September & again in October.  8 weekly classes.
@@ -43,7 +43,7 @@ Come in to the store to sign up & get supplies. Or call 519-925-6194.
 Advance registration is required
 <hr />
 <a href="https://www.ravelry.com/patterns/library/butterfly---papillon?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/papillon_shawl_new.jpg"></a>
-<stromg>Papillon Shawl<strong>
+<stromg>Papillon Shawl</strong>
  
 $85.00
  
