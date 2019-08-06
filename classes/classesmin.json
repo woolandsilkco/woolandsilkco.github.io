@@ -2309,7 +2309,29 @@
           "link" : "https://www.ravelry.com/patterns/library/sunset-highway?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d",
             "supplies":"Fee includes pattern, yarn & 3 classes",
           "description":"Always wanted to try knitting Brioche?  This is a great project. Using the Stripy Leaves scarf pattern, we create a beautiful cowl. The combination of 1 skein of Madeline Tosh & 1 skein of Alpaca Merino Fine. Three classes will have you well underway. "
-} 
+},
+     {
+       "title":"Rippled Sand Shawl(by Isabell Kraemer)",
+         "parts":1,
+        "dates":[  
+          [
+                "Oct 8 2019",
+                "Oct 22 2019"
+            ],
+            [  
+                 "Oct 10 2019",
+                "Oct 24 2019"
+               ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm (Tues)",
+            "10:00pm - 12:00pm (Thurs)"
+         ],
+         "cost":"$115.00+ HST ",
+          "image": "http://woolandsilkco.github.io/img/rippled_shawl.jpg",
+          "supplies":"Fee includes pattern, yarn & 2 classes",
+          "description":"AYou can make this shawl as delicately or boldly coloured as you like. Created using 2 types of lace yarn held together for the accent colour interest and a single of Alpaca Merino Fine for the base it will be a stunner.  "
+}   
  
     ]
 }
