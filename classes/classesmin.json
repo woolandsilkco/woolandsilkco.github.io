@@ -2325,12 +2325,36 @@
          ],
          "times":[  
            "6:30pm - 8:30pm (Tues)",
-            "10:00pm - 12:00pm (Thurs)"
+            "10:00am - 12:00pm (Thurs)"
          ],
          "cost":"$115.00+ HST ",
           "image": "http://woolandsilkco.github.io/img/rippled_shawl.jpg",
           "supplies":"Fee includes pattern, yarn & 2 classes",
-          "description":"AYou can make this shawl as delicately or boldly coloured as you like. Created using 2 types of lace yarn held together for the accent colour interest and a single of Alpaca Merino Fine for the base it will be a stunner.  "
+          "description":"You can make this shawl as delicately or boldly coloured as you like. Created using 2 types of lace yarn held together for the accent colour interest and a single of Alpaca Merino Fine for the base it will be a stunner.  "
+},
+       {
+       "title":"Heart Warmer Cowl",
+         "parts":1,
+        "dates":[  
+          [
+                "Sept 19 2019",
+                "Oct 3 2019",
+                "Oct 17 2019"
+            ],
+            [  
+                 "Oct 5 2019",
+                "Oct 19 2019",
+                 "Nov 2 2019"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$95.00+ HST ",
+          "image": "http://woolandsilkco.github.io/img/heart_warmer_cowl.jpg",
+          "supplies":"Fee includes pattern, yarn & 3 classes",
+          "description":"Interested in different stitches but unsure of how to approach them on your own? Come in & create a cowl using some new techniques. A total of 6 variations (2 types at each class) will be taught , using some spare yarn & needles. Then you will be able to knit those patterns on your sampler cowl in Mid-Knit Cravings."
 }   
  
     ]
