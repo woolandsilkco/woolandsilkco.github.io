@@ -64,7 +64,7 @@ Includes:
 Pattern, needles & notions are extra
 <hr />
 <a href="https://www.ravelry.com/patterns/library/tegna?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/tegna.jpg"></a><br />
-<strong>Tegna   (by Caitlin Hunter)  <strong>          
+<strong>Tegna   (by Caitlin Hunter)  </strong><br />          
 Med & Lg - $  99.00<br />
 XL - $107.00<br />
  
@@ -81,7 +81,7 @@ Tuesday evenings (6:30pm-8:30pm)
 August 13, 27 & Oct 1st
 <hr />
 <a href="https://www.ravelry.com/patterns/library/sunset-highway?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/stripy_cowl.jpg"></a><br />
-<br />Stripy Leaves Cowl (by Happy Knitter)</strong>
+<br />Stripy Leaves Cowl (by Happy Knitter)</strong><br />
 $103.00
 Always wanted to try knitting Brioche?  This is a great project. Using the Stripy Leaves scarf pattern, we create a beautiful cowl. The combination of 1 skein of Madeline Tosh & 1 skein of Alpaca Merino Fine. Three classes will have you well underway. 
 
@@ -95,7 +95,7 @@ Thursday evenings (6:30pm-8:30pm)
 November 7, 14, 21
 <hr />
 <a href="https://www.ravelry.com/patterns/library/rippled-sand?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/rippled_shawl.jpg"></a><br />
-<strong>Rippled Sand Shawl(by Isabell Kraemer)</strong>
+<strong>Rippled Sand Shawl(by Isabell Kraemer)</strong><br />
 $115.00
 
 You can make this shawl as delicately or boldly coloured as you like. Created using 2 types of lace yarn held together for the accent colour interest and a single of Alpaca Merino Fine for the base it will be a stunner. 
@@ -110,7 +110,7 @@ Thursday mornings (10am-12pm)
 Oct 10 & 24
 <hr />
 <a href="https://www.ravelry.com/patterns/library/heart-warmer-7?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/heart_warmer_cowl.jpg"></a>
-<strong>Heart Warmer Cowl</strong> 
+<strong>Heart Warmer Cowl</strong> <br />
 $95.00
 
 Interested in different stitches but unsure of how to approach them on your own? Come in & create a cowl using some new techniques. A total of 6 variations (2 types at each class) will be taught , using some spare yarn & needles. Then you will be able to knit those patterns on your sampler cowl in Mid-Knit Cravings.
