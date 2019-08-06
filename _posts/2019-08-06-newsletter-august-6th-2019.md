@@ -42,10 +42,10 @@ It is a single, 1 hour class where we show you how to get started on your new cr
 Come in to the store to sign up & get supplies. Or call 519-925-6194.
 Advance registration is required
 <hr />
-<a href="https://www.ravelry.com/patterns/library/butterfly---papillon?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/papillon_shawl_new.jpg"></a><br />
+<a href="https://www.ravelry.com/patterns/library/butterfly---papillon?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/papillon_shawl_new.jpg"></a>
 <stromg>Papillon Shawl<strong>
  
-$85.00<br />
+$85.00
  
 If this beauty has always intrigued you then this is the class for you. We have selected a colour changing yarn to make it a bit easier while still retaining the same effect.
 This class starts soon so call in to sign up now.
@@ -53,10 +53,10 @@ This class starts soon so call in to sign up now.
 Fee includes yarn & 2 classes
                                                                             
 Aug 6 & 20 (Tuesday evenings) 6:30pm-8:30pm
-<br />OR
-<br />Aug 8 & 22 (Thursday afternoons) 1pm-3pm<br />
+OR
+Aug 8 & 22 (Thursday afternoons) 1pm-3pm
 
-Includes: <br />
+Includes:
 1 skein of Alpaca Merino Fine
 2 balls of Painted Desert  
 & 2 class teaching sessions
