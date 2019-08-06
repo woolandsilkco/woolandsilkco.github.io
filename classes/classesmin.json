@@ -2259,7 +2259,32 @@
           "link" : "https://images4-b.ravelrycache.com/uploads/alisonknits/631195289/Lovage-3_medium2.jpg?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d",
             "supplies":"Berroco Sesame:  Medium (7 balls), Lg & XL (8 balls) - yarn is not included in KAL price",
           "description":"Who wouldn't like a cozy, squishy comfy jacket/sweater to add to their wardrobe?  Knitted in Berroco's new Sesame it is a dream.  Needle size is a 4.5mm so your work will progress relatively quickly. The perfect thing to wear while walking the dog! This KAL starts in September & again in October.  8 weekly classes."
-}
+},
+       {
+       "title":"Tegna   (by Caitlin Hunter) ",
+         "parts":1,
+        "dates":[  
+          [
+                "Aug 12 2019",
+                "Aug 26 2019",
+                "Sept 30 2019"
+            ],
+            [  
+                 "Aug 13 2019",
+                "Aug 27 2019",
+                "Oct 1 2019"
+               ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm (Mon)",
+            "6:30pm - 8:30pm (Tues)"
+         ],
+         "cost":"Med & Lg - $99.00 XL - $107.00+ HST ",
+          "image": "http://woolandsilkco.github.io/img/tegna.jpg",
+          "link" : "https://www.ravelry.com/patterns/library/tegna?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d",
+            "supplies":"Berroco Sesame:  Medium (7 balls), Lg & XL (8 balls) - yarn is not included in KAL price",
+          "description":"A beautiful lace edged top, Tegna is worked from the bottom up. Choose your length when it is time to work the sleeve division. The yarn will be our new Queensland United. A delightful blend of Lambswool & Cotton. 12 fabulous colours to choose from !"
+} 
  
     ]
 }
