@@ -109,7 +109,7 @@ OR<br />
 Thursday mornings (10am-12pm)<br />
 Oct 10 & 24<br />
 <hr />
-<a href="https://www.ravelry.com/patterns/library/heart-warmer-7?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/heart_warmer_cowl.jpg"></a>
+<a href="https://www.ravelry.com/patterns/library/heart-warmer-7?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/heart_warmer_cowl.jpg"></a>
 <strong>Heart Warmer Cowl</strong> <br />
 $95.00
 
@@ -123,7 +123,7 @@ OR<br />
 Saturday mornings (10am-12pm)<br />
 Oct 5, 19 & Nov 2<br />
 <hr />
-<a href="https://www.ravelry.com/patterns/library/scrapbook-cardigan-for-adults?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/scrapbook_cardi.jpg"></a>
+<a href="https://www.ravelry.com/patterns/library/scrapbook-cardigan-for-adults?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/scrapbook_cardi.jpg"></a>
 <strong>Scrapbook Cardi</strong><br />
 $115.00 (based on 1200yds required. Additional balls, add $8.25 ea)
 Love the look of a cardigan but tired of doing the endless stocking stitch?  This sweater combines multiple stitch patterns to make an interestingly textured fabric. Keeps your fingers & mind busy with beautiful results. We have chosen the Queensland United for this project. It has excellent stitch definition and good yardage.
@@ -136,7 +136,7 @@ OR<br />
 Friday mornings (10am-12pm)<br />
 October 4, 18 & Nov 1<br />
 <hr />
-<a href="https://www.ravelry.com/patterns/library/grrlfriend-market-bag?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/market_bag.jpg"></a>
+<a href="https://www.ravelry.com/patterns/library/grrlfriend-market-bag?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/market_bag.jpg"></a>
 <strong>Grrlfriend Market Bag (by Laura Spradlin)</strong><br />
 $50.00
 Have you been wanting to improve your reusables at home? We have some fantastic Java Hemp to make a market bag with. 2 classes help you to construct the bottom and then the mesh of the bag. Lots of great colours to choose from.
@@ -149,7 +149,7 @@ OR<br />
 Saturday mornings (10am-12pm)<br />
 Nov 16 & 30
 <hr />
- <a href="https://www.ravelry.com/patterns/library/baby-surprise-jacket?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/baby_jacket.jpg"></a>
+ <a href="https://www.ravelry.com/patterns/library/baby-surprise-jacket?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/baby_jacket.jpg"></a>
 <strong>Baby Surprise Jacket</strong><br />
 $69.00
 
