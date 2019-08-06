@@ -81,18 +81,18 @@ Tuesday evenings (6:30pm-8:30pm)
 August 13, 27 & Oct 1st
 <hr />
 <a href="https://www.ravelry.com/patterns/library/sunset-highway?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/stripy_cowl.jpg"></a><br />
-<br />Stripy Leaves Cowl (by Happy Knitter)</strong><br />
+<strong>Stripy Leaves Cowl (by Happy Knitter)</strong><br />
 $103.00
 Always wanted to try knitting Brioche?  This is a great project. Using the Stripy Leaves scarf pattern, we create a beautiful cowl. The combination of 1 skein of Madeline Tosh & 1 skein of Alpaca Merino Fine. Three classes will have you well underway. 
 
 Fee includes pattern, yarn & 3 classes
 
-Dates:  
-Thursday afternoons (1pm-3pm)
-August 29, Sept 5 & 12
-OR
-Thursday evenings (6:30pm-8:30pm)
-November 7, 14, 21
+Dates: <br /> 
+Thursday afternoons (1pm-3pm)<br />
+August 29, Sept 5 & 12<br />
+OR<br />
+Thursday evenings (6:30pm-8:30pm)<br />
+November 7, 14, 21<br />
 <hr />
 <a href="https://www.ravelry.com/patterns/library/rippled-sand?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/rippled_shawl.jpg"></a><br />
 <strong>Rippled Sand Shawl(by Isabell Kraemer)</strong><br />
@@ -102,12 +102,12 @@ You can make this shawl as delicately or boldly coloured as you like. Created us
 
 Fee includes pattern, yarn & 2 classes
 
-Dates:  
-Tuesday evening (6:30-8:30pm)
-Oct 8 & 22
-OR
-Thursday mornings (10am-12pm)
-Oct 10 & 24
+Dates:  <br />
+Tuesday evening (6:30-8:30pm)<br />
+Oct 8 & 22<br />
+OR<br />
+Thursday mornings (10am-12pm)<br />
+Oct 10 & 24<br />
 <hr />
 <a href="https://www.ravelry.com/patterns/library/heart-warmer-7?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/heart_warmer_cowl.jpg"></a>
 <strong>Heart Warmer Cowl</strong> <br />
@@ -117,40 +117,40 @@ Interested in different stitches but unsure of how to approach them on your own?
 
 Fee includes pattern, yarn & 3 classes
 
-Thursday afternoons   (1-3pm)
-Sept 19 & Oct 3 & 17
-OR
-Saturday mornings (10am-12pm)
-Oct 5, 19 & Nov 2
+Thursday afternoons   (1-3pm)<br />
+Sept 19 & Oct 3 & 17<br />
+OR<br />
+Saturday mornings (10am-12pm)<br />
+Oct 5, 19 & Nov 2<br />
 <hr />
 <a href="https://www.ravelry.com/patterns/library/scrapbook-cardigan-for-adults?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/scrapbook_cardi.jpg"></a>
-<strong>Scrapbook Cardi</strong>
+<strong>Scrapbook Cardi</strong><br />
 $115.00 (based on 1200yds required. Additional balls, add $8.25 ea)
 Love the look of a cardigan but tired of doing the endless stocking stitch?  This sweater combines multiple stitch patterns to make an interestingly textured fabric. Keeps your fingers & mind busy with beautiful results. We have chosen the Queensland United for this project. It has excellent stitch definition and good yardage.
 
 Fee includes pattern, yarn & 3 classes
 
-Monday afternoons (1-3pm)
-Oct 21, Nov 4 & Nov 18
-OR
-Friday mornings (10am-12pm)
-October 4, 18 & Nov 1
+Monday afternoons (1-3pm)<br />
+Oct 21, Nov 4 & Nov 18<br />
+OR<br />
+Friday mornings (10am-12pm)<br />
+October 4, 18 & Nov 1<br />
 <hr />
 <a href="https://www.ravelry.com/patterns/library/grrlfriend-market-bag?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/market_bag.jpg"></a>
-<strong>Grrlfriend Market Bag (by Laura Spradlin)</strong>
+<strong>Grrlfriend Market Bag (by Laura Spradlin)</strong><br />
 $50.00
 Have you been wanting to improve your reusables at home? We have some fantastic Java Hemp to make a market bag with. 2 classes help you to construct the bottom and then the mesh of the bag. Lots of great colours to choose from.
 
 Fee includes pattern, yarn & 2 classes
 
-Thursday mornings (10am-12pm)
-Oct 17 & 31
-OR
-Saturday mornings (10am-12pm)
+Thursday mornings (10am-12pm)<br />
+Oct 17 & 31<br />
+OR<br />
+Saturday mornings (10am-12pm)<br />
 Nov 16 & 30
 <hr />
  <a href="https://www.ravelry.com/patterns/library/baby-surprise-jacket?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="img/baby_jacket.jpg"></a>
-<strong>Baby Surprise Jacket</strong>
+<strong>Baby Surprise Jacket</strong><br />
 $69.00
 
 Elizabeth Zimmerman's timeless pattern creates a beautiful child's jacket. The knitting seems odd. The pattern is kind of strange. But in the end, all of a sudden, you have made a little jacket. Join in & unravel the mystery. We make the child size for this class to get you oriented with the pattern. You can go on from there and make an adult size and use a heavier yarn.
@@ -159,14 +159,14 @@ Elizabeth Zimmerman's timeless pattern creates a beautiful child's jacket. The k
 
 Fee includes pattern, yarn & 2 classes
 
-Friday mornings   (10am-12pm)
-Oct 25 & Nov 8
-OR
-Saturday mornings (10am-12pm)
-Oct 26 & Nov 9
+Friday mornings   (10am-12pm)<br />
+Oct 25 & Nov 8<br />
+OR<br />
+Saturday mornings (10am-12pm)<br />
+Oct 26 & Nov 9<br />
 <hr />
-<strong>Techniques</strong>
-<strong>2 at a Time Toe up Sock</strong>
+<strong>Techniques</strong><br />
+<strong>2 at a Time Toe up Sock</strong><br />
 $75.00  
 
 Hate making 2 individual socks?  Suffering from "Single Sock Syndrome" ?  Then perhaps 2 at a Time Socks is for you. Learn the special cast-on and a new way to get a pair finished all at one time.
@@ -175,20 +175,20 @@ Hate making 2 individual socks?  Suffering from "Single Sock Syndrome" ?  Then p
 
 Fee includes pattern, yarn & 3 classes
 
-Tuesday evenings only (6:30pm-8:30pm)
-Sept 10, 17 & 24
+Tuesday evenings only (6:30pm-8:30pm)<br />
+Sept 10, 17 & 24<br />
 <hr />
-<strong>How to Knit Socks - $69.00</strong>
+<strong>How to Knit Socks - $69.00</strong><br />
 Always wanted to knit socks but mystified by the process? Join us and be "demystified".  You will be amazed at how a sock is knitted & shaped. They fit like nothing else!
 3 classes
 (1)Vintage DK
 
 Fee includes pattern, yarn & 3 classes
 
-Saturday mornings only (10am-12pm)
-Sept 14, 21, 28
+Saturday mornings only (10am-12pm)<br />
+Sept 14, 21, 28<br />
  <hr />
-<strong>Learn to Knit Mitts</strong>
+<strong>Learn to Knit Mitts</strong><br />
 $74.00
 Mittens are curious things!  You can do the after-thought thumb but it isn't really the shape of your hand. Instead come and find out how to do a gusset thumb. So much better. You will learn all of the steps to making a beautiful pair of mittens.
 3 classes
@@ -197,13 +197,13 @@ World's Simplest Mittens by Tin Can Knits
 
 Fee includes pattern, yarn & 3 classes
 
-Friday afternoons (1pm-3pm)
-Sept 13, 20 & 27
-OR
-Tuesday evenings (6:30pm-8:30pm)
-Oct 15, 29 & Nov 5 
+Friday afternoons (1pm-3pm)<br />
+Sept 13, 20 & 27<br />
+OR<br />
+Tuesday evenings (6:30pm-8:30pm)<br />
+Oct 15, 29 & Nov 5 <br />
 
-<strong>Learn to Knit A Hat - $50.00</strong>
+<strong>Learn to Knit A Hat - $50.00</strong><br />
 An easy way to start learning to knit in the round is by knitting a hat.  The yarn is bigger, the design is simpler and you can quickly make a usable item.
 2 classes
 (1) skein of Vintage Worsted
@@ -211,8 +211,8 @@ Just a Hat by Galina Shemchuk
 
 Fee includes pattern, yarn & 2 classes
 
-Thursday afternoons (1pm-3pm)
-Sept 26 & Oct 10
+Thursday afternoons (1pm-3pm)<br />
+Sept 26 & Oct 10<br />
 <hr />
 <strong>It's the X-mas in (July)
 In August Sale !!!
