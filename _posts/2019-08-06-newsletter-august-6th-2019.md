@@ -43,7 +43,7 @@ Come in to the store to sign up & get supplies. Or call 519-925-6194.
 Advance registration is required
 <hr />
 <a href="https://www.ravelry.com/patterns/library/butterfly---papillon?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d"><img src="/img/papillon_shawl_new.jpg"></a>
-<stromg>Papillon Shawl</strong>
+<strong>Papillon Shawl</strong>
  
 $85.00
  
