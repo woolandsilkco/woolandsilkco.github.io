@@ -49,6 +49,6 @@ Instructions for ordering will accompany each e-mail. Have fun & enjoy the savin
 <hr />
 <h1>SUPER LADIES EVENT HAPPENING!!</h1>
 
-<strong>Save the Date</strong><br /><a href="/img/savethedate.pdf">Click to view pdf file
+<strong>Save the Date</strong><br />Click image to view pdf file
 
-<img src="/img/savethedate.jpg" /></a>
+<a href="/img/savethedate.pdf"><img src="/img/savethedate.jpg" /></a>
