@@ -5,7 +5,7 @@ published: true
 title: 'September Newsletter'
 ---
 
-<img src="/img/noro.png" /><br />
+- <img src="/img/noro.png" /><br />
 - The Noro Super Sale Continues !!
 - All In-Stock Noro Yarns are 30% off now, until September 21st
 
