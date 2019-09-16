@@ -51,4 +51,4 @@ Instructions for ordering will accompany each e-mail. Have fun & enjoy the savin
 
 <strong>Save the Date</strong><br />
 
-<img src="/img/savethedate.png" />
+<img src="/img/savethedate.jpg" />
