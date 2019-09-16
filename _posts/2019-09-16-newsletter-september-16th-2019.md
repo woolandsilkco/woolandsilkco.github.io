@@ -5,7 +5,7 @@ published: true
 title: 'September Newsletter'
 ---
 
-- <img src="/img/noro.png" /><br />
+<img src="/img/noro.png" /><br />
 - The Noro Super Sale Continues !!
 - All In-Stock Noro Yarns are 30% off now, until September 21st
 
@@ -19,7 +19,7 @@ Starting in September:
 
 Sept 19(aft): <a href="https://www.ravelry.com/patterns/library/heart-warmer-7?utm_source=Newsletter&utm_campaign=29cb6b76e4-EMAIL_CAMPAIGN_2019_09_13_07_45&utm_medium=email&utm_term=0_ac1bab3c4e-29cb6b76e4-328893825&mc_cid=29cb6b76e4&mc_eid=5dbcc3b01d">Heart Warmer Cowl</a>
 
-Fall class details & prices are also available here: <a href"http://www.woolandsilkco.com/classes/">http://www.woolandsilkco.com/classes/</a>
+Fall class details & prices are also available here: <a href="http://www.woolandsilkco.com/classes/">http://www.woolandsilkco.com/classes/</a>
 
 Call the store or pop in to reserve your spot and select your yarns (519) 925-6194
 
