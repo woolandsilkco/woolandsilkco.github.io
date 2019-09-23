@@ -79,9 +79,13 @@ Instructions for ordering will accompany each e-mail. Have fun & enjoy the savin
 
 Save the Date
 
+<img src="/img/beautifulevent.jpg" />
+
 <hr>
 
 <h1>Our 5th Anniversary !!</h1>
+
+<img src="/img/anniversary.jpg" />
  
 It is hard to believe that we have been here for 5 years. Those days have really flown by. To mark our anniversary we will be having a celebration on Wednesday October 16th. 15% off all in-store yarns (excluding yarns required for classes), each purchase will get a small gift, there will be a draw & of course there will be cake!! 
 Mark the day on your calendar & join us for the fun.
