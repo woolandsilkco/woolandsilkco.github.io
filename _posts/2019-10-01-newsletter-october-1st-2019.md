@@ -21,18 +21,19 @@ We will be offering the following:
 (click on the underlined title to see the pattern page on Ravelry) 
 
 Starting in October:
+<ul>
 
-Oct 3(Thurs eve): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=007394b228&e=5dbcc3b01d">Lovage Cardigan</a>
-Oct 4(Fri a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=63803f3afc&e=5dbcc3b01d">Scrapbook Cardigan</a>
-Oct 5(Sat a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=5115e425ba&e=5dbcc3b01d">Heartwarmer Cowl</a>
-Oct 8(Tues eve): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=6ece18939a&e=5dbcc3b01d">Rippled Sand Shawl</a>
-Oct 10(Thurs a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=6ece18939a&e=5dbcc3b01d">Rippled Sand Shawl</a>
-Oct 15(Tues eve):Learn to Knit Mitts
-Oct 17(Thurs a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=b81912ad59&e=5dbcc3b01d">Grrlfriend Market Bag</a>
-Oct 21(Mon aft): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=809412f656&e=5dbcc3b01d">Scrapbook Cardigan</a>
-Oct 25 (Fri a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=98c86b288d&e=5dbcc3b01d">Baby Surprise Jacket</a>
-Oct 26 (Sat a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=98c86b288d&e=5dbcc3b01d">Baby Surprise Jacket</a>
-
+<li>Oct 3(Thurs eve): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=007394b228&e=5dbcc3b01d">Lovage Cardigan</a></li>
+<li>Oct 4(Fri a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=63803f3afc&e=5dbcc3b01d">Scrapbook Cardigan</a></li>
+<li>Oct 5(Sat a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=5115e425ba&e=5dbcc3b01d">Heartwarmer Cowl</a></li>
+<li>Oct 8(Tues eve): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=6ece18939a&e=5dbcc3b01d">Rippled Sand Shawl</a></li>
+<li>Oct 10(Thurs a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=6ece18939a&e=5dbcc3b01d">Rippled Sand Shawl</a></li>
+<li>Oct 15(Tues eve):Learn to Knit Mitts</li>
+<li>Oct 17(Thurs a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=b81912ad59&e=5dbcc3b01d">Grrlfriend Market Bag</a></li>
+<li>Oct 21(Mon aft): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=809412f656&e=5dbcc3b01d">Scrapbook Cardigan</a></li>
+<li>Oct 25 (Fri a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=98c86b288d&e=5dbcc3b01d">Baby Surprise Jacket</a></li>
+<li>Oct 26 (Sat a.m.): <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=98c86b288d&e=5dbcc3b01d">Baby Surprise Jacket</a></li>
+</ul>
 Please note that Learn to Knit/Crochet is available as a 1 hour, one on one class, on the first Wednesday of every month. The fee is $20 +HST. You must call in to the store to arrange your date and time (morn, aft or evening). 
 
 Fall class details & prices are available on our website at http://www.woolandsilkco.com
