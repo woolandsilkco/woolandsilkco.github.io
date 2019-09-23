@@ -2,53 +2,58 @@
 layout: post
 type: news
 published: true
-title: 'September Newsletter'
+title: 'October Newsletter'
 ---
 
-- <img src="/img/noro.png" /><br />
-- The Noro Super Sale Continues !!
-- All In-Stock Noro Yarns are 30% off now, until September 21st
+- Super Summer Sell Off
+- Fall Classes
+- Weaving Classes
 
-Online shopping also available. Click on "Shop Now" at the top of the page.
-<hr />
-<strong>Fall Classes</strong>
- 
-We will be offering the following: (click on the underlined title to see the pattern page on Ravelry) 
-
-Starting in September:
-
-Sept 19(aft): <a href="https://www.ravelry.com/patterns/library/heart-warmer-7?utm_source=Newsletter&utm_campaign=29cb6b76e4-EMAIL_CAMPAIGN_2019_09_13_07_45&utm_medium=email&utm_term=0_ac1bab3c4e-29cb6b76e4-328893825&mc_cid=29cb6b76e4&mc_eid=5dbcc3b01d">Heart Warmer Cowl</a>
-
-Fall class details & prices are also available here: <a href="http://www.woolandsilkco.com/classes/">http://www.woolandsilkco.com/classes/</a>
-
-Call the store or pop in to reserve your spot and select your yarns (519) 925-6194
-
-<strong>Summer Sell-Off - September 23 - 28  </strong>
-
+<h1>Super Summer Sell-Off</h1>
+September 23 - 28  
 All Summer yarns will be 20% off as marked! On-line shopping as well. Take advantage of end of season bargains.
-<hr />
-<h1>Weaving is coming again!</h1>
 
-Join us at the end of October, start of November for weaving class. We will be hosting the lovely Leanne Schmidt (some of you know her as Leo). More information coming soon. 
+<hr>
 
-(Oct 28 or 29 or 31 or Nov 1) We will have afternoons & evenings available.
+<h1>Fall Classes</h1>
+ 
+We will be offering the following:
+(click on the underlined title to see the pattern page on Ravelry) 
 
-<hr />
+Starting in October:
 
-<strong>10 DAYS OF CHRISTMAS</strong>
+Oct 3(Thurs eve): Lovage Cardigan
+Oct 4(Fri a.m.): Scrapbook Cardigan
+Oct 5(Sat a.m.): Heartwarmer Cowl
+Oct 8(Tues eve): Rippled Sand Shawl
+Oct 10(Thurs a.m.): Rippled Sand Shawl
+Oct 15(Tues eve): Learn to Knit Mitts
+Oct 17(Thurs a.m.): Grrlfriend Market Bag
+Oct 21(Mon aft): Scrapbook Cardigan
+Oct 25 (Fri a.m.): Baby Surprise Jacket
+Oct 26 (Sat a.m.): Baby Surprise Jacket
 
-Here it comes
+Please note that Learn to Knit/Crochet is available as a 1 hour, one on one class, on the first Wednesday of every month. The fee is $20 +HST. You must call in to the store to arrange your date and time (morn, aft or evening). 
 
-Starting September 30th we will be featuring the 10 days of Christmas. (Days this year, instead of weeks)
+Fall class details & prices are available on our website at http://www.woolandsilkco.com
 
-For each of the next 10 business days (Mon - Fri) you will receive an e-mail featuring a product at 15% off.
+Call the store or pop in to reserve your spot and select your yarns
+(519) 925-6194
+ 
+<hr>
 
-Order 1. Order none. Order lots. Whatever you choose.
+<h1>The Weaver is Here!</h1>
 
-Instructions for ordering will accompany each e-mail. Have fun & enjoy the savings
-<hr />
-<h1>SUPER LADIES EVENT HAPPENING!!</h1>
+We will be hosting our travelling weaver Leanne Schmidt (some of you know her as Leo) at the end of October. The project this time will be a dresser/coffee table runner. Class runs about 3-4 hours. Dates have been set as:
 
-<strong>Save the Date</strong><br />Click image to view pdf file
+Mon Oct 28 6pm
+Tues Oct 29 1pm
+Thurs Oct 31 1pm
+Friday Nov 1 6pm
+ 
+Cost of the class is $50 (cash)
++ 1 ball of sock yarn ($12-$18 several choices) to be purchased from Wool & Silk Co. You must signup & purchase your yarn by October 16th.
+Call in to the store to sign up and select your yarn. 519-925-6194.
 
-<a href="/img/savethedate.pdf"><img src="/img/savethedate.jpg" /></a>
+Our weaver will also be bringing 4 looms that will be available for purchase. They are 15" Rigid Heddle Cricket Loom by Schacht. Comes with 2 shuttles, an 8 dent heddle & everything you need to start weaving. 
+Price: $300 + HST
