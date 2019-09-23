@@ -58,6 +58,8 @@ Call in to the store to sign up and select your yarn. 519-925-6194.
 Our weaver will also be bringing 4 looms that will be available for purchase. They are 15" Rigid Heddle Cricket Loom by Schacht. Comes with 2 shuttles, an 8 dent heddle & everything you need to start weaving. 
 Price: $300 + HST
 
+<img src="octnews_weaving.jpg" />
+
 <hr>
 
 <h1>10 DAYS OF CHRISTMAS</h1>
