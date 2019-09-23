@@ -57,3 +57,34 @@ Call in to the store to sign up and select your yarn. 519-925-6194.
 
 Our weaver will also be bringing 4 looms that will be available for purchase. They are 15" Rigid Heddle Cricket Loom by Schacht. Comes with 2 shuttles, an 8 dent heddle & everything you need to start weaving. 
 Price: $300 + HST
+
+<hr>
+
+<h1>10 DAYS OF CHRISTMAS</h1>
+
+Here it comes
+
+Starting September 30th we will be featuring the 10 days of Christmas. (Days this year, instead of weeks)
+
+For each of the next 10 business days (Mon - Fri) you will receive an e-mail featuring a product at 15% off.
+
+Order 1. Order none. Order lots. Whatever you choose.
+
+Instructions for ordering will accompany each e-mail. Have fun & enjoy the savings
+
+<hr>
+
+<h1>SUPER LADIES EVENT HAPPENING!!</h1>
+
+Save the Date
+
+<hr>
+
+<h1>Our 5th Anniversary !!</h1>
+ 
+It is hard to believe that we have been here for 5 years. Those days have really flown by. To mark our anniversary we will be having a celebration on Wednesday October 16th. 15% off all in-store yarns (excluding yarns required for classes), each purchase will get a small gift, there will be a draw & of course there will be cake!! 
+Mark the day on your calendar & join us for the fun.
+Can't wait to see you,
+Diane, Leeanne, Janet & Karen 
+
+
