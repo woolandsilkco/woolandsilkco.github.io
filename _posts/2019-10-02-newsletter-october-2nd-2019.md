@@ -19,8 +19,7 @@ A simple phone call to the store (519) 925-6194 will reserve your purchase. All 
 You can continue to order from previous days as the program goes along. (example: if it is day 4 you can still order from days 1, 2 & 3).
 
 All items will be bagged & held at the store until the start of pickup on October 21st. Items are not available to you before this date. While we do our best to fill all orders the choices are first come first serve and this may apply to in-stock colours, etc. Items will not be wrapped.<br />
-<strong><font color="blue">Day 1 - Lykke Needle sets</font></strong><br /><br />
-<strong><font color="blue">Day 2 - Bags & Baskets</font></strong><br /><br />
+
 <hr />
 <strong>Day #3</strong>
 Sock Yarn<br />
