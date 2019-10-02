@@ -32,7 +32,7 @@ Go to our website  http://www.woolandsilkco.com/ and click on the "Shop Now" but
 <img src="/img/day3_photo1.jpg" /><br />
 <img src="/img/day3_photo2.jpg" />
 <hr />
-<a href="name=day2"><strong>Day #2</strong></a>
+<a name="day2"><strong>Day #2</strong></a>
 Bags & Baskets<br />
 Looking for somewhere to stow all your great knitting stuff?  Why not a fabulous bag or basket?<br />
 (Note: bags & baskets do not include the contents shown in photos)
@@ -52,7 +52,7 @@ Please note that all of the baskets except the largest blue ones are singles(onl
 
 
 <img src="/img/xmas2019_day1needles.jpg" />
-<a href="name=day1"><strong>Day #1 </strong> </a><br />
+<a name="day1"><strong>Day #1 </strong> </a><br />
 Lykke needle sets <br />
 Interchangeables<br />
 5" tips   $ 127.49     (reg $149.99)<br />
