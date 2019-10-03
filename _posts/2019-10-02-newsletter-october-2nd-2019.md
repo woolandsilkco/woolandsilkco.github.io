@@ -19,7 +19,21 @@ A simple phone call to the store (519) 925-6194 will reserve your purchase. All 
 You can continue to order from previous days as the program goes along. (example: if it is day 4 you can still order from days 1, 2 & 3).
 
 All items will be bagged & held at the store until the start of pickup on October 21st. Items are not available to you before this date. While we do our best to fill all orders the choices are first come first serve and this may apply to in-stock colours, etc. Items will not be wrapped.<br />
+<hr />
 
+<strong>Day #4</strong>
+Ball Winder and/or Swift<br />
+Tired of hand winding balls of yarn at home? Help yourself with a ball winder or swift. A super fast way to wind skeins into yarn cakes.
+
+You can purchase either the ball winder or swift alone at 15% off
+Ball Winder  $51.00 ($60.00)
+Swift  $59.50 ($70.00)
+OR
+Purchase the ball winder & swift together at 20% off!
+Ball Winder & Swift  $104.00 ($130.00)
+Super X-mas present for you
+
+<img src="/img/day4_photo1.jpg" />
 <hr />
 <strong>Day #3</strong>
 Sock Yarn<br />
