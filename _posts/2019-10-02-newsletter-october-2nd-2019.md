@@ -20,6 +20,16 @@ You can continue to order from previous days as the program goes along. (example
 
 All items will be bagged & held at the store until the start of pickup on October 21st. Items are not available to you before this date. While we do our best to fill all orders the choices are first come first serve and this may apply to in-stock colours, etc. Items will not be wrapped.<br />
 <hr />
+<strong>Day #5</strong>
+<strong>Indulgence Mini-Skeins</strong>
+KFI's Luxury Collection has created a lovely set of 4 mini skeins. Each mini skein has 153yds of beautiful 100% superwash dk yarn. Use them on their own to create the shawl shown(pattern included). Or use them in a favourite dk sweater, blanket, or hat  pattern.
+
+Mini Skeins  $51.00 ($60.00)
+
+<img src="/img/day5_photo1.jpg" /><br />
+<img src="/img/day5_photo2.jpg" />
+
+<hr />
 
 <strong>Day #4</strong>
 Ball Winder and/or Swift<br />
@@ -79,3 +89,4 @@ large sizes   $ 127.49     (reg $149.99)<br />
 (grey suede only)
 
 <hr >
+
