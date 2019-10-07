@@ -28,6 +28,16 @@ Mini Skeins  $51.00 ($60.00)
 
 <img src="/img/day5_photo1.jpg" /><br />
 <img src="/img/day5_photo2.jpg" />
+<hr />
+<strong>Day #6</strong>
+<strong>Blocking Wires (2 kinds), blocking combs</strong>
+Achieving that perfect crisp look when you have finished a garment or shawl is essential. Get some help with blocking wires or combs. We are pleased to offer 2 styles of wires and a boxed set of combs.
+Blocking wires  $29.35 ($34.50) ( long tube)
+Lazadas Flexible blocking wires(only 1 set available)  
+$34.00 ($40.00)
+Knit Blockers - blocking combs  $32.75 ($38.50) (purple box)
+<img src="/img/blocking_wires.jpg" />
+
 
 <hr />
 
