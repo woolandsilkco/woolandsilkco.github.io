@@ -20,6 +20,19 @@ You can continue to order from previous days as the program goes along. (example
 
 All items will be bagged & held at the store until the start of pickup on October 21st. Items are not available to you before this date. While we do our best to fill all orders the choices are first come first serve and this may apply to in-stock colours, etc. Items will not be wrapped.<br />
 <hr />
+<strong>Day #7</strong>
+<strong>Single package DPN needles</strong>
+Would you like to expand your collection of DPN needles? Hat & mitt season is soon upon us. We are offering any individually packaged set of(5) DPN's that we have in stock. This includes Lykke, Basix, Karbonz, Knitters Pride, metal & Nova Cubics Platina.
+
+Prices have a wide range. Please look on-line at www.woolandsilkco.com , click the Shop Now tab at the top and you can view all of the available needles on our on-line shopping site. Then call in to the store to reserve with the 15% off and finalize your payment
+<img src="/img/day7_photo1.jpg" /><br />
+<img src="/img/day7_photo2.jpg" /><br />
+<img src="/img/day7_photo3.jpg" /><br />
+<img src="/img/day7_photo4.jpg" /><br />
+<img src="/img/day7_photo5.jpg" /><br />
+<img src="/img/day7_photo6.jpg" /><br />
+<img src="/img/day7_photo7.jpg" /><br />
+
 <hr />
 <strong>Day #6</strong>
 <strong>Blocking Wires (2 kinds), blocking combs</strong>
