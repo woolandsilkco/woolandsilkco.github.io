@@ -20,6 +20,15 @@ You can continue to order from previous days as the program goes along. (example
 
 All items will be bagged & held at the store until the start of pickup on October 21st. Items are not available to you before this date. While we do our best to fill all orders the choices are first come first serve and this may apply to in-stock colours, etc. Items will not be wrapped.<br />
 <hr />
+<strong>Day #8</strong>
+<strong>Eucalan 500mL & 100mL</strong>
+Now it's time to give your knitted item a soak or wash. Use the right thing. Eucalan is a lanolin enriched enzymatic solution that is safe for all of your woolens and delicates. Available in 5 scents including natural (unscented). 
+
+500mL    $12.75  ($15.00)<br />
+100mL    $  4.25  ($5.00)<br />
+
+<img src="/img/day8_photo1.jpg" /><br />
+<hr />
 <strong>Day #7</strong>
 <strong>Single package DPN needles</strong>
 Would you like to expand your collection of DPN needles? Hat & mitt season is soon upon us. We are offering any individually packaged set of(5) DPN's that we have in stock. This includes Lykke, Basix, Karbonz, Knitters Pride, metal & Nova Cubics Platina.
