@@ -20,6 +20,22 @@ You can continue to order from previous days as the program goes along. (example
 
 All items will be bagged & held at the store until the start of pickup on October 21st. Items are not available to you before this date. While we do our best to fill all orders the choices are first come first serve and this may apply to in-stock colours, etc. Items will not be wrapped.<br />
 <hr />
+<hr />
+<strong>Day #9</strong>
+<strong>Lopi Yarn</strong>
+
+Iceland makes a fabulous line of yarn called Lopi. Great for knitting heavy cardigans & jackets. 
+
+Lett Lopi (worsted weight)       $6.10  ($7.15)
+Alafoss Lopi (chunky weight)  $11.00  ($12.95)
+
+1st photo - Lett Lopi colours
+2nd & 3rd photos - Alafoss Lopi colours
+Go to http://www.woolandsilkco.com and click on the Shop Now button at the top of the page to see all of the colours individually. 
+Then call in to the store (519) 925-6194 to give your choices, get the 15% off and arrange payment.
+
+<img src="/img/day9.jpg" /><br />
+<hr />
 <strong>Day #8</strong>
 <strong>Eucalan 500mL & 100mL</strong>
 Now it's time to give your knitted item a soak or wash. Use the right thing. Eucalan is a lanolin enriched enzymatic solution that is safe for all of your woolens and delicates. Available in 5 scents including natural (unscented). 
