@@ -66,9 +66,7 @@ There are all kinds of new yarns in the shop. A little something for everyone. A
                to get the "work sock" style in hats and
                sweaters
 
-<img src="/img/nov2019news_photo2.jpg" />
-<img src="/img/nov2019news_photo3.jpg" />
-<img src="/img/nov2019news_photo4.jpg" />
+<img src="/img/nov2019news_photo2.jpg" /><img src="/img/nov2019news_photo3.jpg" /><img src="/img/nov2019news_photo4.jpg" />
 <hr>
 
 <h1>Ready 4 Christmas</h1>
