@@ -73,7 +73,7 @@ There are all kinds of new yarns in the shop. A little something for everyone. A
 
 Our popular pre-Christmas knitting program is back. We have set up 4 kits/yarns with patterns to help you complete some quick X-mas gifts. This year's offering has a hat with a pompom, the HBCesque chunky cowl, Furreal cowl and Lightning Fast mittens. 
 
-You must take 1 of each kit to get the fabulous group price of $62.00 (Reg $77.00)
+You must take 1 of each kit to get the fabulous group price of $69.95 (Reg $91.50)
 
 <img src="/img/nov2019news_photo5.jpg" />
 
