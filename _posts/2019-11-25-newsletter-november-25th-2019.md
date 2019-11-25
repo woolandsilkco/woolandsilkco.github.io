@@ -48,3 +48,11 @@ On-line purchasing only
 Yup. It's that time of year again. Time for us to count EVERYTHING in the store. Now you can just imagine that that might take awhile! We will be closing on Monday Dec 2nd for the day to get that job done! 
 
 If you are feeling "yarn needy" please go to our web page http://www.woolandsilkco.com  and click on "Shop Now" at the top right of the page.  Great Deals.  It will be Cyber Monday and all yarn will be 25% off!
+<hr />
+<h1>Ready 4 Christmas</h1>
+Do you need to get some knitting done and haven't started yet?  We have the kits for you!
+Complete these 4 kits easily in time for Christmas. Gala 50 hat with a pompom, HBCesque chunky cowl, Furreal cowl and Lightning Fast mittens. 
+
+You must take 1 of each kit to get the fabulous group price of $77.00 (Reg $91.00)
+<img src="/img/nov_newsletter.jpg" />
+<hr />
