@@ -2517,6 +2517,27 @@
             "link" : "https://www.ravelry.com/patterns/library/just-a-hat-4?utm_source=Newsletter&utm_campaign=b29d447954-EMAIL_CAMPAIGN_2019_07_30_08_36&utm_medium=email&utm_term=0_ac1bab3c4e-b29d447954-328893825&mc_cid=b29d447954&mc_eid=5dbcc3b01d",
           "supplies":"(1) skein of Vintage Worsted Just a Hat by Galina Shemchuk. Fee includes pattern, yarn & 2 classes",
           "description":"An easy way to start learning to knit in the round is by knitting a hat.  The yarn is bigger, the design is simpler and you can quickly make a usable item."
-}    
+},
+       {
+       "title":"Dot Mittens by Dawn Catanzaro",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 13 2020"
+            ],
+            [  
+                "Feb 1 2020"
+               ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm (Mon)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$50 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/dot-mittens",
+          "image": "http://woolandsilkco.github.io/img/mittens.jpg",
+            "supplies":" Needles:  6.0mm  &  6.5mm  DPN's  stitch markers. Fee includes pattern for all sizes - materials: (2) balls of Andes (super bulky) - class",
+          "description":"These ultra–cozy mittens sized from child to large adult, are adorable and a fun way to incorporate a little bit of color by way of a relaxed two-color seed stitch. The clever two-color increases at the thumb gusset make them practically invisible. Make a super cute winter accessory set by also knitting the Dot hat."
+              }
     ]
 }
