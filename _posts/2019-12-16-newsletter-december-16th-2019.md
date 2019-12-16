@@ -11,7 +11,8 @@ title: 'Mid December Newsletter'
 - Boxing week Sale
 - Wishing all of our wonderful knitters & crocheters a very Merry Christmas and a Happy New Year!
 <img src="/img/xmas_2019.jpg" />
-- Public Safety Announcement
+
+<h1>Public Safety Announcement</h1>
 
 Christmas is quickly approaching. Don't get caught at home with relatives and no knitting.
 
@@ -23,7 +24,7 @@ Dec 24: 10am - 1pm<br />
 Dec 25 & 26: closed<br />
 Dec 31: 10am - 1pm<br />
 Jan 1: closed<br />
-<hr />
+
 <h1>Samples Sale</h1>
 
 We have decided to continue our 20% off samples sale until Dec 24th (closing at 1pm). All store samples that have a yellow tag are 20% off of that tag price. Great Christmas shopping ideas.
@@ -38,14 +39,14 @@ It is time again for our annual Boxing Week Sale. With Christmas & Boxing Day fa
 All yarns are 20-60% off
 (Does not apply to yarns included in classes or KAL's)
 
-<hr />
+
 
 <h1>January Secret Envelope</h1>
 As in previous years we are offering a surprise envelope. With a purchase during the Boxing week sale you will select a January discount envelope. Your name will be written on it and it will be retained in the store. When you make a purchase in January 2020 the surprise envelope will be opened. A discount of anywhere from 15% - 50% will be revealed and applied to your purchase. 
 
 - 1 envelope per customer
 - 1 discount application use in Jan/20
- <hr />
+
 
 <h1>Time to Sign-up for Winter Classes & KAL's</h1>
 Sweaters, Hats, Cowls, Socks & Shawls
@@ -66,7 +67,7 @@ Pattern
 Lesson(s) 
 HST is additional 
 Needles are not provided or included
-<
+
 Classes begin January 13, 2020 so make your selections & get signed up now!
 
 Wool & Silk Co.  (519) 925-6194
@@ -79,5 +80,5 @@ or go to http://www.woolandsilkco.com 
 (click on "Classes" at the top of the page)
 for full listing of class dates & times 
 
-<hr />
+
 
