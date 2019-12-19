@@ -2518,7 +2518,7 @@
           "supplies":"(1) skein of Vintage Worsted Just a Hat by Galina Shemchuk. Fee includes pattern, yarn & 2 classes",
           "description":"An easy way to start learning to knit in the round is by knitting a hat.  The yarn is bigger, the design is simpler and you can quickly make a usable item."
 },
-       {
+        {
        "title":"Dot Mittens by Dawn Catanzaro",
          "parts":1,
          "dates":[  
@@ -2585,20 +2585,36 @@
             "supplies":" Needles: 3.25mm DPN's markers ** You need to be able to know how to knit in the round already. **Yarn must be picked up & wound in advance** Fee includes pattern, 3 classes materials: (1)skein of Vintage DK ",
           "description":"If you have always wanted to knit socks then this is the class for you. We use a dk weight yarn to make the knitting go faster and so that you can see your work better while you are learning."
               },
-        {
-       "title":"KAL - Braid Shawl by Irene Lin ",
+       {
+       "title":"KAL - Braid Shawl   by Irene Lin ",
          "parts":1,
          "dates":[  
            [  
-                "Jan 16 2020",
-              "Jan 23 2020",
-              "Jan 30 2020",
-               "Feb 6 2020",
-              "Feb 13 2020",
-               "Feb 20 2020",
-              "Feb 27 2020",
-               "Mar 6 2020",
-               "Mar 12 2020"
+                "Jan 16 2020"
+            ],
+            [  
+                "Jan 23 2020"
+               ],
+            [  
+                "Jan 30 2020"
+            ],
+            [  
+                "Feb 6 2020"
+               ],
+            [  
+                "Feb 13 2020"
+            ],
+            [  
+                "Feb 20 2020"
+               ],
+            [  
+                "Feb 27 2020"
+            ],
+            [  
+                "Mar 6 2020"
+               ],
+            [  
+                "Mar 12 2020"
                ]
          ],
          "times":[  
@@ -2609,6 +2625,41 @@
           "image": "http://woolandsilkco.github.io/img/shawl.jpg",
             "supplies":" Needles:  3.5mm x 80cm circular **Yarn must be picked up & wound in advance** Fee includes pattern 1 class materials: (2)skeins Alpaca Merino Fine (MC) (1)skein of Mid-Knit Cravings or Mad Tosh Light or  Topaz (CC1) ",
           "description":"An interesting shawl with cable work and a mosaic band. Something new for you to try!"
+              },
+       {
+       "title":"KAL - Gletscher by Susan Haumann ",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 16 2020"
+            ],
+            [  
+                "Jan 23 2020"
+               ],
+            [  
+                "Jan 30 2020"
+            ],
+            [  
+                "Feb 6 2020"
+               ],
+            [  
+                "Feb 13 2020"
+            ],
+            [  
+                "Feb 20 2020"
+               ],
+            [  
+                "Feb 27 2020"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm"
+         ],
+         "cost":"(XS-M) $125.00 (L-XL ) $154.00 (plus $3.50 if you use Silky Kid) ",
+          "link" : "https://www.ravelry.com/patterns/library/gletscher",
+          "image": "http://woolandsilkco.github.io/img/sweater.jpg",
+            "supplies":" Needles:  3.5mm x 40cm circular, 3.5mm x 60cm circular, 3.5mm x 80cm circular, stitch markers **Yarn must be picked up & wound in advance** Fee includes 1 class - materials: 3(4) skeins Mid-Knit Cravings, 1 ball Drops Kid-Silk (or Ella Rae Silky Kid (+$3.50))",
+          "description":"Top down construction with a little pop of colour/texture for interest. It will be one of your go to favourites."
               },
        {
        "title":"The Snuggle Is Real Cowl by Maxim Cyr",
@@ -2632,29 +2683,6 @@
           "image": "http://woolandsilkco.github.io/img/cowl.jpg",
             "supplies":" Needles: 3.5mm x 60cm circular, 4.0mm x 60cm circular, stitch markers. **Yarn must be picked up in advance & wound. You must be able to already knit in the round. Fee Includes: pattern, 2 classes, materials:  (2) colours Vintage DK (1) Drops Sky (lining) ",
           "description":"This is a big and adjustable cozy cowl with a colourful & soft lining inside and a drawstring closure. Great project for ladies or men. Keep that neck warm!"
-              },
-       {
-       "title":"KAL - Gletscher by Susan Haumann ",
-         "parts":1,
-         "dates":[  
-           [  
-                "Jan 16 2020",
-               "Jan 23 2020",
-              "Jan 30 2020",
-              "Feb 6 2020",
-              "Feb 13 2020",
-               "Feb 20 2020",
-                "Feb 27 2020"
-               ]
-         ],
-         "times":[  
-           "1:00pm - 3:00pm"
-         ],
-         "cost":"(XS-M) $125.00 (L-XL ) $154.00 (plus $3.50 if you use Silky Kid) ",
-          "link" : "https://www.ravelry.com/patterns/library/gletscher",
-          "image": "http://woolandsilkco.github.io/img/sweater.jpg",
-            "supplies":" Needles:  3.5mm x 40cm circular, 3.5mm x 60cm circular, 3.5mm x 80cm circular, stitch markers **Yarn must be picked up & wound in advance** Fee includes 1 class - materials: 3(4) skeins Mid-Knit Cravings, 1 ball Drops Kid-Silk (or Ella Rae Silky Kid (+$3.50))",
-          "description":"Top down construction with a little pop of colour/texture for interest. It will be one of your go to favourites."
               },
       {
        "title":"Eyelet Lace Scarf    by Claire Borchardt",
@@ -2721,19 +2749,33 @@
             "supplies":" Needles: needles:  5.0mm x 80cm circular, worsted weight yarn Fee Includes: class, blanket pattern ",
           "description":"Have you always been intrigued by the look of the mitred square? It is easier than you think. Learn the technique in this class and then apply it to a larger project of your own. Pillow covers, lap blanket, throw or full on afghan.  Can be adapted to any yarn."
               },
-         {
+       {
        "title":"KAL - Gardengate by Jennifer Steingass",
          "parts":1,
          "dates":[  
            [  
-                "Jan 27 2020",
-              "Feb 3 2020",
-               "Feb 10 2020",
-                 "Feb 24 2020",
-              "Mar 2 2020",
-                "Mar 9 2020",
-                "Mar 16 2020",
-               "Mar 23 2020"
+                "Jan 27 2020"
+            ],
+            [  
+                "Feb 3 2020"
+               ],
+            [  
+                "Feb 10 2020"
+            ],
+            [  
+                "Feb 24 2020"
+               ],
+            [  
+                "Mar 2 2020"
+            ],
+            [  
+                "Mar 9 2020"
+               ],
+            [  
+                "Mar 16 2020"
+               ],
+             [  
+                "Mar 23 2020"
                ]
          ],
          "times":[  
@@ -2766,14 +2808,26 @@
          "parts":1,
          "dates":[  
            [  
-                "Jan 30 2020",
-                "Feb 6 2020".
-               "Feb 13 2020",
-               "Feb 20 2020",
-              "Feb 27 2020",
-              "Mar 5 2020",
-                 "Mar 12 2020"   
-           ]
+                "Jan 30 2020"
+            ],
+            [  
+                "Feb 6 2020"
+               ],
+            [  
+                "Feb 13 2020"
+            ],
+            [  
+                "Feb 20 2020"
+               ],
+            [  
+                "Feb 27 2020"
+            ],
+            [  
+                "Mar 5 2020"
+               ],
+            [  
+                "Mar 12 2020"
+                ]
          ],
          "times":[  
            "6:30pm - 8:30pm"
@@ -2830,11 +2884,22 @@
          "parts":1,
          "dates":[  
            [  
-                "Feb 28 2020",
-                 "Mar 6 2020",
-                "Mar 20 2020",
-               "Mar 27 2020",
-              "Apr 3 2020"
+                "Feb 28 2020"
+            ],
+            [  
+                "Mar 6 2020"
+               ],
+            [  
+                "Mar 13 2020"
+            ],
+            [  
+                "Mar 20 2020"
+               ],
+            [  
+                "Mar 27 2020"
+            ],
+            [  
+                "Apr 3 2020"
                 ]
          ],
          "times":[  
@@ -2851,14 +2916,28 @@
          "parts":1,
          "dates":[  
            [  
-                "Mar 2 2020",
-              "Mar 9 2020",
-               "Mar 16 2020",
-                "Mar 23 2020",
-              "Mar 30 2020",
-              "Apr 6 2020",
-                 "Apr 13 2020",
-               "Apr 20 2020"
+                "Mar 2 2020"
+            ],
+            [  
+                "Mar 9 2020"
+               ],
+            [  
+                "Mar 16 2020"
+            ],
+            [  
+                "Mar 23 2020"
+               ],
+            [  
+                "Mar 30 2020"
+            ],
+            [  
+                "Apr 6 2020"
+                ],
+             [  
+                "Apr 13 2020"
+               ],
+            [  
+                "Apr 20 2020"
             ]
          ],
          "times":[  
@@ -2875,13 +2954,25 @@
          "parts":1,
          "dates":[  
            [  
-                "Mar 3 2020",
-               "Mar 10 2020",
-               "Mar 17 2020",
-               "Mar 24 2020",
-               "Mar 31 2020",
-               "Apr 7 2020",
-              "Apr 14 2020"
+                "Mar 3 2020"
+            ],
+            [  
+                "Mar 10 2020"
+               ],
+            [  
+                "Mar 17 2020"
+            ],
+            [  
+                "Mar 24 2020"
+               ],
+            [  
+                "Mar 31 2020"
+            ],
+            [  
+                "Apr 7 2020"
+                ],
+             [  
+                "Apr 14 2020"
               ]
          ],
          "times":[  
@@ -2958,8 +3049,8 @@
             "supplies":" Needles: 4.0mm x 80 circular stitch markers. Fee Includes: 2 classes, materials: (2) balls Baby crofter or Rascal OR  (2) balls Drifter dk ",
           "description":"Back by popular demand!  Elizabeth Zimmerman's iconic baby sweater. Knitted in one flat piece, then folded & seamed. So interesting to knit."
               },
-        {
-       "title":"KAL - Wend Tee  by Elizabeth Elliott ",
+      {
+       "title":"Wend Tee  by Elizabeth Elliott ",
          "parts":1,
           "dates":[  
           [
@@ -2985,7 +3076,7 @@
             "supplies":" Needles: 3.75mm x 60cm circular & DPN's, 4.0mm x 60cm & 80cm circulars. **Yarn must be picked up in advance & wound** Fee Includes: pattern, 1 class materials: (6) skeins of Nuna   (4 MC, 1 of CC1, 1 of CC2) (if XL or over or extra length will need an additional skein +$13.95 each)",
           "description":"Wend is worked flat in four pieces, so there’s no worry about trying to match up stripes at the neck. This top features exposed seams, slight A-line shaping, integrated cap sleeves, and a flattering sweetheart neckline. To make Wend, you will need to know how to knit, purl, and seam. The pattern includes an illustrated tutorial for the German Short Rows used in the sleeve and shoulder shaping, and directions for the M1 and twisted yarn over increases used in the pattern are included in the Abbreviations section. Pattern instructions are written only."
               },
-      {
+       {
        "title":"Summerline by Hinterm Stein  ",
          "parts":1,
           "dates":[  
