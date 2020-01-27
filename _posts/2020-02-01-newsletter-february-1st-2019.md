@@ -9,7 +9,7 @@ title: 'February Newsletter'
 - Happy Valentines Day to all of our lovely Knitters & Crocheters
 - Please Note: January Surprise Shopping Envelopes expire after Jan 31st. Don't miss out on a great discount!
 
-<img src="/img/valendines.jpg" />
+<img src="/img/valentines.jpg" />
 <strong>Sock Yarn Sale<br />
 
 New in Store<br />
@@ -25,7 +25,7 @@ A fabulous time to stock up on those yarns that you have just been itching to ge
 <img src="/img/stole.jpg" />
 Sweet Breeze stole. Beautifully created with Estelle's Magic Shawl yarn. Knitted end to end it makes for glorious long stripes of colour and has been finished up with a bit of fringe on each end. 6 colourways to choose from
 <br />
-<img src="/img/markers.jpg" />
+<img src="/img/new_markers.jpg" />
 <strong>New Markers!</strong>
 Versatile lightbulb markers in metallics and solids. 20 pieces per bag for the great price of $5.00.
 <br />
