@@ -22,11 +22,12 @@ February is the month for our annual sock yarn sale. All sock yarns are 20% off
 <strong>Feb 1st to 29th</strong><br />
 A fabulous time to stock up on those yarns that you have just been itching to get
 <br />
+<h1>Sweet Breeze stole</h1>
 <img src="/img/stole.jpg" />
-Sweet Breeze stole. Beautifully created with Estelle's Magic Shawl yarn. Knitted end to end it makes for glorious long stripes of colour and has been finished up with a bit of fringe on each end. 6 colourways to choose from
-<br />
+ Beautifully created with Estelle's Magic Shawl yarn. Knitted end to end it makes for glorious long stripes of colour and has been finished up with a bit of fringe on each end. 6 colourways to choose from
+<h1>New Markers!</h1>
 <img src="/img/new_markers.jpg" />
-<strong>New Markers!</strong>
+
 Versatile lightbulb markers in metallics and solids. 20 pieces per bag for the great price of $5.00.
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lvNO_bjyV-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
