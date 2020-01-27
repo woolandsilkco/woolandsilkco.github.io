@@ -8,7 +8,8 @@ title: 'February Newsletter'
 - February News!
 - Happy Valentines Day to all of our lovely Knitters & Crocheters
 - Please Note: January Surprise Shopping Envelopes expire after Jan 31st. Don't miss out on a great discount!
-<img src="img/valentines.jpg">
+
+<img src="/img/valendines.jpg" />
 <strong>Sock Yarn Sale<br />
 
 New in Store<br />
