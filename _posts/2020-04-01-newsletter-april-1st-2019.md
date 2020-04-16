@@ -22,3 +22,5 @@ Below here you will find the current sale, Worsted weights at 20% off.  Please m
 
 The next sale (below that) is about babies!  Many wee ones are being born during this isolation time and families have not been able to enjoy being with them. Why not start a project to have it ready for when we can be together?
 April 12th to 25th all things Baby will be on sale 20% off. This includes all baby yarns & baby blanket kits.
+<img src="/img/wool_sale_1.jpg" />
+<img src="/img/wool_sale_2.jpg" />
