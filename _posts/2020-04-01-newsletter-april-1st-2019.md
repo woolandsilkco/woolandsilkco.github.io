@@ -4,7 +4,7 @@ type: news
 published: true
 title: 'April Newsletter'
 ---
-- <img src="/img/flowers.jpg" width="588" height="757" />
+- <img src="/img/flowers2.jpg" width="757" height="757" />
 - Since we all need a little lift in these days of self-isolation I have brought you some pictures of beautiful spring flowers..............and a kitten!
 - I hope everyone is coping well. It is difficult being at home almost all of the time. We ourselves are fortunate as we live in the country and it is easy to go outside and have space. Much harder in the cities. 
 
