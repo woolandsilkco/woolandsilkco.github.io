@@ -1,4 +1,4 @@
---
+---
 layout: post
 type: news
 published: true
