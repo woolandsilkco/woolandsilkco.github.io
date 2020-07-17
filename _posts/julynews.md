@@ -1,0 +1,87 @@
+---
+layout: post
+type: news
+published: true
+title: 'June News'
+---
+- Summer Days and Store Policies
+- Feather Wrap (It's really a poncho!)
+- The Slipped Rib Hat
+
+<h1>Summer Days and Store Policies</h1>
+
+Summer is finally here and we are having the full gammut of weather. Sun, rain, wind. Hope you have been able to get in a bit of knitting between your gardening sessions. 
+We have been open at the shop for about 3 weeks. It has been so wonderful seeing all of your familiar faces! We have restocked the shelves and there are lots of new spring yarns available. 
+
+(Please note that hours & days are reduced for now)
+
+<strong>Hours will be: Tues - Sat:  10am-3pm every day  (no evenings)</strong>
+
+A few changes are coming starting this Friday (June 12th) as there is a regional Step 2 opening happening. Dufferin County has implemented additional regulations and we must comply.
+
+Please read these rules carefully.
+
+New Store Protocols:
+
+1) for the safety of all of our customers: do not visit the store if, you have a cough, fever, have been exposed to a COVID-19 patient, or have a person in your household who may have been exposed. Staff may ask you at the door.
+
+2) The wearing of a mask is now mandatory. Our staff will be wearing masks while interacting with customers. Please come in supplied with your own mask. 
+
+3) there will be a limit of 3 customers in the store at any time. Please check before entering
+
+4) social distancing (keeping 6ft from others) will be maintained in the store
+
+5) upon entry you will be given hand sanitizer
+
+6) please limit yarn handling to items that you are intending to purchase
+
+7) payment will be limited to:  Tap (Interac, Visa, M/C). Cash is not being accepted at this time
+
+8) the washroom will be for staff use only. Please plan ahead & do not ask us. Thank you.
+
+Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down. Thank you so much for your consideration.
+
+- Sit & Knit's, classes & trunk shows are not returning yet  
+- no returns will be accepted (this may continue for some time)
+- no one-on-one project help - we just can't be that close, and handle someone else's work for what it takes to assist you
+
+Not everyone will be comfortable with in-store shopping and of course we will continue to offer <a href="http://woolandsilkcoshop.com/">Wool & Silk Co - Online Shopping</a>
+
+(Best method for ordering)
+- curbside pickup
+- pickup at my home
+- telephone ordering  (519) 925-6194
+
+<h1>Only 3 more days left for you to get the Hug Shot pattern (free with Kit purchase)</h1>
+
+Cassapinka has put out the Hug Shot shawl as a sister shawl to the Breathe & Hope pattern. When you order a kit or purchase one in-store we will give you the code to your free pattern.
+This code must be used before 11:59pm on Sunday June 14th
+
+Hurry up and make your selection. You don't want to miss out !
+(Click on photo to go to kit page)
+
+<a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=d70ee59184&e=5dbcc3b01d"><img src="/img/junenewsphoto1.jpg" /></a>
+
+<h1>Feather Wrap (It's really a poncho!)</h1>
+
+A new Kit!
+ 
+Just a few colours left! Light as a feather and perfect for spring. Super quick to knit. Easily completed in a few days. Only stocking stitch. Aine 100% silk, & Kid-Silk.
+
+(Click on photo to go to kit page)  
+<a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=4cf0a78683&e=5dbcc3b01d"><img src="/img/junenewsphoto2.jpg" /></a>
+
+<img src="/img/junenewsphoto3.jpg" />
+
+<h1>The Slipped Rib Hat</h1>
+ 
+You may have noticed this super new hat pattern on Ravelry already. An easy slipped rib pattern using Vintage DK & mohair held together to create a fun & fluffy look. We have created several colour combinations that we think will make great looking hats. Pattern & pompoms are not currently included in the kits.
+
+(Click on photo to go to kit page)
+
+<a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=b3e7b74ed2&e=5dbcc3b01d"><img src="/img/featurehat.jpg"></a>
+
+<img src="/img/featurehat2.jpg">
+ 
+<h1>2019's Fastest Knitter - Watch this Video !</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2a4l8UbytGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
