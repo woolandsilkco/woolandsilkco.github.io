@@ -50,13 +50,9 @@ Link to our yarn page & colours here:  <a href="https://www.woolandsilkcoshop.co
 
 Here is a look at all of the new MidKnit Cravings Sweet Sock yarn that has come into the store this past week. Squeal!!  Lots of new ones and some old favourites. Don't wait they are flying out the door fast.
 
-<img src="/img/aug2020_sharon.jpg" />
-
 <h1>The Sharon Show - Mystery KAL shawl (start date August 6th)</h1>
-
-<img src="/img/aug2020_yarn.jpg" />
- 
-If you are looking for a fun project then this is the one for you. I say fun because the designer is her cat, Sharon from Security. There will be humour, cute pics and great knitting. If you don't enjoy cat fun or jokes in your knitting time then this is not the one for you. If you do then you are in for a treat. Giggle along!
+<img src="/img/aug2020_sharon.jpg" />
+<img src="/img/aug2020_yarn.jpg" />If you are looking for a fun project then this is the one for you. I say fun because the designer is her cat, Sharon from Security. There will be humour, cute pics and great knitting. If you don't enjoy cat fun or jokes in your knitting time then this is not the one for you. If you do then you are in for a treat. Giggle along!
 
 Cassapinka has created a mystery KAL. Uses a combination of four great colours. We have set up a few ideas for you on our page. Prices vary due to yarns chosen.
 
