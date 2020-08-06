@@ -8,49 +8,21 @@ title: 'August Update'
 - COVID-19 Memorial Blanket
 - Mystery KAL shawl
 
-<h1>Summer Knitting</h1>
+<h1>August Thoughts</h1>
 
-<img src="/img/summerknitting.jpg" /> As all regular knitters know, we keep on with our craft no matter what the season. The above photo is of Dannielle A.'s hands working away while out on her deck. A perfect way to enjoy the weather & your project.
+<img src="/img/aug2020_lamb.jpg" /> I think this sheep expresses how we all feel about the current restrictions and life changes we are experiencing. And while we will continue to social distance, isolate & wear masks, we would just like to say "Pffffftttt" to it all ! 
  
-Just a quick reminder here of our current hours. These will remain in place until such time as we are allowed to host classes and Sit & Knits. Everyone is missing their group knitting times! And we miss seeing all of you. Oh the fun & giggles we have. Hopefully soon. We will update you as soon as we hear anything. 
+A few projects are on the go right now:
 
-<strong>Hours will be: Tues - Sat:  10am-3pm every day  (no evenings)</strong>
-
-New Store Protocols:
-
-1) for the safety of all of our customers: do not visit the store if, you have a cough, fever, have been exposed to a COVID-19 patient, or have a person in your household who may have been exposed. Staff may ask you at the door.
-
-2) The wearing of a mask is now mandatory. Our staff will be wearing masks while interacting with customers. Please come in supplied with your own mask. 
-
-3) there will be a limit of 3 customers in the store at any time. Please check before entering
-
-4) social distancing (keeping 6ft from others) will be maintained in the store
-
-5) upon entry you will be given hand sanitizer
-
-6) please limit yarn handling to items that you are intending to purchase
-
-7) payment will be limited to:  Tap (Interac, Visa, M/C). Cash is not being accepted at this time
-
-8) the washroom will be for staff use only. Please plan ahead & do not ask us. Thank you.
-
-Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down. Thank you so much for your consideration.
-
-- no returns will be accepted (this may continue for some time)
-- no one-on-one project help - we just can't be that close, and handle someone else's work for what it takes to assist you
-
-Not everyone will be comfortable with in-store shopping and of course we will continue to offer <a href="http://woolandsilkcoshop.com/">Wool & Silk Co - Online Shopping</a>
-
-(Best method for ordering)
-- curbside pickup
-- pickup at my home
-- telephone ordering  (519) 925-6194
+Lakeside Yarn Crawl
+COVID-19 Memorial Blanket
+New Yarns from MidKnit Cravings
+The Sharon Show
+Knitting-A-Long At a Distance  (KAL-AD)
 
 <h1>Lakeside Yarn Crawl</h1>
 
-Lakeside Yarn Crawl 2020
-
-It's Here!! 10 fabulous paricipating stores. You can purchase in person or online. There is a special crawl shawl (with variations in each store), in house draws, grand prize draws. Lots to see. Can't wait to have you in to check it out.
+The Lakeside Yarn Crawl is continuing on through the month of August. 10 great shops to visit. Draws, Prizes, so much fun!  Get your passport now and get crawling.  Go to our online shopping site to see all of the crawl shawl colour combinations that we have available for you. <a href="http://www.woolandsilkcoshop.com">http://www.woolandsilkcoshop.com</a>
 
 <img src="/img/lakesidecrawl.jpg" />
 
@@ -59,29 +31,75 @@ If you purchase a shawl kit we will send you the coupon code to receive the patt
 (Click on photo to go to kit page)  
 <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=b98f3234c3&e=5dbcc3b01d"><img src="/img/julyshawl.jpg" /></a>
 
-<img src="/img/julyyarn.jpg" />
+<img src="/img/aug2020_blanket.jpg" />
 
-<h1>New Yarn</h1>
+<h1>COVID-19 Memorial Blanket</h1>
 
-<img src="/img/julylogo.jpg" />Debbie at the Loving Path has shipped us some spectacular yarn!  It is on her polar fingering base which is a single ply merino. So luscious. Oh and the colours.....to die for. These are just the new shades. We currently have 14 colourways in stock. All are available on-line as well as in store. Stop by to check them out.
+Three lovely ladies from Lindsay have started a very impressive memorial project. To remember those family members and loved ones that have been lost due to this virus. 1 block for each individual. Squares are being knitted and sent in to be added to the blanket.
 
-<img src="/img/julyyarn2.jpg" />
+Link to blanket home page:  <a href="https://covid19memorialblanket.ca/?mc_cid=093f226058&mc_eid=5dbcc3b01d">Blanket Home Page</a>
+You will need to go to the page & register to make your square(s)
 
-<h1>New Project Bags</h1>
+Squares are being knitted in Vintage (worsted weight) specifically
 
-Okay, all you sock knitters! This one is for you. A project bag big enough to hold a sock project & Kitchener Stitch instructions printed on the front.
+Link to our yarn page & colours here:  <a href="https://www.woolandsilkcoshop.com/products/vintage?mc_cid=093f226058&mc_eid=5dbcc3b01d">Vintage Worsted</a>
 
-How good does it get? And all that for just $15.00
+<h1>MidKnit Cravings Sweet Sock Yarn</h1>
 
-(Click on photo to go to kit page)  
-<a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=afca57e804&e=5dbcc3b01d"><img src="/img/julybag.jpg" /></a>
+<img src="/img/aug2020_midknit.jpg" />
 
-<h1>The Slipped Rib Hat</h1>
+Here is a look at all of the new MidKnit Cravings Sweet Sock yarn that has come into the store this past week. Squeal!!  Lots of new ones and some old favourites. Don't wait they are flying out the door fast.
+
+<img src="/img/aug2020_sharon.jpg" />
+
+<h1>The Sharon Show - Mystery KAL shawl (start date August 6th)</h1>
+
+<img src="/img/aug2020_yarn.jpg" />
  
-This is the hat that is being created in the first photo of the newsletter. An easy slipped rib pattern using Vintage DK & mohair held together to create a fun & fluffy look. We have created several colour combinations that we think will make great looking hats. Pattern & pompoms are not currently included in the kits.
+If you are looking for a fun project then this is the one for you. I say fun because the designer is her cat, Sharon from Security. There will be humour, cute pics and great knitting. If you don't enjoy cat fun or jokes in your knitting time then this is not the one for you. If you do then you are in for a treat. Giggle along!
 
-(Click on photo to go to kit page)
+Cassapinka has created a mystery KAL. Uses a combination of four great colours. We have set up a few ideas for you on our page. Prices vary due to yarns chosen.
 
-<a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=ff99606480&e=5dbcc3b01d"><img src="/img/featurehat.jpg"></a>
+<a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=356fa8fd4b&e=5dbcc3b01d">Colour Combos Here </a>
 
-<img src="/img/featurehat2.jpg">
+Go on Ravelry to <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=8a483e83d8&e=5dbcc3b01d">purchase the pattern</a> and updates will be sent to you regularly. Sign up now to get your colouring sheet to plan your colour placement.
+
+<h1>FRESH BERRIES TEE - KAL-AD (Knit-a-Long at a Distance)</h1>
+
+<img src="/img/aug2020_berry.jpg" />
+ 
+We thought we would try to do a Knit-a-Long at a distance. Sign-up happens at time of yarn purchase (in-store or online). Pattern is supplied.
+
+Each week we check in with you, ask for updates & photos. Then we share them on our social media so that everyone can see how the knitters are progressing.
+
+Fresh Berries Tee is a great top-down knit. Nothing hard here. The yarn does all of the work for you. And what nice yarn it is. So soft and cozy. Easy to wear and lots of colour choices. New stock coming next week.
+
+Can't wait for you to join us!
+
+<h1>Store Hours</h1>
+
+Hours will be:
+Tues - Sat:  10am-3pm every day  (no evenings)
+
+New Store Protocols:
+1) for the safety of all of our customers: 
+    do not visit the store if, you have a cough, fever, have been exposed to a COVID-19 patient, or have a  person in your household who may have been    exposed. Staff may ask you at the door.
+2) The wearing of a mask is now mandatory.  Our staff will be wearing masks while interacting with customers. Please come in supplied with your own mask.  
+3) there will be a limit of 3 customers in the store at any time. Please check before entering
+4) social distancing (keeping 6ft from others) will be maintained in the store
+5) upon entry you will be given hand sanitizer
+6) please limit yarn handling to items that you are intending to purchase
+7) payment will be limited to:  Tap (Interac, Visa, M/C) Cash is not being accepted at this time
+
+Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down.
+Thank you so much for your consideration
+
+- no returns will be accepted (this may continue for some time)
+- no one-on-one project help - we just can't be that close, and handle someone else's work for what it takes to assist you
+
+Not everyone will be comfortable with in-store shopping and of course we will continue to offer
+Wool & Silk Co - <a href="https://woolandsilkco.us11.list-manage.com/track/click?u=b948a6c6bf914edca957eadf1&id=2c6a60679f&e=5dbcc3b01d">Online Shopping</a>   (Click this link)
+(Best method for ordering)
+- curbside pickup
+- pickup at my home
+- telephone ordering  (519) 925-6194
