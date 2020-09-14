@@ -26,9 +26,9 @@ Use this link to see a little video of our friend Mike S. and his daughter Grace
 
 - click on the link & then click on the download button and the video will play
 <hr />
-<img src="/img/summer_sale.jpg" /> 
-<h1>End of Summer Sale - 20% off</h1>
 
+<h1>End of Summer Sale - 20% off</h1>
+<img src="/img/summer_sale.jpg" /> 
 September 15-19
 
 The dog days of summer are ending and so we are selling off our summer stock. A fabulous 20% off on all summer weights and fibres. All over the store. Just look for the little beach umbrellas! 
