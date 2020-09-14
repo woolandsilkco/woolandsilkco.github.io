@@ -39,11 +39,11 @@ PS: I had to drink approximately 20 Margaritas to collect these little babies. I
 <hr />
 <h1>Poncho Focus</h1>
 At the start of fall, what could be more perfect than a poncho. We have quite a few ideas for you in store. This one is the Dusk Poncho. Knitted in Universal Yarns Colourburst. We have several gorgeous colourways in stock. Only 2 balls to make this quite generous poncho. Pop in and have a look.
-<img src="/img/poncho_focus.jpg" /> 
+<a href="https://www.woolandsilkcoshop.com/products/colorburst?_pos=1&_sid=db5c14474&_ss=r&utm_source=Newsletter&utm_campaign=a988e1ab5e-EMAIL_CAMPAIGN_2020_09_14_05_37&utm_medium=email&utm_term=0_ac1bab3c4e-a988e1ab5e-328893825&mc_cid=a988e1ab5e&mc_eid=5dbcc3b01d"><img src="/img/poncho_focus.jpg" /> </a>
 <hr />
 <h1>FRESH BERRIES TEE
 KAL-AD (Knit-a-Long at a Distance) - Update</h1>
-<img src="/img/kal_update.jpg" />
+<a href="https://www.woolandsilkcoshop.com/products/cotton-supreme-waves?utm_source=Newsletter&utm_campaign=a988e1ab5e-EMAIL_CAMPAIGN_2020_09_14_05_37&utm_medium=email&utm_term=0_ac1bab3c4e-a988e1ab5e-328893825&mc_cid=a988e1ab5e&mc_eid=5dbcc3b01d"><img src="/img/kal_update.jpg" /></a>
 Quick Update - Fresh Berries Tee - KAL at a distance   
 
 I have been very poor with the "weekly" updates".  Here are a few photos of three projects. The top left photo is the sweater by Ann A., already completed in the original colour. The soft pinks, lower right is being knitted  by Dannielle A. and is just nicely underway - but knowing her she is much farther along than when I asked for this photo! And the almost there (just one sleeve edge to go) one in the lower left is by our own Leeanne L. Aren't all of the colours beautiful. We still have stock in this yarn and now it is 20% off for the end of summer sale. These tops are oh so soft and cottony and just perfect for this time of year under a light jacket. Come in and see all of the options.
