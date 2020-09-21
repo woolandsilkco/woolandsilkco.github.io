@@ -18,7 +18,6 @@ Help us clear summer stock and make room for the great new winter yarns that are
 PS:   Since the umbrellas are already in place I have decreased my Margarita consumption. 
  
 Shop On-Line Too! 
-<hr />
 <h1>Fall Sweater Idea</h1>
 <img src="/img/fall_sweater.jpg" /> 
 To help you get started into the fall season we will be featuring some Fall Sweater Ideas. 
