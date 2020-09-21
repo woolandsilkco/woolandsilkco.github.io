@@ -32,15 +32,15 @@ Hours will be:
 Tues - Sat:  10am-3pm every day  (no evenings)
 
 <h1>New Store Protocols:</h1>
-1) for the safety of all of our customers: do not visit the store if, you have a cough, fever have been exposed to a COVID-19 patient, or have a person in your household who may have been exposed. Staff may ask you at the door.
-2) The wearing of a mask is now mandatory.  Our staff will be wearing masks while interacting with customers. Please come in supplied with your own mask.  
-3) there will be a limit of 7 customers in the store at any time. Please check before entering
-4) social distancing (keeping 6ft from others) will be maintained in the store
-5) upon entry you will be given hand sanitizer
-6) please limit yarn handling to items that you are  intending to purchase
-7) payment will be limited to:  Tap (Interac, Visa, M/C)  Cash is not being accepted at this time
+1) for the safety of all of our customers: do not visit the store if, you have a cough, fever have been exposed to a COVID-19 patient, or have a person in your household who may have been exposed. Staff may ask you at the door.<br />
+2) The wearing of a mask is now mandatory.  Our staff will be wearing masks while interacting with customers. Please come in supplied with your own mask.  <br />
+3) there will be a limit of 7 customers in the store at any time. Please check before entering<br />
+4) social distancing (keeping 6ft from others) will be maintained in the store<br />
+5) upon entry you will be given hand sanitizer<br />
+6) please limit yarn handling to items that you are  intending to purchase<br />
+7) payment will be limited to:  Tap (Interac, Visa, M/C)  Cash is not being accepted at this time<br /><br />
 
-Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down.
+Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down.<br />
 Thank you so much for your consideration
 
 - no returns will be accepted 
