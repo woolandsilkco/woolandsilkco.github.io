@@ -7,7 +7,7 @@ title: 'October News'
 
 - Get ready 4 Christmas
 - New Kits
-- New Yarms
+- New Yarns
 
 <img src="/img/fallleaves.jpg" /> 
 <h1>Fall is Well Upon Us</h1>
