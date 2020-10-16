@@ -2,44 +2,85 @@
 layout: post
 type: news
 published: true
-title: 'Summer Sale Update'
+title: 'October News'
 ---
 
-- We are so excited about our summer sale that we have decided to continue it!
- - All summer yarns are 20% off until end of day September 26th
- - On-line shopping too.
-<img src="/img/sale_20.jpg" /> 
-<h1>End of Summer Sale - 20% off</h1>
+- Get ready 4 Christmas
+- New Kits
+- New Yarms
 
-Now continued to Saturday Sept 26th
+<img src="/img/fallleaves.jpg" /> 
+<h1>Fall is Well Upon Us</h1>
+
+The leaves are falling and those shorter days are noticeable. I realize that Thanksgiving will have a different look for most of us this year but I hope that everyone has contact with family and enjoys their long weekend. 
+
+Sweater knitting is in full force and if you haven't already started then you need to be getting at your Christmas knitting. Below you will find a few ideas for X-mas gifting and some great deals. 
  
-Help us clear summer stock and make room for the great new winter yarns that are coming in.  20% off on summer weights and fibres. All over the store. Just look for the little beach umbrellas! 
+What's Happening:
 
-PS:   Since the umbrellas are already in place I have decreased my Margarita consumption. 
- 
-Shop On-Line Too! 
-<h1>Fall Sweater Idea</h1>
-<img src="/img/fall_sweater.jpg" /> 
-To help you get started into the fall season we will be featuring some Fall Sweater Ideas. 
+Get Ready 4 Christmas
+Our Hours
+New Kits
+New Yarns
 
-If you have been into the shop you will have most likely noticed this stunning <a fref="https://www.ravelry.com/patterns/library/the-purl-code-cardigan?mc_cid=1be35fe942&mc_eid=5dbcc3b01d">Purl Code cardigan</a> by Isabell Kraemer. She writes such a great pattern. We knitted it up in Mid-Knit Cravings's merino <a href="https://www.woolandsilkcoshop.com/products/sweet-sock?_pos=1&_sid=d0026fa0f&_ss=r&mc_cid=1be35fe942&mc_eid=5dbcc3b01d"> Sweet Sock fingering</a>. What a wonderful yarn! Tonal colours seem to look great for this one. But if you want the "purl code" to show more obviously then we would suggest a flatter, plainer colour. Lots to choose from and more coming in about 4-6 weeks. This one will be that great "go to" sweater for everyday. 
+<h1>Get Ready 4 Christmas</h1>
 
-Pullover version available<a href="https://www.ravelry.com/patterns/library/the-purl-code?mc_cid=1be35fe942&mc_eid=5dbcc3b01d"> ( Purl Code Pullover )</a>
+<img src="/img/xmas2020a.jpg" /> 
+Each year we set up 4 kits for Christmas knitting. This year we are featuring a ladies hat (Confection Sparkle)-chunky, a cowl  (Slip Stitch Cowl)-super bulky,  lounging socks (Movie Night Slipper Socks)-super bulky & a man's hat (Hill 60)-worsted.
+**All of the projects are in worsted weight or higher which make for quick knits in the pre-Christmas rush**
 
-Thank you to our Karen M. for knitting this store sample
+Each kit comes complete with all materials to knit the project and the patterns. You must take all 4 to get the great discount price.
+
+$72.00  (Reg $82.00) 
+
+<img src="/img/xmas2020b.jpg" /> 
+
+<h1>Our Hours</h1>
+
+We have decided to expand our hours slightly in this busy fall season. 
+
+Beginning on Tuesday October 13th, 
+
+Tuesday to Friday  10am-4pm  (was a 3pm close)
+Saturdays 10am-3pm
+
+Mon & Sun - closed
+
+Please note that we are still not able to offer classes or Sit & Knits at this time. Sorry. We miss them too!
+
+<h1>New Kits</h1>
+<img src="/img/octkits.jpg" />  Estelle has come out with some fabulous hat kits. Each little package contains one cake of Lumiere yarn, a pompom and the pattern to make a hat. 4 great colourways. Fabulous fall projects! $23.50
+
+<h1>Happy Thanksgiving!</h1>
+
+<img src="/img/turkey.jpg" /> 
+
 Hours will be:
-Tues - Sat:  10am-3pm every day  (no evenings)
+Tues - Fri:  10am-4pm every day  (no evenings)
+Sat:  10am-3pm
+Sun & Mon:  Closed
 
-<h1>New Store Protocols:</h1>
-1) for the safety of all of our customers: do not visit the store if, you have a cough, fever have been exposed to a COVID-19 patient, or have a person in your household who may have been exposed. Staff may ask you at the door.<br />
-2) The wearing of a mask is now mandatory.  Our staff will be wearing masks while interacting with customers. Please come in supplied with your own mask.  <br />
-3) there will be a limit of 7 customers in the store at any time. Please check before entering<br />
-4) social distancing (keeping 6ft from others) will be maintained in the store<br />
-5) upon entry you will be given hand sanitizer<br />
-6) please limit yarn handling to items that you are  intending to purchase<br />
-7) payment will be limited to:  Tap (Interac, Visa, M/C)  Cash is not being accepted at this time<br /><br />
+Store Protocols:
+1) for the safety of all of our customers: 
+     do not visit the store if, you have a cough, fever,
+    have been exposed to a COVID-19 patient, or have a
+    person in your household who may have been
+    exposed. Staff may ask you at the door.
+2) The wearing of a mask is now mandatory.  Our staff
+    will be wearing masks while interacting with
+    customers. Please come in supplied with your own
+    mask.  
+3) there will be a limit of 7 customers in the store at any
+    time. Please check before entering
+4) social distancing (keeping 6ft from others) will be
+    maintained in the store
+5) upon entry you will be given hand sanitizer
+6) please limit yarn handling to items that you are  
+    intending to purchase
+7) payment will be limited to:  Tap (Interac, Visa, M/C) 
+    Cash is not being accepted at this time
 
-Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down.<br />
+Please adhere to the above rules & regs as we do not wish to be fined (It's $5000 !!) or shut down.
 Thank you so much for your consideration
 
 - no returns will be accepted 
