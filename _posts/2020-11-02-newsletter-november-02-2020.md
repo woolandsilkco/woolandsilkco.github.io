@@ -24,7 +24,7 @@ Our Get Ready for Christmas feature is well underway. We made a slight calculati
 <img src="/img/xmas2020a.jpg" /> 
 <img src="/img/xmas2020b.jpg" /> 
 
-Each year we set up 4 kits for Christmas knitting. This year we are featuring a ladies hat (Confection Sparkle)-chunky, a cowl  (Slip Stitch Cowl)-super bulky,  lounging socks (Movie Night Slipper Socks)-super bulky & a man's hat (Hill 60)-worsted.
+Each year we set up 4 kits for Christmas knitting. This year we are featuring a ladies hat (Confection Sparkle)-chunky, a cowl  (Slip Stitch Cowl)-super bulky,  lounging socks (Movie Night Slipper Socks)-super bulky & a man's hat (Hill 60)-worsted.There are multiple colours to choose from in each project (these are just our samples).
 **All of the projects are in worsted weight or higher which make for quick knits in the pre-Christmas rush**
 
 Each kit comes complete with all materials to knit the project and the patterns. You must take all 4 to get the great discount price.
