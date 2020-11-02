@@ -75,9 +75,7 @@ Lots of kits & colours to choose from!
 $23.50
 <hr />
 <img src="/img/xmas_sale.jpg" /> 
-<h1>CHRISTMAS SHOPPING!<br />
-SAMPLES SALE<br />
-20%  OFF</h1>
+<h1>CHRISTMAS SHOPPING!SAMPLES SALE ! 20%  OFF!</h1>
 
 Starting November 1st we will be offering many of our in-store samples for sale at 20% off. There will be hats, scarves, shawls, sweaters. Lots of goodies. 
 
