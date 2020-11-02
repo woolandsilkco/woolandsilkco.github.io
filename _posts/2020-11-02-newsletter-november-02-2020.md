@@ -66,7 +66,7 @@ A few ideas for colour combinations are shown below here:<br />
   (6145, 6107, 6183, 6100)   </td>
  <td> 4) Burgundy, Teal, Mochi, Navy
   (6181, 6194, 6101, 61182)  </td></tr></table>
-<img src="/img/casapinka_yarn.jpg" /> 
+<img src="/img/casapinka_yarn.jpg" width="583" height="561" /> 
 <hr />
 <h1>LUMIERE HAT KITS</h1>
 <img src="/img/lumiere.jpg" /> 
