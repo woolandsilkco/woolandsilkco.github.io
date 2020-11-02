@@ -57,14 +57,14 @@ Color D. 1, (1, 2, 3) hanks/37 (77, 135, 231)g<br /><br />
 A few ideas for colour combinations are shown below here:<br />
  (you can also ck online shopping OR pop in & choose your own!)<br /><br />
 <table><tr><td>
-1) Oats, Gold, Lt Denim, Mochi    
+1) Oats, Gold, Lt Denim, Mochi  <br />  
  (TC 1809, 6192, TC 1826, 6101) </td>      
-<td>2) Dk Grey, Yellow, Electric Blue,Wt      
+<td>2) Dk Grey, Yellow, Electric Blue,Wt   <br />  
  (6189,6121, 61191, 6100) </td></tr>
  <tr><td>
-3) Blk, Med Grey, Lilac, White        
+3) Blk, Med Grey, Lilac, White <br />       
   (6145, 6107, 6183, 6100)   </td>
- <td> 4) Burgundy, Teal, Mochi, Navy
+ <td> 4) Burgundy, Teal, Mochi, Navy<br />
   (6181, 6194, 6101, 61182)  </td></tr></table>
 <img src="/img/casapinka_yarn.jpg" width="583" height="561" /> 
 <hr />
