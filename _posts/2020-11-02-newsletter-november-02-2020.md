@@ -31,7 +31,7 @@ Each kit comes complete with all materials to knit the project and the patterns.
 
 $72.00  (Reg $82.00) 
 <hr />
-<h1>CASAPINKA KAL<h1>
+<h1>CASAPINKA KAL</h1>
 
 <img src="/img/casapinka.jpg" /> 
 A new knit-a-long by Casapinka. After her camping trip she has created The Glamping Blanket. It offers multiple kinds of stitches/patterns and a four colour combination. All with a pattern that is easy enough for most knitters.  I am currently knitting the sample (cat sized) version!
