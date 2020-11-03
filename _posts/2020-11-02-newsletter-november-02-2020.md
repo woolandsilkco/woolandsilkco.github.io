@@ -33,7 +33,7 @@ $72.00  (Reg $82.00)
 <hr />
 <h1>CASAPINKA KAL</h1>
 
-<img src="/img/casapinka.jpg" /> 
+<a href="https://www.ravelry.com/patterns/library/sharons-glamping-blanket"><img src="/img/casapinka.jpg" /> 
 A new knit-a-long by Casapinka. After her camping trip she has created The Glamping Blanket. It offers multiple kinds of stitches/patterns and a four colour combination. All with a pattern that is easy enough for most knitters.  I am currently knitting the sample (cat sized) version!
 <br /><br />
 Pattern has been published at the end of October & KAL begins on November 6th. 
