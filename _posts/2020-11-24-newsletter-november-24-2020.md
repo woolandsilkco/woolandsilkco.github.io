@@ -29,7 +29,7 @@ No special orders
 in-stock items only
 
 ON-LINE PURCHASING ONLY
-<hr />
+
 <h1>Black Friday(s)- In Store Shopping</h1>
 
 Fri Nov 27th & Sat Nov 28th
