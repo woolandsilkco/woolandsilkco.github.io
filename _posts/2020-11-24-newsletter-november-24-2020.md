@@ -30,7 +30,7 @@ in-stock items only
 
 ON-LINE PURCHASING ONLY
 <hr />
-<hr>Black Friday(s)- In Store Shopping</hr>
+<h1>Black Friday(s)- In Store Shopping</h1>
 
 Fri Nov 27th & Sat Nov 28th
 2-day super sale
