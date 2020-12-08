@@ -39,9 +39,9 @@ Once the rush of Christmas Day is over you should be ready for a little bit of "
 
 <h1>Holiday Hours</h1>
 
-Dec 24: 10am - 1pm
-Dec 25 & 26: closed
-Dec 31: 10am - 1pm
+Dec 24: 10am - 1pm<br/>
+Dec 25 & 26: closed<br/>
+Dec 31: 10am - 1pm<br/>
 Jan 1: closed
 
 <h1>Samples Sale</h1>
@@ -53,8 +53,8 @@ Give a beautiful item, hand crafted with loving care.
 <h1>Boxing Week Sale</h1>
 
 Monday Dec 28 to Sat Jan 2
-(excluding holiday closures
-- see above)
+
+(excluding holiday closures - see above)
 
 It is time again for our annual Boxing Week Sale. With Christmas & Boxing Day falling on a Friday/Saturday this year we have decided to open & start the sale on Monday Dec 28th.
 
