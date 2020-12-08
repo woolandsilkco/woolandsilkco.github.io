@@ -9,7 +9,7 @@ title: 'December News'
 - Happy Holidays Activities
 - Boxing Week Sale
 
-<img src="img/xmassheep.jpg">
+<img src="/img/xmassheep.jpg">
           
 Wishing all of our Wonderful Knitters & Crocheters a Very Merry Christmas
 
