@@ -25,12 +25,11 @@ As you may well know, the Province has mandated that we shut down our in-person 
 As you may remember from previous emails, we have had some trials with loss of addresses from our newsletter system. After several hours of clicking on each address individually I think I have updated it as best as possible. 
 If you are receiving duplcate emails please message me and I will try to correct it. The system should not have let that happen. Also, if you do not wish to recieve mail please just unsubscribe. Again it should not have re-subscribed you and if it did I apologize.
  
-* If you are interested in a project that we have set out as a class on the website please contact the store (e-mail is the best) and we can get you coordinated with the pattern and supplies.
-  Or for any other project.
+* If you are interested in a project that we have set out as a class on the website please contact the store (e-mail is the best) and we can get you coordinated with the pattern and supplies. Or for any other project.
 
-website:  http://www.woolandsilkco.com
-e-mail:  woolandsilkco@gmail.com
-phone:   519-925-6194
+website:  http://www.woolandsilkco.com <br />
+e-mail:  woolandsilkco@gmail.com <br />
+phone:   519-925-6194 <br /><br />
 
 - I will be listening to messages regularly
 - please remember to clearly leave your name & number so I can call you back
