@@ -25,12 +25,8 @@ Does not apply to yarns that are already marked down
   <img src="/img/shopping.jpg"><br />
  
 <a href="https://www.woolandsilkcoshop.com/products/bamboo-socks?_pos=2&_sid=910d88ab7&_ss=r&utm_campaign=campaign%3A+21-09-05++Last+week+of+summer+sale%2C+Intro+10+weeks+Xmas+%28612a47e1db9a1d001e961cb6%29&utm_medium=email&utm_source=omnisend">
-  <img src="/img/yarn_sale.png"></a>
-   
-<a href="https://www.woolandsilkcoshop.com/products/bamboo-socks?_pos=2&_sid=910d88ab7&_ss=r&utm_campaign=campaign%3A+21-09-05++Last+week+of+summer+sale%2C+Intro+10+weeks+Xmas+%28612a47e1db9a1d001e961cb6%29&utm_medium=email&utm_source=omnisend">
-  <img src="/img/yarn_sale2.png"></a>
-   
-<a href="https://www.woolandsilkcoshop.com/products/lana-mia-cotone-effetto?_pos=2&_sid=42feadf04&_ss=r&utm_campaign=campaign%3A+21-09-05++Last+week+of+summer+sale%2C+Intro+10+weeks+Xmas+%28612a47e1db9a1d001e961cb6%29&utm_medium=email&utm_source=omnisend">
+  <img src="/img/yarn_sale.png"></a><a href="https://www.woolandsilkcoshop.com/products/bamboo-socks?_pos=2&_sid=910d88ab7&_ss=r&utm_campaign=campaign%3A+21-09-05++Last+week+of+summer+sale%2C+Intro+10+weeks+Xmas+%28612a47e1db9a1d001e961cb6%29&utm_medium=email&utm_source=omnisend">
+  <img src="/img/yarn_sale2.png"></a><a href="https://www.woolandsilkcoshop.com/products/lana-mia-cotone-effetto?_pos=2&_sid=42feadf04&_ss=r&utm_campaign=campaign%3A+21-09-05++Last+week+of+summer+sale%2C+Intro+10+weeks+Xmas+%28612a47e1db9a1d001e961cb6%29&utm_medium=email&utm_source=omnisend">
   <img src="/img/yarn_sale3.png"></a>
   <h2>10 WEEKS OF X-MAS</h2>
 
