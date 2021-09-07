@@ -57,11 +57,7 @@ We reopened on June 11th with Phase 2 of the Ontario Plan. On July 16th Phase 3 
 
 What this means:
 
-1.  10 customers may be in the store at one time
-
-       (unfortunately we will not be able to return to classes
-
-        or Sit & Knit until full capacity is allowed)
+1.  10 customers may be in the store at one time (unfortunately we will not be able to return to classes or Sit & Knit until full capacity is allowed)
 
 2.  You must continue to wear your mask in-store
 
@@ -79,7 +75,7 @@ Wed:  10am-4pm
 
 Thurs: 10am-4pm
 
-Fri:     10am-4pm
+Fri:    10am-4pm
 
 Sat:    10am-3pm
 
