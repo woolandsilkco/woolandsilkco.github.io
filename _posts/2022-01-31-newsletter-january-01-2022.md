@@ -28,15 +28,11 @@ Materials
 - aran or worsted weight yarn
 -  check pattern for quantities
    depending upon size
-- Needles:  4.0mm x 60cm circular,
-  5.0mm x 60cm & 80cm,
-  DPN's/30cm circulars in
-  4.0 & 5.0 for sleeves 
-- Gauge:  18sts/24 rows = 4in
-   in stocking stitch
+- Needles:  4.0mm x 60cm circular, 5.0mm x 60cm & 80cm, DPN's/30cm circulars in 4.0 & 5.0 for sleeves 
+- Gauge:  18sts/24 rows = 4in in stocking stitch
    
-  <a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=601a057e1971975089db7002&q=southwood&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend">
-  <img src="/img/yarn_sale.png"></a> Southwood Yarn Ideas - Click Here</a>
+<a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=601a057e1971975089db7002&q=southwood&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend">
+ Southwood Yarn Ideas - Click Here</a>
   <hr />
   <h2>Lopi Yarn update</h2>
    <a href="https://www.woolandsilkcoshop.com/products/lett-lopi?_pos=1&_sid=d4846adb8&_ss=r&omnisendContactID=601a057e1971975089db7002&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend">
