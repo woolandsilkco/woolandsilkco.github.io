@@ -42,9 +42,9 @@ Materials
 Some of you have been inquiring about stock in Lopi yarns. We carry Alafoss Lopi and Lett Lopi. Currently there are some production/shipping issues in Iceland with this yarn. Our distributor has zero stock in their wearhouse. There is also no idea of when they might receive some new stock.
 Please note that all of the Lopi that we have is posted on our online shopping site. All of it. Every colour and ball in the shop! Click on the pictures to take you to those pages. We are hoping to hear some news and as soon as we do we will pass it on to you.  
 <hr />
-<h2>February Sock Yarn Sale!</h2>
+<h2>February Sock Yarn Sale!
 20% off on all Sock Yarns</h2>
-<img src="/img/feb_sock_sale.jpg"></a>
+<img src="/img/feb_sock_sale.jpg">
 February brings us to our annual Sock Yarn sale. 20% off!
 What a great time to stock up. Don't forget that sock yarn has many uses and we see it in shawls, cardigans and other garments. Sale available in-store and online.
 
