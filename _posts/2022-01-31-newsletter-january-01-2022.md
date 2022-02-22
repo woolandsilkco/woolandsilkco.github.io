@@ -36,7 +36,7 @@ Materials
   <hr />
   <h2>Lopi Yarn update</h2>
    <a href="https://www.woolandsilkcoshop.com/products/lett-lopi?_pos=1&_sid=d4846adb8&_ss=r&omnisendContactID=601a057e1971975089db7002&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend">
-  <img src="/img/lopi_yarn1.jpg"></a>
+  <img src="/img/lopi_yarn1.jpg"></a> <br />
    <a href="https://www.woolandsilkcoshop.com/products/istex-lopi-alafosslopi?_pos=1&_sid=affe02a5e&_ss=r&omnisendContactID=601a057e1971975089db7002&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend">
   <img src="/img/lopi_yarn2.jpg"></a>
 Some of you have been inquiring about stock in Lopi yarns. We carry Alafoss Lopi and Lett Lopi. Currently there are some production/shipping issues in Iceland with this yarn. Our distributor has zero stock in their wearhouse. There is also no idea of when they might receive some new stock.
