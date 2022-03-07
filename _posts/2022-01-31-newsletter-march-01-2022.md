@@ -40,3 +40,23 @@ Yarns are to be purchased from Wool & Silk Co.
 Please call the store to sign-up
 (519) 925-6194
 <a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r">Colette Kits</a>
+
+ <h2>  <strong>PROJECT IDEA #9 - Carmel Pullover</strong></h2>
+<p><img src="/img/project9.jpg"></a>
+The Carmel pullover is knitted bottom-up & in the round.
+	<br/>
+
+Free pattern by: Berroco Knit Team on Ravelry.  Let the bright colors of Summer Sesame do their thing for this simple and bold yoke. Paired with Modern Cotton DK, this sweater is perfect for warmer weather days. Love the 3/4 sleeves!- <a href="https://www.ravelry.com/patterns/library/carmel-5">https://www.ravelry.com/patterns/library/carmel-5</a>. 
+<br/>
+<b>Level</b> Advanced beginner - Easier intermediate<br/>
+
+	<b>Sizes:</b>  32 to 68"<br/>
+
+	<b>Materials</b><br/>
+- check pattern for quantities of  main colour depending upon size<br/>
+- CC1: 1-2 balls of Summer Sesame<br/>
+- Needles:  3.75mm & 4.5mm varying lengths for neckline, body, sleeves & cuffs<br/>
+- Gauge:  20sts/28 rows = 4in in stocking stitch with 4.5mm needles
+<br/><br/>
+	
+<a href="https://www.woolandsilkcoshop.com/search?q=carmel+pullover">/Carmel Pullover Yarn Choices - Shop Now </a><br /><br />
