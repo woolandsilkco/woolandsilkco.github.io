@@ -41,6 +41,21 @@ Please call the store to sign-up
 (519) 925-6194
 <a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r">Colette Kits</a>
 
+<h2>March Chunky/Bulky, Super Bulky - Super Sale - 20-60% off</h2>
+<img src="/img/march2022sale.jpg">
+
+March is here & so is our Chunky/Bulky sale. 20-60% off on all chunky, bulky & superbulky yarns! <br/>
+Great end of season values. Sale available in-store and online.<br/><br/>
+
+DON'T MISS OUT !!<br/><br/>
+Until Thursday March 31(end of day in-store) & till midnight on our on-line site.
+
+- sale is on yarn only<br/>
+- discount will not apply to items that are already on sale<br/>
+- online discount will apply automatically at checkout<br/>
+
+<a href="https://www.woolandsilkcoshop.com/search?q=chunky">SHOP NOW</a>
+
  <h2>  <strong>PROJECT IDEA #9 - Carmel Pullover</strong></h2>
 <p><img src="/img/project9.jpg"></a>
 The Carmel pullover is knitted bottom-up & in the round.
