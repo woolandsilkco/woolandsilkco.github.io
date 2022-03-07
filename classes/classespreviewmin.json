@@ -1,18 +1,441 @@
-{ 
+{  
    "classes":[  
-          {  
- "title":"Colette Vest KAL",
+             {
+       "title":"KAL - Braid Shawl   by Irene Lin ",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 16 2020",
+               "Jan 23 2020",
+                "Jan 30 2020",
+               "Feb 6 2020",
+                "Feb 13 2020",
+               "Feb 20 2020",
+               "Feb 27 2020",
+                "Mar 6 2020",
+                "Mar 12 2020"
+               ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm"
+         ],
+         "cost":"$80 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/braid-shawl",
+          "image": "http://woolandsilkco.github.io/img/shawl.jpg",
+            "supplies":" Needles:  3.5mm x 80cm circular **Yarn must be picked up & wound in advance** Fee includes pattern 1 class materials: (2)skeins Alpaca Merino Fine (MC) (1)skein of Mid-Knit Cravings or Mad Tosh Light or  Topaz (CC1) ",
+          "description":"An interesting shawl with cable work and a mosaic band. Something new for you to try!"
+              },
+       {
+       "title":"KAL - Gletscher by Susan Haumann ",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 16 2020",
+              "Jan 23 2020",
+               "Jan 30 2020",
+               "Feb 6 2020",
+               "Feb 13 2020",
+               "Feb 20 2020",
+                "Feb 27 2020"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm"
+         ],
+         "cost":"(XS-M) $125.00 (L-XL ) $154.00 (plus $3.50 if you use Silky Kid) ",
+          "link" : "https://www.ravelry.com/patterns/library/gletscher",
+          "image": "http://woolandsilkco.github.io/img/sweater.jpg",
+            "supplies":" Needles:  3.5mm x 40cm circular, 3.5mm x 60cm circular, 3.5mm x 80cm circular, stitch markers **Yarn must be picked up & wound in advance** Fee includes 1 class - materials: 3(4) skeins Mid-Knit Cravings, 1 ball Drops Kid-Silk (or Ella Rae Silky Kid (+$3.50))",
+          "description":"Top down construction with a little pop of colour/texture for interest. It will be one of your go to favourites."
+              },
+       {
+       "title":"The Snuggle Is Real Cowl by Maxim Cyr",
+         "parts":1,
           "dates":[  
+          [
+                "Feb 3 2020",
+                "Feb 24 2020"
+            ],
             [  
-             "Thurs Mar 17 2022",
-             "Thurs Apr 7 2022"
+                 "Jan 18 2020",
+                "Feb 8 2020"
+               ]
+         ],
+          "times":[  
+           "1:00pm - 3:00pm (Mon)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$75 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/the-snuggle-is-real-2",
+          "image": "http://woolandsilkco.github.io/img/cowl.jpg",
+            "supplies":" Needles: 3.5mm x 60cm circular, 4.0mm x 60cm circular, stitch markers. **Yarn must be picked up in advance & wound. You must be able to already knit in the round. Fee Includes: pattern, 2 classes, materials:  (2) colours Vintage DK (1) Drops Sky (lining) ",
+          "description":"This is a big and adjustable cozy cowl with a colourful & soft lining inside and a drawstring closure. Great project for ladies or men. Keep that neck warm!"
+              },
+      {
+       "title":"Eyelet Lace Scarf    by Claire Borchardt",
+         "parts":1,
+          "dates":[  
+          [
+                "Jan 20 2020"
+            ],
+            [  
+                 "Feb 25 2020"
+               ]
+         ],
+          "times":[  
+           "10:00am - 12:00pm (Mon)",
+            "6:30pm - 8:30pm (Tues)"
+         ],
+         "cost":"$65 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/eyelet-lace-scarf-2",
+          "image": "http://woolandsilkco.github.io/img/eyelet_scarf.jpg",
+            "supplies":" Needles: 4.5mm x 60cm (or 80cm) circular stitch markers **Yarn must be picked up in advance & wound. Fee Includes: pattern, class, materials:  (2) skeins Herriot Fine ",
+          "description":"The Eyelet Lace Scarf is a beautiful draping piece that will keep you cozy all winter long. Knit using a 4 row repeat, this one will have you cruising to the finish line in no time."
+              },
+       {
+       "title":"Muti Baby Dress  by Taiga Hilliard Designs",
+         "parts":1,
+          "dates":[  
+          [
+                "Jan 23 2020",
+                "Jan 30 2020"
+            ],
+            [  
+                 "Feb 15 2020",
+                "Feb 22 2020"
+               ]
+         ],
+          "times":[  
+           "10:00am - 12:00pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"Small sizes: $61.25,Large sizes: $67.55 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/muti-dress",
+          "image": "http://woolandsilkco.github.io/img/baby_dress.jpg",
+            "supplies":" Needles: 3.5mm x 40cm, 3.5mm x 60cm,  stitch markers Fee Includes: classes, materials:  2(3) balls Sirdar Snuggly 4-ply ",
+          "description":"You have most likely seen this dress knitted up as a sample in the shop. It has been done many times and is always a favourite. Muti is a sweet dress with a full ball gown skirt and a nice wide head opening at the neck.  As the baby grows, this will go from a dress to a tunic. Top down design with a pretty lace pattern on the yoke and skirt. The yoke and the hem are charted and written out."
+              },
+      {
+       "title":"Mitred Square technique",
+         "parts":1,
+          "dates":[  
+          [
+                "Jan 25 2020"
+            ],
+            [  
+                 "Feb 10 2020"
+               ]
+         ],
+          "times":[  
+           "10:00am - 12:00pm (Sat)",
+            "1:00pm - 3:00pm (Mon)"
+         ],
+         "cost":"$20 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/mitered-corner-blanket",
+          "image": "http://woolandsilkco.github.io/img/mitred_square_new.jpg",
+            "supplies":" Needles: needles:  5.0mm x 80cm circular, worsted weight yarn Fee Includes: class, blanket pattern ",
+          "description":"Have you always been intrigued by the look of the mitred square? It is easier than you think. Learn the technique in this class and then apply it to a larger project of your own. Pillow covers, lap blanket, throw or full on afghan.  Can be adapted to any yarn."
+              },
+       {
+       "title":"KAL - Gardengate by Jennifer Steingass",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 27 2020",
+              "Feb 3 2020",
+                "Feb 10 2020",
+               "Feb 24 2020",
+                "Mar 2 2020",
+               "Mar 9 2020",
+               "Mar 16 2020",
+                "Mar 23 2020"
+               ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm"
+         ],
+         "cost":"(S-L) $92.00, (XL + ) $105.00",
+          "image": "http://woolandsilkco.github.io/img/gardengate.jpg",
+            "supplies":" Needles: 3.25mm x 40cm & 80cm circular & DPN's or 30cm circ, 3.75mm x 80cm circular & DPN's or 30cm circ, 4.0mm   x 80cm circular & DPN's or 30cm circ - stitch markers. **Yarn must be picked up in advance & wound** Fee includes pattern, 1 class - materials:  3(4) skeins Alpaca Merino Fine MC,  1 ball Millefiori Lt  CC1",
+          "description":"Gardengate is inspired the beautiful wrought iron gates surrounding gardens in Scotland. This lightweight sweater is knit up in fingering weight yarn for a versatile garment with a flexible and easy to wear fabric. Choose your preference of short or long sleeves. Starting at the neckline, Gardengate is worked seamlessly and in the round from the top down. Short rows are added to shape the neckline and the stranded yoke is worked. The sleeves and body are separated and worked top to bottom."
+              },
+       {
+       "title":"Story Hill Hat",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 27 2020"
+              ]
+            ],
+             "times":[  
+           "1:00pm - 3:00pm (Mon)"
+         ],
+         "cost":"$58 + HST",
+          "link" : "https://www.ravelry.com/patterns/library/story-hill",
+          "image": "http://woolandsilkco.github.io/img/storyhill_hat.jpg",
+            "supplies":" Needles: 3.75mm & 4.5mm  x 40cm circulars, 4.5mm DPN's, Homework:  brim is to be knitted in advance of class **Yarn must be picked up in advance & wound** Fee includes pattern, class, (2) different coloured skeins Ultra Alpaca",
+          "description":"Simple stripes and a clever slipped stitch motif come together to create a stunning hat that will keep you cozy and stylish all winter long."
+              },
+       {
+       "title":"KAL - Almina Shawl   by Lisa Hannes",
+         "parts":1,
+         "dates":[  
+           [  
+                "Jan 30 2020",
+                "Feb 6 2020",
+                "Feb 13 2020",
+               "Feb 20 2020",
+               "Feb 27 2020",
+               "Mar 5 2020",
+               "Mar 12 2020"
+                ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm"
+         ],
+         "cost":"$88 + HST",
+          "link" : "https://www.ravelry.com/patterns/library/almina",
+          "image": "http://woolandsilkco.github.io/img/almina_shawl.jpg",
+            "supplies":" Needles: 5.5mm x 80cm circular **Yarn must be picked up in advance & wound** Fee includes pattern, 1 class, materials: (4)skeins Juniper Moon Santa Cruz",
+          "description":"A beautiful cable motif decorates the body and transitions into a wide ribbed border on this elegant and eye-catching triangular shawl. Worked sideways from one tip to the opposite edge makes it fun to knit and easy to wear. This pattern is an engaging knit with a beautiful result. The finished shawl will soon become a favourite cosy item in your daily winter wardrobe. It provides fully written row-by-row as well as charted instructions so you can choose which you prefer to work from."
+              },
+       {
+       "title":"2 at a Time Toe-Up Socks",
+         "parts":1,
+        "dates":[  
+          [
+                "Feb 4 2020",
+                "Feb 11 2020",
+             "Feb 18 2020"
+            ],
+            [  
+                 "Feb 7 2020",
+                "Feb 14 2020",
+               "Feb 21 2020"
+               ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm (Tues)",
+            "10:00am - 12:00pm (Fri)"
+         ],
+         "cost":"$82 + HST",
+            "supplies":" Needles: 2.5mm x 80cm circular markers ** It helps if you already know how to knit a sock to understand the construction** **Yarn must be picked up in advance & wound** Fee includes pattern, 3 classes materials: (1)cake of Gedifra Lana Mia One-4-Two speckle",
+          "description":"Back by popular demand! The uniqueness of being able to knit 2 socks at the same time. Learn the special cast-on and work your sock from the toe to the cuff. Many people that have taken this class in the past will only do 2 at a time now. Discover the reason."
+              },
+       {
+       "title":"Pitch  by Susan Mills Knits ",
+         "parts":1,
+          "dates":[  
+          [
+                "Feb 6 2020",
+             "Feb 20 2020"
+             ]
+           ],
+          "times":[  
+           "10:00am - 12:00pm (Thurs)"
+         ],
+         "cost":"Noro Kiri $130.00, Noro Kumo $110.00 HST (small sizes may only require 2 skeins - we will adjust price accordingly)",
+             "link" : "https://www.ravelry.com/patterns/library/almina",
+          "image": "http://woolandsilkco.github.io/img/pitch.jpg",
+         "supplies":" Needles:  4.5mm x 80cm circular, stitch markers *Yarn must be picked up & wound in advance** Fee Includes: pattern, 2 classes, materials: (3) skeins of Noro Kiri or Kumo  (only wind the first 2)",
+          "description": "Many customers have commented on this vest. I am frequently wearing it in the store. Easy top down knitting in a lovely yarn.  It keeps your body warm and leaves your arms free to work............or knit!"
+              },
+       {
+       "title":"KAL - Ocean Breeze Wrap by Anna Maria T",
+         "parts":1,
+         "dates":[  
+           [  
+                "Feb 28 2020",
+                 "Mar 6 2020",
+                "Mar 13 2020",
+                "Mar 20 2020",
+                "Mar 27 2020",
+                "Apr 3 2020"
+                ]
+         ],
+         "times":[  
+           "10:00am - 12:00pm"
+         ],
+         "cost":"$57 + HST",
+          "link" : "https://www.ravelry.com/patterns/library/ocean-breeze-wrap-2",
+          "image": "http://woolandsilkco.github.io/img/ocean_wrap.jpg",
+            "supplies":" Needles: 4.5mm x 80cm circular Fee includes pattern, 1 class, materials: (2)cakes Luci yarn - 1 each of 2 colours",
+          "description":"The color changes in the yarn and simple eyelets create the look of waves created by an ocean breeze. You’ll want to keep this on your shoulders all year long. And you can't help but love the Luci yarn."
+              },
+       {
+       "title":"KAL - Barnstaple Vest by Sandi Rosner ",
+         "parts":1,
+         "dates":[  
+           [  
+                "Mar 2 2020",
+            "Mar 9 2020",
+               "Mar 16 2020",
+            "Mar 23 2020",
+                "Mar 30 2020",
+              "Apr 6 2020",
+                "Apr 13 2020",
+               "Apr 20 2020"
             ]
          ],
          "times":[  
-            "1pm - 3pm",
+           "1:00pm - 3:00pm"
          ],
-           "cost":"Free with Yarn Purchase",
-         "description":"You may have seen the Colette vest featured in our newsletters before. Now we are going to knit it as a group. Two sessions will help to get everyone started and then keep them on track to finish. Join in if you already have the yarns or click below to take you to the kit combinations. Yarns can be purchased in-store or online."
-    }
+         "cost":"Rustic Aran(XS-L) $90.00 (XL +) $105.00, Santa Cruz(XS-L) $94.00 (XL +)$110.00",
+          "link" : "https://www.ravelry.com/patterns/library/barnstaple-vest",
+          "image": "http://woolandsilkco.github.io/img/vest.jpg",
+            "supplies":" Needles:  4.5mm x 80cm circular & poss 40cm/30cm or DPN's for sleeve openings, 5.0mm x 80cm circular  **Yarn must be picked up in advance & wound** Fee includes pattern, 1 class, materials: 4(5) skeins of Rustic Aran or Santa Cruz (see costs above)",
+          "description":"Suitable for men or women, this button-front vest will add timeless warmth to your everyday shirt and jeans. The simple, elegant textures produced by knit/purl combinations have inspired knitters for generations. This vest uses three such textures in horizontal bands to make a classic layering piece that will be welcome in any wardrobe. The Barnstaple Vest is knit in one piece from the bottom up. All edges are trimmed with ribbing. Instructions are included for both right-over-left (traditional for women) and left-over-right (traditional for men) buttoning. Stitch patterns are written and charted."            },
+      {
+       "title":"KAL - Bronte Sister Shawl  by Lindsey Fowler",
+         "parts":1,
+         "dates":[  
+           [  
+                "Mar 3 2020",
+              "Mar 10 2020",
+              "Mar 17 2020",
+              "Mar 24 2020",
+               "Mar 31 2020",
+              "Apr 7 2020",
+              "Apr 14 2020"
+              ]
+         ],
+         "times":[  
+           "6:30pm - 8:30pm"
+         ],
+         "cost":"$117 + HST",
+          "link" : "https://www.ravelry.com/patterns/library/bronte-sister-shawl",
+          "image": "http://woolandsilkco.github.io/img/sister_shawl.jpg",
+            "supplies":" Needles: 3.5mm x 80cm circular  **Yarn must be picked up in wound in advance ** Fee includes pattern, 1 class, materials: (3) skeins of MidKnit Cravings",
+          "description":"This shawl is the second in a series of shawls inspired by literary sisters (fictional and otherwise). The shawl ties together motifs of Gothic houses, quatrefoils and rows of books. Its finished with dramatic poms and tassels and a variety of options is included to help make the shawl uniquely you."
+              },
+      {
+       "title":"KAL - Chocolate Stout by Thea Coleman",
+         "parts":1,
+         "dates":[  
+           [  
+                "Mar 5 2020",
+              "Mar 12 2020",
+              "Mar 19 2020",
+              "Mar 26 2020",
+              "Apr 2 2020",
+              "Apr 9 2020",
+              "Apr 16 2020",
+              "Apr 23 2020"
+               ]
+         ],
+         "times":[  
+           "1:00pm - 3:00pm (Thurs)"
+         ],
+         "cost":"$155 + HST",
+          "link" : "https://www.ravelry.com/patterns/library/chocolate-stout",
+          "image": "http://woolandsilkco.github.io/img/stout.jpg",
+            "supplies":" Needles: 4.5mm x 80cm circular cable needle, stitch markers. **Yarn must be chosen well in advance as is to be ordered for this project**Fee includes pattern, 2 classes, materials: (8) balls of 7 Brothers by Novita (sizes over XL may require 9-10 balls - cost will be additional)",
+          "description":"Oh Thea Coleman what don't we love about this pattern! Chocolate Stout is big and comfy, with distinct allover texture in a cable pattern that’s easily memorized and fun to knit. It features a deep ribbing with worked-in pockets that add to the vintage feel of the sweater. A cozy collar and wide button band keep things bold and comfy. Waist shaping and a flattering modified drop shoulder have been added to the silhouette for a nice fit. And sleeve shaping is worked in an unexpected rib detail under each arm, just for fun. The sweater is worked from the bottom up to the armholes seamlessly. Pockets are added as you work upwards. At armholes, the body is divided into 3 pieces and worked to shoulder. Arms are worked separately and seamed in, and the collar is worked last. Cables are both charted and written"
+              },
+        {
+       "title":"Darling Ribbed Ankle socks  by Ashley Darling",
+         "parts":1,
+          "dates":[  
+          [
+                "Mar 30 2020",
+                "Apr 20 2020"
+            ],
+            [  
+                 "Apr 7 2020",
+                "Apr 21 2020"
+               ]
+         ],
+          "times":[  
+           "10:00am - 12:00pm (Mon)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$60 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/darling-ribbed-ankle-socks",
+          "image": "http://woolandsilkco.github.io/img/ankle_socks.jpg",
+            "supplies":" Needles: 2.5mm DPN's stitch markers **Yarn must be picked up in advance** **Ribbing at ankle is to be completed prior to class** **You must be already able to knit in the round with DPN's**Fee Includes: pattern, 2 classes, materials: (1) cake of Lana Mia Cotone ",
+          "description":"A great Spring/Summer sock to knit out of a cotton blend yarn. If you have never done a sock before this is also a good one for you."
+              },
+       {
+       "title":"Baby Surprise Jacket by Elizabeth Zimmerman",
+         "parts":1,
+          "dates":[  
+          [
+                "Mar 14 2020",
+                "Mar 28 2020"
+               ]
+         ],
+          "times":[  
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"  Crofter or Rascal $64.00 + HST, Drifter $68.00 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/baby-surprise-jacket",
+          "image": "http://woolandsilkco.github.io/img/baby_jacket.jpg",
+            "supplies":" Needles: 4.0mm x 80 circular stitch markers. Fee Includes: 2 classes, materials: (2) balls Baby crofter or Rascal OR  (2) balls Drifter dk ",
+          "description":"Back by popular demand!  Elizabeth Zimmerman's iconic baby sweater. Knitted in one flat piece, then folded & seamed. So interesting to knit."
+              },
+      {
+       "title":"Wend Tee  by Elizabeth Elliott ",
+         "parts":1,
+          "dates":[  
+          [
+                "Mar 19 2020",
+             "Mar 26 2020",
+             "Apr 2 2020",
+             "Apr 9 2020"
+            ],
+            [  
+               "Apr 4 2020",
+             "Apr 11 2020",
+             "Apr 18 2020",
+             "Apr 25 2020"
+               ]
+         ],
+          "times":[  
+           "6:30pm - 8:30pm (Thurs)",
+            "10:00am - 12:00pm (Sat)"
+         ],
+         "cost":"$114 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/wend",
+          "image": "http://woolandsilkco.github.io/img/wend_tee.jpg",
+            "supplies":" Needles: 3.75mm x 60cm circular & DPN's, 4.0mm x 60cm & 80cm circulars. **Yarn must be picked up in advance & wound** Fee Includes: pattern, 1 class materials: (6) skeins of Nuna   (4 MC, 1 of CC1, 1 of CC2) (if XL or over or extra length will need an additional skein +$13.95 each)",
+          "description":"Wend is worked flat in four pieces, so there’s no worry about trying to match up stripes at the neck. This top features exposed seams, slight A-line shaping, integrated cap sleeves, and a flattering sweetheart neckline. To make Wend, you will need to know how to knit, purl, and seam. The pattern includes an illustrated tutorial for the German Short Rows used in the sleeve and shoulder shaping, and directions for the M1 and twisted yarn over increases used in the pattern are included in the Abbreviations section. Pattern instructions are written only."
+              },
+       {
+       "title":"Summerline by Hinterm Stein  ",
+         "parts":1,
+          "dates":[  
+          [
+               "Apr 6 2020",
+             "Apr 13 2020"
+               ]
+         ],
+          "times":[  
+            "10:00am - 12:00pm (Mon)"
+         ],
+         "cost":"$115 + HST ",
+          "link" : "https://www.ravelry.com/patterns/library/summerline",
+          "image": "http://woolandsilkco.github.io/img/summerline.jpg",
+            "supplies":" Needles: 4.0mm x 80 circular  stitch markers **Yarn must be picked up in advance & wound** Fee Includes: 2 classes, materials: (3) skeins Mirasol Kancha",
+          "description":"Welcome summer with a flattering Tee - quick to knit and comfortable to wear.  The classic V-neck and modern shape with dropped shoulders will make it a favourite outfit for all summer. Summerline is worked seamlessly from the top down with a simple pattern that does not require too much attention. The edgings for the V-neck and armholes are worked as you go to avoid annoying finishing work. The uncommon construction requires a few short rows, but after this section you can relax again. Choose from 3 shaping options to create the perfectly fitting top for you!"
+              },
+       {
+       "title":"Colette Vest KAL  ",
+         "parts":1,
+          "dates":[  
+          [
+               "Mar 17 2022",
+             "Apr 7 2022"
+               ]
+         ],
+          "times":[  
+            "1:00pm - 3:00pm (Thurs)"
+         ],
+            "cost":"Free ",
+           "link" : "https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r",
+          "image": "http://woolandsilkco.github.io/img/mar2022news3.jpg",
+            "supplies":" Yarns are to be purchased from Wool & Silk Co.",
+          "description":"You may have seen the Colette vest featured in our newsletters before. Now we are going to knit it as a group. Two sessions will help to get everyone started and then keep them on track to finish. Join in if you already have the yarns or click below to take you to the kit combinations. Yarns can be purchased in-store or online."
+              }
+      
     ]
 }
