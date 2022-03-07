@@ -457,85 +457,20 @@
          "supplies":"PLEASE CALL TO RESERVE A TIME SLOT"
     },
       {  
-         "title":"Knit-A-Long Class: I'll Pack A Cowl for Rhinebeck  (2 classes)",
-         "parts":1,
-         "dates":[  
-            [  
-                "Nov 13 2017",
-                "Dec 4 2017"
-            ],
-            [  
-                "Nov 15 2017",
-                "Dec 6 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm",
-            "6pm - 8:30pm"
-         ],
-         "cost":"Free with Yarn Purchase",
-         "description":"Let’s have some fun with this cowl, and do some colourwork. It will be as soft and cushy as the sheep that are on it.",
-         "note":null,
-       "supplies":"Materials needed -Berroco Vintage: 1 skein main colour, 1 skein contrast colour, 50 yards of white, and 25 yards of black, 4.5mm x 60cm circular needle",
-         "prerequisites":"You will need to know how to do two handed fair isle to make this cowl. We are offering a Technique Class to teach this on November 9, 2:00-3:00pm or 6:00-7:00pm, cost is $2."
-      },
-      {  
-         "title":"Knit-A-Long Class: Evelyn Howard Shaw (2 classes)",
-         "parts":1,
-         "dates":[  
-            [  
-                "Nov 20 2017",
-                "Dec 11 2017"
-            ],
-            [  
-                "Nov 22 2017",
-                "Dec 13 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm",
-            "6:30pm - 8:30pm"
-         ],
-         "cost":"Free with Yarn Purchase",
-         "description":"Want to make a shawl where gauge doesn’t matter, even the size of the yarn and needles don’t matter, let's go wild and create something beautiful!",
-         "note":null,
-       "supplies":"Materials needed -Lace-1 skein, 3.5mm x 60cm, Fingering-1 skein, 4mm x 60cm, Sport/DK-2 skins, 4.5mm x 80cm, Worsted-2 skeins, 5.5m x 80cm, Aran/Chunky-6mm x 80cm."
-        },
-      {  
-         "title":"Knit-A-Long Class: Project Help",
-         "parts":1,
-         "dates":[  
-            [  
-                "Dec 18 2017"
-            ],
-            [  
-                "Dec 20 2017"
-            ]
-         ],
-         "times":[  
-            "1pm - 3pm",
-            "6:30pm - 8:30pm"
-         ],
-         "cost":"Free with Yarn Purchase",
-         "description":"Need some help with your project?  Come in and we can help you out!",
-         "note":null
-      },
-      {  
  "title":"Colette Vest KAL",
          "dates":[  
             [  
-                "Mar 7 2022"
+                "Thurs Mar 7 2022"
             ],
             [  
-                "Aor 7 2022"
+                "Thurs Aor 7 2022"
             ]
          ],
          "times":[  
             "1pm - 3pm"
          ],
            "cost":"Free with Yarn Purchase",
-         "description":"Need some help with your project?  Come in and we can help you out!",
-         "note":null
+         "description":"You may have seen the Colette vest featured in our newsletters before. Now we are going to knit it as a group. Two sessions will help to get everyone started and then keep them on track to finish. Join in if you already have the yarns or click below to take you to the kit combinations. Yarns can be purchased in-store or online."
       }
     ]
 }
