@@ -57,7 +57,7 @@ Until Thursday March 31(end of day in-store) & till midnight on our on-line site
 <a href="https://www.woolandsilkcoshop.com/search?q=chunky">SHOP NOW</a>
 
  <h2>  <strong>PROJECT IDEA #9 - Carmel Pullover</strong></h2>
-<p><img src="/img/project9.jpg"></a>
+<p><img src="/img/project9.jpg">
 The Carmel pullover is knitted bottom-up & in the round.
 	<br/>
 
@@ -74,4 +74,4 @@ Free pattern by: Berroco Knit Team on Ravelry.  Let the bright colors of Summer 
 - Gauge:  20sts/28 rows = 4in in stocking stitch with 4.5mm needles
 <br/><br/>
 	
-<a href="https://www.woolandsilkcoshop.com/search?q=carmel+pullover">/Carmel Pullover Yarn Choices - Shop Now </a><br /><br />
+<a href="https://www.woolandsilkcoshop.com/search?q=carmel+pullover">Carmel Pullover Yarn Choices - Shop Now </a>
