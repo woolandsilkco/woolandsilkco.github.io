@@ -26,7 +26,7 @@ KAL's are free<br />
 Yarns are to be purchased from Wool & Silk Co.<br />
 Please call the store to sign-up<br />
 (519) 925-6194<br />
-<img src="/img/collette_vest.jpg">
+<img src="/img/colette_vest.jpg">
 <a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Colette Kits - SHOP NOW</a>
 <hr />
 <h2>March Chunky/Bulky, Super Bulky Super Sale - 20-60% off</h2>
