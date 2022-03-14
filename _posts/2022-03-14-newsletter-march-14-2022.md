@@ -75,7 +75,27 @@ Decorated with an easy-to-work slip stitch pattern, this cardigan will have you 
 
 We are thinking of our new Alpaca Soxx 4-ply for this project. Fingering weight, 70% alpaca, and oh so soft and squishy. You can make socks out of it but why would you?
 <a href="https://www.woolandsilkcoshop.com/products/alpaca-soxx-cashmere-4-ply?_pos=1&_sid=eb213dbcc&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Shop Dame de Fer - Yarn choices</a><br />
+<h2>Fix-It Fridays!</h2>
+Do you have a project that has you stumped? Or a pattern that's just a pain? We can help you with that. The third Friday of each month will be designated as Fix-It Friday. Bring your project and let's get it sorted out.<br />
+Format is drop-in, no appointment required<br />
+Please remember that it is important to bring all aspects of your project. Yarn (with the ball band if possible), pattern, needles you are using and any other information that you may think is pertinent.<br />
+Note: this is not a Sit & Knit or a class. It is for a short session of help with a specific problem.<br />
+If you have something extensive to work out then you may want to book private session time with an instructor (rate is $20/hr)<br />
+ <hr />
 
+<h2>Sit & Knit Hours:</h2>
+Wed's  1pm-3pm<br />
+Sat's    12pm-2pm<br /><br />
+ <img src="/img/sit_knit.jpg"><br />
+Numbers are not limited but masks are required until further notice. (photo was taken pre-pandemic)<br />
+Please join us for some knitting fun & laughter. First date will be Wed Feb 9th. Attendance is free.<br />
+You may bring your own drinks, munchies or treats as you like. We are no longer serving coffee/tea.<br />
+ 
+<hr />
+<h2>Knit & Nosh</h2>
+         <img src="/img/knit_nosh.jpg"><br />                     
+It was lovely to see everyone out last Wednesday night at the Tipsy Fox on Main Street in Shelburne. Good food, good company, & good conversation (read laughs). We are hoping to continue this as a monthly event. The first Wednesday of each month. I will be putting it into an email as a reminder as the venue may change from time to time.
+Can't wait to see you there!
 
 
 
