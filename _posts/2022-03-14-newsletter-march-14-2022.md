@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'March 2022 News'
+title: 'Mid March 2022 News'
 ---
 
 - Colette KAL - starts March 17
