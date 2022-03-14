@@ -18,7 +18,7 @@ title: 'Mid March 2022 News'
 Maybe Spring Again!
 <hr />
 <h2>Colette Vest KAL - Starts this Week!<br />
-Thursday March 17th & April 7th, 1-3pm</h1>
+Thursday March 17th & April 7th, 1-3pm</h2>
 
 You may have seen the Colette vest featured in our newsletters before. Now we are going to knit it as a group. Two sessions will help to get everyone started and then keep them on track to finish. Join in if you already have the yarns or click below to take you to the kit combinations. Yarns can be purchased in-store or online.<br /><br />
 
@@ -62,7 +62,7 @@ Materials<br />
    crochet hook, waste yarn & stitch markers<br />
 - Gauge:  20sts/32 rows = 4in
    in lace pattern<br />
-<a href=:https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=fingering&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Shop Fingering Weight Yarns</a><br />
+<a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=fingering&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Shop Fingering Weight Yarns</a><br />
 <hr />
 <h2>Project Idea #10 Spring series - Dame De Fer - a beautiful lightweight cardigan. Exactly the right thing for spring.</h2>
  <img src="/img/dam_de_fer.jpg"><br />
@@ -96,6 +96,3 @@ You may bring your own drinks, munchies or treats as you like. We are no longer 
          <img src="/img/knit_nosh.jpg"><br />                     
 It was lovely to see everyone out last Wednesday night at the Tipsy Fox on Main Street in Shelburne. Good food, good company, & good conversation (read laughs). We are hoping to continue this as a monthly event. The first Wednesday of each month. I will be putting it into an email as a reminder as the venue may change from time to time.
 Can't wait to see you there!
-
-
-
