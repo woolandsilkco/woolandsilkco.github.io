@@ -65,7 +65,7 @@ Materials<br />
 <a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=fingering&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Shop Fingering Weight Yarns</a><br />
 <hr />
 <h2>Project Idea #10 Spring series - Dame De Fer - a beautiful lightweight cardigan. Exactly the right thing for spring.</h2>
- <img src="/img/dam_de_fer.jpg"><br />
+ <img src="/img/damde_fer.jpg"><br />
 Dam De Fer<br />
 By: Marie Amelie DesignsDam De Fer<br /><br />
 
