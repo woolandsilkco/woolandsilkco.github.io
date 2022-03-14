@@ -93,6 +93,6 @@ You may bring your own drinks, munchies or treats as you like. We are no longer 
  
 <hr />
 <h2>Knit & Nosh</h2>
-         <img src="/img/knit_nosh.jpg"><br />                     
+<img src="/img/knit_nosh.jpg"><br />                     
 It was lovely to see everyone out last Wednesday night at the Tipsy Fox on Main Street in Shelburne. Good food, good company, & good conversation (read laughs). We are hoping to continue this as a monthly event. The first Wednesday of each month. I will be putting it into an email as a reminder as the venue may change from time to time.
 Can't wait to see you there!
