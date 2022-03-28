@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'KALs, Top Down DK Sock Class'
+title: 'March 2022 News #3'
 ---
 
 - Hitofude KAL
