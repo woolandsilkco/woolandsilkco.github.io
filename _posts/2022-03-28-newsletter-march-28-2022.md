@@ -57,5 +57,15 @@ Please call the store to sign-up<br>
 (519) 925-6194<br>
 <a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">Shop COLETTE KITS Here</a><br>
 <hr />
+<h2>March Chunky/Bulky, Super Bulky - Super Sale It's Almost over! ONLY 4 DAYS LEFT</h2>
+ Super Sale - 20-60% off<br>
+Great Buys to be Had !<br>
+<img src="/img/chunky_bulky2.jpg"><
+Our Chunky/Bulky sale Is ending very soon. 20-60% off on all chunky, bulky & superbulky yarns! Fabulous values. Sale available in-store and online.
+DON'T MISS OUT !!<br>
+Just 4 more days. Ends Thursday March 31(end of day in-store) & till midnight on our on-line site. Yarn only. Discount will not apply to items that are already on sale. Online discount will apply automatically at checkout.<br><br>
+<a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=chunky&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">Shop Now - Chunky, Bulky & Super Bulky Yarns</a>
+  <hr />
+
 
 
