@@ -49,13 +49,13 @@ NOTE:  a large order of Mid-Knit Cravings Light Sock has just come into the shop
 <a href="https://nzcr.omnicamp1.com/link/62405fd096100b0020cb4b86/623e116f7884b6002047a1cf/62262718c3dbed0021bd8bca?signature=11ea1c7a0a5b8645d43ee3ef791f796bce9f6cf058a649c258c12a579f8b68ee">Shop Frank Shawl Kits Here</a>
 <hr />
 <h2>Colette Vest KAL - continues Thursday March 17th(start) & April 7th, 1-3pm</h2>
-<img src="/img/colette_vest.jpg">
+<a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend"><img src="/img/colette_vest.jpg"></a>
 The KAL has already begun but you are welcome to join in. Yarns can be purchased in-store or online.<br>
 KAL's are free<br>
 Yarns are to be purchased from Wool & Silk Co.<br>
 Please call the store to sign-up<br>
 (519) 925-6194<br>
-Shop COLETTE KITS Here<br>
+<a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">Shop COLETTE KITS Here</a><br>
 <hr />
 
 
