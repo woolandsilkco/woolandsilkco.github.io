@@ -5,17 +5,12 @@ published: true
 title: 'March 2022 News #3'
 ---
 
-- Hitofude KAL
-(started March 24)
-- Frank Shawl KAL
-(starts March 31)
-- Top Down DK sock Class
-(starts April 5)
-- Chunky Bulky Sale
-(it's almost over!!)
+- Hitofude KAL (started March 24)
+- Frank Shawl KAL (starts March 31)
+- Top Down DK sock Class (starts April 5)
+- Chunky Bulky Sale (it's almost over!!)
 - Top Down DK Sock Class
-- Project Idea 10
-(it's in the works)
+- Project Idea 10 (it's in the works)
 - Mask Options
 
 <img src="/img/daffodils.jpg">
