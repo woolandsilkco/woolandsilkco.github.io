@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'KAL's, Top Down DK Sock Class'
+title: 'KALs, Top Down DK Sock Class'
 ---
 
 - Hitofude KAL
