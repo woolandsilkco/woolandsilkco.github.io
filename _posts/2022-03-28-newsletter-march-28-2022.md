@@ -31,7 +31,7 @@ A lace cardigan that is easier to knit than you might think!  Call the store to 
 <hr />
 <h2>Frank Shawl - KAL - March 31, April 14, 28, May 12</h2>
 by: Joji Locatelli<br>
-<img src="/img/frank_shawljpg">
+<img src="/img/frank_shawl.jpg">
 A very easy and stunning shawl, inspired by the work of artist Frank Stella, this design is a study in geometry.<br>
 Triangular pieces are assembled together to create a spectacular wrap with a unique shape that is both beautiful and stunning to wear, with many tips, all in different shades.<br>
 I played with a gradient of grays, and my favorite color, gold, to give this shawl a vintage vibe.<br>
