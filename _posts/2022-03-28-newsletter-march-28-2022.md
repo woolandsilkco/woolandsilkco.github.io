@@ -60,12 +60,22 @@ Please call the store to sign-up<br>
 <h2>March Chunky/Bulky, Super Bulky - Super Sale It's Almost over! ONLY 4 DAYS LEFT</h2>
  Super Sale - 20-60% off<br>
 Great Buys to be Had !<br>
-<img src="/img/chunky_bulky2.jpg"><
+<img src="/img/chunky_bulky2.jpg">
 Our Chunky/Bulky sale Is ending very soon. 20-60% off on all chunky, bulky & superbulky yarns! Fabulous values. Sale available in-store and online.
 DON'T MISS OUT !!<br>
 Just 4 more days. Ends Thursday March 31(end of day in-store) & till midnight on our on-line site. Yarn only. Discount will not apply to items that are already on sale. Online discount will apply automatically at checkout.<br><br>
 <a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=chunky&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">Shop Now - Chunky, Bulky & Super Bulky Yarns</a>
   <hr />
-
+<h2>Top Down DK Sock Class - April 5, 12, 19 & 26 (Tuesdays 1-3pm)</h2>
+Pattern: DK Weight Vanilla Socks    by:  Crazy Sock Lady Designs<br>
+<img src="/img/dk_socks.jpg">
+A start to finish class to teach you how to knit your first sock. Or as a refresher class for those of you who may not have knitted a sock in a long long time. Divided into 4 parts we will help you to understand sock construction and how to do the mystifying "turning the heel".<br>
+Cost:  $75.00  (includes pattern, yarn and instruction time)<br><br>
+Additional items:  You will need to purchase 3.25mm needles<br>
+Please call the store to sign up <br>   
+519-925-6194<br>
+NOTE:   You will need to come in to the store to choose your yarn prior to your class so that it may be wound and ready for you.<br>
+<a href="https://www.woolandsilkcoshop.com/products/vintage-dk?omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">BROWSE COLOURS OF VINTAGE DK YARN HERE</a>
+<hr />
 
 
