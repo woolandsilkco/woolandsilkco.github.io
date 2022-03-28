@@ -29,3 +29,21 @@ A lace cardigan that is easier to knit than you might think!  Call the store to 
 
 <a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=fingering&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">View Fingering Weight Yarns here</a>
 <hr />
+<h2>Frank Shawl - KAL - March 31, April 14, 28, May 12</h2>
+by: Joji Locatelli<br>
+<img src="/img/frank_shawljpg">
+A very easy and stunning shawl, inspired by the work of artist Frank Stella, this design is a study in geometry.<br>
+Triangular pieces are assembled together to create a spectacular wrap with a unique shape that is both beautiful and stunning to wear, with many tips, all in different shades.<br>
+I played with a gradient of grays, and my favorite color, gold, to give this shawl a vintage vibe.<br>
+The Frank Shawl is constructed as 3 triangular sections, joined together when working the last one of them.<br>
+Skill level: Beginner<br><br>
+FINISHED MEASUREMENTS<br>
+97” (244 cm) from side to side and 39” (98 cm) from top to bottom at deepest point.<br>
+See Schematic at the end of the pattern.<br><br>
+Yarn:<br>
+Takes (4) skeins of fingering weight yarn<br>
+There are currently several colour combinations available as kits on our online site. We are always happy to help you combine colours, in-store as well.<br><br>
+
+NOTE:  a large order of Mid-Knit Cravings Light Sock has just come into the shop. Lots of colour choices to be had.<br><br>
+
+<a href="https://nzcr.omnicamp1.com/link/62405fd096100b0020cb4b86/623e116f7884b6002047a1cf/62262718c3dbed0021bd8bca?signature=11ea1c7a0a5b8645d43ee3ef791f796bce9f6cf058a649c258c12a579f8b68ee">Shop Frank Shawl Kits Here</a>
