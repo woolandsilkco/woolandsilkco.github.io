@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'March 2022 News #3'
+title: 'Mid March 2022 News #3'
 ---
 
 - Hitofude KAL - started March 24
