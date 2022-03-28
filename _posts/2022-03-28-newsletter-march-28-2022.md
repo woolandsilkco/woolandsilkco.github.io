@@ -84,6 +84,6 @@ By:Marie Amelie Designs<br>
 Yarn:  Lang Alpaca Soxx 4-ply<br><br>
 
 Okay. Okay. I couldn't hep myself!!  Started this beautiful lightweight cardigan a few days ago. The textured design is super easy but so effective. I can't even tell you how much I love this yarn. Sock yarn you say? Yup. And it is so very very soft. A joy to work with on the needles. I think I am in Love. Think Spring in Paris.
-<a href="https://www.woolandsilkcoshop.com/products/alpaca-soxx-cashmere-4-ply?_pos=1&_sid=cd5001db7&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">ALPACA SOXX here</a>
+<a href="https://www.woolandsilkcoshop.com/products/alpaca-soxx-cashmere-4-ply?_pos=1&_sid=cd5001db7&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Top+Down+DK+Sock+Class+%28623dfd7405f244001ea0f10d%29&utm_medium=email&utm_source=omnisend">SHOP ALPACA SOXX here</a>
 <hr />
 
