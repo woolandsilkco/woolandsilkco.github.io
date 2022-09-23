@@ -222,12 +222,13 @@
 
     .flexnav li.shop
     {
-        background: #69090a;
+     background: #ef1dc0;
+
     }
 
     .flexnav li.shop a
     {
-        color: #feffbd;
+        color: #ffff33;
         opacity: 0.9;
         font-weight: bold;
     }
