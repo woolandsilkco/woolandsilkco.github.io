@@ -62,5 +62,5 @@ $29.95<br />
 <a href="https://www.woolandsilkcoshop.com/products/work-sock-sock-kits"><img src="/img/work_socks.jpg"></a><br />
 4. Work Sock Socks pattern is an in-house pattern. We have added our own twist for a work sock look. If you have made the mitts & the hat then you need to do the socks to complete the set! Or make a pair for some one you think needs toastie toes. They will work up quickly and be a great gift. (pattern included)<br /><br />
 
-$22.50
+$22.50 <br />
 <a href="https://www.woolandsilkcoshop.com/products/work-sock-sock-kits"><img src="/img/button_work_socks.jpg"></a><br />
