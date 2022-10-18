@@ -51,9 +51,8 @@ $44.95 <br />
 2. Stratus Headband by Natalia Pleshko. Light & squishy this is the perfect accessory. Quick to knit in Drops Air, it only takes 1 ball. Make 1. Make more than one. Comes in 3 sizes with 5 colours in stock to choose from. Includes printed pattern.
 <br />
 $13.50<br />
-<hr />
-<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit"><img src="/img/button_headband.jpg"></a><br /><hr />
-<a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat"<img src="/img/vintage_snowflake_hat.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit"><img src="/img/button_headband.jpg"></a><br /><hr /><hr />
+<a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat"><img src="/img/vintage_snowflake_hat.jpg"></a><br />
 3. Vintage Snowflake Hat by the Wool & Silk Co Design Team. Let the yarn do the work with this easy to knit hat. Kit comes with all yarns, pattern & pompom to complete. (needles not included). Adult/teen size. Choose from six pretty colours to suit all of your "knit-worthy" family & friends.
 <br />
 $29.95<br />
@@ -63,6 +62,3 @@ $29.95<br />
 
 $22.50
 <a href="https://www.woolandsilkcoshop.com/products/work-sock-sock-kits"><img src="/img/button_work_socks.jpg"></a><br />
-
-
-<hr />
