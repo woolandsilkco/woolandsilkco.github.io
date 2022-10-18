@@ -16,9 +16,9 @@ If you are on social media with us at Facebook, Twitter or Instagram please repo
 <hr />
 <h2>Rotary Community Baskets Knitting</h2>
 
-4 for October Xmas Specials
-Reminder !
-Rotary X-mas Baskets Knitting
+4 for October Xmas Specials<br />
+Reminder !<br />
+Rotary X-mas Baskets Knitting<br />
 
 Each year we gather newly hand knitted items to contribute to the Rotary X-mas Baskets. If you enjoy knitting and have extra hats, scarves, cowls, mittens, sweaters, etc please bring them into the shop to add to our hamper. Baby & childrens items, teens & young adults and of course Mens & Womens. We donate the items at the early part of December so please try to get yours in to us in October or November. Thank you so much in advance for your generosity.
 <hr />
@@ -41,19 +41,19 @@ You must select each project individually and then apply the proper code at the 
 
 (These are all worsted weight projects)
 <hr />
-<a href="https://www.woolandsilkcoshop.com/products/mixed-up-mittens-and-hat-kits><img src="/img/mixed_up_hat_mitts.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/mixed-up-mittens-and-hat-kits"><img src="/img/mixed_up_hat_mitts.jpg"></a><br />
 1. Mixed up Hat & Mittens Set by the Wool & Silk design team. Use 1 strand of fingering/sock with 1 strand of worsted weight to create these marled mitts & hat. Kit comes complete with yarns, pattern and pompom. 1 size (very accomodating). 5 colours.
 <br />
 $44.95 <br />
 <a href="https://www.woolandsilkcoshop.com/products/mixed-up-mittens-and-hat-kits"><img src="/img/button_hat.jpg"></a><br />
 <hr />
-<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit><img src="/img/stratus_headband.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit"><img src="/img/stratus_headband.jpg"></a><br />
 2. Stratus Headband by Natalia Pleshko. Light & squishy this is the perfect accessory. Quick to knit in Drops Air, it only takes 1 ball. Make 1. Make more than one. Comes in 3 sizes with 5 colours in stock to choose from. Includes printed pattern.
 <br />
 $13.50<br />
 <hr />
-<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit?_pos=1&_sid=cf3e1311e&_ss=r&syclid=cd7bfsrt1i3lsakiiu20&utm_campaign=emailmarketing_129291354172&utm_medium=email&utm_source=shopify_email"><img src="/img/button_headband.jpg"></a><br /><hr />
-<a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat><img src="/img/vintage_snowflake_hat.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit"><img src="/img/button_headband.jpg"></a><br /><hr />
+<a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat"<img src="/img/vintage_snowflake_hat.jpg"></a><br />
 3. Vintage Snowflake Hat by the Wool & Silk Co Design Team. Let the yarn do the work with this easy to knit hat. Kit comes with all yarns, pattern & pompom to complete. (needles not included). Adult/teen size. Choose from six pretty colours to suit all of your "knit-worthy" family & friends.
 <br />
 $29.95<br />
