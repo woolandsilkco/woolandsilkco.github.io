@@ -51,12 +51,14 @@ $44.95 <br />
 2. Stratus Headband by Natalia Pleshko. Light & squishy this is the perfect accessory. Quick to knit in Drops Air, it only takes 1 ball. Make 1. Make more than one. Comes in 3 sizes with 5 colours in stock to choose from. Includes printed pattern.
 <br />
 $13.50<br />
-<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit"><img src="/img/button_headband.jpg"></a><br /><hr /><hr />
+<a href="https://www.woolandsilkcoshop.com/products/stratus-headband-kit"><img src="/img/button_headband.jpg"></a>
+<hr />
 <a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat-kit-b-1"><img src="/img/vintage_snowflake_hat.jpg"></a><br />
 3. Vintage Snowflake Hat by the Wool & Silk Co Design Team. Let the yarn do the work with this easy to knit hat. Kit comes with all yarns, pattern & pompom to complete. (needles not included). Adult/teen size. Choose from six pretty colours to suit all of your "knit-worthy" family & friends.
 <br />
 $29.95<br />
-<a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat-kit-b-1"><img src="/img/button_vintage_hat.jpg"></a><br /><hr />
+<a href="https://www.woolandsilkcoshop.com/products/vintage-snowflake-hat-kit-b-1"><img src="/img/button_vintage_hat.jpg"></a>
+<hr />
 <a href="https://www.woolandsilkcoshop.com/products/work-sock-sock-kits"><img src="/img/work_socks.jpg"></a><br />
 4. Work Sock Socks pattern is an in-house pattern. We have added our own twist for a work sock look. If you have made the mitts & the hat then you need to do the socks to complete the set! Or make a pair for some one you think needs toastie toes. They will work up quickly and be a great gift. (pattern included)<br /><br />
 
