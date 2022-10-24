@@ -19,7 +19,7 @@ This week's highlight is:
 Yarn Winding, Blocking Items & Knitting Storage
 
 <a href="https://www.woolandsilkcoshop.com/products/beech-and-acacia-swift"><img src="/img/swift.jpg"></a><br />
-1. 1. Beech & Acacia Wood Swift The perfect accessory for winding those beautiful skeins off. Support your yarn with this attractive umbrella swift. Clamps onto a table/counter edge and is used in conjunction with the wool winder
+1. Beech & Acacia Wood Swift The perfect accessory for winding those beautiful skeins off. Support your yarn with this attractive umbrella swift. Clamps onto a table/counter edge and is used in conjunction with the wool winder
 <br />
 $60.00<br />
 <a href="https://www.woolandsilkcoshop.com/products/beech-and-acacia-swift"><img src="/img/button_swift.jpg"></a><br />
