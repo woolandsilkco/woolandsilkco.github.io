@@ -32,7 +32,7 @@ MIx & Match or choose several of the same kit. You must select each project indi
 
 On Black Friday (to Sunday) sale, and on Cyber Monday I would suggest just letting the system give you the overall discount.
 
-<a href="https://www.ravelry.com/patterns/library/hurry-up-hat"><img src="/img/hurr_up_hat.jpg"></a><br />
+<a href="https://www.ravelry.com/patterns/library/hurry-up-hat"><img src="/img/hurry_up_hat.jpg"></a><br />
 1. Hurry Up Hat by Lynette Meek.
 
 Here is a super hat to make for a guy or a gal on your shopping list. Thick yarn makes for a very quick knit. Lots & lots of colour choices to get it just right. You have time to make several of these before Christmas. Don't you think everyone needs one?<br />
@@ -42,7 +42,7 @@ Free pattern on Ravelry (click hat name to go to page). Yarns range from<br /><b
 $12.94-25.95<br />
 <a href="https://www.ravelry.com/patterns/library/hurry-up-hat"><img src="/img/button_hurry_up_hat.jpg"></a><br />
 <hr />
-<a href="https://www.ravelry.com/patterns/library/basic-chunky-slipper"></a><br />
+<a href="https://www.ravelry.com/patterns/library/basic-chunky-slipper"><img src="/img/chunky_slipper.jpg"></a><br />
 2. Basic Chunky Slipper by Patons. Remember those great slip-ons from years ago. They were always cozy and super squishy. Well we've gone Christmas style with them. 3 festive colourways to choose from. We are suggesting that you choose a size one smaller than your shoe size (eg: I wear a 8 Ladies so I need to knit the 5/6 size(not 7/8). Or begin your toe decreases at the base of your big toe) These are generous and the garter stitch makes them stretchy. 1 ball will make a pair, 2 for the largest size (makes a size 11-13. Totally wash & wear
 <br /><br />
 $11.49<br />
