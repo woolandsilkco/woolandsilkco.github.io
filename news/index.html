@@ -9,13 +9,7 @@ layout: master
       {% assign first = true %}
       <article>
         <h1>Recent News</h1>
-        <div class="content">
-          <div class="news">
-            <h2>{{post.title}}</h2>
-            <div>{{post.content}}</div>
-          </div>
-        <div class="clearfix"></div>  
-      </div>
+     
       </article>
       <article>
           <h1>Older News</h1>
@@ -29,7 +23,7 @@ layout: master
   {% endfor %}
 {% else %}
   <article>
-    <h1>Older News - Page {{paginator.page}}</h1>
+    <h1> - Page {{paginator.page}}</h1>
     <div class="content">
     {% for post in paginator.post %}
       {% if post.type == "news" %}
