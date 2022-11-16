@@ -68,21 +68,7 @@ Free pattern on Ravelry. Originally done in an oatmeal yarn we decided to bump i
 $12.94-25.95<br />
 <a href="https://www.ravelry.com/patterns/library/raindrops-chunky-hat"><img src="/img/button_raindrops_chunky_hat.jpg"></a><br />
 <hr />
-<img src="/img/black_friday_sale.jpg"><br />
 
-<h2>Outside of store hours and Sunday sales will be on-line only</h2>
-<hr />
-<img src="/img/tipsy_fox.jpg"><br />
-<h2>Knit & Nosh</h2>
-
-Wed Nov 9th, 6:30pm at The Tipsy Fox, 101 Main St. W., Shelburne
-
-It's the first Wednesday of the month, and that means Knit & Nosh night. Please join us for good friends, lots of laughs and a lovely dinner. Don't forget to bring your knitting! Reservation under: Diane
-<br />
-<a href="https://tipsyfoxpub.com/"><img src="/img/button_tipsy_fox.jpg"></a><br />
-<hr />
-<img src="/img/cyber_monday.jpg"><br />
-<hr />
 <h2>Select Samples Sale</h2>
 
 If you are not a knitter but enjoy hand-knitted items, now is the time for you to shop. Choose lovely Xmas gifts for family and friends or something special for yourself
@@ -102,4 +88,10 @@ Help to give a family a happy Christmas. We are accepting donations of knitted i
 Until the first week of December<br />
 <a href="https://www.woolandsilkcoshop.com/"><img src="/img/btn_wool_and_silk.jpg"></a><br />
 <br />
+<img src="/img/black_friday_sale.jpg"><br />
+
+<h2>Outside of store hours and Sunday sales will be on-line only</h2>
+<hr />
+
+<img src="/img/cyber_monday.jpg"><br />
 
