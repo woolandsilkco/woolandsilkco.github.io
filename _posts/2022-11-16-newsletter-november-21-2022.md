@@ -2,50 +2,33 @@
 layout: post
 type: news
 published: true
-title: '4 for November Xmas Specials Reminder'
+title: 'X-mas Gift Ideas - 4'
 ---
 
-- Select Samples Sale
-
-- Rotary Club Knit Donations
-
-- Black Friday/Cyber Monday
+- Hand-dyed Canadian Yarns
 
 If you are on social media with us at Facebook, Twitter or Instagram please repost or share us onto your own page or timeline. Likes are great but the shares are really what get our information out to the most people. Thank you so much for your kind assistance.
 <hr />
 
-<h2>Get going on your Xmas Knitting !</h2>
+<h2>X-mas Gift Ideas - 4</h2>
 
-Here are some quick & easy projects, all in bulky or super-bulky yarns
+Who enjoys a special skein of yarn better than a knitter/crocheter? And hand-dyed yarns are just the very best.
 
-<h2>4 for November - Xmas Feature</h2>
+This week's highlight is: Hand-dyed Canadian Yarns
 
-Available November 1st to 30th
+<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird.jpg"></a><br />
+1.Songbird Some of you may already know Vicki from Songbird yarns. She hails from Stratford, Ontario and brings us this "to die for" sock/fingering yarn. 80% superwash wool, 20% nylon 100g 390m/425yds hand wash cold, lay flat to dry
 
-Available in-store or online. These are the codes for online:
+Beautiful sock yarn inspired by natures birds!
 
-Buy 1 at regular price - no code
+Each skein of bird-inspired yarn generates a $2 donation to Birds Canada for conservation & education
 
-Buy 2 at 5% off (Code NOV2)
+<br /><br />
 
-Buy 3 at 10% off (Code NOV3)
-
-Buy all 4 at 15% off (Code NOV4)
-
-MIx & Match or choose several of the same kit. You must select each project individually and then apply the proper code at the checkout. Unfortunately I cannot run more than 1 automatic code at a time, therefore you must enter it manually. The system will only let you do it if you have selected the correct number of November items.
-
-On Black Friday (to Sunday) sale, and on Cyber Monday I would suggest just letting the system give you the overall discount.
-
-<a href="https://www.ravelry.com/patterns/library/hurry-up-hat"><img src="/img/hurry_up_hat.jpg"></a><br />
-1. Hurry Up Hat by Lynette Meek.
-
-Here is a super hat to make for a guy or a gal on your shopping list. Thick yarn makes for a very quick knit. Lots & lots of colour choices to get it just right. You have time to make several of these before Christmas. Don't you think everyone needs one?<br />
-
-Free pattern on Ravelry (click hat name to go to page). Yarns range from<br /><br />
-
-$12.94-25.95<br />
-<a href="https://www.ravelry.com/patterns/library/hurry-up-hat"><img src="/img/button_hurry_up_hat.jpg"></a><br />
+$32.00<br />
+<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird_btn.png"></a><br />
 <hr />
+
 <a href="https://www.ravelry.com/patterns/library/basic-chunky-slipper"><img src="/img/chunky_slipper.jpg"></a><br />
 2. Basic Chunky Slipper by Patons. Remember those great slip-ons from years ago. They were always cozy and super squishy. Well we've gone Christmas style with them. 3 festive colourways to choose from. We are suggesting that you choose a size one smaller than your shoe size (eg: I wear a 8 Ladies so I need to knit the 5/6 size(not 7/8). Or begin your toe decreases at the base of your big toe) These are generous and the garter stitch makes them stretchy. 1 ball will make a pair, 2 for the largest size (makes a size 11-13. Totally wash & wear
 <br /><br />
