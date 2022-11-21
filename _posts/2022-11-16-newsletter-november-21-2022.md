@@ -35,7 +35,7 @@ $32.00<br />
 <br /><br />
 
 $33.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/80-20-merino-nylon-fingering"><img src="/img/arcane_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/80-20-merino-nylon-fingering"><img src="/img/arcane_button.png"></a><br />
 
 <hr>
 
