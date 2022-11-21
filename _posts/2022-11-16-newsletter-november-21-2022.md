@@ -70,14 +70,14 @@ Fleece Artist has been dyeing great yarns for years but we just love their Merin
 $32.00<br />
 <a href="https://www.woolandsilkcoshop.com/products/merino-slim"><img src="/img/fleece_btn.png"></a><br />
 
-<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird.jpg"></a><br />
-6.Songbird Some of you may already know Vicki from Songbird yarns. She hails from Stratford, Ontario and brings us this "to die for" sock/fingering yarn. 80% superwash wool, 20% nylon 100g 390m/425yds hand wash cold, lay flat to dry
+<a href="https://www.woolandsilkcoshop.com/products/topaz"><img src="/img/topaz.jpg"></a><br />
+6.Yarns from Heaven - Topaz
 
-Beautiful sock yarn inspired by natures birds!
+Canadian dyed, single ply merino with that "just right" colour flow. Gorgeous tonal colours that work great in all kinds of projects.
 
-Each skein of bird-inspired yarn generates a $2 donation to Birds Canada for conservation & education
+fingering weight, hand dyed, single-ply, 100% Superwash Merino Wool, 115 gs, 288m/315yds, 3.0 - 3.5mm needles. Hand wash gently, lay flat to dry
 
 <br /><br />
 
-$32.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird_btn.png"></a><br />
+$29.60<br />
+<a href="https://www.woolandsilkcoshop.com/products/topaz"><img src="/img/topaz_btn.png"></a><br />
