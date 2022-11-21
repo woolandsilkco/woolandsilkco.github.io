@@ -58,17 +58,17 @@ $34.00<br />
 $32.00<br />
 <a href="https://www.woolandsilkcoshop.com/products/polar-fingering"><img src="/img/polar_btn.png"></a><br />
 
-<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird.jpg"></a><br />
-5.Songbird Some of you may already know Vicki from Songbird yarns. She hails from Stratford, Ontario and brings us this "to die for" sock/fingering yarn. 80% superwash wool, 20% nylon 100g 390m/425yds hand wash cold, lay flat to dry
+<a href="https://www.woolandsilkcoshop.com/products/merino-slim"><img src="/img/fleece.jpg"></a><br />
+5. Fleece Artist - Merino Slim
 
-Beautiful sock yarn inspired by natures birds!
+Fleece Artist has been dyeing great yarns for years but we just love their Merino Slim. It is not a sock yarn but works great in sweaters, cowls, hats, almost anything you can think of.
 
-Each skein of bird-inspired yarn generates a $2 donation to Birds Canada for conservation & education
+100% Superwash Merino, fingering weight, 437yds/400m, 113g/4oz., 3mm needle, gauge: 26sts=4"
 
 <br /><br />
 
 $32.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/merino-slim"><img src="/img/fleece_btn.png"></a><br />
 
 <a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird.jpg"></a><br />
 6.Songbird Some of you may already know Vicki from Songbird yarns. She hails from Stratford, Ontario and brings us this "to die for" sock/fingering yarn. 80% superwash wool, 20% nylon 100g 390m/425yds hand wash cold, lay flat to dry
