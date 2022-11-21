@@ -6,8 +6,7 @@ title: 'X-mas Ideas 4'
 ---
 
 - Hand-dyed Canadian Yarns
-- 2
-- 3
+
 
 If you are on social media with us at Facebook, Twitter or Instagram please repost or share us onto your own page or timeline. Likes are great but the shares are really what get our information out to the most people. Thank you so much for your kind assistance.
 <hr />
