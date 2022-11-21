@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'X-mas Gift Ideas - 4'
+title: 'X-mas Ideas 4'
 ---
 
 - Hand-dyed Canadian Yarns
