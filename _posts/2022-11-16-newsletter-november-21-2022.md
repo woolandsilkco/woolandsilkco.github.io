@@ -48,17 +48,15 @@ $33.00<br />
 $34.00<br />
 <a href="https://www.woolandsilkcoshop.com/products/sweet-sock"><img src="/img/midknit_btn.png"></a><br />
 
-<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird.jpg"></a><br />
-4.Songbird Some of you may already know Vicki from Songbird yarns. She hails from Stratford, Ontario and brings us this "to die for" sock/fingering yarn. 80% superwash wool, 20% nylon 100g 390m/425yds hand wash cold, lay flat to dry
+<a href="https://www.woolandsilkcoshop.com/products/polar-fingering"><img src="/img/polar.jpg"></a><br />
+4. Loving Path - Polar Fingering Exciting colours of single ply merino are produced by Debbie from London, Ontario. And what a great job she does. No socks for this one but oh all of the other projects you can make!
 
-Beautiful sock yarn inspired by natures birds!
-
-Each skein of bird-inspired yarn generates a $2 donation to Birds Canada for conservation & education
+100% Superwash merino wool, fingering weight, 434 yds/396 m, 115g hand wash cold, lay flat to dry
 
 <br /><br />
 
 $32.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/polar-fingering"><img src="/img/polar_btn.png"></a><br />
 
 <a href="https://www.woolandsilkcoshop.com/products/songbird"><img src="/img/songbird.jpg"></a><br />
 5.Songbird Some of you may already know Vicki from Songbird yarns. She hails from Stratford, Ontario and brings us this "to die for" sock/fingering yarn. 80% superwash wool, 20% nylon 100g 390m/425yds hand wash cold, lay flat to dry
