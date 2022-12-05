@@ -29,7 +29,7 @@ Katrinkles Stitch Markers : Cute little sheep or knitting themed. Birch with sta
 <br /><br />
 
 $15.75<br />
-<a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/katrinkles_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/katrinkles_btn.jpg"></a><br />
 	 </p><hr />
 
 <a href="https://www.woolandsilkcoshop.com/products/metal-lightbulb-stitch-markers"><img src="/img/markers.jpg"></a><br />
@@ -37,7 +37,7 @@ $15.75<br />
 <br /><br />
 
 $5.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/metal-lightbulb-stitch-markers"><img src="/img/markers_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/metal-lightbulb-stitch-markers"><img src="/img/markers_btn.jpg"></a><br />
 
 	 </p><hr>
 
@@ -46,7 +46,7 @@ $5.00<br />
 <br /><br />
 
 $2.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/snip-scissors"><img src="/img/scissors_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/snip-scissors"><img src="/img/scissors_btn.jpg"></a><br />
 	 </p><hr>
 <a href="https://www.woolandsilkcoshop.com/products/mindful-folding-scissors"><img src="/img/folding_scissors.jpg"></a><br />
 <p>Mindful Folding Scissors These pretty and practical Rainbow Folding Scissors have a mesmerizing metallic finish. They conveniently fold down, ensuring that your hands, fabric and yarn are protected from the scissors’ sharp points. Because of this, they are great for keeping in your notions bag!
@@ -54,7 +54,7 @@ $2.00<br />
 <br /><br />
 
 $10.95<br />
-<a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/folding_scissors_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/folding_scissors_btn.jpg"></a><br />
  </p><hr>
 <a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/measuring_tape.jpg"></a><br />
 		
@@ -64,7 +64,7 @@ Measure Tape Retractable measuring tape. 60 inches. Soft material. Pink case
 <br /><br />
 
 $4.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/measuring_tape_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/measuring_tape_btn.jpg"></a><br />
 </p><hr>
 <a href="https://www.woolandsilkcoshop.com/products/locking-stitch-markers"><img src="/img/locking_stitch_markers.jpg"></a><br />
 	 
@@ -73,7 +73,7 @@ $4.00<br />
 <br /><br />
 
 $8.95<br />
-<a href="https://www.woolandsilkcoshop.com/products/locking-stitch-markers"><img src="/img/locking_stitch_markers_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/locking-stitch-markers"><img src="/img/locking_stitch_markers_btn.jpg"></a><br />
 	 </p><hr>
 <a href="https://www.woolandsilkcoshop.com/products/mindful-silver-stitch-markers"><img src="/img/silver_markers.jpg"></a><br />
 	 
@@ -82,7 +82,7 @@ $8.95<br />
 <br /><br />
 
 $20.49<br />
-<a href="https://www.woolandsilkcoshop.com/products/mindful-silver-stitch-markers"><img src="/img/silver_markers_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/mindful-silver-stitch-markers"><img src="/img/silver_markers_btn.jpg"></a><br />
 	 </p><hr>
    <a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter.jpg"></a><br />
 	 
@@ -91,7 +91,7 @@ $20.49<br />
 <br /><br />
 
 $8.59<br />
-<a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter_btn.jpg"></a><br />
 	 </p><hr>
    <a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool?"><img src="/img/needle_gauge_.jpg"></a><br />
 	 
@@ -104,7 +104,7 @@ Dimensions: 7.5 inches long and 3 inches wide
 <br /><br />
 
 $13.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool?"><img src="/img/needle_gauge_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool?"><img src="/img/needle_gauge_btn.jpg"></a><br />
 	 </p><hr>
    <a href="https://www.woolandsilkcoshop.com/"><img src="/img/gift_cert.jpg"></a><br />
 	 
@@ -115,7 +115,7 @@ Don't know what to choose for your knitter? A Gift Certificate is always welcome
 <br /><br />
 
 Any Amount - You Choose!<br />
-<a href="https://www.woolandsilkcoshop.com/"><img src="/img/home_btn.png"></a><br />
+<a href="https://www.woolandsilkcoshop.com/"><img src="/img/home_btn.jpg"></a><br />
 	 </p><hr>
   <h3> Holiday Hours</h3>
 <p>Dec 23: 10am-1pm
