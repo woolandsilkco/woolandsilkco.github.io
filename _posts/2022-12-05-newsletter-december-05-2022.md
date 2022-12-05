@@ -94,7 +94,7 @@ $20.49 <br />
 $8.59<br />
 <a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter_btn.jpg"></a><br />
 	 </p><hr>
-   <a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool?"><img src="/img/needle_gauge_.jpg"></a><br />
+   <a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool"><img src="/img/needle_gauge.jpg"></a><br />
 	 
 <p>	Wooden needle gauge 4"/10cm ruler on the sides, in a choice of 2 beautiful woods.
 
