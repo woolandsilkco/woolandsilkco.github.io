@@ -81,12 +81,13 @@ $8.95<br />
 
 <br /><br />
 
-$20.49<br />
+$20.49 <br />
 <a href="https://www.woolandsilkcoshop.com/products/mindful-silver-stitch-markers"><img src="/img/silver_markers_btn.jpg"></a><br />
-	 </p><hr>
+	 </p>
+	 <hr />
    <a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter.jpg"></a><br />
 	 
-<p>	Mindful Row Counter Keeping track of rows was never easier. Clear numbers. Teal coloured case with coordinating floral design on top. Comes in a drawstring cotton case.
+<p>Mindful Row Counter Keeping track of rows was never easier. Clear numbers. Teal coloured case with coordinating floral design on top. Comes in a drawstring cotton case.
 
 <br /><br />
 
