@@ -5,19 +5,39 @@ published: true
 title: 'X-mas Ideas 6'
 ---
 
-- Stocking Stuffers
 - Holiday Hours
-- Knit & Nosh
-- Samples Sale continues
+- Public Service Announcement
+- My Canada Hat Kit!
 - Boxing Week
-
+- Gift Ideas 7 -Something Different
+- Samples Sale continues
 
 If you are on social media with us at Facebook, Twitter or Instagram please repost or share us onto your own page or timeline. Likes are great but the shares are really what get our information out to the most people. Thank you so much for your kind assistance.
 <hr />
 
-<h2>X-mas Gift Ideas - 6</h2>
+<h2> Holiday Hours</h2>
+<p>Dec 23: 10am-1pm<br />
 
-Little special things to make your knitter happy. Stuff their stocking with all kinds of goodies, accessories and fun!
+Dec 24 & 25: CLOSED<br />
+
+Dec 26(Monday): special opening 10am-4pm - beginning of boxing week sale (see below)</p>
+<hr />
+
+<h2>Public Service Announcement!</h2>
+
+<p>Remember that Christmas is a holiday. A family holiday. Do not get trapped with relatives and no knitting projects!!<br />
+
+Save yourself. Shop now.</p>
+
+<h2>My Canada Hat Kit !</h2>
+<p><a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/canadahat.jpg"></a><br />
+This hat is a celebration of all things Canadian, with buffalo check and Canadian symbolism. In the designer's words, "From a variety of Names and Sayings (Canuck, eh!) to definitively Canadian sports (Hockey, Lacrosse, Curling) to symbols representing our Land and diverse Cultures (Mountains, Trees, Totem Poles, Inukshuks) you will be able to build a hat that tells everyone, ‘This is My Canada'. Kit includes: pattern, pompom & all yarns to complete. Makes one hat, fits adult - 2 size options
+<br /><br />
+$39.95<br />
+	
+<a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/katrinkles_btn.jpg"></a><br />
+	 </p><hr />
+
 
 This week's highlight is:
 
