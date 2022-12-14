@@ -64,7 +64,7 @@ Kid Silk: 70% Kid mohair, 30% Silk. 200m (218yds). 25g Twenty-two colour
 <br /><br />
 
 $11.49<br />
-<a href="https://www.woolandsilkcoshop.com/products/drops-kid-silk"><img src="/img/kidsilk_btn.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/drops-kid-silk"><img src="/img/kidsilk_btn.png"></a><br />
 	 </p><hr />
 
 <a href="https://www.woolandsilkcoshop.com/products/silky-kid"><img src="/img/silkykid.jpg"></a><br />
@@ -72,99 +72,77 @@ $11.49<br />
 <br /><br />
 
 $18.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/silky-kid"><img src="/img/silkykid_btn.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/silky-kid"><img src="/img/silkykid_btn.png"></a><br />
 
 	 </p><hr>
 
-<a href="https://www.woolandsilkcoshop.com/products/snip-scissors"><img src="/img/scissors.jpg"></a><br />
-<p>Snip Scissors A handy pair of scissors for any knitters bag. Just the right size to nip the yarn and fit easily with your other notions. Colours are random.
+<a href="https://www.woolandsilkcoshop.com/products/mille-colori-super-kid"><img src="/img/superkid.jpg"></a><br />
+<p>Mille Colori Super Kid: 75% Super kid mohair, 20% Polyamide, 5% Extrafine Merino
 <br /><br />
 
-$2.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/snip-scissors"><img src="/img/scissors_btn.jpg"></a><br />
+$7.65 (Reg. $10.95)<br />
+<a href="https://www.woolandsilkcoshop.com/products/mille-colori-super-kid"><img src="/img/superkid_btn.png"></a><br />
 	 </p><hr>
-<a href="https://www.woolandsilkcoshop.com/products/mindful-folding-scissors"><img src="/img/folding_scissors.jpg"></a><br />
-<p>Mindful Folding Scissors These pretty and practical Rainbow Folding Scissors have a mesmerizing metallic finish. They conveniently fold down, ensuring that your hands, fabric and yarn are protected from the scissors’ sharp points. Because of this, they are great for keeping in your notions bag!
+<a href="https://www.woolandsilkcoshop.com/products/millefiori-light"><img src="/img/mlight.jpg"></a><br />
+<p>Millefiori Light : Sport weight, 50% wool, 50% acrylic. 100g / 3.5oz. 320m / 350yds
 
 <br /><br />
 
-$10.95<br />
-<a href="https://www.woolandsilkcoshop.com/products/mindful-folding-scissors"><img src="/img/folding_scissors_btn.jpg"></a><br />
+$21.99<br />
+<a href="https://www.woolandsilkcoshop.com/products/millefiori-light"><img src="/img/mlight_btn.png"></a><br />
  </p><hr>
-<a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/measuring_tape.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/sock-twins-crazy-ball"><img src="/img/crazytwins.jpg"></a><br />
 		
 <p>
-Measure Tape Retractable measuring tape. 60 inches. Soft material. Pink case
+Sock Twins Crazy Ball : 75% Superwash Merino Wool, 25% Nylon. Fingering weight. 100g 400m. Creates two identical socks.
 
 <br /><br />
 
-$4.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/measure-tape-pink"><img src="/img/measuring_tape_btn.jpg"></a><br />
-</p><hr>
-<a href="https://www.woolandsilkcoshop.com/products/locking-stitch-markers"><img src="/img/locking_stitch_markers.jpg"></a><br />
+$14.49<br />
+<a href="https://www.woolandsilkcoshop.com/products/sock-twins-crazy-ball"><img src="/img/crazytwins_btn.png"></a><br />
+</p>
+<hr>
+<a href="https://www.woolandsilkcoshop.com/products/impressionist"><img src="/img/impress.jpg"></a><br />
 	 
-<p>	Locking Stitch Markers Handy clip on or lock & slide on, stitch markers. You will use them over & over. Handiest thing in your knitting bag.
+<p>Impressionist : Sterling silver plated. 10 Stitch markers per pkg. Premium satin finish. Finely shaped smooth rings. Secure and easy placement on needles. In functional & multi-purpose fabric pouch.
 
 <br /><br />
 
-$8.95<br />
-<a href="https://www.woolandsilkcoshop.com/products/locking-stitch-markers"><img src="/img/locking_stitch_markers_btn.jpg"></a><br />
+$20.49 (reg. $25.50)<br />
+<a href="https://www.woolandsilkcoshop.com/products/impressionist"><img src="/img/impress_btn.png"></a><br />
 	 </p><hr>
-<a href="https://www.woolandsilkcoshop.com/products/mindful-silver-stitch-markers"><img src="/img/silver_markers.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/creative-melange-aran-wonderball"><img src="/img/wonderball.jpg"></a><br />
 	 
-<p>	Mindful Silver Stitch Markers Sterling silver plated. 10 Stitch markers per pkg. Premium satin finish. Finely shaped smooth rings. Secure and easy placement on needles. In functional & multi-purpose fabric pouch.
+<p>Creative Melange Aran Wonderball : 51% virgin wool, 49% acrylic. Aran weight. 200g, 640m. (2) balls will make a sweater!
 
 <br /><br />
 
-$20.49 <br />
-<a href="https://www.woolandsilkcoshop.com/products/mindful-silver-stitch-markers"><img src="/img/silver_markers_btn.jpg"></a><br />
+$39.95 <br />
+<a href="https://www.woolandsilkcoshop.com/products/creative-melange-aran-wonderball"><img src="/img/wonderball_btn.jpg"></a><br />
 	 </p>
 	 <hr />
-   <a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter.jpg"></a><br />
+   <a href="https://www.woolandsilkcoshop.com/products/arroyo"><img src="/img/arroyo.jpg"></a><br />
 	 
-<p>Mindful Row Counter Keeping track of rows was never easier. Clear numbers. Teal coloured case with coordinating floral design on top. Comes in a drawstring cotton case.
+<p>Malabrigo Arroyo : Dk/sport, 100% merino wool superwash, hand dyed in Peru, 100g/3.5oz, 335yds/306m
 
 <br /><br />
 
-$8.59<br />
-<a href="https://www.woolandsilkcoshop.com/products/knitters-pride-mindful-collection-row-counter"><img src="/img/counter_btn.jpg"></a><br />
+$29.95<br />
+ <a href="https://www.woolandsilkcoshop.com/products/arroyo"><img src="/img/arroyo_btn.jpg"></a><br />
 	 </p><hr>
-   <a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool"><img src="/img/needle_gauge.jpg"></a><br />
+   <a href="https://www.woolandsilkcoshop.com/products/feliz"><img src="/img/feliz.jpg"></a><br />
 	 
-<p>	Wooden needle gauge 4"/10cm ruler on the sides, in a choice of 2 beautiful woods.
-
-Sizes are permanently etched into wood surface.
-
-Dimensions: 7.5 inches long and 3 inches wide
+<p>Manos Feliz : A blend of superwash merino wool and modal (a manufactured cellulose fiber), Feliz has lovely drape without sacrificing wool's bounce. sport weight70% merino wool superwash, 30% modal100g/3.5oz350yds/320m
 
 <br /><br />
 
-$13.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/mango-wood-needle-sizer-and-gauge-tool?"><img src="/img/needle_gauge_btn.jpg"></a><br />
+$30.50<br />
+  <a href="https://www.woolandsilkcoshop.com/products/feliz"><img src="/img/feliz_btn.jpg"></a><br />
 	 </p><hr>
    <a href="https://www.woolandsilkcoshop.com/"><img src="/img/gift_cert.jpg"></a><br />
 	 
-<p>	Gift Certificate
-
-Don't know what to choose for your knitter? A Gift Certificate is always welcome. Pop in or call the shop to purchase.
-
-<br /><br />
-
-Any Amount - You Choose!<br />
-<a href="https://www.woolandsilkcoshop.com/"><img src="/img/home_btn.jpg"></a><br />
-	 </p><hr>
-
 <hr />
-<img src="/img/tipsy_fox.jpg"></a><br />
-<h2>Knit & Nosh</h2>
-<p>
-Wed Dec 7th, 6:30pm at The Tipsy Fox, 101 Main St. W., Shelburne
 
-It's the first Wednesday of the month, and that means Knit & Nosh night. Please join us for good friends, lots of laughs and a lovely dinner. Don't forget to bring your knitting! Reservation under: Diane
-
-NOTE: This will be our last Knit & Nosh until the new year
-<a href="https://tipsyfoxpub.com"><img src="/img/tipsy_fox_btn.jpg"></a></p>
-<hr />
 <h2>Select Samples Sale</h2>
 
 <p>If you are not a knitter but enjoy hand-knitted items. Now is the time for you to shop. Choose lovely Xmas gifts for family and friends <br />
