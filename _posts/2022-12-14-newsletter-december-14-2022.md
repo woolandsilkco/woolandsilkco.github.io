@@ -59,20 +59,20 @@ This week's highlight is:
 <h2>Something Different</h2>
 
 <p><a href="https://www.woolandsilkcoshop.com/products/drops-kid-silk"><img src="/img/kidsilk.jpg"></a><br />
-70% Kid mohair, 30% Silk. 200m (218yds). 25g Twenty-two colour
+Kid Silk: 70% Kid mohair, 30% Silk. 200m (218yds). 25g Twenty-two colour
 
 <br /><br />
 
-$15.75<br />
+$11.49<br />
 <a href="https://www.woolandsilkcoshop.com/products/drops-kid-silk"><img src="/img/kidsilk_btn.jpg"></a><br />
 	 </p><hr />
 
-<a href="https://www.woolandsilkcoshop.com/products/metal-lightbulb-stitch-markers"><img src="/img/markers.jpg"></a><br />
-<p>Metal Lightbulb Stitch Markers Lightweight, colourful metal markers clip on or slide on Metallic group(20) - 4 of each of 5 colours, rainbow group(20) - 2 of each of 10 colours. OR Single colour teal, rose gold, gold or purple - each is 20 of the same colour
+<a href="https://www.woolandsilkcoshop.com/products/silky-kid"><img src="/img/silkykid.jpg"></a><br />
+<p>Silky Kid: 76% super kid mohair, 24% silk. 200m/219yds. 25g/0.88oz . Fourteen colours
 <br /><br />
 
-$5.00<br />
-<a href="https://www.woolandsilkcoshop.com/products/metal-lightbulb-stitch-markers"><img src="/img/markers_btn.jpg"></a><br />
+$18.00<br />
+<a href="https://www.woolandsilkcoshop.com/products/silky-kid"><img src="/img/silkykid_btn.jpg"></a><br />
 
 	 </p><hr>
 
