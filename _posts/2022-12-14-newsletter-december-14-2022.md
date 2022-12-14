@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'X-mas Ideas 6'
+title: 'X-mas Ideas 7'
 ---
 
 - Holiday Hours
@@ -30,26 +30,41 @@ Dec 26(Monday): special opening 10am-4pm - beginning of boxing week sale (see be
 Save yourself. Shop now.</p>
 
 <h2>My Canada Hat Kit !</h2>
-<p><a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/canadahat.jpg"></a><br />
+<p><a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat.jpg"></a><br />
 This hat is a celebration of all things Canadian, with buffalo check and Canadian symbolism. In the designer's words, "From a variety of Names and Sayings (Canuck, eh!) to definitively Canadian sports (Hockey, Lacrosse, Curling) to symbols representing our Land and diverse Cultures (Mountains, Trees, Totem Poles, Inukshuks) you will be able to build a hat that tells everyone, ‘This is My Canada'. Kit includes: pattern, pompom & all yarns to complete. Makes one hat, fits adult - 2 size options
 <br /><br />
 $39.95<br />
 	
-<a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/katrinkles_btn.jpg"></a><br />
-	 </p><hr />
+<a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat_btn.jpg"></a><br />
+	 </p>
+	 <hr />
+
+<h2>Boxing Week Sale</h2>
+Mon Dec 26th to Sat Dec 31st<br />
+
+Mon-Fri 10am-4pm<br />
+
+Sat 10am-3pm<br />
+
+<font color="red">20% off everything in the store</font><br />
+
+<h2>January Surprise Envelopes</h2>
+When you make a purchase during our Boxing Week sale, you will choose a January mystery envelope. The value is 15-50% off for a purchase to be made in Jan 2023. We will mark your name on the envelope and hold it at the store until you come in to shop in January. Then it will be opened and the deal revealed.
+</p>
+<h2>SO MUCH FUN !!</h2>
 
 
 This week's highlight is:
 
-<h2>Stocking Stuffers</h2>
+<h2>Something Different</h2>
 
-<p><a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/katrinkles.jpg"></a><br />
-Katrinkles Stitch Markers : Cute little sheep or knitting themed. Birch with stainless steel ringsApproximate Size: 1/2” x 3/4” x 1/8”
+<p><a href="https://www.woolandsilkcoshop.com/products/drops-kid-silk"><img src="/img/kidsilk.jpg"></a><br />
+70% Kid mohair, 30% Silk. 200m (218yds). 25g Twenty-two colour
 
 <br /><br />
 
 $15.75<br />
-<a href="https://www.woolandsilkcoshop.com/products/yarn-love-stitch-markers"><img src="/img/katrinkles_btn.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/drops-kid-silk"><img src="/img/kidsilk_btn.jpg"></a><br />
 	 </p><hr />
 
 <a href="https://www.woolandsilkcoshop.com/products/metal-lightbulb-stitch-markers"><img src="/img/markers.jpg"></a><br />
@@ -138,12 +153,7 @@ Don't know what to choose for your knitter? A Gift Certificate is always welcome
 Any Amount - You Choose!<br />
 <a href="https://www.woolandsilkcoshop.com/"><img src="/img/home_btn.jpg"></a><br />
 	 </p><hr>
-  <h2> Holiday Hours</h2>
-<p>Dec 23: 10am-1pm<br />
 
-Dec 24 & 25: CLOSED<br />
-
-Dec 26(Monday): special opening 10am-4pm - beginning of boxing week sale (see below here)</p>
 <hr />
 <img src="/img/tipsy_fox.jpg"></a><br />
 <h2>Knit & Nosh</h2>
@@ -165,17 +175,4 @@ from Nov 1st until Xmas eve<br />
 
 This offer is for in-store shopping only</p>
 <hr />
-<h2>Boxing Week Sale</h2>
-Mon Dec 26th to Sat Dec 31st<br />
-
-Mon-Fri 10am-4pm<br />
-
-Sat 10am-3pm<br />
-
-<font color="red">20% off everything in the store</font><br />
-
-<h2>January Surprise Envelopes</h2>
-When you make a purchase during our Boxing Week sale, you will choose a January mystery envelope. The value is 15-50% off for a purchase to be made in Jan 2023. We will mark your name on the envelope and hold it at the store until you come in to shop in January. Then it will be opened and the deal revealed.
-</p>
-<h2>SO MUCH FUN !!</h2>
 
