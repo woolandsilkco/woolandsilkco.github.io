@@ -35,7 +35,7 @@ This hat is a celebration of all things Canadian, with buffalo check and Canadia
 <br /><br />
 $39.95<br />
 	
-<a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat_btn.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat_btn.png"></a><br />
 	 </p>
 	 <hr />
 
@@ -118,7 +118,7 @@ $20.49 (reg. $25.50)<br />
 <br /><br />
 
 $39.95 <br />
-<a href="https://www.woolandsilkcoshop.com/products/creative-melange-aran-wonderball"><img src="/img/wonderball_btn.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/creative-melange-aran-wonderball"><img src="/img/wonderball_btn.png"></a><br />
 	 </p>
 	 <hr />
    <a href="https://www.woolandsilkcoshop.com/products/arroyo"><img src="/img/arroyo.jpg"></a><br />
@@ -128,7 +128,7 @@ $39.95 <br />
 <br /><br />
 
 $29.95<br />
- <a href="https://www.woolandsilkcoshop.com/products/arroyo"><img src="/img/arroyo_btn.jpg"></a><br />
+ <a href="https://www.woolandsilkcoshop.com/products/arroyo"><img src="/img/arroyo_btn.png"></a><br />
 	 </p><hr>
    <a href="https://www.woolandsilkcoshop.com/products/feliz"><img src="/img/feliz.jpg"></a><br />
 	 
@@ -137,7 +137,7 @@ $29.95<br />
 <br /><br />
 
 $30.50<br />
-  <a href="https://www.woolandsilkcoshop.com/products/feliz"><img src="/img/feliz_btn.jpg"></a><br />
+  <a href="https://www.woolandsilkcoshop.com/products/feliz"><img src="/img/feliz_btn.png"></a><br />
 	 </p><hr>
    <a href="https://www.woolandsilkcoshop.com/"><img src="/img/gift_cert.jpg"></a><br />
 	 
