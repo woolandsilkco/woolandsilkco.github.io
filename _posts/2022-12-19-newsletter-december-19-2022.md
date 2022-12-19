@@ -37,7 +37,7 @@ This hat is a celebration of all things Canadian, with buffalo check and Canadia
 <br /><br />
 $39.95<br />
 	
-<a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat_btn.jpg"></a><br />
+<a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat_btn.png"></a><br />
 	 </p>
 	 <hr />
 
