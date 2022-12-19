@@ -37,7 +37,7 @@ $39.95<br />
 	
 <a href="https://www.woolandsilkcoshop.com/products/my-canada-hat-kit"><img src="/img/canadahat_btn.png"></a><br />
 	 </p>
-	 <hr />
+<hr>
 
 <h2>Boxing Week Sale</h2>
 Mon Dec 26th to Sat Dec 31st<br />
@@ -139,7 +139,7 @@ $29.95<br />
 $30.50<br />
   <a href="https://www.woolandsilkcoshop.com/products/feliz"><img src="/img/feliz_btn.png"></a><br />
 	 </p><hr>
-   <a href="https://www.woolandsilkcoshop.com/"><img src="/img/gift_cert.jpg"></a><br />
+
 	 
 <hr />
 
