@@ -18,9 +18,7 @@ If you are on social media with us at Facebook, Twitter or Instagram please repo
 <img src="/img/lopi.jpg"></a>After a long wait of almost a year we have been restocked with Lett-Lopi (worsted weight) & Alafoss Lopi (chunky). Our two Icelandic yarns. There are newly added colours as well.
 
 For those of you who are not familiar, this yarn is a woolly wool. Suitable for outer garments or items that you wear over a turtleneck or shirt. And they are warm, warm, warm!
-<hr />
 
-<h2>The Lopi Has Arrived!</h2>
 <a href="https://www.woolandsilkcoshop.com/products/lett-lopi"><img src="/img/lopi_btn.jpg"></a><br />
 <a href="https://www.woolandsilkcoshop.com/products/istex-lopi-alafosslopi"><img src="/img/lopi_btn_2.jpg"></a><br />
 <img src="/img/lopi_sweater.jpg">
