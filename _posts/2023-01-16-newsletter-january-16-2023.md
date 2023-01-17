@@ -48,14 +48,3 @@ For those of you who are not familiar, this yarn is a woolly wool. Suitable for 
 <a href="https://www.woolandsilkcoshop.com/products/istex-lopi-alafosslopi"><img src="/img/lopi_btn_2.jpg"></a><br />
 <img src="/img/lopi_sweater.jpg">
 <hr />
-<br /><p>Knit & Nosh<br /><br />
-<img src="/img/tipsy_fox.jpg">
-Due to the inclement weather we rescheduled our gathering.<br /><br />
-
-New date is:<br />
-
-Wed Jan 11th, 6:30pm at The Tipsy Fox, 101 Main St. W., Shelburne<br />
-
-Please join us for good friends, lots of laughs and a lovely dinner. Don't forget to bring your knitting! Reservation under: Diane
-<a href="https://tipsyfoxpub.com"><img src="/img/tipsy_menu_btn.jpg"></a>
-<hr />
