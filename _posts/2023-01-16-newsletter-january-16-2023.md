@@ -16,19 +16,19 @@ If you are on social media with us at Facebook, Twitter or Instagram please repo
 <a href="https://www.woolandsilkcoshop.com/products/estelle-ripple"><img src="/img/riverbend_btn.jpg"></a><br />
 
 <hr />
-<h2Koala Bear Hat by: Jesse Molzan.</h2>
+<h2>Koala Bear Hat by: Jesse Molzan.</h2>
 <a href="https://www.ravelry.com/patterns/library/koala-bear-hat-4"><img src="/img/koala_hat.jpg"></a> How cute are these?? Available in 4 sizes from 3-6mons to Child. Use a superwash like <a href="https://www.woolandsilkcoshop.com/products/estelle-worsted">Estelle Worsted</a> or <a href="https://www.woolandsilkcoshop.com/products/vintage">Vintage Worsted</a> . Great in our super soft acrylic <a href="https://www.woolandsilkcoshop.com/products/universal-uptown-worsted"> Uptown Worsted</a>. Either way it will make a nice hat. Go ahead and spoil the baby/kid in your life. Pattern is $2.00US on Ravelry. Needles: 4.0mm (40cm circ or DPN's) & 5.0mm (small circ plus DPN's). We have<a href="https://www.woolandsilkcoshop.com/products/pom-pom-makers">pompom makers</a> too!<br />
 <a href="https://www.woolandsilkcoshop.com/products/vintage"><img src="/img/koala_btn.jpg"></a><br />
 
 <hr />
-<h2New Jersey Whelk Hat: by: Christina K. Miller</h2>
+<h2>New Jersey Whelk Hat: by: Christina K. Miller</h2>
 <a href="https://www.ravelry.com/patterns/library/new-jersey-whelk-hat"><img src="/img/jersey_hat.jpg"></a> The Whelk pattern is a lovely and interesting waffle-weave pattern perfect for hats. This pattern consists of a flat folded double brim which then showcases the textured whelk pattern on the body and crown. A simple 4-st by 4-row pattern is easy to work consisting of knit, purl, and slip stitches. Written for an adult head it is easy to size up or size down. On Ravelry: Free! We suggest Estelle Alpaca Merino DK or Vintage DK or Eco Tweed DK<br />
 
 Needles: 3.5mm & 4.0mm!<br />
 <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk"><img src="/img/jersey_btn.jpg"></a><br />
 
 <hr />
-<h2New  Moorings by: Vanessa Ewing/h2>
+<h2>New  Moorings by: Vanessa Ewing/h2>
 <a href="https://www.ravelry.com/patterns/library/new-jersey-whelk-hat"><img src="/img/moorings_hat.jpg"></a>
 
 This pattern has intricate detail and is knitted in fingering weight (4-ply, sock) yarn. You can use up your sock project leftovers or choose an exciting multi paired with a speckle or solid. Either way you will end up with a one-of-a-kind hat. Sized from newborn to adult large, there is one for everyone.<br /><br />
