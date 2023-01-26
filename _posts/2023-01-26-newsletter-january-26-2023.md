@@ -37,7 +37,7 @@ You could get 15-50% off!
 
 Inspired by the northern lights in Norway. This sweater features easy top down & seamless construction, is knit entirely in the round, & options for a rolled or ribbed neckline are included. The colorwork yoke is enjoyable, rhythmic, & engaging to knit & with just 2 colors per row, this pattern is suitable for those who are new to colorwork. The cuffs are my favorite part about this design! We knitters often joke about being stuck on sleeve island, but with fun colorwork at the end, it might just motivate you to bang these sleeves out.
 
-All of the colourwork can happen with a yarn like <a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><Footprints</a> (see above here) or Millefiori Light. You do the knitting and let the yarn do the colour changing hard work.
+All of the colourwork can happen with a yarn like <a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints">Footprints</a> (see above here) or Millefiori Light. You do the knitting and let the yarn do the colour changing hard work.
 
 <br /><br />Pattern is available to purchase on Ravelry $7.00 USD<br />
  <a href="https://www.ravelry.com/patterns/library/hinterland-5"><img src="/img/btn_hinterland.jpg"></a></p>
@@ -57,7 +57,7 @@ You may always shop online and select "in-store pickup" to reserve & pay for you
 <a href="https://www.woolandsilkcoshop.com/products/etched-wood-stitch-markers"><img src="/img/btn_neck_lights.jpg"></a></p>
 
 <hr />
-<h2>Interweave Spring 2023/h2>
+<h2>Interweave Spring 2023</h2>
 <p><a href="https://www.woolandsilkcoshop.com/products/interweave-knits><img src="/img/interweave_knits.jpg"></a>	<br />
 
 
