@@ -30,7 +30,7 @@ Don't miss out on your January deal!</p>
 
 Pattern is available to purchase on Ravelry $8.00USD<br />
 
-<a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/btn_shiftigan.jpg"></a></p>
+<a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/btn_shiftigan.png"></a></p>
 
 <hr />
 <h2>Knit & Nosh</h2>
