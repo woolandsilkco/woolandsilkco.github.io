@@ -90,8 +90,3 @@ Lined mittens that fit snugly and are warm even in colder temperatures. A classi
 
  <br /><br/>Pattern on Ravelry $6.75CAD
   <a href="https://www.woolandsilkcoshop.com/products/eco-shetland-worsted"><img src="/img/btn_glacier.png"></a></p>
-
-
-<hr />
-
-
