@@ -33,22 +33,30 @@ Pattern is available to purchase on Ravelry $8.00USD<br />
 <a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/btn_shiftigan.jpg"></a></p>
 
 <hr />
-<h2>Hinterland by: Jennifer Steingass</h2>
-<p><a href="https://www.ravelry.com/patterns/library/hinterland-5"><img src="/img/hinterland.jpg"></a><br />
+<h2>Knit & Nosh</h2>
+<p><a href="https://tipsyfoxpub.com/menuqr/"><img src="/img/tipsyfox.jpg"></a><br />
 
-Inspired by the northern lights in Norway. This sweater features easy top down & seamless construction, is knit entirely in the round, & options for a rolled or ribbed neckline are included. The colorwork yoke is enjoyable, rhythmic, & engaging to knit & with just 2 colors per row, this pattern is suitable for those who are new to colorwork. The cuffs are my favorite part about this design! We knitters often joke about being stuck on sleeve island, but with fun colorwork at the end, it might just motivate you to bang these sleeves out.
+February 1st will be the first Wednesday of the Month. Come join us at the Tipsy Fox in Shelburne for Knit & Nosh. Some kniting, some noshing and a whole lot of laughs and fun.
 
-All of the colourwork can happen with a yarn like <a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints">Footprints</a> (see above here) or Millefiori Light. You do the knitting and let the yarn do the colour changing hard work.
+Wed Feb 1, at 6:30pm
 
-<br /><br />Pattern is available to purchase on Ravelry $7.00 USD<br />
- <a href="https://www.ravelry.com/patterns/library/hinterland-5"><img src="/img/btn_hinterland.jpg"></a></p>
+Tipsy Fox, 101 Main St. W., Shelburne,ON
+
+Reservation is under: Diane
+
+<br />
+ <a href="https://tipsyfoxpub.com/menuqr/"><img src="/img/btn_tipsyfox.png"></a></p>
 
 <hr />
-  <h2>Knitted Knockers</h2>
-<p><a href="https://knittedknockerscanada.com/"><img src="/img/knitted_knockers.jpg"></a>
+<h2>Knitting Inspiration</h2>
+<p>Knitters are always looking for ideas. These four patterns will hopefully help you choose something for your next project. If only we had enough time !</p>
+<hr>
+  <h2>Fever Dreams Shawl:</h2>
+<p><a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/fever.jpg"></a>
 <br />
-We are proud to assist with this program as a drop-off site for completed knockers. Today we packaged up 49 knockers of all sizes to send in. Thank you to everyone who donated their knitting time to create them. If you are interested in knitting some please pop in or go onto their webpage. The patterns are free but specific yarns must be used due to the fact that they must be soft against the skin. See the list on the webpage or ask in-store and we can direct you to the correct ones.<br />
-  <a href="https://knittedknockerscanada.com"><img src="/img/btn_knitted_knockers.jpg"></a></p>
+Fever Dreams Shawl: by: Kate Burge & Rachel Price. An intermediate level pattern that features a simple slipped stitch dot motif and an interesting and easy to memorize honeycomb stitch. You can create it with a main and 3 accent colours or we think a main an 1 colour changing yarn might do very well. Two sizes, 68" or 94" (purchase yarn accordingly) We are suggesting <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-fine">Highland Alpaca Fine</a> or <a href="https://www.woolandsilkcoshop.com/collections/estelle/products/alpaca-merino-fine">Alpaca Merino Fine</a> or <a href="https://www.woolandsilkcoshop.com/products/vintage-sock">Berroco Vintage Sock</a> (it's super soft) for the main colour. You can choose your 3 contrasting colours from these as well. Or perhaps Laines du Norde Paint Sock for some fun honeycombs. 
+ <br /><br/>Pattern is $7.00USD on Ravelry<br />
+  <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_fever.jpg"></a></p>
 
 <hr />
 <h2>Neck Lights are Back</h2>
