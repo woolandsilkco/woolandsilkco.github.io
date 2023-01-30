@@ -72,14 +72,12 @@ Korshaven Sweater Junior by: Tonje Hodne. This has to be the sweetest little bas
 <hr />
 
 
-<hr />
-
- <h2>Korshaven Sweater Junior</h2>
-<p><a href="https://www.ravelry.com/patterns/library/fever-dreams"><img src="/img/fever.jpg"></a>
+ <h2>Waterrock Slipover by: Jennifer Kelley</h2>
+<p><a href="https://www.ravelry.com/patterns/library/waterrock"><img src="/img/waterrock.jpg"></a>
 <br />
-Fever Dreams Shawl: by: Kate Burge & Rachel Price. An intermediate level pattern that features a simple slipped stitch dot motif and an interesting and easy to memorize honeycomb stitch. You can create it with a main and 3 accent colours or we think a main an 1 colour changing yarn might do very well. Two sizes, 68" or 94" (purchase yarn accordingly) We are suggesting <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-fine">Highland Alpaca Fine</a> or <a href="https://www.woolandsilkcoshop.com/collections/estelle/products/alpaca-merino-fine">Alpaca Merino Fine</a> or <a href="https://www.woolandsilkcoshop.com/products/vintage-sock">Berroco Vintage Sock</a> (it's super soft) for the main colour. You can choose your 3 contrasting colours from these as well. Or perhaps Laines du Norde Paint Sock for some fun honeycombs. 
- <br /><br/>Pattern is $7.00USD on Ravelry<br />
-  <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_fever.jpg"></a></p>
+I'm kind of enchanted with the slipover idea right now. Keep your body warm but free your arms to do what you want. This pattern offers a wide size range , is knitted in the round and has a great little side hem slit to make it sit just right. Knitted bottom-up you can easily adjust the length when you get near the underarm area. DK weight means the fabric should be fairly light. We are thinking <a href="https://www.woolandsilkcoshop.com/products/patagonia">Juniper Moon's Patagonia</a>, <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk">Eco Tweed DK</a>, <a href="https://www.woolandsilkcoshop.com/products/wool-pop">Wool Pop</a> (fab yarn and it's on sale!),
+ <br /><br/>
+  <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_waterrock.jpg"></a></p>
 
 
 <hr />
