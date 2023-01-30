@@ -51,19 +51,19 @@ Reservation is under: Diane
 <h2>Knitting Inspiration</h2>
 <p>Knitters are always looking for ideas. These four patterns will hopefully help you choose something for your next project. If only we had enough time !</p>
 <hr>
-  <h2>Fever Dreams Shawl:</h2>
+  <h2>Fever Dreams Shawl by: Kate Burge & Rachel Price</h2>
 <p><a href="https://www.ravelry.com/patterns/library/fever-dreams"><img src="/img/fever.jpg"></a>
 <br />
-Fever Dreams Shawl: by: Kate Burge & Rachel Price. An intermediate level pattern that features a simple slipped stitch dot motif and an interesting and easy to memorize honeycomb stitch. You can create it with a main and 3 accent colours or we think a main an 1 colour changing yarn might do very well. Two sizes, 68" or 94" (purchase yarn accordingly) We are suggesting <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-fine">Highland Alpaca Fine</a> or <a href="https://www.woolandsilkcoshop.com/collections/estelle/products/alpaca-merino-fine">Alpaca Merino Fine</a> or <a href="https://www.woolandsilkcoshop.com/products/vintage-sock">Berroco Vintage Sock</a> (it's super soft) for the main colour. You can choose your 3 contrasting colours from these as well. Or perhaps Laines du Norde Paint Sock for some fun honeycombs. 
+An intermediate level pattern that features a simple slipped stitch dot motif and an interesting and easy to memorize honeycomb stitch. You can create it with a main and 3 accent colours or we think a main an 1 colour changing yarn might do very well. Two sizes, 68" or 94" (purchase yarn accordingly) We are suggesting <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-fine">Highland Alpaca Fine</a> or <a href="https://www.woolandsilkcoshop.com/collections/estelle/products/alpaca-merino-fine">Alpaca Merino Fine</a> or <a href="https://www.woolandsilkcoshop.com/products/vintage-sock">Berroco Vintage Sock</a> (it's super soft) for the main colour. You can choose your 3 contrasting colours from these as well. Or perhaps Laines du Norde Paint Sock for some fun honeycombs. 
  <br /><br/>Pattern is $7.00USD on Ravelry<br />
   <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_fever.png"></a></p>
 
 <hr />
 
-<h2>Korshaven Sweater Junior</h2>
+<h2>Korshaven Sweater Junior by: Tonje Hodne</h2>
 <p><a href="https://www.ravelry.com/patterns/library/korshavn-sweater-junior"><img src="/img/sweaterjr.jpg"></a>
 <br />
-Korshaven Sweater Junior by: Tonje Hodne. This has to be the sweetest little basketweave sweater I've seen in a long time. In a huge size range of 3 months to 14 years you can knit one for everyone! Originally knit in a 100% wool together with a mohair strand, we are thinking of something softer and easier to care for. <a href"https://www.woolandsilkcoshop.com/products/vintage-dk">Vintage DK</a> offers a wide range of colours in a superwash (machine wash, flat to dry). Other choices are <a href="https://www.woolandsilkcoshop.com/products/alpaca-merino-dk">Alpaca Merino DK</a>, <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-dk">Highland Alpaca DK</a>, <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk">Eco Tweed DK</a> (hand wash) or <a href="https://www.woolandsilkcoshop.com/products/cherished-dk">Cherished DK</a>(anti-pilling, 100% acrylic, machine wash & dry) for this knit. Perfect for boys or girls.
+This has to be the sweetest little basketweave sweater I've seen in a long time. In a huge size range of 3 months to 14 years you can knit one for everyone! Originally knit in a 100% wool together with a mohair strand, we are thinking of something softer and easier to care for. <a href"https://www.woolandsilkcoshop.com/products/vintage-dk">Vintage DK</a> offers a wide range of colours in a superwash (machine wash, flat to dry). Other choices are <a href="https://www.woolandsilkcoshop.com/products/alpaca-merino-dk">Alpaca Merino DK</a>, <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-dk">Highland Alpaca DK</a>, <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk">Eco Tweed DK</a> (hand wash) or <a href="https://www.woolandsilkcoshop.com/products/cherished-dk">Cherished DK</a>(anti-pilling, 100% acrylic, machine wash & dry) for this knit. Perfect for boys or girls.
 
  <br /><br/>Pattern is $8.60 CAD on Ravelry
   <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_sweaterjr.png"></a></p>
@@ -77,18 +77,19 @@ Korshaven Sweater Junior by: Tonje Hodne. This has to be the sweetest little bas
 <br />
 I'm kind of enchanted with the slipover idea right now. Keep your body warm but free your arms to do what you want. This pattern offers a wide size range , is knitted in the round and has a great little side hem slit to make it sit just right. Knitted bottom-up you can easily adjust the length when you get near the underarm area. DK weight means the fabric should be fairly light. We are thinking <a href="https://www.woolandsilkcoshop.com/products/patagonia">Juniper Moon's Patagonia</a>, <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk">Eco Tweed DK</a>, <a href="https://www.woolandsilkcoshop.com/products/wool-pop">Wool Pop</a> (fab yarn and it's on sale!),
  <br /><br/>
-  <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_waterrock.jpg"></a></p>
+  <a href="https://www.woolandsilkcoshop.com/products/patagonia"><img src="/img/btn_waterrock.png"></a></p>
 
 
 <hr />
 
- <h2>Fever Dreams Shawl:</h2>
-<p><a href="https://www.ravelry.com/patterns/library/fever-dreams"><img src="/img/sweaterjr.jpg"></a>
+ <h2>Glacier - Dubble(Double) Mittens by: The Weststrand Sisters</h2>
+<p><a href="https://www.ravelry.com/patterns/library/glaciar---dubble-mittens"><img src="/img/glacier.jpg"></a>
 <br />
-Korshaven Sweater Junior by: Tonje Hodne. This has to be the sweetest little basketweave sweater I've seen in a long time. In a huge size range of 3 months to 14 years you can knit one for everyone! Originally knit in a 100% wool together with a mohair strand, we are thinking of something softer and easier to care for. Vintage DK offers a wide range of colours in a superwash (machine wash, flat to dry). Other choices are Alpaca Merino DK , Highland Alpaca DK , Eco Tweed DK (hand wash) or Cherished DK (anti-pilling, 100% acrylic, machine wash & dry) for this knit. Perfect for boys or girls.
+Lined mittens that fit snugly and are warm even in colder temperatures. A classic ski mitten was the inspiration. The outside of each mitten is decorated with a texture pattern reminiscent of a glacier surface. Requires an aran/worsted for the exterior and a sport for th interior. We suggest <a href="https://www.woolandsilkcoshop.com/products/eco-shetland-worsted">Eco Shetland Worsted</a>, <a href="https://www.woolandsilkcoshop.com/products/santa-cruz">Santa Cruz</a> or <a href="https://www.woolandsilkcoshop.com/products/vintage">Vintage Worsted</a> for outer and <a href="https://www.woolandsilkcoshop.com/products/alpaca">Drops Alpaca</a> on the inside.
 
- <br /><br/>Pattern is $8.60 CAD on Ravelry
-  <a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_fever.jpg"></a></p>
+
+ <br /><br/>Pattern on Ravelry $6.75CAD
+  <a href="https://www.woolandsilkcoshop.com/products/eco-shetland-worsted"><img src="/img/btn_glacier.png"></a></p>
 
 
 <hr />
