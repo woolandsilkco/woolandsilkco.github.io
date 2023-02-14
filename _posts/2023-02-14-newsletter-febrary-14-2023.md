@@ -73,3 +73,21 @@ Pattern is Free on Ravelry<br />
 <a href="https://www.ravelry.com/patterns/library/moss-garden"><img src="/img/btn_moss_garden.jpg"></a></p>
 
 <hr />
+<h2>We would like to take a moment to wish each and everyone of you a Happy Valentines Day!</h2>
+<hr />
+<h2>On-Line Shopping Update
+
+To improve your shopping experience on our on-line shopping site, we have added a "Sale Yarns" section. Just click on those words here or on the shopping home page www.woolandsilkcoshop.com and you will see all of the yarns that are currently being offered at reduced prices. Check it out!
+</h2>
+<h2> The Knitting Pilgrim & Stitched Glass Tour</h2>
+<p><a href="http://www.kirkdunn.com/knitting-pilgrim?syclid=cflumljgulugpnnqtjl0&utm_campaign=emailmarketing_155168669986&utm_medium=email&utm_source=shopify_email"><img src="/img/glass_tour.jpg"></a> <br />
+
+(yes those panels are knitted! And there are actually 3 of them)<br />
+
+Sat Feb 25, 2:00pm at the Grand Theatre in Fergus<br />
+
+Featuring actor and knitter Kirk Dunn, is a multidisciplinary one-man show that combines personal storytelling, image projection, and three huge knitted panels that look like stained glass windows, to explore the connection amongst the Abrahamic faiths: Judaism, Christianity and Islam. The play recounts Kirk’s fifteen-year artistic and spiritual journey of hand-knitting the ambitious project, and looks at why people struggle to get along today, the meaning of art, the hell of grant-writing and the power of love to overcome major obstacles (and minor mishaps).<br />
+
+<a href="http://www.kirkdunn.com/knitting-pilgrim?syclid=cflumljgulugpnnqtjl0&utm_campaign=emailmarketing_155168669986&utm_medium=email&utm_source=shopify_email"><img src="/img/btn_glass_tour.jpg"></a></p>
+
+<hr />
