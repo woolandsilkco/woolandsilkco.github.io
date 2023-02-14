@@ -50,7 +50,7 @@ Sale Price $ 21.19<br /><br />
 
 reg $26.49<br />
 
-<a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/btn_laine.png"></a></p>
+<a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/btn_laine.jpg"></a></p>
 
 <hr />
 <h2> Flotte Sock Christmas Yarn</h2>
@@ -62,10 +62,10 @@ Sale Price $ 16.00<br /><br />
 
 reg $20.00<br />
 
-<a href=https://www.woolandsilkcoshop.com/products/flotte-sock-christmas-metallic"><img src="/img/btn_flotte.png"></a></p>
+<a href=https://www.woolandsilkcoshop.com/products/flotte-sock-christmas-metallic"><img src="/img/btn_flotte.jpg"></a></p>
 
 <hr />
-<h2> Arcane Fibre Works/h2>
+<h2> Arcane Fibre Works</h2>
 <p><a href="https://www.woolandsilkcoshop.com/products/80-20-merino-nylon-fingering"><img src="/img/arcane_new.jpg"></a> <br />
 
 80% merino, 20% nylon fingering weight,100gm/3.53oz, 400m/437yds, 21-32sts on 2.25-3.25mm needles, handwash cold, lay flat to dry<br /><br />
@@ -74,7 +74,7 @@ Sale Price $ 26.40<br /><br />
 
 reg $33.00<br />
 
-<a href="https://www.woolandsilkcoshop.com/products/80-20-merino-nylon-fingering"><img src="/img/btn_arcane.png"></a></p>
+<a href="https://www.woolandsilkcoshop.com/products/80-20-merino-nylon-fingering"><img src="/img/btn_arcane.jpg"></a></p>
 
 <hr />     
     <hr />
@@ -87,5 +87,5 @@ Sale Price $ 10.80
 
 reg $13.50<br />
 
-<a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_vintage_sock.png"></a></p>
+<a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/btn_vintage_sock.jpg"></a></p>
                                                                                                             
