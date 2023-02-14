@@ -29,7 +29,7 @@ February 5-18</p>
 <hr />
 
 <h2>Yarn alert: Juniper Moon Herriot Fine</h2>
-<p><a href="https://www.woolandsilkcoshop.com/products/herriot-fine"><img src="/img/juniper.jpg"></a><br />
+<p><a href="https://www.woolandsilkcoshop.com/products/herriot-fine"><img src="/img/jupiter.gif"></a><br />
 
 If you haven't used this yarn already you really should. At 75% Alpaca and 25% nylon it is classified as a sock yarn. And you can make socks with it. But why would you?? It is butter soft and has the most delicate drape. We have offered 2 pattern suggestions (below here) for shawls that would be just delightful in this yarn.<br /><br />
 
