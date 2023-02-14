@@ -73,12 +73,12 @@ Pattern is Free on Ravelry<br />
 <a href="https://www.ravelry.com/patterns/library/moss-garden"><img src="/img/btn_moss_garden.jpg"></a></p>
 
 <hr />
-<h2>We would like to take a moment to wish each and everyone of you a Happy Valentines Day!</h2>
+<p>We would like to take a moment to wish each and everyone of you a Happy Valentines Day!</p>
 <hr />
-<h2>On-Line Shopping Update
-
+<h2>On-Line Shopping Update</h2>
+<p>
 To improve your shopping experience on our on-line shopping site, we have added a "Sale Yarns" section. Just click on those words here or on the shopping home page www.woolandsilkcoshop.com and you will see all of the yarns that are currently being offered at reduced prices. Check it out!
-</h2>
+</p>
 <h2> The Knitting Pilgrim & Stitched Glass Tour</h2>
 <p><a href="http://www.kirkdunn.com/knitting-pilgrim?syclid=cflumljgulugpnnqtjl0&utm_campaign=emailmarketing_155168669986&utm_medium=email&utm_source=shopify_email"><img src="/img/glass_tour.jpg"></a> <br />
 
