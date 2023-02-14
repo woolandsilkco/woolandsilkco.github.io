@@ -35,7 +35,7 @@ Tipsy Fox, 101 Main St. W., Shelburne,ON
 Reservation is under: Diane
 
 <br />
- <a href="https://tipsyfoxpub.com/menuqr/"><img src="/img/btn_tipsy_val.png"></a></p>
+ <a href="https://tipsyfoxpub.com/menuqr/"><img src="/img/btn_tipsy_val.jpg"></a></p>
 
 <hr />
 <h2Sock Yarn Inspiration</h2>
@@ -62,7 +62,7 @@ Sale Price $ 16.00<br /><br />
 
 reg $20.00<br />
 
-<a href=https://www.woolandsilkcoshop.com/products/flotte-sock-christmas-metallic"><img src="/img/btn_flotte.jpg"></a></p>
+<a href="https://www.woolandsilkcoshop.com/products/flotte-sock-christmas-metallic"><img src="/img/btn_flotte.jpg"></a></p>
 
 <hr />
 <h2> Arcane Fibre Works</h2>
