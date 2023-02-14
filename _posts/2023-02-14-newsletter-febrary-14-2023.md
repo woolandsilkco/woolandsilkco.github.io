@@ -50,7 +50,7 @@ Sale Price $ 21.19<br /><br />
 
 reg $26.49<br />
 
-<a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/btn_laine.jpg"></a></p>
+<a href="https://www.woolandsilkcoshop.com/products/laines-du-nord-paint-sock"><img src="/img/btn_laine.jpg"></a></p>
 
 <hr />
 <h2> Flotte Sock Christmas Yarn</h2>
@@ -76,7 +76,7 @@ reg $33.00<br />
 
 <a href="https://www.woolandsilkcoshop.com/products/80-20-merino-nylon-fingering"><img src="/img/btn_arcane.jpg"></a></p>
 
-<hr />     
+ 
     <hr />
 <h2>Vintage Sock - New Yarn!!</h2>
 <p><a href="https://www.woolandsilkcoshop.com/products/vintage-sock"><img src="/img/vintage_sock.jpg"></a> <br />
