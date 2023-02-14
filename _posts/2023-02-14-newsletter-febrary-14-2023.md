@@ -91,3 +91,60 @@ Featuring actor and knitter Kirk Dunn, is a multidisciplinary one-man show that 
 <a href="http://www.kirkdunn.com/knitting-pilgrim?syclid=cflumljgulugpnnqtjl0&utm_campaign=emailmarketing_155168669986&utm_medium=email&utm_source=shopify_email"><img src="/img/btn_glass_tour.jpg"></a></p>
 
 <hr />
+<h2> Moby Slipover: by PetitKnit</h2>
+<p><a href="https://www.ravelry.com/patterns/library/moby-slipover"><img src="/img/moby.jpg"></a> <br />
+
+The Moby Slipover is worked from the top down in a texture and cable pattern. The Moby Slipover is designed to have approx. 10-15 cm [4-6 inches] of positive ease, meaning it is designed to be approx. 10-15 cm [4-6 inches] larger in circumference than your bust measurement. The sizes XS (S) M (L) XL (2XL) 3XL (4XL) 5XL<br /><br />
+
+We are suggesting <a href="https://www.woolandsilkcoshop.com/products/ultra-alpaca-light">Berroco Ultra Alpaca light</a>, <a href="https://www.woolandsilkcoshop.com/products/highland-alpaca-dk">+Highland Alpaca dk</a>, <a href="https://www.woolandsilkcoshop.com/products/estelle-double-knit">Estelle Double Knit</a><br /><br />
+
+Pattern on Ravelry $10.00 CAD<br />
+
+<a href="https://www.ravelry.com/patterns/library/moby-slipover"><img src="/img/btn_moby.jpg"></a></p>
+
+<hr />
+<h2> Bonnieux Cardigan: by Samantha Swamy</h2>
+<p><a href="https://www.ravelry.com/patterns/library/bonnieux-cardigan"><img src="/img/bonnie.jpg"></a> <br />
+
+The Bonnieux cardigan is an elegant cropped cardigan with bell sleeves featuring a vintage French floral lace motif. It is named for the Bonnieux Valley in Provence, France where one can find beautiful fields of poppies in May.<br /><br />
+
+The cardigan is knit from the top down with Raglan shaping. In sizes 1 to 9 .<br /><br />
+
+Worsted yarn thoughts are <a href="https://www.woolandsilkcoshop.com/products/santa-cruz">Santa Cruz</a> , <a href="https://www.woolandsilkcoshop.com/products/reborn-wool-recycled">Reborn Wool Recycled</a><br /><br />
+
+Pattern on Ravelry $11.75 purchase direct from www.thestrikkechick.com<br /><br />
+
+<a href="https://www.ravelry.com/patterns/library/bonnieux-cardigan"><img src="/img/btn_bonnie.jpg"></a></p>
+
+<hr />
+<h2> Walking in Shade by Anne Hanson</h2>
+<p><a href="https://www.ravelry.com/patterns/library/walking-in-shade"><img src="/img/shade.jpg"></a> <br />
+
+This asymmetrical shawl in two sizes (petite/tall) is worked side to side in alternating bands of garter stitch and simple-to-work lace mesh. The size is easily adjustible. Off-kilter progression of the striping allows the final fabric to drape into just the right folds without a lot of fuss. Its large size and light fabric offer plenty of options for arranging the shawl in a variety of ways. Finished size 70(84) inches across top edge and 31 (39) inches along BO edge (washed and blocked)
+<br /><br />
+Yarn requirements 225(375) yards EACH of color 1 (C1, light) and Color 2 (C2, dark)<br /><br />
+
+Pattern calls for 2 colours but the sample knit appears to be in 4 colours. For that four yarn version, sm would be 150yds of each, lg 200yds of each.<br /><br />
+
+Can also be done in a single colour.<br /><br />
+
+Yarn thoughts: <a href="https://www.woolandsilkcoshop.com/products/sweet-sock">MidKnit Cravings Light Sock </a>, <a href="https://www.woolandsilkcoshop.com/products/polar-fingering">Polar fingering</a> , <a href="https://www.woolandsilkcoshop.com/products/vintage-sock">Vintage Sock</a> , <a href="https://www.woolandsilkcoshop.com/products/alpaca-soxx-cashmere-4-ply">Alpaca Soxx 4-ply</a><br /><br />
+
+Pattern $8.00US on Ravelry<br />
+
+<a href="https://www.ravelry.com/patterns/library/walking-in-shade"><img src="/img/btn_shade.jpg"></a></p>
+
+<hr />
+<h2> Snowy Mountain Bobble Hat by Abby Sneade</h2>
+<p><a href="https://www.ravelry.com/patterns/library/snowy-mountain-bobble-hat"><img src="/img/snowy.jpg"></a> <br />
+
+A first time pattern for this designer! Uses fairisle knitting methods are can be topped with an optional pom pom. Takes approximately a half a 100g ball/skein of chunky yarn in green, white and blue. Or the colours of your choice. A pompom can be added. Either made (use the remained of one of the balls) or a fluffy purchased one. She used merino because it’s soft and snuggly and no one likes a scratchy hat!<br /><br />
+
+As the designer is new to pattern writing it may not be perfect but we applaud her efforts!<br /><br />
+
+ Yarn ideas: <a href="https://www.woolandsilkcoshop.com/products/estelle-chunky">Estelle Chunky</a> , <a href="https://www.woolandsilkcoshop.com/products/vintage-chunky">Vintage Chunky </a>, <a href="https://www.woolandsilkcoshop.com/products/timeless-chunky?">Timeless Chunky</a> , <a href="https://www.woolandsilkcoshop.com/products/chunky-tweed">Chunky Tweed</a> , <a href="https://www.woolandsilkcoshop.com/products/ultra-soft-chunky">Ultra Soft Chunky</a><br /><br />
+
+Pattern is free on Ravelry<br /><br />
+
+<a href="https://www.ravelry.com/patterns/library/snowy-mountain-bobble-hat"><img src="/img/btn_snowy.jpg"></a></p>
+
