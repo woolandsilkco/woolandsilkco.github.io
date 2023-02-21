@@ -12,7 +12,7 @@ title: 'Yarn Focus / Knitting Inspiration"
 Thank you to everyone who popped into the shop or purchased on-line for the sock yarn sale. We really enjoyed seeing all of you!
 <hr />
 <h2>Yarn Focus - Today we want to introduce you to Kremke Soul Wool: Reborn Jeans</h2>
-<p><a href="https://www.woolandsilkcoshop.com/products/reborn-jeans"><img src="/img/yarn_focus.jpb"></a><br />
+<p><a href="https://www.woolandsilkcoshop.com/products/reborn-jeans"><img src="/img/yarn_focus.jpg"></a><br />
 
 Reborn Jeans is made from post-consumer recycled jeans, and is delightfully soft. The feeling resembles a mixture of bourette silk and wool. The color range is narrow and that is done on purpose: sticking to the original colors of the denim means no additional chemical processing is needed, such as bleaching it and dying it again. The Polyester part of the yarn is made from recycled PET bottles. The raw material is sourced in India, where the yarn is spun by the same father-and-son owned company that produces Reborn Wool. 
 
