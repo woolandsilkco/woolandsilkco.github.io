@@ -79,22 +79,7 @@ Pattern $6.50US on Ravelry<br /><br />
 <a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/btn_london_fog.jpg"></a></p>
 
      <hr />
-     <h2> London Fog Slipover by Caidree</h2>
-<p><a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/london_fog.jpg"></a> <br />
 
-London Fog is a beginner friendly knitting pattern. It is bold and chunky vest/slipover that will effortlessly keep you dressed up and warm. You will cast on and work in the round continuously to shape the front and back plus saddle shoulders, then separate the front and back to shape arm holes and after that you will connect the front and back to work the body in the round. The slipover is worked in stockinette stitch all the way through. It is meant to be worn with little ease. 0 – 10 cm of positive ease is built into the pattern.
-
-Sizes XS to 5XL<br /><br />
-
-230-600yds of Superbulky yarn<br /><br />
-
-Yarn thoughts (these are all superbulky yarns-no matter the name):<a href="https://www.woolandsilkcoshop.com/products/estelle-bulky"> Estelle Bulky (solids)</a>,
- <a href="https://www.woolandsilkcoshop.com/products/estelle-ripple">Estelle Ripple (multis)</a>, <a href="https://www.woolandsilkcoshop.com/products/bold-color">Lang Bold Color (multis)<br />, 
- you may also combine 2 strands of a chunky or a bulky yarn to create a superbulky. I would suggest doing a gauge swatch if you do this.<br /><br />
-
-Pattern $6.50US on Ravelry<br /><br />
-<a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/btn_london_fog.jpg"></a></p>
-  <hr />
  
     <h2> 
 Under the Rainbow shawl by Collete Audrey</h2>
@@ -123,5 +108,5 @@ Time: 6:30pm<br /><br />
 
 Place: The Tipsy Fox, 101 Main St. W. in Shelburne<br /><br />
 <a href="https://tipsyfoxpub.com/menuqr"><img src="/img/btn_tipsyfox.jpg"></a></p>                                                                                  
-<hr />
+
 
