@@ -77,12 +77,8 @@ Yarn thoughts (these are all superbulky yarns-no matter the name):<a href="https
 
 Pattern $6.50US on Ravelry<br /><br />
 <a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/btn_london_fog.jpg"></a></p>
-
      <hr />
-
- 
-    <h2> 
-Under the Rainbow shawl by Collete Audrey</h2>
+    <h2> Under the Rainbow shawl by Collete Audrey</h2>
 <p><a href="https://www.ravelry.com/patterns/library/under-the-rainbow-3"><img src="/img/rainbow_shawl.jpg"></a> <br />
 
 What a great way to use a colour gradient yarn cake! This easy to knit pattern begins at one tip and goes to the other with a set of increases and thrown to complete the border.
