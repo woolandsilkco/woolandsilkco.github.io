@@ -55,13 +55,12 @@ The hat is worked from written instructions.<br /><br />
 7 sizes (baby to adult large)<br /><br />
 
 110-250yds<br /><br />
-
-           Superbulky yarn thoughts are <a href="https://www.woolandsilkcoshop.com/products/coco">Coco</a> , <a href="https://www.woolandsilkcoshop.com/products/estelle-bulky">Estelle Bulky</a> , <a href="https://www.woolandsilkcoshop.com/products/andes">Drops Andes</a> ,
+ Superbulky yarn thoughts are <a href="https://www.woolandsilkcoshop.com/products/coco">Coco</a> , <a href="https://www.woolandsilkcoshop.com/products/estelle-bulky">Estelle Bulky</a> , <a href="https://www.woolandsilkcoshop.com/products/andes">Drops Andes</a> ,
            <a href="https://www.woolandsilkcoshop.com/products/bold-color">Lang Bold Color</a><br /><br />
 
 Pattern on Ravelry $6.00CAD<br /><br />
 
-<a href="https://www.ravelry.com/patterns/library/iva-hat"><img src="/img/btn_iva_hat.jpg"></a></p>
+<a href="https://www.ravelry.com/patterns/library/iva-hat"><img src="/img/btn_ivy_hat.jpg"></a></p>
  <hr />
      <h2> London Fog Slipover by Caidree</h2>
 <p><a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/london_fog.jpg"></a> <br />
@@ -95,23 +94,8 @@ Yarn thoughts (these are all superbulky yarns-no matter the name):<a href="https
 
 Pattern $6.50US on Ravelry<br /><br />
 <a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/btn_london_fog.jpg"></a></p>
-                                                                                                         <hr />
-     <h2> London Fog Slipover by Caidree</h2>
-<p><a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/london_fog.jpg"></a> <br />
-
-London Fog is a beginner friendly knitting pattern. It is bold and chunky vest/slipover that will effortlessly keep you dressed up and warm. You will cast on and work in the round continuously to shape the front and back plus saddle shoulders, then separate the front and back to shape arm holes and after that you will connect the front and back to work the body in the round. The slipover is worked in stockinette stitch all the way through. It is meant to be worn with little ease. 0 – 10 cm of positive ease is built into the pattern.
-
-Sizes XS to 5XL<br /><br />
-
-230-600yds of Superbulky yarn<br /><br />
-
-Yarn thoughts (these are all superbulky yarns-no matter the name):<a href="https://www.woolandsilkcoshop.com/products/estelle-bulky"> Estelle Bulky (solids)</a>,
- <a href="https://www.woolandsilkcoshop.com/products/estelle-ripple">Estelle Ripple (multis)</a>, <a href="https://www.woolandsilkcoshop.com/products/bold-color">Lang Bold Color (multis)<br />, 
- you may also combine 2 strands of a chunky or a bulky yarn to create a superbulky. I would suggest doing a gauge swatch if you do this.<br /><br />
-
-Pattern $6.50US on Ravelry<br /><br />
-<a href="https://www.ravelry.com/patterns/library/london-fog-slipover"><img src="/img/btn_london_fog.jpg"></a></p>
-
+  <hr />
+ 
     <h2> 
 Under the Rainbow shawl by Collete Audrey</h2>
 <p><a href="https://www.ravelry.com/patterns/library/under-the-rainbow-3"><img src="/img/rainbow_shawl.jpg"></a> <br />
@@ -127,6 +111,17 @@ Pattern is free on Ravelry<br /><br />
 
 We think that KFI's <a href="https://www.woolandsilkcoshop.com/products/kfi-collection-lace-degrade">Painted Lace Degrade </a>is perfect. Don't let the word "lace" put you off. It is a 4-strand fingering weight yarn in 100% cotton. And at 874yds it is just perfect for this project.
 <a href="https://www.ravelry.com/patterns/library/under-the-rainbow-3"><img src="/img/btn_rainbow_shawl.jpg"></a></p>                                                                                  
+<hr />
+<h2> Knit & Nosh is On !</h2>
+<p><a href="https://tipsyfoxpub.com/menuqr"><img src="/img/tipsyfox.jpg"></a> <br />
 
+It (unbelieveably) the beginning of March very soon. That means it is Knit & Nosh time. The first Wednesday is actually the first so it will be this week.<br /><br />
 
+Date: Wed March 1<br /><br />
+
+Time: 6:30pm<br /><br />
+
+Place: The Tipsy Fox, 101 Main St. W. in Shelburne<br /><br />
+<a href="https://tipsyfoxpub.com/menuqr"><img src="/img/btn_tipsyfox.jpg"></a></p>                                                                                  
+<hr />
 
