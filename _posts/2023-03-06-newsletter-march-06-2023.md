@@ -44,5 +44,5 @@ Pattern $9.95CAD on Ravelry<br /><br />
  <a href="https://www.ravelry.com/patterns/library/worsted-boxy"><img src="/img/btn_boxy.jpg"></a></p>
 
  <hr />
-     <h2>Both of these sweaters also come in a lighter weight version/h2>
+     <h2>Both of these sweaters also come in a lighter weight version</h2>
   <hr />
