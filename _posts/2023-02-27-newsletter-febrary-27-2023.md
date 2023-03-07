@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'March is here - Well Almost!
+title: 'March is here - Well Almost!'
 ---
 
 -	Chunky, Bulky, Superbulky Sale
