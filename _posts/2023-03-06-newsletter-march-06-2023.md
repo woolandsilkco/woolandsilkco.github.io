@@ -25,7 +25,7 @@ worsted/aran weight, 699yds/ball<br /><br />
 <hr />
 <h2>Knitting Inspiration for Wonderball !</h2>
 
-<h2Flax: by TinCanKnits</h2>
+<h2>Flax: by TinCanKnits</h2>
 <p><a href="https://www.ravelry.com/patterns/library/flax"><img src="/img/flax.jpg"></a> <br />
 Flax is a classic knit. It's been out there for 10 years now and is still as wonderful as ever. Great top-down construction with interesting garter-stitch detail on the shoulders and down the outside of the sleeves. Perfect for our featured Melange Wonderball yarn.
 
