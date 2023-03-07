@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'Yarn Focus / Knitting Inspiration"
+title: 'Yarn Focus / Knitting Inspiration'
 ---
 
 - Yarn Focus
