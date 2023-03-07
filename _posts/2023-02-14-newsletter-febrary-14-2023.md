@@ -2,7 +2,7 @@
 layout: post
 type: news
 published: true
-title: 'Sock Yarn Sale, Shopping Update'
+title: 'Sock Yarn Sale & Shopping Update'
 ---
 
 - Sock Yarn Sale Continues
