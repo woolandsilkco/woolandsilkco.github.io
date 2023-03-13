@@ -124,7 +124,7 @@ Thurs Apr 13, 10-1pm - Drawstring Bag $60 + Autumn Chunky yarn (6 persons)<br />
 Sat Apr 15, 10-1pm - Scarf $70 + Lang Frida yarn (6 persons)<br /><br />
 
 Arrange your class as soon as you can. Spots will fill rapidly. Please call or drop in to the store to register (519) 925-6194<br /><br />
- <a href="https://www.woolandsilkcoshop.com/products/frida?"><img src="/img/btn_frida.jpg"></a></p>
+ <a href="https://www.woolandsilkcoshop.com/products/frida?"><img src="/img/btn_frida_yarn.jpg"></a></p>
 
 <hr />
  <h2>Drawstring Bag</h2>
@@ -138,5 +138,5 @@ requires 1 ball of Autumn chunky yarn<br /><br />
 <p><a href="https://www.woolandsilkcoshop.com/products/frida?y"><img src="/img/frida_scarf.jpg"></a> <br />
 
 requires 1 ball of Lang Frida yarn<br /><br />
- <a href="https://www.woolandsilkcoshop.com/products/frida?"><img src="/img/btn_frida.jpg"></a></p>
+ <a href="https://www.woolandsilkcoshop.com/products/frida?"><img src="/img/btn_frida_yarn.jpg"></a></p>
                                                                                                                                                                                                       
