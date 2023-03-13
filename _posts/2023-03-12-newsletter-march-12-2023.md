@@ -114,16 +114,16 @@ Pattern $9.10CAD on Ravelry.<br /><br />
  <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
 
 <hr />
-<h2>Novice Sweater - Chunky Edition by PetiteKnit</h2>
-<p><a href="https://www.ravelry.com/patterns/library/novice-sweater---chunky-edition"><img src="/img/canadian_cottage.jpg"></a> <br />
+<h2>Weaving Classes</h2>
+<p><a href="https://www.woolandsilkcoshop.com/products/frida?"><img src="/img/weaving_classes.jpg"></a> <br />
 
-The Novice Sweater – Chunky Edition is worked from the top down. You will start by knitting the neck ribbing, then the yoke, then the body of the sweater and finally the sleeves. The sweater is worked in stockinette stitch with edges in rib stitch.<br /><br />
+Have you always wanted to try weaving buy never had the opportunity? We are very pleased to be offering two weaving classes this April. They will be taught by the lovely Leanne Schmidt. She brings the warped looms with her so all you have to do is purchase the class & the yarn for the weft. Both classes are beginner level and you will have a finished project at the end of the class.<br /><br />
 
-Chunky Edition has a circular yoke. The yoke is shaped with a total of 4 rounds of increases that are evenly distributed along the length of the yoke.<br /><br />
+Thurs Apr 13, 10-1pm - Drawstring Bag $60 + Autumn Chunky yarn (6 persons)<br /><br />
 
-Sizes: XS to 5XL<br /><br />
+Sat Apr 15, 10-1pm - Scarf $70 + Lang Frida yarn (6 persons)<br /><br />
 
-Pattern $9.10CAD on Ravelry.<br /><br />
- <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
+Arrange your class as soon as you can. Spots will fill rapidly. Please call or drop in to the store to register (519) 925-6194<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/products/frida?"><img src="/img/btn_frida.jpg"></a></p>
 
 <hr />                                                                                                         
