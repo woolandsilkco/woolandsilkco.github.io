@@ -101,17 +101,29 @@ Pattern $4.45CAD on RavelryD<br /><br />
  <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
 
 <hr />
-<h2>Headband - Canadian Cottage by Juste Maksimaitis</h2>
-<p><a href="https://www.ravelry.com/patterns/library/headband-canadian-cottage"><img src="/img/canadian_cottage.jpg"></a> <br />
+<h2>Novice Sweater - Chunky Edition by PetiteKnit</h2>
+<p><a href="https://www.ravelry.com/patterns/library/novice-sweater---chunky-edition"><img src="/img/canadian_cottage.jpg"></a> <br />
 
-Written row-by-row instructions are accompanied by photos showing all maneuvers. Headband is knitted flat (back and forth) & then sewn together with a twist. Pattern repeat is a multiple of 2sts over 2rows. Although the headband is knitted with Aran or Bulky weight yarn, the needle size is 1 or 2 sizes smaller than the yarn weight would usually call for. This fact & the pattern stitch itself create a chunky „woven“ texture.<br /><br />
+The Novice Sweater – Chunky Edition is worked from the top down. You will start by knitting the neck ribbing, then the yoke, then the body of the sweater and finally the sleeves. The sweater is worked in stockinette stitch with edges in rib stitch.<br /><br />
 
-Sizes Kids/Teens to Adults<br /><br />
+Chunky Edition has a circular yoke. The yoke is shaped with a total of 4 rounds of increases that are evenly distributed along the length of the yoke.<br /><br />
 
-66-98yds of Chunky yarn<br /><br />
+Sizes: XS to 5XL<br /><br />
 
-Pattern $4.45CAD on RavelryD<br /><br />
+Pattern $9.10CAD on Ravelry.<br /><br />
  <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
 
 <hr />
-                                                                                                         
+<h2>Novice Sweater - Chunky Edition by PetiteKnit</h2>
+<p><a href="https://www.ravelry.com/patterns/library/novice-sweater---chunky-edition"><img src="/img/canadian_cottage.jpg"></a> <br />
+
+The Novice Sweater – Chunky Edition is worked from the top down. You will start by knitting the neck ribbing, then the yoke, then the body of the sweater and finally the sleeves. The sweater is worked in stockinette stitch with edges in rib stitch.<br /><br />
+
+Chunky Edition has a circular yoke. The yoke is shaped with a total of 4 rounds of increases that are evenly distributed along the length of the yoke.<br /><br />
+
+Sizes: XS to 5XL<br /><br />
+
+Pattern $9.10CAD on Ravelry.<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
+
+<hr />                                                                                                         
