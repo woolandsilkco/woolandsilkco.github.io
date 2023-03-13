@@ -80,13 +80,38 @@ Pattern on Ravelry $8.50CAD<br /><br />
 Reversible and seamless, this quick-to-knit color-blocked cowl is a double treat! Cleverly constructed with splits on opposing sides, you’ll see a little peek-a-boo of contrasting color when worn. A super fast knit on big needles.<br /><br />
 
 10.0mm needles<br /><br />
-
-Superbulky yarns<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/search?q=superbulky">Superbulky yarns</a><br /><br />
 
 We are suggesting Coco or Ripple for the mixed colour paired with a sold Estelle Bulky<br /><br />
 
 Pattern on Ravelry $8.50CAD<br /><br />
  <a href="https://www.woolandsilkcoshop.com/search?q=superbulky"><img src="/img/btn_churchmouse.jpg"></a></p>
+
+<hr />
+<h2>Headband - Canadian Cottage by Juste Maksimaitis</h2>
+<p><a href="https://www.ravelry.com/patterns/library/headband-canadian-cottage"><img src="/img/canadian_cottage.jpg"></a> <br />
+
+Written row-by-row instructions are accompanied by photos showing all maneuvers. Headband is knitted flat (back and forth) & then sewn together with a twist. Pattern repeat is a multiple of 2sts over 2rows. Although the headband is knitted with Aran or Bulky weight yarn, the needle size is 1 or 2 sizes smaller than the yarn weight would usually call for. This fact & the pattern stitch itself create a chunky „woven“ texture.<br /><br />
+
+Sizes Kids/Teens to Adults<br /><br />
+
+66-98yds of Chunky yarn<br /><br />
+
+Pattern $4.45CAD on RavelryD<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
+
+<hr />
+<h2>Headband - Canadian Cottage by Juste Maksimaitis</h2>
+<p><a href="https://www.ravelry.com/patterns/library/headband-canadian-cottage"><img src="/img/canadian_cottage.jpg"></a> <br />
+
+Written row-by-row instructions are accompanied by photos showing all maneuvers. Headband is knitted flat (back and forth) & then sewn together with a twist. Pattern repeat is a multiple of 2sts over 2rows. Although the headband is knitted with Aran or Bulky weight yarn, the needle size is 1 or 2 sizes smaller than the yarn weight would usually call for. This fact & the pattern stitch itself create a chunky „woven“ texture.<br /><br />
+
+Sizes Kids/Teens to Adults<br /><br />
+
+66-98yds of Chunky yarn<br /><br />
+
+Pattern $4.45CAD on RavelryD<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
 
 <hr />
                                                                                                          
