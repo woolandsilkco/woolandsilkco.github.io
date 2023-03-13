@@ -60,7 +60,7 @@ Reg $11.29<br /><br />
 
 <hr /> 
  <h2>Chunky/Bulky, Superbulky Knitting Inspiration !</h2>
-<h2>Apres Beanie: by Smeeny Beanie Knits/h2>
+<h2>Apres Beanie: by Smeeny Beanie Knits</h2>
 <p><a href="https://www.ravelry.com/patterns/library/apres-beanie"><img src="/img/apres_beanie.jpg"></a> <br />
 
 This super chunky, extra cozy folded brim beanie is the perfect project for beginners or a fun pattern for seasoned knitters looking to make a quick, easy-to-wear winter hat. The Après Beanie is my take on a classic ribbed beanie with a chunky brim and is made for that winter vacation in the mountains. This hat has cute decreases that makes it look cute both with or without a pom pom!.l<br /><br />
@@ -98,11 +98,11 @@ Sizes Kids/Teens to Adults<br /><br />
 66-98yds of Chunky yarn<br /><br />
 
 Pattern $4.45CAD on RavelryD<br /><br />
- <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
+ <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_chunky_yarns.jpg"></a></p>
 
 <hr />
 <h2>Novice Sweater - Chunky Edition by PetiteKnit</h2>
-<p><a href="https://www.ravelry.com/patterns/library/novice-sweater---chunky-edition"><img src="/img/canadian_cottage.jpg"></a> <br />
+<p><a href="https://www.ravelry.com/patterns/library/novice-sweater---chunky-edition"><img src="/img/novice_sweater.jpg"></a> <br />
 
 The Novice Sweater – Chunky Edition is worked from the top down. You will start by knitting the neck ribbing, then the yoke, then the body of the sweater and finally the sleeves. The sweater is worked in stockinette stitch with edges in rib stitch.<br /><br />
 
@@ -111,7 +111,7 @@ Chunky Edition has a circular yoke. The yoke is shaped with a total of 4 rounds 
 Sizes: XS to 5XL<br /><br />
 
 Pattern $9.10CAD on Ravelry.<br /><br />
- <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_canadian_cottage.jpg"></a></p>
+ <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_chunky_yarns.jpg"></a></p>
 
 <hr />
 <h2>Weaving Classes</h2>
@@ -134,7 +134,7 @@ requires 1 ball of Autumn chunky yarn<br /><br />
  <a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/btn_autumn_chunky.jpg"></a></p>
 
 <hr />   
-  <h2>Scarf/h2>
+  <h2>Scarf</h2>
 <p><a href="https://www.woolandsilkcoshop.com/products/frida?y"><img src="/img/frida_scarf.jpg"></a> <br />
 
 requires 1 ball of Lang Frida yarn<br /><br />
