@@ -58,16 +58,35 @@ Sale price $9.03 /ball<br /><br />
 Reg $11.29<br /><br />
  <a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/btn_autumn_chunky.jpg"></a></p>
 
+<hr /> 
+ <h2>Chunky/Bulky, Superbulky Knitting Inspiration !</h2>
+<h2>Apres Beanie: by Smeeny Beanie Knits/h2>
+<p><a href="https://www.ravelry.com/patterns/library/apres-beanie"><img src="/img/apres_beanie.jpg"></a> <br />
+
+This super chunky, extra cozy folded brim beanie is the perfect project for beginners or a fun pattern for seasoned knitters looking to make a quick, easy-to-wear winter hat. The Après Beanie is my take on a classic ribbed beanie with a chunky brim and is made for that winter vacation in the mountains. This hat has cute decreases that makes it look cute both with or without a pom pom!.l<br /><br />
+
+Adult sizel<br /><br />
+
+Superbulky yarns: Estelle Bulky(solids), Estelle Ripple or Berroco Coco (multis) and more.l<br /><br />
+
+Pattern on Ravelry $8.50CAD<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/search?q=superbulky"><img src="/img/btn_apres_beanie.jpg"></a></p>
+
 <hr />
-<h2>A Chunky Yarn for You ! - Autumn Chunky by King Cole</h2>
-<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/king_cole.jpg"></a> <br />
 
-What a fabulous chunky yarn for hats, scarves, mittens, pullovers or whatever you can think of! Each 100g ball gives you 153yds of premium acrylic blend (80% acrylic, 20% wool). Works with patterns calling for a 6.0mm needle. Soft, squishy and warm. What's not to like?<br /><br />
+<h2>Double-Split Color Blocked Cowl: by Churchmouse</h2>
+<p><a href="https://www.ravelry.com/patterns/library/double-split-color-blocked-cowl"><img src="/img/churchmouse.jpg"></a> <br />
 
-Sale price $9.03 /ball<br /><br />
+Reversible and seamless, this quick-to-knit color-blocked cowl is a double treat! Cleverly constructed with splits on opposing sides, you’ll see a little peek-a-boo of contrasting color when worn. A super fast knit on big needles.<br /><br />
 
-Reg $11.29<br /><br />
- <a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/btn_autumn_chunky.jpg"></a></p>
+10.0mm needles<br /><br />
+
+Superbulky yarns<br /><br />
+
+We are suggesting Coco or Ripple for the mixed colour paired with a sold Estelle Bulky<br /><br />
+
+Pattern on Ravelry $8.50CAD<br /><br />
+ <a href="https://www.woolandsilkcoshop.com/search?q=superbulky"><img src="/img/btn_churchmouse.jpg"></a></p>
 
 <hr />
                                                                                                          
