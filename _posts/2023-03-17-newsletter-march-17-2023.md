@@ -30,14 +30,13 @@ March 17-31</p>
 
 <a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_shop_green.jpg"></a> 
 <hr />
-<h2>Double-Split Color Blocked Cowl: by Churchmouse</h2>
-<p><a href="https://www.ravelry.com/patterns/library/double-split-color-blocked-cowl"><img src="/img/weaving_new.jpg"></a> <br />
+<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/weaving_new.jpg"></a> <br />
 
 Please note that the scarf class for Saturday April 15th has been filled. There are spaces open in the drawstring bag class Thurs April 13th. Please call the store to arrange your spot.<br /><br />
 
 class $60.00<br /><br />
 
 yarn - 1 ball of Autumn Chunky<br /><br />
- <a href="https://www.woolandsilkcoshop.com/search?q=superbulky"><img src="/img/btn_autumn_chunky_green.jpg"></a></p>
+ <a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/btn_autumn_chunky_green.jpg"></a></p>
 
-                                                                                
+                                                                              
