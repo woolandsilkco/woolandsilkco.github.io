@@ -127,7 +127,7 @@
 
 .flexnav .touch-button .navicon
 {
-    position: relative;
+   position: sticky;
     top: 1.4em;
     font-size: 12px;
     color: #666;
