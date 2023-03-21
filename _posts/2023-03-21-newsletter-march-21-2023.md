@@ -46,19 +46,37 @@ March 17-31</p>
 
 <p>Arrange your class as soon as you can. Spots will fill rapidly. Please call or drop in to the store to register (519) 925-6194</p>
 
-https://www.woolandsilkcoshop.com/products/autumn-chunky
+<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/autchunky.png"></a> <br />
 
 <hr/>
 
-<a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_shop_green.jpg"></a> 
+<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/autwool.png"></a> <br />
+
+Drawstring Bag - requires 1 ball of Autumn chunky yarn<br /><br />
+
+<a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/autchunky.png"></a> </p>
+
 <hr />
-<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/weaving_new.jpg"></a> <br />
 
-Please note that the scarf class for Saturday April 15th has been filled. There are spaces open in the drawstring bag class Thurs April 13th. Please call the store to arrange your spot.<br /><br />
+<p><a href="https://www.woolandsilkcoshop.com/products/frida"><img src="/img/frida.jpg"></a> <br />
 
-class $60.00<br /><br />
+Scarf class is full - requires 1 ball of Lang Frida yarn<br /><br />
 
-yarn - 1 ball of Autumn Chunky<br /><br />
- <a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/btn_autumn_chunky_green.jpg"></a></p>
+<a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_frida.png"></a> </p>
 
+<hr />
+
+<h2>Lucky Striped Poncho by Churchmouse Yarns & Teas</h2>
+
+<p><a href="https://www.ravelry.com/patterns/library/lucky-striped-poncho"><img src="/img/poncho.jpg"></a> <br />
+
+<p>"A toss of the dice!” The Lucky Striped Poncho is a joyful, stripey riff on a favorite patterns! Inspired by the Easy Folded Poncho, the designer got playful with random stripes, choosing colors and stripe widths by rolling a pair of dice. Allowing for this wonderful randomness, no two ponchos will ever be the same!</p>
+
+<p>Pattern alone is $11.00 CAD on Ravelry</p>
+
+<p>Kit includes 6 skeins of Eco Tweed DK + pattern</p>
+
+<p>Kit price $110.00</p><br /><br />
+
+<p><a href="https://www.ravelry.com/patterns/library/lucky-striped-poncho"><img src="/img/btn_poncho.png"></a> </p>
                                                                               
