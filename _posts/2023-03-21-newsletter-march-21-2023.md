@@ -79,4 +79,16 @@ Scarf class is full - requires 1 ball of Lang Frida yarn<br /><br />
 <p>Kit price $110.00</p><br /><br />
 
 <p><a href="https://www.ravelry.com/patterns/library/lucky-striped-poncho"><img src="/img/btn_poncho.png"></a> </p>
+
+<hr/>
+
+<p><a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk"><img src="/img/estelle.jpg"></a> <br />
+
+<p>Estelle Eco Tweed DK</p>
+
+<p>Eco Tweed DK is a wonderful yarn for use next to the skin – from sweaters and shawls, to classic accessories! Because the GOTS classes all shorn animal fibres as “wool” we have to call it wool, but it’s actually 50% Wool, 25% Alpaca (which accounts for the luxurious softness of this yarn) and 25% Cellulose Viscose (Lyocell.)</p>
+
+<p>$18.50 per skein</p>
+
+<p><a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk"><img src="/img/estelle.png"></a> </p>
                                                                               
