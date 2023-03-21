@@ -50,7 +50,7 @@ March 17-31</p>
 
 <hr/>
 
-<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/autwool.png"></a> <br />
+<p><a href="https://www.woolandsilkcoshop.com/products/autumn-chunky"><img src="/img/autwool.jpg"></a> <br />
 
 Drawstring Bag - requires 1 ball of Autumn chunky yarn<br /><br />
 
@@ -62,7 +62,7 @@ Drawstring Bag - requires 1 ball of Autumn chunky yarn<br /><br />
 
 Scarf class is full - requires 1 ball of Lang Frida yarn<br /><br />
 
-<a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/btn_frida.png"></a> </p>
+<a href="https://www.woolandsilkcoshop.com/search?q=chunky"><img src="/img/frida.png"></a> </p>
 
 <hr />
 
@@ -78,7 +78,7 @@ Scarf class is full - requires 1 ball of Lang Frida yarn<br /><br />
 
 <p>Kit price $110.00</p><br /><br />
 
-<p><a href="https://www.ravelry.com/patterns/library/lucky-striped-poncho"><img src="/img/btn_poncho.png"></a> </p>
+<p><a href="https://www.ravelry.com/patterns/library/lucky-striped-poncho"><img src="/img/poncho.png"></a> </p>
 
 <hr/>
 
