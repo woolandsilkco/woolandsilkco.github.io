@@ -25,7 +25,7 @@ title: 'Easter Hours'
 
 Try this new combination from Rico yarns. 55% Merino, 10% Silk, 10% Linen & 25% Nylon (just for strength & durability). And oh so squishy! Five beautiful shades to choose from. Think socks, think shawls, sweaters.......just think about it!<br /><br />
 
-<a href="ttps://www.woolandsilkcoshop.com/products/superba-merino-linen-silk-sock"><img src="/img/btn_merino_sock.jpg"></a> <br />
+<a href="https://www.woolandsilkcoshop.com/products/superba-merino-linen-silk-sock"><img src="/img/btn_merino_sock.jpg"></a> <br />
 <hr/>
 <p><a href="https://www.woolandsilkcoshop.com/products/bamboo-socks"><img src="/img/bamboo_socks.jpg"> <br /><br />
 Bamboo Socks by Pro Lana</a><br />
