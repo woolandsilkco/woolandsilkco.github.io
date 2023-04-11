@@ -98,4 +98,4 @@ Kremke's Reborn Jeans<br /><br><br />
 
 Imagine the Light at the Horizon top in Kremke's Reborn jeans. 5 fabulous shades of denim from light to dark. Or perhaps the Pacific Spinel colourway in <a href="https://www.woolandsilkcoshop.com/products/marmel">Marmel</a>a>. Beautiful blues & taupes. Ella Rae's <a href="https://www.woolandsilkcoshop.com/products/impressionist">Impressionist </a>a>offers some fabulous shades of mixed colours. Check out "In the Meadow". And <a href="https://www.woolandsilkcoshop.com/products/summer-sesame">Summer Sesame</a>a> has great colours and a little hint of texture. Just to keep your project interesting.</p>
   
-  <a href="https://www.woolandsilkcoshop.com/search?page=2&q=cotton+dk"><img src="/img/btn_cotton_dkjpg"></a> 
+  <a href="https://www.woolandsilkcoshop.com/search?page=2&q=cotton+dk"><img src="/img/btn_cotton_dk.jpg"></a> 
