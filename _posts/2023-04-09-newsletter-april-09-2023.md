@@ -76,7 +76,7 @@ Check yardage for each variety.<br /><br />
 <hr/>
 
 <p><a href="https://www.ravelry.com/patterns/library/light-at-the-horizon"><img src="/img/horizon_tank_top.jpg"> <br />
-Light at the Horizon Tank Top<br /><br>
+  Light at the Horizon Tank Top</a><br /><br>
 
 Color accents and refined details. A summer top in classy style with a flattering neckline and impeccable edgings.<br />
 Perfect to use up single skeins or leftovers from previous projects. - Make it a decent basic or a statement top in bright colors.<br /><br>
@@ -96,6 +96,6 @@ a pay pattern on Ravelry</p>
 <img src="/img/reborn_jeans.jpg"></a><br />
 Kremke's Reborn Jeans<br /><br><br />
 
-Imagine the Light at the Horizon top in Kremke's Reborn jeans. 5 fabulous shades of denim from light to dark. Or perhaps the Pacific Spinel colourway in <a href="https://www.woolandsilkcoshop.com/products/marmel">Marmel</a>a>. Beautiful blues & taupes. Ella Rae's <a href="https://www.woolandsilkcoshop.com/products/impressionist">Impressionist </a>a>offers some fabulous shades of mixed colours. Check out "In the Meadow". And <a href="https://www.woolandsilkcoshop.com/products/summer-sesame">Summer Sesame</a>a> has great colours and a little hint of texture. Just to keep your project interesting.</p>
+Imagine the Light at the Horizon top in Kremke's Reborn jeans. 5 fabulous shades of denim from light to dark. Or perhaps the Pacific Spinel colourway in <a href="https://www.woolandsilkcoshop.com/products/marmel">Marmel</a>a>. Beautiful blues & taupes. Ella Rae's <a href="https://www.woolandsilkcoshop.com/products/impressionist">Impressionist </a>offers some fabulous shades of mixed colours. Check out "In the Meadow". And <a href="https://www.woolandsilkcoshop.com/products/summer-sesame">Summer Sesame</a> has great colours and a little hint of texture. Just to keep your project interesting.</p>
   
   <a href="https://www.woolandsilkcoshop.com/search?page=2&q=cotton+dk"><img src="/img/btn_coltton_dk.jpg"></a> 
