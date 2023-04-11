@@ -69,7 +69,7 @@ Done in a solid colour<br /><br />
 
 It's amazing how different they look.<br /><br />
 
-We recommend Berroco's <a href="https://www.woolandsilkcoshop.com/products/modern-cotton-dk">Modern Cotton DK</a>, or Cascade <a href="{https://www.woolandsilkcoshop.com/products/ultra-pima">Ultra Pima</a> (purple only)/or <a href="https://www.woolandsilkcoshop.com/products/noble-cotton">Noble Cotton</a> (2 shades), <a href="https://www.woolandsilkcoshop.com/products/cotton-dk">Estelle's Eco Cotton DK </a>for this project.
+We recommend Berroco's <a href="https://www.woolandsilkcoshop.com/products/modern-cotton-dk">Modern Cotton DK</a>, or Cascade <a href="https://www.woolandsilkcoshop.com/products/ultra-pima">Ultra Pima</a> (purple only)/or <a href="https://www.woolandsilkcoshop.com/products/noble-cotton">Noble Cotton</a> (2 shades), <a href="https://www.woolandsilkcoshop.com/products/cotton-dk">Estelle's Eco Cotton DK </a>for this project.
 <br /><br />
 Check yardage for each variety.<br /><br />
   <a href="https://www.ravelry.com/patterns/library/gale-tank"><img src="/img/btn_gale_tank.jpg"></a> <br />
@@ -98,4 +98,4 @@ Kremke's Reborn Jeans<br /><br><br />
 
 Imagine the Light at the Horizon top in Kremke's Reborn jeans. 5 fabulous shades of denim from light to dark. Or perhaps the Pacific Spinel colourway in <a href="https://www.woolandsilkcoshop.com/products/marmel">Marmel</a>a>. Beautiful blues & taupes. Ella Rae's <a href="https://www.woolandsilkcoshop.com/products/impressionist">Impressionist </a>a>offers some fabulous shades of mixed colours. Check out "In the Meadow". And <a href="https://www.woolandsilkcoshop.com/products/summer-sesame">Summer Sesame</a>a> has great colours and a little hint of texture. Just to keep your project interesting.</p>
   
-  <a href="https://www.woolandsilkcoshop.com/search?page=2&q=cotton+dk"><img src="/img/btn_cotton_dk.jpg"></a> 
+  <a href="https://www.woolandsilkcoshop.com/search?page=2&q=cotton+dk"><img src="/img/btn_coltton_dk.jpg"></a> 
