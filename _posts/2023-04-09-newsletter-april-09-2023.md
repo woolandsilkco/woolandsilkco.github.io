@@ -75,7 +75,7 @@ Check yardage for each variety.<br /><br />
   <a href="https://www.ravelry.com/patterns/library/gale-tank"><img src="/img/btn_gale_tank.jpg"></a> <br />
 <hr/>
 
-<p><a href="https://www.ravelry.com/patterns/library/light-at-the-horizon"><img src="/img/horizen_tank_top.jpg"> <br />
+<p><a href="https://www.ravelry.com/patterns/library/light-at-the-horizon"><img src="/img/horizon_tank_top.jpg"> <br />
 Light at the Horizon Tank Top<br /><br>
 
 Color accents and refined details. A summer top in classy style with a flattering neckline and impeccable edgings.<br />
