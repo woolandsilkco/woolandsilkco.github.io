@@ -87,5 +87,5 @@ It's LYS DAY!!</a><br /><br />
 
 Saturday April 29th is Local Yarn Shop (LYS) day. We are proud to be providing quality yarns to knitters & crocheters in our community & beyond. Pop by on the 29th for some outdoor knitting (weather permitting & bring your own lawnchair please), & to help us celebrate creating with fibre!</p>
   
-  <a href="https://www.woolandsilkcoshop.com"><img src="/img/btn_clys_day.jpg"></a> 
+  <a href="https://www.woolandsilkcoshop.com"><img src="/img/btn_lys_day.jpg"></a> 
 
