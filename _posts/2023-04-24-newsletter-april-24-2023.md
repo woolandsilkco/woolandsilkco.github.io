@@ -36,7 +36,7 @@ We are suggesting Jody Long's <a href="https://www.woolandsilkcoshop.com/product
 
 Or think of <a href="https://www.woolandsilkcoshop.com/products/creative-lazy-hazy-summer-cotton">Creative Lazy Hazy Summer Cotton DK</a> , 8 great colours to choose from & a slight ripple texture to keep it interesting<br /><br />
 
-pay pattern on Ravelry><br /><br />
+pay pattern on Ravelry<br /><br />
 
   
   <a href="https://www.woolandsilkcoshop.com/products/creative-lazy-hazy-summer-cotton"><img src="/img/btn_sideways_t.jpg"></a> 
