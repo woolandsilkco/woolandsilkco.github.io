@@ -94,4 +94,21 @@ a pay pattern on Ravelry</p>
 <p>
   
   <a href="https://www.woolandsilkcoshop.com/search?q=dk"><img src="/img/dkyarnbtn.jpg"></a> <br />
-<hr/><p>
+<hr/>
+
+<p><a href="https://www.ravelry.com/patterns/library/mairylin"><img src="/img/marilyntop.jpg"> <br />
+ MairyLin Top by: Astrid Schramm<br /><br />
+
+Worked seamlessly from the top down. Designed with a little positive ease and a flair at the hips you will think of nothing but comfort while wearing this one.
+
+Knitted completely seamlessly, top-down it will be an ease to complete.
+
+Crafted in sport weight yarn we think that Wool Addicts Footprints is the perfect yarn for this project.
+
+pay pattern on Ravelry<br />
+
+</p>
+<p>
+  
+  <a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/footprintbtn.jpg"></a> <br />
+<hr/>
