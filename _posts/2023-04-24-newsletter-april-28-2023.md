@@ -5,50 +5,58 @@ published: true
 title: 'Exciting Patterns and Yarn'
 ---
 
-- Exciting Patterns and Yarns
+- Local Yarn Shop (LYS) Day!
+- Warm Weather Knits & Yarns
+- Knit & Nosh
 
 <hr />
 
 
-<a href="https://www.youtube.com/watch?v=9dYP_GeHLG0"><img src="/img/kitchener_stitch.jpg"></a><h2><strong>Kitchener Stitch</strong></h2>
+<h2><strong>I-Cord Bind-Off</strong></h2>
 
-<p>Have you struggled with closing the toe of a sock or the end of a mitten? Then this tutorial is for you. Have a look at Very Pink Knits and her slow motion tutorial of the Kitchener Stitch.</p>
+<p><img src="/img/icordimg.jpg">Are you looking for that beautiful way to finish a shawl or a neck edging? Then I-cord might be the technique for you. Simple to do it just takes a little extra time but provides a very professional result. View the video here, by Very Pink Knits.</p>
   
-<p><a href="https://www.youtube.com/watch?v=9dYP_GeHLG"><img src="/img/btn_kitchener_stitch.jpg"></a></p>
+<p><a href="https://www.youtube.com/watch?v=GyhgyvEgsBM"><img src="/img/icord.png"></a></p>
 <hr/>
-<h2>Warm Weather Knits & Yarns
+<h2>It's (LYS) Day!</h2>
+<p><img src="/img/lysday.jpg">Saturday April 29th is Local Yarn Shop (LYS) day. We are proud to be providing quality yarns to knitters & crocheters in our community & beyond. Pop by on the 29th for some outdoor knitting (weather permitting & bring your own lawnchair please), & to help us celebrate creating with fibre!</p>
 
-Local Yarn Shop (LYS) Day!</h2>
+<p><a href="https://www.woolandsilkcoshop.com/"><img src="/img/wsbtn.png"></a></p>
+
 <hr />
-<h2>Keep on Knitting !</h2>
+<h2>Casapinka's LYS Day Shawl</h2>
 
-<p>Lots of knitters think that once winter is over, so is knitting season. Not true! While your focus may change (hey, who wants to knit a heavy blanket in July anyway?) you can still go on knitting during the warmer months. I choose this time to make more socks and smaller or lightweight items. There are also an incredible array of spring/summer yarns and patterns out there. And even though I don't like to say it, Christmas is always "just around the corner". Particularly for hand-knitted items. Start planning your gifts now. You can work on smaller pieces and purchase yarns on sale or during yarn crawls. Get ahead of the game so you aren't feeling the pressure in September!</p>
+<p><img src="/img/lysshawl.jpg">As she has done in the past few years, Bronwyn from Casapinka has created a shawl pattern just for LYS day! Kitation is a two color asymmetric shaped shawl that requires 800 yards of fingering weight yarn, 400yds of each color. It can be variegated, speckled, solid, or whatever you like. It uses a 4.0mm x 80cm circular needle.</p>
+
+<p>We are offering it here as a kit with a combination of 2 skeins of fingering weight yarn.</p>
+
+<p>The pattern comes free with the purchase.</p>
+
+<p>This special shawl kit is only available from:</p>
+
+<p>8:00am on Sat April 29th to 11:00pm on Sun April 30t</p>
+
+<p><a href="https://www.woolandsilkcoshop.com/products/lys-shawl-kit-b"><img src="/img/lysshawlbtn.jpg"></a></p>
+
 <hr />
 
-<p><a href="https://www.ravelry.com/patterns/library/sideways-tee?utm_campaign=emailmarketing_158566777122&utm_medium=email&utm_source=shopify_email"><img src="/img/sideways_t.jpg"> <br />
 
-
-Sideways Tee by: Churchmouse Yarns & Teas</a><br /><br />
-
-This deceptively simple top is cleverly knit from the center out to each side, rather than from top to bottom or vice versa. A modern pivot to a familiar style! A tapered shape allows for plenty of ease at the bust, while providing a relaxed and flattering bottom edge at hip length.<br /><br />
-
-We are suggesting Jody Long's <a href="https://www.woolandsilkcoshop.com/products/alba">Alba</a> or Estelle's <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk">Eco Tweed DK</a> for a slightly tweedy wool oversweater. Giving you warmth over a turtleneck/ blouse for springtime walks.<br /><br />
-
-Or think of <a href="https://www.woolandsilkcoshop.com/products/creative-lazy-hazy-summer-cotton">Creative Lazy Hazy Summer Cotton DK</a> , 8 great colours to choose from & a slight ripple texture to keep it interesting<br /><br />
-
-pay pattern on Ravelry<br /><br />
-
+<h2>Spring Knitting !</h2>
+<p>Here are a few ideas to inspire you for spring knitting. Lots of great yarns. Tons of great patterns. Don't stop now!</p>
   
-  <a href="https://www.woolandsilkcoshop.com/products/creative-lazy-hazy-summer-cotton"><img src="/img/btn_sideways_t.jpg"></a> 
-<hr/>
-<p><a href="https://www.ravelry.com/patterns/library/shearwater-socks"><img src="/img/shearwater_socks.jpg"> <br />
- Shearwater Socks by Sandra Buzza</a><br /><br />
+<p><a href="https://www.ravelry.com/patterns/library/womens-knitted-sweater-3"><img src="/img/greysweaterimg.jpg"> <br />
+Women's Knitted Sweater by: Sisko Salpakivi</a><br /><br />
 
-This is a very basic top down sock pattern with a beginner friendly textured stitch that gives a subtle blending of colours to soften the look. The instructions are written for magic loop but can be easily converted to double pointed needles.<br /><br />
+I am including this pattern because it is a straight up V-neck women's sweater pattern. It is worked flat in sections (ie, back, front, sleeves separately) and is found free on Ravelry.
 
-We are suggesting you try out our <a href="https://www.woolandsilkcoshop.com/products/bamboo-socks">Pro Lana Bamboo Socks </a>. A no-wool sock alternative that is wonderful to wear for summer. You can make these regular length or shorties, just by adjusting how long you knit the leg portion.<br /><br />
+Knitted in worsted/aran weight yarn it will complete in a decent amount of time and provide you with that go-to sweater for those colder evenings.
 
-Free pattern on Ravelry</p>
+Perhaps knit on the sections during the spring/summer and it will be ready for fall wearing. You won't have the whole sweater in your hands until the end and it will be a portable project.
+
+The original yarn indicates 18sts/4 ins on a 5.0mm needle. We are suggesting<br /><br />
+  
+<a href="https://www.woolandsilkcoshop.com/search?q=worsted"><img src="/img/btn_wwyarns.jpg"></a>
+</p>
 <p>
   
   <a href="https://www.woolandsilkcoshop.com/products/bamboo-socks"><img src="/img/btn_shearwater_socks.jpg"></a> <br />
