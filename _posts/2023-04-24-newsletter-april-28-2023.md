@@ -112,3 +112,11 @@ pay pattern on Ravelry<br />
   
   <a href="https://www.woolandsilkcoshop.com/products/wool-addicts-footprints"><img src="/img/footprintbtn.jpg"></a> <br />
 <hr/>
+
+ <h2>Knit & Nosh!</h2>
+	  <p>It is the beginning of the month of May and that means Knit & Nosh. Please join us for fun and laughs (and dinner too). Don't forget to bring your knitting!
+
+Wed May 3rd at 6:30pm
+
+		  The Tipsy Fox - Shelburne</p>
+	  <a href="https://tipsyfoxpub.com/menuqr">View Menu</a></p>
