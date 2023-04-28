@@ -47,53 +47,51 @@ title: 'Exciting Patterns and Yarn'
 <p><a href="https://www.ravelry.com/patterns/library/womens-knitted-sweater-3"><img src="/img/greysweaterimg.jpg"> <br />
 Women's Knitted Sweater by: Sisko Salpakivi</a><br /><br />
 
-I am including this pattern because it is a straight up V-neck women's sweater pattern. It is worked flat in sections (ie, back, front, sleeves separately) and is found free on Ravelry.
+I am including this pattern because it is a straight up V-neck women's sweater pattern. It is worked flat in sections (ie, back, front, sleeves separately) and is found free on Ravelry.<br />
 
-Knitted in worsted/aran weight yarn it will complete in a decent amount of time and provide you with that go-to sweater for those colder evenings.
+Knitted in worsted/aran weight yarn it will complete in a decent amount of time and provide you with that go-to sweater for those colder evenings.<br />
 
-Perhaps knit on the sections during the spring/summer and it will be ready for fall wearing. You won't have the whole sweater in your hands until the end and it will be a portable project.
+Perhaps knit on the sections during the spring/summer and it will be ready for fall wearing. You won't have the whole sweater in your hands until the end and it will be a portable project.<br />
 
 The original yarn indicates 18sts/4 ins on a 5.0mm needle. We are suggesting<br /><br />
   
 <a href="https://www.woolandsilkcoshop.com/search?q=worsted"><img src="/img/btn_wwyarns.jpg"></a>
 </p>
+  
+<hr/>
+<p><a href="https://www.ravelry.com/patterns/library/tuck-shorties"><img src="/img/shorties.jpg"> </a><br />
+
+Tuck Shorties by: DUCATHI</p></a><br /><br />
+
+Lots of folks like a short sock in their runner. This is a great top-down pattern that has everything.<br />
+
+The highlight on these socks are the tucks on the ankles. They keep the short sneaker socks in place and merge into a delicate pique pattern and the popular Lane socks heel. As a counterpart to the tucks at the top, the toe is knitted in stripes.<br />
+
+Some great solids can be found with the 16 colours of <a href="https://www.woolandsilkcoshop.com/products/cascade-heritage">Cascade Heritage</a><br />
+
+Then choose a <a href="https://www.woolandsilkcoshop.com/products/copy-of-painted-desert">10g Teenie Weenie Wool</a> ball for the complimentary colour<br />
+
+Pay pattern on Ravelry<br /><br />
+
+
+  <a href="https://www.woolandsilkcoshop.com/products/cascade-heritage"><img src="/img/btn_cascadeh.jpg"></a> <br />
+<hr/>
+
+<p><a href="https://www.ravelry.com/patterns/library/elmore-child-version"><img src="/img/elmore.jpg"> <br />
+ Elmore - Child Version by: Asa Buchta<br /><br />
+
+We just love this great little short-sleeved children's top. Just enough lace at the yoke to make it interesting. Pattern covers sizes 2-12 and is knitted in dk weight. It is top-down one-piece construction.<br />
+
+The original yarn is a slightly thick thin slub. We are offering a few choices.<br />
+
+For a fall/winter cozy you could try <a href="https://www.woolandsilkcoshop.com/products/eco-tweed-dk">Estelle's Eco Tweed</a>. 14 lovely colours with a gentle tweed. Top could be worn over a turtleneck or blouse.<br />
+
+For summer you might think towards <a href="https://www.woolandsilkcoshop.com/products/creative-lazy-hazy-summer-cotton">Creative Lazy Hazy Summer Cotton</a> (it will have a lightly striped look) , <a href="https://www.woolandsilkcoshop.com/products/summer-sesame">Berroco's Summer Sesame</a> (some slubbing and a definite striping), <a href="https://www.woolandsilkcoshop.com/products/linello">Lang Linello</a> (beautiful long colour changes or for that soft denimy look <a href="https://www.woolandsilkcoshop.com/products/reborn-jeans">Reborn Jeans.</a><br />
+
+Check out all of our dk yarns and choose something fun to use.<br />
+
+a pay pattern on Ravelry</p>
 <p>
   
-  <a href="https://www.woolandsilkcoshop.com/products/bamboo-socks"><img src="/img/btn_shearwater_socks.jpg"></a> <br />
-<hr/>
-<p><a href="https://www.ravelry.com/patterns/library/old-river-road"><img src="/img/river_road.jpg"> </a><br />
-
-Old River Road by: Kay Hopkins</p></a><br /><br />
-
-A traditional Henley pullover with a modern twist. It’s the perfect pullover to wear with everything. Picture it over a linen dress or with your favorite jeans and boots. Timeless style and total comfort!<br /><br />
-
-Easy textured stitch pattern. You can choose your hemline finish too & even do the contrast finish on the Henley button placket.<br /><br />
-
-Construction is top-down & in the round in a completely seamless manner. The yoke & body are worked back & forth until the front Henley opening is closed & then the body is worked in the round.<br /><br />
-
-We are suggesting <a href="https://www.woolandsilkcoshop.com/products/united">Queensland United</a> for a great light-weight cardi.<br /><br />
-
-a pay pattern on Ravelry<br /><br />
-  <a href="https://www.woolandsilkcoshop.com/products/united"><img src="/img/btn_river_road.jpg"></a> <br />
-<hr/>
-
-<p><a href="https://www.ravelry.com/patterns/library/tanke-top"><img src="/img/tanke_top.jpg"> <br />
- Tanke Top by: Ankestrick<br /><br />
-
-Worked seamlessly from the top down. An interesting knit, construction wise. Beginner friendly. Optional pockets and hood.<br /><br />
-
-This pattern is looking for a fingering weight yarn and we are thinking that Berroco's Remix Light is just the ticket. A beautiful lightweight yarn made up of nylon, cotton, acrylic, silk & linen. It has a soft cottony feel. Huge selection of colours to help you make it your own.<br /><br />
-
-pay pattern on Ravelry</p>
-<p>
-  
-  <a href="https://www.woolandsilkcoshop.com/products/remix-light"><img src="/img/btn_tanke_top.jpg"></a> <br />
+  <a href="https://www.woolandsilkcoshop.com/search?q=dk"><img src="/img/dkyarnbtn.jpg"></a> <br />
 <hr/><p>
-<a href="https://www.woolandsilkcoshop.com/">
-<img src="/img/lys_day.jpg">
-It's LYS DAY!!</a><br /><br />
-
-Saturday April 29th is Local Yarn Shop (LYS) day. We are proud to be providing quality yarns to knitters & crocheters in our community & beyond. Pop by on the 29th for some outdoor knitting (weather permitting & bring your own lawnchair please), & to help us celebrate creating with fibre!</p>
-  
-  <a href="https://www.woolandsilkcoshop.com"><img src="/img/btn_lys_day.jpg"></a> 
-
