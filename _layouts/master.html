@@ -12,10 +12,9 @@
     <meta name="description" content="">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	  
 
     <link rel="stylesheet" href="http://woolandsilkco.com/css/normalize.min.css">
-  <link rel="stylesheet" href="http://woolandsilkco.com/css/flexnav.css">
+    <link rel="stylesheet" href="http://woolandsilkco.com/css/flexnav.css">
     <link rel="stylesheet" href="http://woolandsilkco.com/css/main.css">
 
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Muli'>
@@ -59,7 +58,7 @@
     <div class="wrap">
     <header>
       <div class="logo narrow">
-      <a href="http://woolandsilkco.com/">  <img src="http://woolandsilkco.com/img/header_logo.png" alt="Wool &amp; Silk Co. Logo"></a>
+        <img src="http://woolandsilkco.com/img/header_logo.png" alt="Wool &amp; Silk Co. Logo">
         <h2>where beautiful<br>things begin</h2>
       </div>
         
@@ -67,21 +66,28 @@
       <nav class="clearfix">
         <ul class="flexnav narrow" data-breakpoint="800">
           <li><a href="http://woolandsilkco.com">Home</a></li>
-	 <li class="shop"><a href="http://woolandsilkcoshop.com">Shop Online</a></li>
           <li><a href="http://woolandsilkco.com/about">About Us</a></li>
           <li class="yarn"><a href="http://woolandsilkco.com/yarn">Yarn &amp; Supplies</a></li>
           <li><a href="http://woolandsilkco.com/classes">Classes</a></li>
           <li><a href="http://woolandsilkco.com/news">News</a></li>
-		 <li><a href="http://woolandsilkco.com/projects/index.html">Project Ideas</a></li>
           <li><a href="http://woolandsilkco.com/contact">Contact Us</a></li>
-         
+          <li class="shop"><a href="http://woolandsilkcoshop.com">Shop Now</a></li>
         </ul>
-      </nav>  
-	    
-	    </header>
-    <div class="narrow">
-      {{ content }}
-    </div>
+      </nav>
+    </header>
+
+
+    <article class="narrow">
+      <h1>About Us</h1>
+      <div class="content clearfix">
+        <h2>The Wool &amp; Silk Co. has come to town!</h2>
+        <p>We are a new yarn shop in a familiar location in Shelburne. There is a new look with a homey, comfortable environment. Along with that comes the variety of quality fine yarns shoppers are accustomed to as well as a several new products.</p>
+        <p>We are situated in the previous location of the Shelburne Bakery, which became Silks Bakery, eventually becoming a yarn shop. In fact, the shelving for the bakery now houses yarn!</p>
+        <p>Our shop ideal is “Where Beautiful Things Begin”. How lovely to have something to enjoy and be creative with! There are "Sit &amp; Knits", Classes, and a Saturday morning junior knitting group. This will give people the chance to get together with friends, and others who share their interest in knitting/crocheting.</p>
+        <p>For more information, contact The Wool and Silk Co. at 519 925-6194, <a href="mailto:woolandsilkco@gmail.com">woolandsilkco@gmail.com</a> or visit 138 Main St. W. right here in Shelburne for a yarn shopping treat to remember!</p>
+        <img class="article-img--centred" src="./img/opening.png" alt="Mayor of Shelburne cuts ribbon at Wool &amp; Silk Co. grand opening">
+      </div>
+    </article>
     <div class="push"></div>
     </div>
 
@@ -92,15 +98,13 @@
     </footer>
 
 
-   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60210203-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="http://woolandsilkco.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
 
-  gtag('config', 'UA-60210203-1');
-</script>
+    <script src="http://woolandsilkco.com/js/jquery.flexnav.min.js"></script>
+    <script>
+      $(".flexnav").flexNav();
+    </script>
 
     <script src="http://woolandsilkco.com/js/main.js"></script>
 
