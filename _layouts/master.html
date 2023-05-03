@@ -77,17 +77,9 @@
     </header>
 
 
-    <article class="narrow">
-      <h1>About Us</h1>
-      <div class="content clearfix">
-        <h2>The Wool &amp; Silk Co. has come to town!</h2>
-        <p>We are a new yarn shop in a familiar location in Shelburne. There is a new look with a homey, comfortable environment. Along with that comes the variety of quality fine yarns shoppers are accustomed to as well as a several new products.</p>
-        <p>We are situated in the previous location of the Shelburne Bakery, which became Silks Bakery, eventually becoming a yarn shop. In fact, the shelving for the bakery now houses yarn!</p>
-        <p>Our shop ideal is “Where Beautiful Things Begin”. How lovely to have something to enjoy and be creative with! There are "Sit &amp; Knits", Classes, and a Saturday morning junior knitting group. This will give people the chance to get together with friends, and others who share their interest in knitting/crocheting.</p>
-        <p>For more information, contact The Wool and Silk Co. at 519 925-6194, <a href="mailto:woolandsilkco@gmail.com">woolandsilkco@gmail.com</a> or visit 138 Main St. W. right here in Shelburne for a yarn shopping treat to remember!</p>
-        <img class="article-img--centred" src="./img/opening.png" alt="Mayor of Shelburne cuts ribbon at Wool &amp; Silk Co. grand opening">
-      </div>
-    </article>
+ <div class="narrow">
+      {{ content }}
+    </div>
     <div class="push"></div>
     </div>
 
@@ -98,13 +90,15 @@
     </footer>
 
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="http://woolandsilkco.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-60210203-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <script src="http://woolandsilkco.com/js/jquery.flexnav.min.js"></script>
-    <script>
-      $(".flexnav").flexNav();
-    </script>
+  gtag('config', 'UA-60210203-1');
+</script>
 
     <script src="http://woolandsilkco.com/js/main.js"></script>
 
