@@ -1,0 +1,549 @@
+---
+layout: master
+---
+
+<article class="left" id="welcome">
+  <h1>Welcome!</h1>
+  <div class="content clearfix">
+    <img id="welcomeimg" src="http://woolandsilkco.com/img/storefront.png" alt="Wool &amp; Silk Co. Storefront">
+    <p>We are a full service, yarn shop catering to knitters and crocheters alike. You will enjoy a wide selection of yarns, needles, hooks and accessories in store. Classes are on-going with a complete list offered on this site. Can't wait to see you!</p>
+  <p align="center"><strong><a href="https://forms.omnisrc.com/signup/v1/601a04614c7fa4787cb9e642_602161524c7fa473f13ef21d.html"><img src="img/signup_button.png">Click here to sign up for our newsletter </a></strong></p>
+ <p class="hours"><span class="bold"> Store Hours</span>
+      Tues - Fri: 10am - 4pm<br />
+      Saturday: 10am - 3pm<br />
+      Sun & Mon: Closed<br />
+       We are also offering on-line shopping at Wool & Silk Co. 
+       You can reach us by phone  519-925-6194 or email 
+       Curbside pickup at the store (during store hours) 
+       or porch pickup at my home (in Mono) is also available
+	   <strong>Please call or email to arrange for pickup times</strong></p>
+	  <div class="fb">
+      <a href="https://www.facebook.com/woolinshelburne"><img src="http://woolandsilkco.com/img/facebook.png" alt="Link to Wool &amp; Silk Co. on Facebook"></a>
+      <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoolinshelburne&amp;width=144&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="width:144px; height:21px;" allowTransparency="true"></iframe>
+  <a href="https://twitter.com/ws6194?lang=en"><img src="http://woolandsilkco.com/img/twitter_rounded_square.png" alt="Link to Wool &amp; Silk Co. on Twitter"></a>
+	    <a href="https://www.instagram.com/woolandsilkco/?hl=en"><img src="http://woolandsilkco.com/img/instagram.png" alt="Link to Wool &amp; Silk Co. on Instagram"></a>
+	  </div>
+	</div>
+	</article>
+
+<article class="right">
+  <h1>News</h1>
+  <div class="content padded">
+    {% assign post1 = true %}
+    {% assign post2 = true %}
+    {% assign display = true %}
+    {% for post in site.posts %}
+      {% if post.type == "news" and display == true %}
+        {% if post1 == true %}
+          {% assign post1 = false %}
+        {% elsif post2 == true %}
+          {% assign post2 = false %}
+        {% endif %}
+        {% if post1 == false and post2 == false %}
+          {% assign display = false %}
+        {% endif%}
+        <h3>{{ post.title }}</h3>
+        <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+      {% endif %}
+    {% endfor %}
+    <a href="http://woolandsilkco.com/news/" class="all">Click Here to See All News Items</a>
+	  </div>
+ </article>
+
+  <article class="left">
+  <h1>What's New Right Now</h1>
+  <div class="content whatsnew">
+    {% for post in site.posts limit:5 %}
+      {% if post.type == "current" and ((site.time | date: "%m") - (post.date | date: "%m"))  %}
+        <h3>{{ post.title }}</h3>
+        <div>{{ post.content }}</div>
+        <div class="clearfix"></div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</article>
+
+<article class="right">
+  <h1>Classes</h1>
+  <div class="content padded">
+    <div id="insertClasses" class="content whatsnew">
+	    <p>We are starting back to group activities with KAL's at this time</p><p>Call the store to sign up (519) 925-6194</p>
+   <p><strong>Colette Vest KAL - Thursday March 17th & April 7th, 1-3pm<br/><br/>Hitofude KAL - March 24, April 21, May 5, May 19</strong></p>
+    </div>
+    <a href="http://woolandsilkco.com/classes/" class="all">Click Here to See All Classes &amp; Info</a>
+	  
+  </div>
+</article>
+
+<article class="left">
+  <h1>(Knit-a-Longs)</h1>
+  <div class="content whatsnew">
+
+<p>We are starting back to group activities with KAL's at this time<br /><br />
+</p>
+	  <h2>Colette Vest KAL - Thursday March 17th & April 7th, 1-3pm</h2>
+<img src="/img/mar2022news3.jpg">
+You may have seen the Colette vest featured in our newsletters before. Now we are going to knit it as a group. Two sessions will help to get everyone started and then keep them on track to finish. Join in if you already have the yarns or click below to take you to the kit combinations. Yarns can be purchased in-store or online.
+KAL's are Free
+Yarns are to be purchased from Wool & Silk Co.
+Please call the store to sign-up
+(519) 925-6194<br><br>
+<a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?_pos=2&_sid=16d650984&_ss=r">Colette Kits</a><br /><br /><br /><br />
+
+<h2>Hitofude KAL - March 24, April 21, May 5, May 19</h2>
+<img src="/img/hitofude.jpg">
+<p>A lace cardigan that is easier to knit than you might think!<br />
+
+Call the store to sign up (519) 925-6194<br /><br />
+ 
+Hitofude by:  Hiroko Fukatsu<br />
+Purchase pattern on Ravelry.  <br />
+As implied by the name “Hitofude”, meaning a single brush stroke in Japanese, this open front cardigan with an allover lace pattern is worked in one “yarn stroke” -- a continuous strand without cutting the yarn.<br />
+The yarn stroke starts from the upper body and sleeves worked together in a rectangular piece, then moves to lower body, where the lace pattern increases evenly, creating a gentle drape.
+	 <br /><br />
+	<b>Level</b> - intermediate<br />
+
+	<b>Sizes:</b>  30 to 54"<br /><br />
+
+	<b>Materials</b><br />
+- fingering weight yarn (2 to 4 skeins)<br />
+- check pattern for quantities<br />
+ - Needles:  a 3.5mm x 80cm circular, 1 additional 3.5 for 3-needle bindoff,
+   crochet hook, waste yarn & stitch markers<br />
+- Gauge:  20sts/32 rows = 4in
+	in lace pattern<br /><br />
+<a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=62262718c3dbed0021bd8bca&q=fingering&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Shop Fingering Weight Yarns</a></p>
+
+<h2>Frank Shawl - KAL</h2>
+<img src="/img/frankshawl.jpg">
+by: Joji Locatelli<br />
+A very easy and stunning shawl, inspired by the work of artist Frank Stella, this design is a study in geometry.<br /><br />
+Triangular pieces are assembled together to create a spectacular wrap with a unique shape that is both beautiful and stunning to wear, with many tips, all in different shades.<br /><br />
+I played with a gradient of grays, and my favorite color, gold, to give this shawl a vintage vibe.<br /><br />
+<p>The Frank Shawl is constructed as 3 triangular sections, joined together when working the last one of them.<br /><br />
+Skill level: Beginner<br /><br />
+FINISHED MEASUREMENTS<br /><br />
+97” (244 cm) from side to side and 39” (98 cm) from top to bottom at deepest point.<br />
+See Schematic at the end of the pattern.<br /><br />
+Yarn:<br />
+Takes (4) skeins of fingering weight yarn<br />
+there are currently 3 colour combinations available as kits on our online site. We are always happy to help you combine colours, in-store as well.<br />
+Please note that a large order of Mid-Knit Cravings is expected to our door at any time now. So lots of choices to be had.<br />
+
+KAL's are free<br />
+Yarns are to be purchased from Wool & Silk Co.<br />
+Please call the store to sign-up<br />
+(519) 925-6194<br />
+
+<a href="https://www.woolandsilkcoshop.com/products/frank-shawl-kit">Shop Frank Shawl Kits here</a></p>
+	  
+	  </div>	
+</article>
+
+<article class="left">
+  <h1>Featured Projects</h1>
+  <div class="content whatsnew">
+	  <p><strong>Project Idea #11 </strong></p>
+<p> <img src="/img/project11.jpg"><br />
+By: Casapinka<br />
+A purchase pattern on Ravelry<br />
+
+The (no need to) Panic sweater was designed for new sweater knitters who have done shawls or other projects but are intimidated to make a sweater.
+There are long-sleeved instructions and two short sleeved versions.<br /><br />
+
+<a href="https://www.woolandsilkcoshop.com/search?q=dk">(no need to panic) - DK Yarn choices</a><br /></p>
+	  <p><strong>Project Idea #10 Spring series - Dame De Fer - a beautiful lightweight cardigan. Exactly the right thing for spring.</strong></p>
+ <img src="/img/fur_sweater.jpg"><br />
+Dam De Fer<br />
+By: Marie Amelie Designs<br /><br />
+
+A free pattern on Ravelry<br /><br />
+
+Decorated with an easy-to-work slip stitch pattern, this cardigan will have you dressed for the Eiffel Tower in no time. Inspired by the ironwork that makes up the exquisitely engineered tower, you will work from the top down, seamlessly to have a season-spanning sweater tout de suite. Pattern provided in both charted and written formats.<br /><br />
+
+<p>We are thinking of our new Alpaca Soxx 4-ply for this project. Fingering weight, 70% alpaca, and oh so soft and squishy. You can make socks out of it but why would you?
+<a href="https://www.woolandsilkcoshop.com/products/alpaca-soxx-cashmere-4-ply?_pos=1&_sid=eb213dbcc&_ss=r&omnisendContactID=62262718c3dbed0021bd8bca&utm_campaign=campaign%3A+KAL%27s%2C+Project+%2310%2C+Fix+it+Fridays+%28622b8bb9d92f11002184d9e8%29&utm_medium=email&utm_source=omnisend">Shop Dame de Fer - Yarn choices</a></p>
+<p>
+<p>  <strong>PROJECT IDEA #9 - Carmel Pullover</strong></p>
+<p><img src="/img/project9.jpg"></a>
+The Carmel pullover is knitted bottom-up & in the round.<br/>
+
+Free pattern by: Berroco Knit Team on Ravelry.  Let the bright colors of Summer Sesame do their thing for this simple and bold yoke. Paired with Modern Cotton DK, this sweater is perfect for warmer weather days. Love the 3/4 sleeves!- <a href="https://www.ravelry.com/patterns/library/carmel-5">https://www.ravelry.com/patterns/library/carmel-5</a>. 
+<br/>
+<b>Level</b> Advanced beginner - Easier intermediate<br/>
+
+	<b>Sizes:</b>  32 to 68"<br/>
+
+	<b>Materials</b><br/>
+- check pattern for quantities of  main colour depending upon size<br/>
+- CC1: 1-2 balls of Summer Sesame<br/>
+- Needles:  3.75mm & 4.5mm varying lengths for neckline, body, sleeves & cuffs<br/>
+- Gauge:  20sts/28 rows = 4in in stocking stitch with 4.5mm needles
+<br/><br/>
+	
+<a href="https://www.woolandsilkcoshop.com/search?q=carmel+pullover">/Carmel Pullover Yarn Choices - Shop Now </a><br /><br />
+	  
+  <p>  <strong>PROJECT IDEA #8 - The Boulevard Blanket</strong></p>
+<img src="/img/project8.jpg">
+The Boulevard Blanket….it’s quick, easy, chunky, warm and reversible! At first glance you might think this pattern is just simple garter stitch. Look again!<br/>
+An easy K3, P3 repeat pattern creates a subtle striping effect. The name of this pattern is inspired by the beautiful tree lined boulevards of my hometown….Kansas City.
+	<br/>
+
+Free pattern by: Fifty Four Ten Studio on Ravelry.  Excellent beginner project. Nicer than just plain garter stitch but still fast to knit - <a href="https://www.ravelry.com/patterns/library/the-boulevard-blanket">https://www.ravelry.com/patterns/library/the-boulevard-blanket</a>. 
+<br/>
+<b>Level</b> Beginner<br/>
+
+	<b>Sizes:</b>  Baby to 2XL (6sizes)<br/>
+
+	<p><b>Materials</b><br/>
+- superbulky yarn<br/>
+- check pattern for quantities of main colour depending upon size<br/>
+- Needles:  9.0mm x 32 inches<br/>
+- Gauge:  18.5sts/14.5 rows = 4in in garter stitch<br/><br/>
+	
+		<a href="https://www.woolandsilkcoshop.com/search?q=superbulky">Superbulky Yarns - Shop Now </a></p>
+	  
+  <p>  <strong>PROJECT IDEA #7 - Novice Sweater Junior</strong></p>
+<p><img src="/img/project7.jpg"></a>
+
+The Novice Sweater Junior is knit seamlessly from the top down. That means that you will begin by knitting the neckband, then the yoke, then the body, and finally the sleeves. The sweater is knit in stockinette stitch, while the neckband, bottom edge (waist band), and cuffs are knit in rib.
+	<br/>
+
+Purchase pattern by: PetiteKnit on Ravelry.  Excellent beginner project. She used lace weight + fingering + fingering to achieve chunky weight. You can just use a chunky yarn to make the knitting easier. - <a href="https://www.ravelry.com/patterns/library/novice-sweater-junior">https://www.ravelry.com/patterns/library/novice-sweater-junior</a>. 
+<br/>
+<b>Level</b> Advanced beginner<br/>
+
+	<b>Sizes:</b>  1-2yrs to 12-14yrs<br/>
+
+	<b>Materials</b><br/>
+- check pattern for quantities of main colour depending upon size<br/>
+- Needles:  5.5mm & 6.0mm varying lengths for neckline, body, sleeves & cuffs<br/>
+- Gauge:  16sts/21 rows = 4in in stocking stitch<br/><br/>
+	
+<a href="https://www.woolandsilkcoshop.com/search?q=chunky">Novice Sweater Junior Yarn Ideas - Shop Now </a><br /><br />	  
+	  
+	   <p>  <strong>PROJECT IDEA #6 - Kukka Cardigan</strong></p>
+<p><img src="/img/project6.jpg"></a>
+
+The Kukka Cardigan Chunky is a classic open front cardigan. It is cut closely to the body but not tight-ly and, knitted from fluffy yarns, fits wonderfully under a winter jacket. If you work the
+cardigan in a fluffy, light yarn, it is perfect for the transition time in spring and autumn. The Kukka Cardigan Chunky is worked flat top down with raglan increases. The sleeves are worked in rounds with the Magic Loop method, double pointed needles or any other needle system of your choice. The front bands are worked with slip stitches and create the typical “Kukka look” together with the easy to remember rice grain pattern.
+	<br/>
+
+Purchase pattern by: rosa p. on Ravelry.  Worked top down & in the round seamlessly. You can knit it in a chunky yarn, with or without added mohair. Or in a soft chunky like Estelle Drift. - <a href="https://www.ravelry.com/patterns/library/kukka-cardigan-chunky">https://www.ravelry.com/patterns/library/kukka-cardigan-chunky</a>. 
+<br/>
+<b>Level</b> Intermediate (or advanced beginner)<br/>
+
+	<b>Sizes:</b>  XS to 5XL<br/>
+
+	<b>Materials</b><br/>
+- check pattern for quantities of main colour depending upon size (766-1640 yds)<br/>
+- Needles:  6.0mm & 6.5mm varying lengths for neckline, body, sleeves & cuffs<br/>
+- Gauge:  14sts/23 rows = 4in in stocking stitch<br/><br/>
+	
+<a href="https://www.woolandsilkcoshop.com/search?q=chunky">Kukka Yarn Ideas - Shop Now </a><br /><br />
+	  
+	  
+	  
+	  	  <p>  <strong>PROJECT IDEA #5</strong></p>
+<p><img src="/img/project5.jpg"></a>
+
+Orbits is the fourth design in Rachel Illsley's Einaudi Collection – a collection of knitwear patterns inspired by pieces of music written by Ludovico Einaudi. Orbits features stranded colourwork through the majority of the yoke and into the upper body and sleeves, with patterns that capture the mysterious, repetitive yet delicate essence of the music.
+	<br/>
+Purchase pattern on Ravelry - <a href="https://www.ravelry.com/patterns/library/orbits">https://www.ravelry.com/patterns/library/orbits</a>. 
+<br/>
+Worked top down & in the round. Pick 2 colours of beautiful fingering yarn to knit this gorgeous sweater. If you use a tonal fingering for the colourwork it will provide some nice variation.
+<br/>
+<b>Level</b> Intermediate (or advanced beginner)<br/>
+
+	<b>Sizes:</b>  XS to 5XL<br/>
+
+	<b>Materials</b><br/>
+- 2 colours of fingering weight yarn  (only 1 skein of contrast colour for all sizes)<br/>
+- check pattern for quantities of main colour depending upon size<br/>
+- Needles:  2.75mm & 3.25mm varying lengths for neckline, body, sleeves & cuffs<br/>
+- Gauge:  24sts/38 rows = 4in in stocking stitch<br/><br/>
+	
+<a href="https://www.woolandsilkcoshop.com/search?q=fingering">Orbits Yarn Ideas - Shop Now </a><br /><br />
+	  
+	  
+	  <p>  <strong>PROJECT IDEA #4</strong></p>
+<p><a href="https://www.ravelry.com/patterns/library/timbo-vest?utm_campaign=campaign%3A+22-02-06+Project+Idea+%234%2C+Sock+Yarn+sale%2C+Lettlopi+%2861ffdf9cdb5ed0001e3d2fdf%29&utm_medium=email&utm_source=omnisend"><img src="/img/project_idea_4.jpg"></a>
+Another project idea has found us. Winter series.
+
+Timbo Vest (by Gabriella Calderini) The Timbo Vest is a simple yet interesting knit,
+suitable for beginners and fast enough to become your go-to gift project.
+It is worked from top down in an easy broken rib stitch, with a
+stockinette shoulder detail. A free pattern on Ravelry. We are currently working on a sample for in the store. Decided to make the neckline just a few rows instead of the full turtleneck style. Knitted in chunky yarn it will move along quickly for you. I love the idea of it keeping my body warm while allowing my arms to be free. Make it as long or as short as you wish!
+
+<br />
+Free pattern on Ravelry! Worked top down. Is in the round after armhole sections are completed. Make it in 2 colours or one solid. Either will look nice. We have chosen our new Eco Tweed chunky  to knit the sample.<br /><br />
+
+Level - advanced beginner<br /><br />
+Sizes:  XS to XL<br /><br />
+
+Materials<br /><br />
+
+- chunky weight yarn<br />
+- check pattern for quantities depending upon size<br />
+- Needles:  6.5mm in 40, 60 & 80(or 100)cm circular  (all 3 lengths required)<br />
+- Gauge:  15sts/22 rows = 4in in broken rib pattern<br /><br /><br />
+
+<a href="https://www.woolandsilkcoshop.com/search?q=timbo&utm_campaign=campaign%3A+22-02-06+Project+Idea+%234%2C+Sock+Yarn+sale%2C+Lettlopi+%2861ffdf9cdb5ed0001e3d2fdf%29&utm_medium=email&utm_source=omnisend">Timbo Vest Yarn Ideas - Shop Now </a><br /><br />
+	  
+	  <strong>PROJECT IDEA #3</strong>
+<p>This is more of a project idea than a kit. The 3rd in our winter series. Southwood (by Galt House of Yarn) is a unisex pullover. A free pattern on Ravelry. Top down with a few short rows at the back of the neck (pattern says front but we know it's the back!), raglan sleeve increases and a straight body without any waist shaping. I am currently knitting this for my son-in-law in Juniper Moon's Rustic Aran. Colourway: 1009 Bayleaf. If you follow us on Instagram or Facebook you may have seen my knitting updates. It's going pretty fast.
+This is a good first/second pullover pattern for any knitter. I have provided links to the pattern page (click pattern name above or on the photo) and a link to some yarns that I think would make a great sweater for you or the man in your life.
+	  </p>
+<p>
+<a href="https://www.ravelry.com/patterns/library/southwood-2?omnisendContactID=601a057e1971975089db7002&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend"><img src="/img/project_idea_3.jpg"></a>
+A simple top-down raglan pullover in a full range of sizes. Baby (0-6mons) right up to 5X.
+Southwood now includes options for both a plain raglan neckline (great for beginners!) or with added short-row shaping for a more contoured neckline.</p>
+<p>
+Level - advanced beginner<br />
+
+Sizes:  0-6mons up to 5XL<br /><br />
+
+Materials<br />
+- aran or worsted weight yarn<br />
+-  check pattern for quantities<br />
+   depending upon size
+- Needles:  4.0mm x 60cm circular, 5.0mm x 60cm & 80cm, DPN's/30cm circulars in 4.0 & 5.0 for sleeves <br />
+	- Gauge:  18sts/24 rows = 4in in stocking stitch</p><br />
+   <p>
+<a href="https://www.woolandsilkcoshop.com/search?omnisendContactID=601a057e1971975089db7002&q=southwood&utm_campaign=campaign%3A+22-01-30++Project+Idea+%233+%26+Lopi+update+%2861f147d3731b6c001d9823a5%29&utm_medium=email&utm_source=omnisend">
+	Southwood Yarn Ideas - Click Here</a><br /><br /></p>
+
+	  <p><strong>PROJECT IDEA #2 - USONIAN SHAWL</STRONG></p>
+<p><a href="https://www.woolandsilkcoshop.com/products/copy-of-3-colour-baby-hat-kit-2?_pos=5&_sid=783eb15fb&_ss=r&utm_campaign=campaign%3A+22-01-24+February+News+%26+Usonian+Shawl+%2861ef155573e0a6001ff6ae57%29&utm_medium=email&utm_source=omnisend">
+	<img src="/img/project_idea_2.jpg"></a>
+Several visitors to our webpage have commented on the Usonian Shawl. It was featured in our "What are We Knitting Now" section. So we have decided to kit it with colour combinations and the pattern to make it. I think you will enjoy this pattern. Knit now & have it ready to tuck inside your coat for winter/spring walks.
+
+The Usonian is a contemporary striped shawl with a striking combination of textured and lace stitch patterns.The asymmetrical triangular shaping begins with just a few stitches which then flow into striations of eyelets, garter bands, striped ribbing, twisted stitches on reverse stockinette and a woven ribbons lace border.</p>
+
+<p>
+- Level - advanced beginner<br /><br />
+
+Materials<br /><br />
+
+- combinations of fingering weight yarn<br />
+
+-  1 skein of each colour<br />
+
+ Preferably a light & dark for contrast<br />
+
+ - we are offering 7 great colour combinations<br />
+
+- Needle:  3.75mm x 80cm circular & a 4.5mm of some variety for the cast-off <br />
+
+- Gauge:  18sts/4in in stocking stitch<br />
+
+- Usonian pattern<br />
+
+$69.95<br /><br />
+
+<a href="https://www.woolandsilkcoshop.com/products/copy-of-3-colour-baby-hat-kit-2?_pos=5&_sid=783eb15fb&_ss=r&utm_campaign=campaign%3A+22-01-24+February+News+%26+Usonian+Shawl+%2861ef155573e0a6001ff6ae57%29&utm_medium=email&utm_source=omnisend">Usonian Shawl Kit - shop now</a><br /><br /></p>
+
+	  <p>	  <strong>PROJECT IDEA #1 - COLETTE POPOVER TOP</strong></p>
+	  <p><a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?utm_campaign=campaign%3A+Jan+News%2C+Colette+top%2C+envelopes+%2861e596d232749d001c60e4e1%29&utm_medium=email&utm_source=omnisend">
+<img src="/img/project_idea_1.jpg"></a>
+Colette is a boxy pullover vest or popover top. Very trendy right now over a white structured shirt/blouse or a longsleeve top as pictured here. Easy wearing with generous arm openings. You can knit this quickly in our chunky Elegant Tweed yarn.
+	  </p>
+<p>Sizes(finished measurement):<br />
+
+   34 - 62"(8 sizes - XS to 3XL)<br />
+
+   knitted with 3.5-4" of positive ease<br /><br />
+
+Skills (known or to be learned)<br />
+
+- knitting top down<br />
+
+- a few short rows<br />
+
+- Level - advanced beginner<br /><br />
+
+Materials<br /><br />
+
+- Elegant tweed yarn<br />
+
+-  MC: 1-3 balls (depending upon size chosen)<br />
+
+CC:  1 ball - for all sizes<br />
+
+ - can also be knitted in a single colour <br />
+
+- 6.0 mm x 80 cm circular needle<br />
+
+- Colette pattern<br />
+
+$59.95 to $99.95 (size dependant)<br />
+
+<a href="https://www.woolandsilkcoshop.com/products/colette-kit-b?utm_campaign=campaign%3A+Jan+News%2C+Colette+top%2C+envelopes+%2861e596d232749d001c60e4e1%29&utm_medium=email&utm_source=omnisend">Colette Popover Kit - Shop Now</a>
+	  </p><br />
+	  
+
+    <div class="clearfix"></div>
+    <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
+  </div>
+</article>
+
+<article class="right">
+  <h1>Featured Socks</h1>
+  <div class="content whatsnew">
+	  <h2>Sock 1 - Mielle Sock Set</h2>
+<p><img src="/img/2022sock1.jpg"><br />
+This set is a collection of two patterns, shorty (beginner friendly) and classic (more adventurous), using a common honeycomb like stitch and techniques to celebrate your favorite yarns. The pattern includes modification notes to easily change sock style resulting in many options.
+These socks are knit from the top down with a classic heel flap and gusset, rounded heel and toe, and allow for variable foot lengths. The instructions are both written and charted.<br /><br />
+5 sizes: 1 (XS), 2 (S), 3 (M), 4 (L), 5 (XL)<br /><br />
+<a href="https://www.woolandsilkcoshop.com/search?q=sock">Shop Sock Yarns here</a></p>
+	<h2>February</h2>
+	<p> <img src="/img/iheart_socks.jpg">
+  <a href="https://www.ravelry.com/patterns/library/i-heart-socks-2">I Heart Socks by Christopher McGovern</a>
+	  To keep us all in the spirit of Valentines Day, here is a lovely, lacey pair of socks to knit. A few Pink/mauve tonals available in <a href="https://www.woolandsilkcoshop.com/products/sweet-sock">
+	    MidKnit Cravings Sweet Sock</a> - free pattern on Ravelry</p>
+	   <h2>Perfect Newborn Socks by Tabitha Gandee </h2><img src="/img/newborn_socks.jpg">
+      
+<p><a href="https://www.ravelry.com/patterns/library/perfect-newborn-socks">Perfect Newborn Socks by Tabitha Gandee</a>
+  And aren't they just perfect? The design can be just ribbing or cabled version.
+  To do them in an easily washed soft acrylic for the new Mum try <a href="https://www.woolandsilkcoshop.com/products/snuggly-4-ply">Sirdar Snuggly 4-ply</a>
+    Just for newborns!</p>
+<h2> Business Casual </h2><p><img src="/img/business_socks.jpg">
+  <a href="https://www.ravelry.com/patterns/library/business-casual">Business Casual by Tanis Lavalee</a>
+  <p>Giving you an almost faux argyle look. Great in a tonal yarn.</p>
+	  <h2>MidKnit Cravings</h2>
+	  <p>Think <a href="https://www.woolandsilkcoshop.com/products/sweet-sock">MidKnit Cravings Sweet Sock</a> or Indulgence Sock 4-ply 
+	Free pattern on Ravelry</p>
+	  <h2>You Are So Bowtiful</h2><p>  <img src="/img/bowtiful_socks.jpg">
+<a href="https://www.ravelry.com/patterns/library/you-are-so-bowtiful-socks">You Are So Bowtiful by Stitchcraft & Wizardry</a>
+<p>This is our shortie sock with just a hint of design down the side. change the cuff, heel & toe colour or make it all the same. You can usually get 2 pairs from one, 100g ball/skein of yarn. Use your favourite speckle or check out </p>
+	<h2>Huasco Sock</h2><p>  <a href="https://www.woolandsilkcoshop.com/products/husasco-sock">Huasco Sock</a>. Lots of contrast colours in <a href="https://www.woolandsilkcoshop.com/products/copy-of-painted-desert">Teenie Weenie Wool</a> or <a href="https://www.woolandsilkcoshop.com/products/fabel-solids">Fabel Solids</a></p>
+	<h2>Spocket Socks</h2><p>
+	   <img src="/img/sprocket_socks.jpg">
+<a href="https://www.ravelry.com/patterns/library/sprocket-socks">Sprocket Socks by Megan Nodecker</a>
+The very cool Sprocket Socks give each colour of your stripes a special depth. I am thinking all about <a href="https://www.woolandsilkcoshop.com/products/copy-of-painted-desert">Teenie Weenie Wool</a> for these babies!  Go ahead and choose your colours</p>
+	  <h2>A Good Plain Sock</h2>
+<img src="/img/wool_socks.jpg">
+<p>Pattern is Sock Recipe: A Good Plain Sock by Stephanie Pearl McPhee (the Yarn Harlot).</p>
+<p>&nbsp;</p>
+<h2>Rose City Rollers</h2>
+<p><img src="/img/rose_city_rollers.jpg">
+<a href="https://www.ravelry.com/patterns/library/rose-city-rollers?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d"><br>
+Rose City Rollers by Mary Catherine Bryner</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Hermione</h2><p>
+<img src="/img/hermione_socks.jpg">
+<br>
+<a href="https://www.ravelry.com/patterns/library/hermiones-everyday-socks?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d">Hermione's Everyday Socks by Erica Lueder</a> </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Vanilla Latte Socks</h2><p><img src="/img/vanilla_latte_socks.jpg">
+	  <a href="https://www.ravelry.com/patterns/library/vanilla-latte-socks?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d"><br>
+	  Vanilla Latte Socks by Virginia Rose-Jeanes</a> </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h2>Wishbone Socks</h2><p><img src="/img/wishbone_socks.jpg">
+<a href="https://www.ravelry.com/patterns/library/wishbone-socks-7?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d">Wishbone Socks by Leeanne Lange</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h2>Rye Socks</h2><p>  <img src="/img/rye_socks.jpg">
+<a href="https://www.ravelry.com/patterns/library/rye-4?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d"><br>
+Rye  by tincanknits</a></p>
+<p>&nbsp;</p>
+
+  <h2>Pine Tree Socks</h2><p><img src="/img/pinetree_socks.jpg">
+    <br>
+    <a href="https://www.ravelry.com/patterns/library/pine-tree-socks-4?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d">Pine Tree Socks by L'oro Unico</a></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+<h2>Skew</h2>
+<p> <img src="/img/skew_socks.jpg">
+<a href="https://www.ravelry.com/patterns/library/skew?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d"> <br>
+Skew by Lana Holden</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Itty Bitty Weenie Socks</h2>
+<p> <img src="/img/ittybitty_socks.jpg">
+	  <br>
+	  <a href="https://www.ravelry.com/patterns/library/itty-bitty-teeny-weeny-socks?mc_cid=3e8d8cac72&mc_eid=5dbcc3b01d">Itty Bitty Teeny Weenie Socks by Tracy Henwood</a></p>
+<p>&nbsp;</p>
+     <h2>November</h2>
+    <a href="https://www.ravelry.com/patterns/library/wishbone-socks-7">
+      <img src="http://woolandsilkco.com/img/octsocks.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Wishbone Socks by Leeanne Lange</span></h4>
+    </a>
+     <h2>July</h2>
+    <a href="https://www.ravelry.com/patterns/library/day-off-socks">
+      <img src="http://woolandsilkco.com/img/socks_july.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Day Off Socks</span></h4>
+    </a>
+    <h2>June</h2>
+    <a href="https://www.ravelry.com/patterns/library/the-grocery-girls-sock">
+      <img src="http://woolandsilkco.com/img/grocerygirl.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Grocery Girls Socks</span></h4>
+    </a>
+       <h2>May</h2>
+    <a href="https://www.ravelry.com/patterns/library/skipping-rocks ">
+      <img src="http://woolandsilkco.com/img/socks/socksrocks.jpg" alt="">
+      <h4 class="clearfix"><span class="bold">Skipping Rocks</span> by Lori Wagner</h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/library/winter-of-remembrance-socks-2">
+      <img src="http://woolandsilkco.com/img/socks/may2.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Winter of Remembrance</span> by Annette Derksen</h4>
+    </a>
+    <h2>April</h2>
+    <a href="http://www.ravelry.com/patterns/library/y-535">
+      <img src="http://woolandsilkco.com/img/socks/april1.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Y?</span> by Bridgett Landry</h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/libraryflying-geese-socks/">
+      <img src="http://woolandsilkco.com/img/socks/april2.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Flying Geese Socks</span> by Yarn &amp; Tacos</h4>
+    </a>
+    <h2>March</h2>
+    <a href="http://www.ravelry.com/patterns/library/galloway-2">
+      <img src="http://woolandsilkco.com/img/socks/march1.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Galloway</span> by Dana Gervais</h4>
+    </a>
+    <a href="http://www.ravelry.com/patterns/library/wraptor-2">
+      <img src="http://woolandsilkco.com/img/socks/march2.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Wraptor Socks</span> by Jeny Staiman</h4>
+    </a>
+    <h2>February</h2>
+    <a href="https://www.ravelry.com/patterns/library/valentina-23">
+      <img src="http://woolandsilkco.github.io/img/valentina_socks.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Valentina</span> by Angelika Grinberg</h4>
+    </a>
+     <a href="https://www.ravelry.com/patterns/library/indecision-5">
+      <img src="http://woolandsilkco.github.io/img/indecisionsocks.jpg" alt=""></a>
+      <h4 class="clearfix"><span class="bold">Indecision Socks</span> by Jennifer Ross</h4>
+    </a>
+
+</div>
+</article>
+ <div class="content clearfix">
+   <article class="left">
+   <h1>What We're Knitting/Crocheting</h1>
+  <div class="content featured clearfix">
+    <br /> <br />
+     <a href="https://www.ravelry.com/patterns/library/let-go">
+       <h3 align="center"></h3>
+       <div align="center"></div>
+    
+      <ul>
+        
+     </ul>
+         <hr>
+      
+       <h3 align="center"></h3>
+       <div align="center"></div>
+          <ul>
+      
+     </ul>
+       </div>
+       <a href="http://woolandsilkco.com/projects" class="all">Click Here to See Previous Projects</a>
+</article>
+  </div>
+
