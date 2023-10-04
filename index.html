@@ -26,6 +26,31 @@ layout: master
 	  </div>
 	</div>
 	</article>
+
+<article class="right">
+  <h1>News</h1>
+  <div class="content padded">
+    {% assign post1 = true %}
+    {% assign post2 = true %}
+    {% assign display = true %}
+    {% for post in site.posts %}
+      {% if post.type == "news" and display == true %}
+        {% if post1 == true %}
+          {% assign post1 = false %}
+        {% elsif post2 == true %}
+          {% assign post2 = false %}
+        {% endif %}
+        {% if post1 == false and post2 == false %}
+          {% assign display = false %}
+        {% endif%}
+        <h3>{{ post.title }}</h3>
+        <div class="preview">{{ post.content | truncatewords: 30 }}</div><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+      {% endif %}
+    {% endfor %}
+    <a href="http://woolandsilkco.com/news/" class="all">Click Here to See All News Items</a>
+	  </div>
+ </article>
+
  <article class="left">
   <h1>What's News Right Now</h1>
  <div class="content padded">
